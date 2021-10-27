@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-Jonathan is an experienced IT consultant with 9+ years of experience. Jonathan has a deep understanding of the Oracle Fusion Middleware stack, hands-on experience and years of experience in design, development, support of large-scale projects.
+I'm an experienced IT consultant with 9+ years of experience. I have a deep understanding of the Oracle Fusion Middleware stack, hands-on experience and years of experience in design, development, support of large-scale projects.
 
-Jonathan started his IT journey in his teens by fixing computers for family and friends. During high school, he served as Technical Director for a financial advisor's office. Jonathan continued his journey by attending Iowa State University where he graduated in three years with a B.S. in Management Information Systems. After college, Jonathan started working with Oracle WebCenter Content.
+I started my IT journey in my teens by fixing computers for family and friends. During high school, I served as Technical Director for a financial advisor's office. I continued my journey by attending [Iowa State University](iastate.edu) where I graduated in three years with a B.S. in Management Information Systems. After college, I started working with Oracle WebCenter Content.
 
-Jonathan is globally recognized within the WebCenter Content community. He has worked with clients around the world to help them solve their business problems. Jonathan has worked with clients in a wide variety of industries (finance, tech, non-profit, transportation, education, retail), worked on large and small projects (from small businesses to Fortune 100 companies and U.S. Federal Government agencies) and in varying capacities (from developer to project lead).
+I am globally recognized within the WebCenter Content community. I have worked with clients around the world to help them solve their business problems. I have worked with clients in a wide variety of industries (finance, tech, non-profit, transportation, education, retail), worked on large and small projects (from small businesses to Fortune 100 companies and U.S. Federal Government agencies) and in varying capacities (from developer to project lead).
 
-After coming to Mythics, Jonathan progressed from a technical consultant to a Technical Director. Today, Jonathan’s primary goal is to manage technical innovations which internally benefit Mythics as well as our clients. Jonathan maintains a personal and technical blog at JonathanHult.com. He also shares his Oracle expertise on the Mythics blog. He is active on Internet forums where he enjoys mentoring others. Jonathan has presented at COLLABORATE, Oracle OpenWorld, tech days and other events.
+After coming to [Mythics](https://www.mythics.com/), I progressed from a technical consultant to a Technical Director. Today, my primary goal is to manage technical innovations which internally benefit Mythics as well as our clients. I maintain a personal and technical blog at [JonathanHult.com](https://jonathanhult.com). I also share my Oracle expertise on the [Mythics blog](https://www.mythics.com/about/blog/). I am active on Internet forums where I enjoy mentoring others. I have presented at COLLABORATE, Oracle OpenWorld, tech days and other events.
 
-Outside of his daily work, Jonathan enjoys disc golf, bowling, snow skiing, board and video games, watching movies/TV and rock music/concerts. He can play multiple instruments including piano, trumpet, and guitar. He loves Jesus and worships Him at The Austin Stone Community Church.
+Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and video games, watching movies/TV and rock music/concerts. I can play multiple instruments including piano, trumpet, and guitar. I love Jesus and worships Him at [The Austin Stone Community Church](https://austinstone.org/).
 
 #### 👷 Check out what I'm currently working on
 
@@ -47,6 +47,7 @@ Outside of his daily work, Jonathan enjoys disc golf, bowling, snow skiing, boar
 - [Add MIT license](https://github.com/mrumkovskis/tresql/pull/40) on [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) (1 month ago)
 - [SQL Sync typo - Oracle - &#34;form&#34; to &#34;from&#34;](https://github.com/dolthub/docs/pull/201) on [dolthub/docs](https://github.com/dolthub/docs) (1 month ago)
 - [Fix README typo - dolt.gitbook.com -&gt; dolt.gitbook.io](https://github.com/dolthub/docs/pull/200) on [dolthub/docs](https://github.com/dolthub/docs) (1 month ago)
+- [Add MIT license](https://github.com/Mause/duckdb_engine/pull/155) on [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) (1 month ago)
 
 #### ⭐ Recent Stars
 
@@ -61,11 +62,9 @@ Outside of his daily work, Jonathan enjoys disc golf, bowling, snow skiing, boar
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (today)
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs (today)
 
-#### 💬 Feedback
+#### 📫 How to reach me
 
 Say Hello, I don't bite!
-
-#### 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/jonathanhult)
 
