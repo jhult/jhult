@@ -25,9 +25,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.3.12](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.3.12), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.6](https://github.com/go-gitea/gitea/releases/tag/v1.15.6), today) - Git with a cup of tea, painless self-hosted git service
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.49.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.49.0), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.3.11](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.3.11), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.alpha11](https://github.com/vaadin/flow/releases/tag/9.0.0.alpha11), 1 week ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.3](https://github.com/tellery/tellery/releases/tag/0.8.3), 1 week ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.16.1](https://github.com/tailscale/tailscale/releases/tag/v1.16.1), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
