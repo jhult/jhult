@@ -32,9 +32,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.3](https://github.com/tellery/tellery/releases/tag/0.8.3), 1 week ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.16.1](https://github.com/tailscale/tailscale/releases/tag/v1.16.1), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.58.14](https://github.com/aquasecurity/tfsec/releases/tag/v0.58.14), 3 weeks ago) - Security scanner for your Terraform code
-- [getredash/redash](https://github.com/getredash/redash) ([v10.0.0](https://github.com/getredash/redash/releases/tag/v10.0.0), 3 weeks ago) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.2.0](https://github.com/jhaals/yopass/releases/tag/11.2.0), 1 month ago) - Secure sharing for secrets, passwords and files 
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.10.2](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.10.2), 2 months ago) - Maven plugin for ktlint the Kotlin linter
+- [agenda/agenda](https://github.com/agenda/agenda) ([v4.2.1](https://github.com/agenda/agenda/releases/tag/v4.2.1), 2 months ago) - Lightweight job scheduling for Node.js
 
 #### 🔨 My recent Pull Requests
 
