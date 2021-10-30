@@ -18,18 +18,18 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (1 week ago)
 - [dolthub/docs](https://github.com/dolthub/docs) -  (1 month ago)
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) -  (1 month ago)
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code (1 month ago)
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code (2 months ago)
 - [tellery/tellery](https://github.com/tellery/tellery) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool. (3 months ago)
 - [ngynkvn/ttyplay](https://github.com/ngynkvn/ttyplay) - ttyrec player (3 months ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.16.2](https://github.com/tailscale/tailscale/releases/tag/v1.16.2), today) - The easiest, most secure way to use WireGuard and 2FA.
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.beta1](https://github.com/vaadin/flow/releases/tag/9.0.0.beta1), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.3.12](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.3.12), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.6](https://github.com/go-gitea/gitea/releases/tag/v1.15.6), 1 day ago) - Git with a cup of tea, painless self-hosted git service
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.49.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.49.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.16.2](https://github.com/tailscale/tailscale/releases/tag/v1.16.2), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.beta1](https://github.com/vaadin/flow/releases/tag/9.0.0.beta1), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.3.12](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.3.12), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.6](https://github.com/go-gitea/gitea/releases/tag/v1.15.6), 2 days ago) - Git with a cup of tea, painless self-hosted git service
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.49.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.49.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.3](https://github.com/tellery/tellery/releases/tag/0.8.3), 1 week ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.58.14](https://github.com/aquasecurity/tfsec/releases/tag/v0.58.14), 3 weeks ago) - Security scanner for your Terraform code
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.2.0](https://github.com/jhaals/yopass/releases/tag/11.2.0), 1 month ago) - Secure sharing for secrets, passwords and files 
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [gatblau/onix](https://github.com/gatblau/onix) - A reactive configuration manager designed to support Infrastructure as a Code provisioning, and bi-directional configuration management providing a single source of truth across multi-cloud environments. (1 day ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 days ago)
-- [turbot/steampipe-mod-oci-compliance](https://github.com/turbot/steampipe-mod-oci-compliance) - Run individual configuration, compliance and security controls or full compliance benchmarks for CIS across all of your Oracle Cloud Infrastructure accounts using Steampipe. (2 days ago)
-- [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform (2 days ago)
-- [samsquire/mazzle](https://github.com/samsquire/mazzle) - run server for building large and complicated consistent environments http://devops-pipeline.com (2 days ago)
-- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command. (2 days ago)
-- [Hextris/hextris](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game inspired by Tetris! (2 days ago)
-- [nymanjens/quizmaster](https://github.com/nymanjens/quizmaster) - A web-app for conducting a quiz over the internet (2 days ago)
-- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (2 days ago)
+- [gatblau/onix](https://github.com/gatblau/onix) - A reactive configuration manager designed to support Infrastructure as a Code provisioning, and bi-directional configuration management providing a single source of truth across multi-cloud environments. (2 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 days ago)
+- [turbot/steampipe-mod-oci-compliance](https://github.com/turbot/steampipe-mod-oci-compliance) - Run individual configuration, compliance and security controls or full compliance benchmarks for CIS across all of your Oracle Cloud Infrastructure accounts using Steampipe. (3 days ago)
+- [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform (3 days ago)
+- [samsquire/mazzle](https://github.com/samsquire/mazzle) - run server for building large and complicated consistent environments http://devops-pipeline.com (3 days ago)
+- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command. (3 days ago)
+- [Hextris/hextris](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game inspired by Tetris! (3 days ago)
+- [nymanjens/quizmaster](https://github.com/nymanjens/quizmaster) - A web-app for conducting a quiz over the internet (3 days ago)
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (3 days ago)
 
 #### 📫 How to reach me
 
