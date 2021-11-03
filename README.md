@@ -12,9 +12,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (today)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (1 week ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (2 weeks ago)
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (2 weeks ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (2 weeks ago)
 - [dolthub/docs](https://github.com/dolthub/docs) -  (1 month ago)
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) -  (1 month ago)
