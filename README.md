@@ -12,29 +12,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (3 days ago)
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (4 days ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (2 weeks ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (2 weeks ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (2 weeks ago)
 - [dolthub/docs](https://github.com/dolthub/docs) -  (1 month ago)
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) -  (1 month ago)
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) -  (2 months ago)
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code (2 months ago)
 - [tellery/tellery](https://github.com/tellery/tellery) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool. (3 months ago)
 - [ngynkvn/ttyplay](https://github.com/ngynkvn/ttyplay) - ttyrec player (3 months ago)
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (3 months ago)
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 3 days ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.58.15](https://github.com/aquasecurity/tfsec/releases/tag/v0.58.15), 3 days ago) - Security scanner for your Terraform code
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.49.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.49.1), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.beta2](https://github.com/vaadin/flow/releases/tag/9.0.0.beta2), 4 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 4 days ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.58.15](https://github.com/aquasecurity/tfsec/releases/tag/v0.58.15), 4 days ago) - Security scanner for your Terraform code
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.49.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.49.1), 5 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.beta2](https://github.com/vaadin/flow/releases/tag/9.0.0.beta2), 5 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.16.2](https://github.com/tailscale/tailscale/releases/tag/v1.16.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.3.12](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.3.12), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.6](https://github.com/go-gitea/gitea/releases/tag/v1.15.6), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.2.0](https://github.com/jhaals/yopass/releases/tag/11.2.0), 1 month ago) - Secure sharing for secrets, passwords and files 
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.10.2](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.10.2), 2 months ago) - Maven plugin for ktlint the Kotlin linter
-- [agenda/agenda](https://github.com/agenda/agenda) ([v4.2.1](https://github.com/agenda/agenda/releases/tag/v4.2.1), 2 months ago) - Lightweight job scheduling for Node.js
+- [agenda/agenda](https://github.com/agenda/agenda) ([v4.2.1](https://github.com/agenda/agenda/releases/tag/v4.2.1), 3 months ago) - Lightweight job scheduling for Node.js
 
 #### 🔨 My recent Pull Requests
 
@@ -51,14 +51,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py) - Python Client for Supabase (1 day ago)
-- [EasyLegalDocs/legal-templates](https://github.com/EasyLegalDocs/legal-templates) - This repository was created to serve as a backup of all the legal documents &amp; templates provided by EasyLegalDocs.com. (1 day ago)
-- [freelawproject/x-ray](https://github.com/freelawproject/x-ray) - A tool to detect whether a PDF has a bad redaction (1 day ago)
-- [freelawproject/disclosure-extractor](https://github.com/freelawproject/disclosure-extractor) - A financial disclosure data extraction tool. (1 day ago)
-- [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects (2 days ago)
-- [vascarpenter/ConvertSql](https://github.com/vascarpenter/ConvertSql) - convert MySQL SQL dump (from TablePlus) into Oracle SQL (SQLdeveloper-compliant)  and print it to standard output. (2 days ago)
-- [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser! (3 days ago)
-- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (3 days ago)
+- [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py) - Python Client for Supabase (2 days ago)
+- [EasyLegalDocs/legal-templates](https://github.com/EasyLegalDocs/legal-templates) - This repository was created to serve as a backup of all the legal documents &amp; templates provided by EasyLegalDocs.com. (2 days ago)
+- [freelawproject/x-ray](https://github.com/freelawproject/x-ray) - A tool to detect whether a PDF has a bad redaction (2 days ago)
+- [freelawproject/disclosure-extractor](https://github.com/freelawproject/disclosure-extractor) - A financial disclosure data extraction tool. (2 days ago)
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects (3 days ago)
+- [vascarpenter/ConvertSql](https://github.com/vascarpenter/ConvertSql) - convert MySQL SQL dump (from TablePlus) into Oracle SQL (SQLdeveloper-compliant)  and print it to standard output. (3 days ago)
+- [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser! (4 days ago)
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (4 days ago)
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge. (1 week ago)
 - [gatblau/onix](https://github.com/gatblau/onix) - A reactive configuration manager designed to support Infrastructure as a Code provisioning, and bi-directional configuration management providing a single source of truth across multi-cloud environments. (1 week ago)
 
