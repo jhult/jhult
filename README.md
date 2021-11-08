@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([2.7.3](https://github.com/vaadin/flow/releases/tag/2.7.3), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([8.0.4](https://github.com/vaadin/flow/releases/tag/8.0.4), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 5 days ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.58.15](https://github.com/aquasecurity/tfsec/releases/tag/v0.58.15), 5 days ago) - Security scanner for your Terraform code
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.49.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.49.1), 6 days ago) - Oracle Cloud Infrastructure SDK for Python
