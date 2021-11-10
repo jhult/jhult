@@ -12,9 +12,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (6 days ago)
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (1 week ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (2 weeks ago)
-- [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (2 weeks ago)
+- [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (3 weeks ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (3 weeks ago)
 - [dolthub/docs](https://github.com/dolthub/docs) -  (1 month ago)
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) -  (2 months ago)
@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.50.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.50.0), today) - Oracle Cloud Infrastructure SDK for Python
-- [vaadin/flow](https://github.com/vaadin/flow) ([8.0.4](https://github.com/vaadin/flow/releases/tag/8.0.4), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 6 days ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.58.15](https://github.com/aquasecurity/tfsec/releases/tag/v0.58.15), 6 days ago) - Security scanner for your Terraform code
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.50.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.50.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
+- [vaadin/flow](https://github.com/vaadin/flow) ([8.0.4](https://github.com/vaadin/flow/releases/tag/8.0.4), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 1 week ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.58.15](https://github.com/aquasecurity/tfsec/releases/tag/v0.58.15), 1 week ago) - Security scanner for your Terraform code
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.16.2](https://github.com/tailscale/tailscale/releases/tag/v1.16.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.3.12](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.3.12), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.6](https://github.com/go-gitea/gitea/releases/tag/v1.15.6), 1 week ago) - Git with a cup of tea, painless self-hosted git service
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [kemitchell/stonecutters](https://github.com/kemitchell/stonecutters) -  (1 day ago)
-- [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS — (2 days ago)
-- [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py) - Python Client for Supabase (4 days ago)
-- [EasyLegalDocs/legal-templates](https://github.com/EasyLegalDocs/legal-templates) - This repository was created to serve as a backup of all the legal documents &amp; templates provided by EasyLegalDocs.com. (4 days ago)
-- [freelawproject/x-ray](https://github.com/freelawproject/x-ray) - A tool to detect whether a PDF has a bad redaction (4 days ago)
-- [freelawproject/disclosure-extractor](https://github.com/freelawproject/disclosure-extractor) - A financial disclosure data extraction tool. (4 days ago)
-- [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects (5 days ago)
-- [vascarpenter/ConvertSql](https://github.com/vascarpenter/ConvertSql) - convert MySQL SQL dump (from TablePlus) into Oracle SQL (SQLdeveloper-compliant)  and print it to standard output. (5 days ago)
-- [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser! (6 days ago)
-- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (6 days ago)
+- [kemitchell/stonecutters](https://github.com/kemitchell/stonecutters) -  (2 days ago)
+- [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS — (3 days ago)
+- [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py) - Python Client for Supabase (5 days ago)
+- [EasyLegalDocs/legal-templates](https://github.com/EasyLegalDocs/legal-templates) - This repository was created to serve as a backup of all the legal documents &amp; templates provided by EasyLegalDocs.com. (5 days ago)
+- [freelawproject/x-ray](https://github.com/freelawproject/x-ray) - A tool to detect whether a PDF has a bad redaction (5 days ago)
+- [freelawproject/disclosure-extractor](https://github.com/freelawproject/disclosure-extractor) - A financial disclosure data extraction tool. (5 days ago)
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects (6 days ago)
+- [vascarpenter/ConvertSql](https://github.com/vascarpenter/ConvertSql) - convert MySQL SQL dump (from TablePlus) into Oracle SQL (SQLdeveloper-compliant)  and print it to standard output. (6 days ago)
+- [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser! (1 week ago)
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (1 week ago)
 
 #### 📫 How to reach me
 
