@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [ehmad11/netsuite-rest](https://github.com/ehmad11/netsuite-rest) - Make requests to NetSuite REST Web Services. (today)
 - [kemitchell/stonecutters](https://github.com/kemitchell/stonecutters) -  (2 days ago)
 - [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS — (3 days ago)
 - [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py) - Python Client for Supabase (5 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects (6 days ago)
 - [vascarpenter/ConvertSql](https://github.com/vascarpenter/ConvertSql) - convert MySQL SQL dump (from TablePlus) into Oracle SQL (SQLdeveloper-compliant)  and print it to standard output. (6 days ago)
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser! (1 week ago)
-- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (1 week ago)
 
 #### 📫 How to reach me
 
