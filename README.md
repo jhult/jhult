@@ -58,7 +58,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [EasyLegalDocs/legal-templates](https://github.com/EasyLegalDocs/legal-templates) - This repository was created to serve as a backup of all the legal documents &amp; templates provided by EasyLegalDocs.com. (5 days ago)
 - [freelawproject/x-ray](https://github.com/freelawproject/x-ray) - A tool to detect whether a PDF has a bad redaction (5 days ago)
 - [freelawproject/disclosure-extractor](https://github.com/freelawproject/disclosure-extractor) - A financial disclosure data extraction tool. (5 days ago)
-- [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects (6 days ago)
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era (6 days ago)
 - [vascarpenter/ConvertSql](https://github.com/vascarpenter/ConvertSql) - convert MySQL SQL dump (from TablePlus) into Oracle SQL (SQLdeveloper-compliant)  and print it to standard output. (6 days ago)
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser! (1 week ago)
 
