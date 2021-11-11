@@ -16,12 +16,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (3 weeks ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (3 weeks ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (3 weeks ago)
+- [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) - Shorthand SQL/JDBC wrapper language, providing nested results as JSON and more (1 month ago)
 - [dolthub/docs](https://github.com/dolthub/docs) -  (1 month ago)
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) -  (2 months ago)
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code (2 months ago)
 - [tellery/tellery](https://github.com/tellery/tellery) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool. (3 months ago)
 - [ngynkvn/ttyplay](https://github.com/ngynkvn/ttyplay) - ttyrec player (3 months ago)
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
