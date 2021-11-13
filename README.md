@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.0](https://github.com/jhaals/yopass/releases/tag/11.3.0), today) - Secure sharing for secrets, passwords and files 
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.beta4](https://github.com/vaadin/flow/releases/tag/9.0.0.beta4), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.59.0](https://github.com/aquasecurity/tfsec/releases/tag/v0.59.0), 2 days ago) - Security scanner for your Terraform code
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.50.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.50.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.0](https://github.com/jhaals/yopass/releases/tag/11.3.0), 1 day ago) - Secure sharing for secrets, passwords and files 
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.beta4](https://github.com/vaadin/flow/releases/tag/9.0.0.beta4), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.59.0](https://github.com/aquasecurity/tfsec/releases/tag/v0.59.0), 3 days ago) - Security scanner for your Terraform code
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.50.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.50.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 1 week ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.16.2](https://github.com/tailscale/tailscale/releases/tag/v1.16.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.3.12](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.3.12), 2 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -51,12 +51,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (today)
-- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware in order to maximally leverage the power of language safety, and thus shift OS responsibilities (resource management) into the compiler. (today)
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (1 day ago)
-- [ehmad11/netsuite-rest](https://github.com/ehmad11/netsuite-rest) - Make requests to NetSuite REST Web Services. (2 days ago)
-- [kemitchell/stonecutters](https://github.com/kemitchell/stonecutters) -  (4 days ago)
-- [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS — (5 days ago)
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (1 day ago)
+- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware in order to maximally leverage the power of language safety, and thus shift OS responsibilities (resource management) into the compiler. (1 day ago)
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (2 days ago)
+- [ehmad11/netsuite-rest](https://github.com/ehmad11/netsuite-rest) - Make requests to NetSuite REST Web Services. (3 days ago)
+- [kemitchell/stonecutters](https://github.com/kemitchell/stonecutters) -  (5 days ago)
+- [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS — (6 days ago)
 - [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py) - Python Client for Supabase (1 week ago)
 - [EasyLegalDocs/legal-templates](https://github.com/EasyLegalDocs/legal-templates) - This repository was created to serve as a backup of all the legal documents &amp; templates provided by EasyLegalDocs.com. (1 week ago)
 - [freelawproject/x-ray](https://github.com/freelawproject/x-ray) - A tool to detect whether a PDF has a bad redaction (1 week ago)
