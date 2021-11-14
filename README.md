@@ -17,7 +17,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (3 weeks ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (3 weeks ago)
 - [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) - Shorthand SQL/JDBC wrapper language, providing nested results as JSON and more (1 month ago)
-- [dolthub/docs](https://github.com/dolthub/docs) -  (1 month ago)
+- [dolthub/docs](https://github.com/dolthub/docs) -  (2 months ago)
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) -  (2 months ago)
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code (2 months ago)
 - [tellery/tellery](https://github.com/tellery/tellery) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool. (3 months ago)
@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.0](https://github.com/jhaals/yopass/releases/tag/11.3.0), 1 day ago) - Secure sharing for secrets, passwords and files 
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.beta4](https://github.com/vaadin/flow/releases/tag/9.0.0.beta4), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.59.0](https://github.com/aquasecurity/tfsec/releases/tag/v0.59.0), 3 days ago) - Security scanner for your Terraform code
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.50.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.50.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.0](https://github.com/jhaals/yopass/releases/tag/11.3.0), 2 days ago) - Secure sharing for secrets, passwords and files 
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.beta4](https://github.com/vaadin/flow/releases/tag/9.0.0.beta4), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.59.0](https://github.com/aquasecurity/tfsec/releases/tag/v0.59.0), 4 days ago) - Security scanner for your Terraform code
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.50.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.50.0), 5 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 1 week ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.16.2](https://github.com/tailscale/tailscale/releases/tag/v1.16.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.3.12](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.3.12), 2 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -45,18 +45,18 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [usage2adw - remove prd_resource from OCI_COST](https://github.com/oracle/oci-python-sdk/pull/389) on [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) (1 month ago)
 - [Fix variable names - use-existing-groups-when-using-pre-config case](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart/pull/32) on [oracle-quickstart/oci-cis-landingzone-quickstart](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart) (1 month ago)
 - [Add MIT license](https://github.com/mrumkovskis/tresql/pull/40) on [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) (1 month ago)
-- [SQL Sync typo - Oracle - &#34;form&#34; to &#34;from&#34;](https://github.com/dolthub/docs/pull/201) on [dolthub/docs](https://github.com/dolthub/docs) (1 month ago)
-- [Fix README typo - dolt.gitbook.com -&gt; dolt.gitbook.io](https://github.com/dolthub/docs/pull/200) on [dolthub/docs](https://github.com/dolthub/docs) (1 month ago)
+- [SQL Sync typo - Oracle - &#34;form&#34; to &#34;from&#34;](https://github.com/dolthub/docs/pull/201) on [dolthub/docs](https://github.com/dolthub/docs) (2 months ago)
+- [Fix README typo - dolt.gitbook.com -&gt; dolt.gitbook.io](https://github.com/dolthub/docs/pull/200) on [dolthub/docs](https://github.com/dolthub/docs) (2 months ago)
 - [Add MIT license](https://github.com/Mause/duckdb_engine/pull/155) on [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (1 day ago)
-- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware in order to maximally leverage the power of language safety, and thus shift OS responsibilities (resource management) into the compiler. (1 day ago)
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (2 days ago)
-- [ehmad11/netsuite-rest](https://github.com/ehmad11/netsuite-rest) - Make requests to NetSuite REST Web Services. (3 days ago)
-- [kemitchell/stonecutters](https://github.com/kemitchell/stonecutters) -  (5 days ago)
-- [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS — (6 days ago)
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (2 days ago)
+- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware in order to maximally leverage the power of language safety, and thus shift OS responsibilities (resource management) into the compiler. (2 days ago)
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (3 days ago)
+- [ehmad11/netsuite-rest](https://github.com/ehmad11/netsuite-rest) - Make requests to NetSuite REST Web Services. (4 days ago)
+- [kemitchell/stonecutters](https://github.com/kemitchell/stonecutters) -  (6 days ago)
+- [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS — (1 week ago)
 - [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py) - Python Client for Supabase (1 week ago)
 - [EasyLegalDocs/legal-templates](https://github.com/EasyLegalDocs/legal-templates) - This repository was created to serve as a backup of all the legal documents &amp; templates provided by EasyLegalDocs.com. (1 week ago)
 - [freelawproject/x-ray](https://github.com/freelawproject/x-ray) - A tool to detect whether a PDF has a bad redaction (1 week ago)
