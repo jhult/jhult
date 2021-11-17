@@ -12,9 +12,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (1 week ago)
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (2 weeks ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (3 weeks ago)
-- [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (3 weeks ago)
+- [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (4 weeks ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (4 weeks ago)
 - [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) - Shorthand SQL/JDBC wrapper language, providing nested results as JSON and more (1 month ago)
 - [dolthub/docs](https://github.com/dolthub/docs) -  (2 months ago)
@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.0](https://github.com/jhaals/yopass/releases/tag/11.3.0), 4 days ago) - Secure sharing for secrets, passwords and files 
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.beta4](https://github.com/vaadin/flow/releases/tag/9.0.0.beta4), 5 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.59.0](https://github.com/aquasecurity/tfsec/releases/tag/v0.59.0), 6 days ago) - Security scanner for your Terraform code
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.0](https://github.com/jhaals/yopass/releases/tag/11.3.0), 5 days ago) - Secure sharing for secrets, passwords and files 
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.beta4](https://github.com/vaadin/flow/releases/tag/9.0.0.beta4), 6 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.59.0](https://github.com/aquasecurity/tfsec/releases/tag/v0.59.0), 1 week ago) - Security scanner for your Terraform code
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.50.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.50.0), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
-- [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 1 week ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
+- [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 2 weeks ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.16.2](https://github.com/tailscale/tailscale/releases/tag/v1.16.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.3.12](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.3.12), 2 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.6](https://github.com/go-gitea/gitea/releases/tag/v1.15.6), 2 weeks ago) - Git with a cup of tea, painless self-hosted git service
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 day ago)
-- [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM. (1 day ago)
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (1 day ago)
-- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust. (1 day ago)
-- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (1 day ago)
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output (1 day ago)
-- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (1 day ago)
-- [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust  inspired by Ansible syntax (1 day ago)
-- [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust (1 day ago)
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (4 days ago)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 days ago)
+- [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM. (2 days ago)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (2 days ago)
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust. (2 days ago)
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (2 days ago)
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output (2 days ago)
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (2 days ago)
+- [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust  inspired by Ansible syntax (2 days ago)
+- [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust (2 days ago)
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (5 days ago)
 
 #### 📫 How to reach me
 
