@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification (today)
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI (today)
 - [tiangolo/dockerswarm.rocks](https://github.com/tiangolo/dockerswarm.rocks) - Docker Swarm mode rocks! Ideas, tools and recipes. Get a production-ready, distributed, HTTPS served, cluster in minutes, not weeks. (today)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (2 days ago)
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output (2 days ago)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (2 days ago)
-- [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust  inspired by Ansible syntax (2 days ago)
 
 #### 📫 How to reach me
 
