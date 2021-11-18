@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.0](https://github.com/tailscale/tailscale/releases/tag/v1.18.0), today) - The easiest, most secure way to use WireGuard and 2FA.
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.51.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.51.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.0](https://github.com/jhaals/yopass/releases/tag/11.3.0), 6 days ago) - Secure sharing for secrets, passwords and files 
 - [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.beta4](https://github.com/vaadin/flow/releases/tag/9.0.0.beta4), 1 week ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.59.0](https://github.com/aquasecurity/tfsec/releases/tag/v0.59.0), 1 week ago) - Security scanner for your Terraform code
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 2 weeks ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.16.2](https://github.com/tailscale/tailscale/releases/tag/v1.16.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.3.12](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.3.12), 3 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.6](https://github.com/go-gitea/gitea/releases/tag/v1.15.6), 3 weeks ago) - Git with a cup of tea, painless self-hosted git service
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.10.2](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.10.2), 2 months ago) - Maven plugin for ktlint the Kotlin linter
