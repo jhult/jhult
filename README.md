@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq) (today)
+- [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org (today)
 - [DevTomek-pl/Search-Text-Plugin-for-Notable](https://github.com/DevTomek-pl/Search-Text-Plugin-for-Notable) - Simple JS script for the Notable application that allows you to find a search phrase in the current document (1 day ago)
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾 (1 day ago)
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification (1 day ago)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (3 days ago)
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM. (3 days ago)
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (3 days ago)
-- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust. (3 days ago)
-- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (3 days ago)
 
 #### 📫 How to reach me
 
