@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Tencent/bk-cmdb](https://github.com/Tencent/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB) (today)
 - [oraclesean/docker-oracle](https://github.com/oraclesean/docker-oracle) - Repository of Docker builds for Oracle databases. (today)
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal. (1 day ago)
 - [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (2 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾 (4 days ago)
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification (4 days ago)
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI (4 days ago)
-- [tiangolo/dockerswarm.rocks](https://github.com/tiangolo/dockerswarm.rocks) - Docker Swarm mode rocks! Ideas, tools and recipes. Get a production-ready, distributed, HTTPS served, cluster in minutes, not weeks. (4 days ago)
 
 #### 📫 How to reach me
 
