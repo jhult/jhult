@@ -38,6 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (today)
 - [client - default_character_set - use DB_DEFAULT_CHARACTER_SET](https://github.com/bitnami/bitnami-docker-mariadb/pull/254) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (today)
 - [Docs: fix Configuration &#34;kind&#34;](https://github.com/weaveworks/ignite/pull/877) on [weaveworks/ignite](https://github.com/weaveworks/ignite) (1 month ago)
 - [Add MIT license](https://github.com/goenning/webping.cloud/pull/10) on [goenning/webping.cloud](https://github.com/goenning/webping.cloud) (1 month ago)
@@ -47,7 +48,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Fix variable names - use-existing-groups-when-using-pre-config case](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart/pull/32) on [oracle-quickstart/oci-cis-landingzone-quickstart](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart) (2 months ago)
 - [Add MIT license](https://github.com/mrumkovskis/tresql/pull/40) on [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) (2 months ago)
 - [SQL Sync typo - Oracle - &#34;form&#34; to &#34;from&#34;](https://github.com/dolthub/docs/pull/201) on [dolthub/docs](https://github.com/dolthub/docs) (2 months ago)
-- [Fix README typo - dolt.gitbook.com -&gt; dolt.gitbook.io](https://github.com/dolthub/docs/pull/200) on [dolthub/docs](https://github.com/dolthub/docs) (2 months ago)
 
 #### ⭐ Recent Stars
 
