@@ -16,7 +16,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (1 month ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (1 month ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (1 month ago)
-- [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) - Shorthand SQL/JDBC wrapper language, providing nested results as JSON and more (1 month ago)
+- [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) - Shorthand SQL/JDBC wrapper language, providing nested results as JSON and more (2 months ago)
 - [dolthub/docs](https://github.com/dolthub/docs) -  (2 months ago)
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) -  (2 months ago)
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code (2 months ago)
@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.rc1](https://github.com/vaadin/flow/releases/tag/9.0.0.rc1), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.1](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.1), today) - Maven plugin for ktlint the Kotlin linter
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.60.0](https://github.com/aquasecurity/tfsec/releases/tag/v0.60.0), 2 days ago) - Security scanner for your Terraform code
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.0](https://github.com/tailscale/tailscale/releases/tag/v1.18.0), 3 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.51.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.51.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.rc1](https://github.com/vaadin/flow/releases/tag/9.0.0.rc1), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.1](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.1), 1 day ago) - Maven plugin for ktlint the Kotlin linter
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.60.0](https://github.com/aquasecurity/tfsec/releases/tag/v0.60.0), 3 days ago) - Security scanner for your Terraform code
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.0](https://github.com/tailscale/tailscale/releases/tag/v1.18.0), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.51.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.51.0), 5 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.0](https://github.com/jhaals/yopass/releases/tag/11.3.0), 1 week ago) - Secure sharing for secrets, passwords and files 
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 2 weeks ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.3.12](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.3.12), 3 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -43,24 +43,24 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Fix installer script on Oracle Linux](https://github.com/tailscale/tailscale/pull/3146) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (1 month ago)
 - [Misc updates](https://github.com/tnarg/cue_terraform/pull/1) on [tnarg/cue_terraform](https://github.com/tnarg/cue_terraform) (1 month ago)
 - [usage2adw - remove prd_resource from OCI_COST](https://github.com/oracle/oci-python-sdk/pull/389) on [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) (1 month ago)
-- [Fix variable names - use-existing-groups-when-using-pre-config case](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart/pull/32) on [oracle-quickstart/oci-cis-landingzone-quickstart](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart) (1 month ago)
-- [Add MIT license](https://github.com/mrumkovskis/tresql/pull/40) on [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) (1 month ago)
+- [Fix variable names - use-existing-groups-when-using-pre-config case](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart/pull/32) on [oracle-quickstart/oci-cis-landingzone-quickstart](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart) (2 months ago)
+- [Add MIT license](https://github.com/mrumkovskis/tresql/pull/40) on [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) (2 months ago)
 - [SQL Sync typo - Oracle - &#34;form&#34; to &#34;from&#34;](https://github.com/dolthub/docs/pull/201) on [dolthub/docs](https://github.com/dolthub/docs) (2 months ago)
 - [Fix README typo - dolt.gitbook.com -&gt; dolt.gitbook.io](https://github.com/dolthub/docs/pull/200) on [dolthub/docs](https://github.com/dolthub/docs) (2 months ago)
 - [Add MIT license](https://github.com/Mause/duckdb_engine/pull/155) on [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [Tencent/bk-cmdb](https://github.com/Tencent/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB) (today)
-- [oraclesean/docker-oracle](https://github.com/oraclesean/docker-oracle) - Repository of Docker builds for Oracle databases. (today)
-- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal. (1 day ago)
-- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (2 days ago)
-- [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq) (3 days ago)
-- [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org (3 days ago)
-- [DevTomek-pl/Search-Text-Plugin-for-Notable](https://github.com/DevTomek-pl/Search-Text-Plugin-for-Notable) - Simple JS script for the Notable application that allows you to find a search phrase in the current document (4 days ago)
-- [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾 (4 days ago)
-- [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification (4 days ago)
-- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI (4 days ago)
+- [Tencent/bk-cmdb](https://github.com/Tencent/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB) (1 day ago)
+- [oraclesean/docker-oracle](https://github.com/oraclesean/docker-oracle) - Repository of Docker builds for Oracle databases. (1 day ago)
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal. (2 days ago)
+- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (3 days ago)
+- [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq) (4 days ago)
+- [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org (4 days ago)
+- [DevTomek-pl/Search-Text-Plugin-for-Notable](https://github.com/DevTomek-pl/Search-Text-Plugin-for-Notable) - Simple JS script for the Notable application that allows you to find a search phrase in the current document (5 days ago)
+- [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾 (5 days ago)
+- [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification (5 days ago)
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI (5 days ago)
 
 #### 📫 How to reach me
 
