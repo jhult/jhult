@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.60.1](https://github.com/aquasecurity/tfsec/releases/tag/v0.60.1), today) - Security scanner for your Terraform code
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.rc1](https://github.com/vaadin/flow/releases/tag/9.0.0.rc1), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.1](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.1), 1 day ago) - Maven plugin for ktlint the Kotlin linter
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.0](https://github.com/tailscale/tailscale/releases/tag/v1.18.0), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.51.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.51.0), 5 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.60.1](https://github.com/aquasecurity/tfsec/releases/tag/v0.60.1), 1 day ago) - Security scanner for your Terraform code
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.rc1](https://github.com/vaadin/flow/releases/tag/9.0.0.rc1), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.1](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.1), 2 days ago) - Maven plugin for ktlint the Kotlin linter
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.0](https://github.com/tailscale/tailscale/releases/tag/v1.18.0), 5 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.51.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.51.0), 6 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.0](https://github.com/jhaals/yopass/releases/tag/11.3.0), 1 week ago) - Secure sharing for secrets, passwords and files 
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 2 weeks ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.3.12](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.3.12), 3 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -38,8 +38,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (today)
-- [client - default_character_set - use DB_DEFAULT_CHARACTER_SET](https://github.com/bitnami/bitnami-docker-mariadb/pull/254) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (today)
+- [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (1 day ago)
+- [client - default_character_set - use DB_DEFAULT_CHARACTER_SET](https://github.com/bitnami/bitnami-docker-mariadb/pull/254) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (1 day ago)
 - [Docs: fix Configuration &#34;kind&#34;](https://github.com/weaveworks/ignite/pull/877) on [weaveworks/ignite](https://github.com/weaveworks/ignite) (1 month ago)
 - [Add MIT license](https://github.com/goenning/webping.cloud/pull/10) on [goenning/webping.cloud](https://github.com/goenning/webping.cloud) (1 month ago)
 - [Fix installer script on Oracle Linux](https://github.com/tailscale/tailscale/pull/3146) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (1 month ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [Tencent/bk-ci](https://github.com/Tencent/bk-ci) - 蓝鲸CI平台(BlueKing CI)  (today)
-- [Tencent/bk-cmdb](https://github.com/Tencent/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB) (1 day ago)
-- [oraclesean/docker-oracle](https://github.com/oraclesean/docker-oracle) - Repository of Docker builds for Oracle databases. (1 day ago)
-- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal. (2 days ago)
-- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (3 days ago)
-- [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq) (4 days ago)
-- [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org (4 days ago)
-- [DevTomek-pl/Search-Text-Plugin-for-Notable](https://github.com/DevTomek-pl/Search-Text-Plugin-for-Notable) - Simple JS script for the Notable application that allows you to find a search phrase in the current document (5 days ago)
-- [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾 (5 days ago)
-- [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification (5 days ago)
+- [Tencent/bk-ci](https://github.com/Tencent/bk-ci) - 蓝鲸CI平台(BlueKing CI)  (1 day ago)
+- [Tencent/bk-cmdb](https://github.com/Tencent/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB) (2 days ago)
+- [oraclesean/docker-oracle](https://github.com/oraclesean/docker-oracle) - Repository of Docker builds for Oracle databases. (2 days ago)
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal. (3 days ago)
+- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (4 days ago)
+- [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq) (5 days ago)
+- [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org (5 days ago)
+- [DevTomek-pl/Search-Text-Plugin-for-Notable](https://github.com/DevTomek-pl/Search-Text-Plugin-for-Notable) - Simple JS script for the Notable application that allows you to find a search phrase in the current document (6 days ago)
+- [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾 (6 days ago)
+- [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification (6 days ago)
 
 #### 📫 How to reach me
 
