@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3&#43;] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications) (today)
 - [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - Python reference implementation of The Update Framework (TUF) (today)
 - [dpc/rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption. (today)
 - [andrewchambers/bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups. (today)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Tencent/bk-cmdb](https://github.com/Tencent/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB) (3 days ago)
 - [oraclesean/docker-oracle](https://github.com/oraclesean/docker-oracle) - Repository of Docker builds for Oracle databases. (3 days ago)
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal. (4 days ago)
-- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (5 days ago)
 
 #### 📫 How to reach me
 
