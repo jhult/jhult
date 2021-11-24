@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - Python reference implementation of The Update Framework (TUF) (today)
+- [dpc/rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption. (today)
+- [andrewchambers/bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups. (today)
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (today)
+- [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - Reverse differential backup tool, over a network or locally. (today)
 - [Tencent/bk-ci](https://github.com/Tencent/bk-ci) - 蓝鲸CI平台(BlueKing CI)  (2 days ago)
 - [Tencent/bk-cmdb](https://github.com/Tencent/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB) (3 days ago)
 - [oraclesean/docker-oracle](https://github.com/oraclesean/docker-oracle) - Repository of Docker builds for Oracle databases. (3 days ago)
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal. (4 days ago)
 - [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (5 days ago)
-- [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq) (6 days ago)
-- [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org (6 days ago)
-- [DevTomek-pl/Search-Text-Plugin-for-Notable](https://github.com/DevTomek-pl/Search-Text-Plugin-for-Notable) - Simple JS script for the Notable application that allows you to find a search phrase in the current document (1 week ago)
-- [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾 (1 week ago)
-- [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification (1 week ago)
 
 #### 📫 How to reach me
 
