@@ -25,9 +25,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [vaadin/flow](https://github.com/vaadin/flow) ([8.0.5](https://github.com/vaadin/flow/releases/tag/8.0.5), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [apache/superset](https://github.com/apache/superset) ([1.4.0rc1](https://github.com/apache/superset/releases/tag/1.4.0rc1), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.60.1](https://github.com/aquasecurity/tfsec/releases/tag/v0.60.1), 3 days ago) - Security scanner for your Terraform code
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0.rc1](https://github.com/vaadin/flow/releases/tag/9.0.0.rc1), 4 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.1](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.1), 4 days ago) - Maven plugin for ktlint the Kotlin linter
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.0](https://github.com/tailscale/tailscale/releases/tag/v1.18.0), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.51.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.51.0), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
