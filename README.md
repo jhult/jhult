@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux (today)
+- [troglobit/watchdogd](https://github.com/troglobit/watchdogd) - Advanced system &amp; process supervisor for Linux (today)
+- [svanderburg/nix-processmgmt](https://github.com/svanderburg/nix-processmgmt) - Experimental Nix-based process management framework (today)
+- [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16) (today)
 - [rakitzis/rc](https://github.com/rakitzis/rc) - rc shell -- independent re-implementation for Unix of the Plan 9 shell (from circa 1992) (today)
 - [andrewchambers/orderly](https://github.com/andrewchambers/orderly) - Ordered process (re)start, shutdown, and supervision. (today)
 - [troglobit/finit](https://github.com/troglobit/finit) - Fast init for Linux systems. Cookies included (today)
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation (today)
 - [afaqurk/linux-dash](https://github.com/afaqurk/linux-dash) - A beautiful web dashboard for Linux (today)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (today)
-- [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX (1 day ago)
-- [skarnet/s6](https://github.com/skarnet/s6) - The s6 supervision suite.   (1 day ago)
-- [OpenRC/openrc](https://github.com/OpenRC/openrc) - The OpenRC init system (4 days ago)
-- [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3&#43;] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications) (4 days ago)
 
 #### 📫 How to reach me
 
