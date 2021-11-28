@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Sweets/hummingbird](https://github.com/Sweets/hummingbird) - Hummingbird init system for Linux based operating systems. (today)
+- [davmac314/dasynq](https://github.com/davmac314/dasynq) - Thread-safe cross-platform event loop library in C&#43;&#43; (today)
 - [oracle-quickstart/oci-hpc-data-mover](https://github.com/oracle-quickstart/oci-hpc-data-mover) - OCI HPC Data Mover Tool can be used to migrate/sync/replicate file system data from one source (POSIX file system) to another POSIX file system across regions, availability domains or on-premise to OCI.  It&#39;s designed for faster migration by using mutiple nodes and multiple threads per node to fully utilize network bandwidth.  It can scale to n worker nodes.  (today)
 - [davmac314/dinit](https://github.com/davmac314/dinit) - Service monitoring / &#34;init&#34; system (today)
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux (today)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16) (today)
 - [rakitzis/rc](https://github.com/rakitzis/rc) - rc shell -- independent re-implementation for Unix of the Plan 9 shell (from circa 1992) (today)
 - [andrewchambers/orderly](https://github.com/andrewchambers/orderly) - Ordered process (re)start, shutdown, and supervision. (today)
-- [troglobit/finit](https://github.com/troglobit/finit) - Fast init for Linux systems. Cookies included (today)
-- [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation (today)
 
 #### 📫 How to reach me
 
