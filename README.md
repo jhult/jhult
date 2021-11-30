@@ -12,6 +12,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
+- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (today)
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (1 day ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (1 month ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (1 month ago)
@@ -21,7 +22,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) -  (2 months ago)
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code (3 months ago)
 - [tellery/tellery](https://github.com/tellery/tellery) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool. (4 months ago)
-- [ngynkvn/ttyplay](https://github.com/ngynkvn/ttyplay) - ttyrec player (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
