@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.4.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.4.0), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.61.3](https://github.com/aquasecurity/tfsec/releases/tag/v0.61.3), today) - Security scanner for your Terraform code
 - [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0](https://github.com/vaadin/flow/releases/tag/9.0.0), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.1](https://github.com/tailscale/tailscale/releases/tag/v1.18.1), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [apache/superset](https://github.com/apache/superset) ([1.4.0rc1](https://github.com/apache/superset/releases/tag/1.4.0rc1), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.1](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.1), 1 week ago) - Maven plugin for ktlint the Kotlin linter
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.51.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.51.0), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.0](https://github.com/jhaals/yopass/releases/tag/11.3.0), 2 weeks ago) - Secure sharing for secrets, passwords and files 
