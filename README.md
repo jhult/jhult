@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms. (today)
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) - Hummingbird init system for Linux based operating systems. (3 days ago)
 - [davmac314/dasynq](https://github.com/davmac314/dasynq) - Thread-safe cross-platform event loop library in C&#43;&#43; (3 days ago)
 - [oracle-quickstart/oci-hpc-data-mover](https://github.com/oracle-quickstart/oci-hpc-data-mover) - OCI HPC Data Mover Tool can be used to migrate/sync/replicate file system data from one source (POSIX file system) to another POSIX file system across regions, availability domains or on-premise to OCI.  It&#39;s designed for faster migration by using mutiple nodes and multiple threads per node to fully utilize network bandwidth.  It can scale to n worker nodes.  (3 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [svanderburg/nix-processmgmt](https://github.com/svanderburg/nix-processmgmt) - Experimental Nix-based process management framework (3 days ago)
 - [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16) (3 days ago)
 - [rakitzis/rc](https://github.com/rakitzis/rc) - rc shell -- independent re-implementation for Unix of the Plan 9 shell (from circa 1992) (3 days ago)
-- [andrewchambers/orderly](https://github.com/andrewchambers/orderly) - Ordered process (re)start, shutdown, and supervision. (3 days ago)
 
 #### 📫 How to reach me
 
