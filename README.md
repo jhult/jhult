@@ -12,8 +12,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (today)
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (1 day ago)
+- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (1 day ago)
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (2 days ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (1 month ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (1 month ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (1 month ago)
@@ -25,14 +25,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.52.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.52.0), today) - Oracle Cloud Infrastructure SDK for Python
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.4.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.4.0), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.61.3](https://github.com/aquasecurity/tfsec/releases/tag/v0.61.3), today) - Security scanner for your Terraform code
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0](https://github.com/vaadin/flow/releases/tag/9.0.0), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.1](https://github.com/tailscale/tailscale/releases/tag/v1.18.1), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.52.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.52.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.4.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.4.0), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.61.3](https://github.com/aquasecurity/tfsec/releases/tag/v0.61.3), 1 day ago) - Security scanner for your Terraform code
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.0](https://github.com/vaadin/flow/releases/tag/9.0.0), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.1](https://github.com/tailscale/tailscale/releases/tag/v1.18.1), 5 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.1](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.1), 1 week ago) - Maven plugin for ktlint the Kotlin linter
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.0](https://github.com/jhaals/yopass/releases/tag/11.3.0), 2 weeks ago) - Secure sharing for secrets, passwords and files 
-- [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 3 weeks ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
+- [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 4 weeks ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.6](https://github.com/go-gitea/gitea/releases/tag/v1.15.6), 1 month ago) - Git with a cup of tea, painless self-hosted git service
 - [agenda/agenda](https://github.com/agenda/agenda) ([v4.2.1](https://github.com/agenda/agenda/releases/tag/v4.2.1), 3 months ago) - Lightweight job scheduling for Node.js
 
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [Sweets/hummingbird](https://github.com/Sweets/hummingbird) - Hummingbird init system for Linux based operating systems. (2 days ago)
-- [davmac314/dasynq](https://github.com/davmac314/dasynq) - Thread-safe cross-platform event loop library in C&#43;&#43; (2 days ago)
-- [oracle-quickstart/oci-hpc-data-mover](https://github.com/oracle-quickstart/oci-hpc-data-mover) - OCI HPC Data Mover Tool can be used to migrate/sync/replicate file system data from one source (POSIX file system) to another POSIX file system across regions, availability domains or on-premise to OCI.  It&#39;s designed for faster migration by using mutiple nodes and multiple threads per node to fully utilize network bandwidth.  It can scale to n worker nodes.  (2 days ago)
-- [davmac314/dinit](https://github.com/davmac314/dinit) - Service monitoring / &#34;init&#34; system (2 days ago)
-- [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux (2 days ago)
-- [troglobit/watchdogd](https://github.com/troglobit/watchdogd) - Advanced system &amp; process supervisor for Linux (2 days ago)
-- [svanderburg/nix-processmgmt](https://github.com/svanderburg/nix-processmgmt) - Experimental Nix-based process management framework (2 days ago)
-- [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16) (2 days ago)
-- [rakitzis/rc](https://github.com/rakitzis/rc) - rc shell -- independent re-implementation for Unix of the Plan 9 shell (from circa 1992) (2 days ago)
-- [andrewchambers/orderly](https://github.com/andrewchambers/orderly) - Ordered process (re)start, shutdown, and supervision. (2 days ago)
+- [Sweets/hummingbird](https://github.com/Sweets/hummingbird) - Hummingbird init system for Linux based operating systems. (3 days ago)
+- [davmac314/dasynq](https://github.com/davmac314/dasynq) - Thread-safe cross-platform event loop library in C&#43;&#43; (3 days ago)
+- [oracle-quickstart/oci-hpc-data-mover](https://github.com/oracle-quickstart/oci-hpc-data-mover) - OCI HPC Data Mover Tool can be used to migrate/sync/replicate file system data from one source (POSIX file system) to another POSIX file system across regions, availability domains or on-premise to OCI.  It&#39;s designed for faster migration by using mutiple nodes and multiple threads per node to fully utilize network bandwidth.  It can scale to n worker nodes.  (3 days ago)
+- [davmac314/dinit](https://github.com/davmac314/dinit) - Service monitoring / &#34;init&#34; system (3 days ago)
+- [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux (3 days ago)
+- [troglobit/watchdogd](https://github.com/troglobit/watchdogd) - Advanced system &amp; process supervisor for Linux (3 days ago)
+- [svanderburg/nix-processmgmt](https://github.com/svanderburg/nix-processmgmt) - Experimental Nix-based process management framework (3 days ago)
+- [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16) (3 days ago)
+- [rakitzis/rc](https://github.com/rakitzis/rc) - rc shell -- independent re-implementation for Unix of the Plan 9 shell (from circa 1992) (3 days ago)
+- [andrewchambers/orderly](https://github.com/andrewchambers/orderly) - Ordered process (re)start, shutdown, and supervision. (3 days ago)
 
 #### 📫 How to reach me
 
