@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. (today)
+- [containers/conmon-rs](https://github.com/containers/conmon-rs) - Container monitor in Rust (today)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (today)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (today)
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion 2 - Linux distro for threat hunting, enterprise security monitoring, and log management (today)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [davmac314/dasynq](https://github.com/davmac314/dasynq) - Thread-safe cross-platform event loop library in C&#43;&#43; (4 days ago)
 - [oracle-quickstart/oci-hpc-data-mover](https://github.com/oracle-quickstart/oci-hpc-data-mover) - OCI HPC Data Mover Tool can be used to migrate/sync/replicate file system data from one source (POSIX file system) to another POSIX file system across regions, availability domains or on-premise to OCI.  It&#39;s designed for faster migration by using mutiple nodes and multiple threads per node to fully utilize network bandwidth.  It can scale to n worker nodes.  (4 days ago)
 - [davmac314/dinit](https://github.com/davmac314/dinit) - Service monitoring / &#34;init&#34; system (4 days ago)
-- [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux (4 days ago)
-- [troglobit/watchdogd](https://github.com/troglobit/watchdogd) - Advanced system &amp; process supervisor for Linux (4 days ago)
 
 #### 📫 How to reach me
 
