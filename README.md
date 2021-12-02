@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (today)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (today)
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion 2 - Linux distro for threat hunting, enterprise security monitoring, and log management (today)
 - [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms. (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [davmac314/dinit](https://github.com/davmac314/dinit) - Service monitoring / &#34;init&#34; system (4 days ago)
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux (4 days ago)
 - [troglobit/watchdogd](https://github.com/troglobit/watchdogd) - Advanced system &amp; process supervisor for Linux (4 days ago)
-- [svanderburg/nix-processmgmt](https://github.com/svanderburg/nix-processmgmt) - Experimental Nix-based process management framework (4 days ago)
 
 #### 📫 How to reach me
 
