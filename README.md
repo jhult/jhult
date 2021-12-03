@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - A text repo to feature-track all the WireGuard mesh software (today)
 - [apache/buildstream](https://github.com/apache/buildstream) - BuildStream, the software integration tool (today)
 - [cgwalters/git-evtag](https://github.com/cgwalters/git-evtag) - Extended verification for git tags (today)
 - [ostreedev/ostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades (today)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. (1 day ago)
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) - Container monitor in Rust (1 day ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (1 day ago)
 
 #### 📫 How to reach me
 
