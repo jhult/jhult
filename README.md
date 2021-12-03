@@ -51,6 +51,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [apache/buildstream](https://github.com/apache/buildstream) - BuildStream, the software integration tool (today)
+- [cgwalters/git-evtag](https://github.com/cgwalters/git-evtag) - Extended verification for git tags (today)
+- [ostreedev/ostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades (today)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (1 day ago)
 - [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image abusing Docker (1 day ago)
 - [godarch/darch](https://github.com/godarch/darch) - A tool for building and booting stateless and immutable images, bare metal. (1 day ago)
@@ -58,9 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) - Container monitor in Rust (1 day ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (1 day ago)
-- [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion 2 - Linux distro for threat hunting, enterprise security monitoring, and log management (1 day ago)
-- [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms. (2 days ago)
-- [Sweets/hummingbird](https://github.com/Sweets/hummingbird) - Hummingbird init system for Linux based operating systems. (5 days ago)
 
 #### 📫 How to reach me
 
