@@ -25,14 +25,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.1](https://github.com/jhaals/yopass/releases/tag/11.3.1), 1 day ago) - Secure sharing of secrets, passwords and files 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.0), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.1](https://github.com/vaadin/flow/releases/tag/9.0.1), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.52.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.52.1), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.63.1](https://github.com/aquasecurity/tfsec/releases/tag/v0.63.1), 2 days ago) - Security scanner for your Terraform code
-- [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.2](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.2), 4 days ago) - Maven plugin for ktlint the Kotlin linter
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.1](https://github.com/jhaals/yopass/releases/tag/11.3.1), 2 days ago) - Secure sharing of secrets, passwords and files 
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.0), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.1](https://github.com/vaadin/flow/releases/tag/9.0.1), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.52.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.52.1), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.63.1](https://github.com/aquasecurity/tfsec/releases/tag/v0.63.1), 3 days ago) - Security scanner for your Terraform code
+- [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.2](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.2), 5 days ago) - Maven plugin for ktlint the Kotlin linter
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.7](https://github.com/go-gitea/gitea/releases/tag/v1.15.7), 1 week ago) - Git with a cup of tea, painless self-hosted git service
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.1](https://github.com/tailscale/tailscale/releases/tag/v1.18.1), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.1](https://github.com/tailscale/tailscale/releases/tag/v1.18.1), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 1 month ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [agenda/agenda](https://github.com/agenda/agenda) ([v4.2.1](https://github.com/agenda/agenda/releases/tag/v4.2.1), 4 months ago) - Lightweight job scheduling for Node.js
 
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [adizohar/showoci](https://github.com/adizohar/showoci) - Master showoci version (today)
-- [jbarlow83/OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched (1 day ago)
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (2 days ago)
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (2 days ago)
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (2 days ago)
-- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. (2 days ago)
-- [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. (2 days ago)
-- [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (3 days ago)
-- [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment  (3 days ago)
-- [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files (3 days ago)
+- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉 (today)
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - An Open-Source framework designed for best possible time to interactive, by focusing on resumability of server-side-rendering of HTML, and fine-grained lazy-loading of code. (1 day ago)
+- [adizohar/showoci](https://github.com/adizohar/showoci) - Master showoci version (1 day ago)
+- [jbarlow83/OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched (2 days ago)
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (3 days ago)
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (3 days ago)
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (3 days ago)
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. (3 days ago)
+- [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. (3 days ago)
+- [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (4 days ago)
 
 #### 📫 How to reach me
 
