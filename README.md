@@ -12,24 +12,24 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (today)
-- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (1 week ago)
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (1 day ago)
+- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (2 weeks ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (1 month ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (1 month ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (1 month ago)
 - [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) - Shorthand SQL/JDBC wrapper language, providing nested results as JSON and more (2 months ago)
-- [dolthub/docs](https://github.com/dolthub/docs) -  (2 months ago)
+- [dolthub/docs](https://github.com/dolthub/docs) -  (3 months ago)
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) -  (3 months ago)
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code (3 months ago)
 - [tellery/tellery](https://github.com/tellery/tellery) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool. (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.1](https://github.com/jhaals/yopass/releases/tag/11.3.1), 5 days ago) - Secure sharing of secrets, passwords and files 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.0), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.1](https://github.com/vaadin/flow/releases/tag/9.0.1), 5 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.52.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.52.1), 6 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.63.1](https://github.com/aquasecurity/tfsec/releases/tag/v0.63.1), 6 days ago) - Security scanner for your Terraform code
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.3.1](https://github.com/jhaals/yopass/releases/tag/11.3.1), 6 days ago) - Secure sharing of secrets, passwords and files 
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.0), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.1](https://github.com/vaadin/flow/releases/tag/9.0.1), 6 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.52.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.52.1), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.63.1](https://github.com/aquasecurity/tfsec/releases/tag/v0.63.1), 1 week ago) - Security scanner for your Terraform code
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.2](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.2), 1 week ago) - Maven plugin for ktlint the Kotlin linter
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.7](https://github.com/go-gitea/gitea/releases/tag/v1.15.7), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.1](https://github.com/tailscale/tailscale/releases/tag/v1.18.1), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
@@ -38,7 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (1 day ago)
+- [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (2 days ago)
 - [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (3 weeks ago)
 - [client - default_character_set - use DB_DEFAULT_CHARACTER_SET](https://github.com/bitnami/bitnami-docker-mariadb/pull/254) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (3 weeks ago)
 - [Docs: fix Configuration &#34;kind&#34;](https://github.com/weaveworks/ignite/pull/877) on [weaveworks/ignite](https://github.com/weaveworks/ignite) (1 month ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop (today)
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (today)
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities and attack paths in running containers, images, hosts and repositories.  (today)
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) -  Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners. (today)
-- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉 (3 days ago)
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - An Open-Source framework designed for best possible time to interactive, by focusing on resumability of server-side-rendering of HTML, and fine-grained lazy-loading of code. (4 days ago)
-- [adizohar/showoci](https://github.com/adizohar/showoci) - Master showoci version (4 days ago)
-- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched (5 days ago)
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (6 days ago)
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (6 days ago)
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop (1 day ago)
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (1 day ago)
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities and attack paths in running containers, images, hosts and repositories.  (1 day ago)
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) -  Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners. (1 day ago)
+- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉 (4 days ago)
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - An Open-Source framework designed for best possible time to interactive, by focusing on resumability of server-side-rendering of HTML, and fine-grained lazy-loading of code. (5 days ago)
+- [adizohar/showoci](https://github.com/adizohar/showoci) - Master showoci version (5 days ago)
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched (6 days ago)
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (1 week ago)
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 week ago)
 
 #### 📫 How to reach me
 
