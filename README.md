@@ -51,6 +51,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [stealthybox/tf-oci-arm](https://github.com/stealthybox/tf-oci-arm) - Some configurable terraform for a free, firewalled, oracle-cloud ARM Ubuntu machine with @Tailscale @Docker  and Uncomplicated Firewall. (today)
+- [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) - Syncs Tailscale host IPs to a cloudflare hosted dns zone (today)
+- [NeedsCoffee/Tailscale-Updater-Windows](https://github.com/NeedsCoffee/Tailscale-Updater-Windows) -  (today)
 - [mark-ignacio/tailscale2cloudflare](https://github.com/mark-ignacio/tailscale2cloudflare) - Don&#39;t want to use MagicDNS? Put all of those DNS entries in Cloudflare instead. (today)
 - [astrophena/tsid](https://github.com/astrophena/tsid) - Tailscale integration for Caddy (today)
 - [mxbi/tailscale-hostmap](https://github.com/mxbi/tailscale-hostmap) - Automatically map Tailscale hosts to DNS names locally (today)
@@ -58,9 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries. (today)
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool (today)
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server (1 day ago)
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop (2 days ago)
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (2 days ago)
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities and attack paths in running containers, images, hosts and repositories.  (2 days ago)
 
 #### 📫 How to reach me
 
