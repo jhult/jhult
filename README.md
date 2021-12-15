@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [mark-ignacio/tailscale2cloudflare](https://github.com/mark-ignacio/tailscale2cloudflare) - Don&#39;t want to use MagicDNS? Put all of those DNS entries in Cloudflare instead. (today)
+- [astrophena/tsid](https://github.com/astrophena/tsid) - Tailscale integration for Caddy (today)
+- [mxbi/tailscale-hostmap](https://github.com/mxbi/tailscale-hostmap) - Automatically map Tailscale hosts to DNS names locally (today)
+- [mvisonneau/docker-tailscale](https://github.com/mvisonneau/docker-tailscale) - Run a Tailscale agent/relay in a container (today)
+- [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries. (today)
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool (today)
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server (1 day ago)
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop (2 days ago)
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (2 days ago)
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities and attack paths in running containers, images, hosts and repositories.  (2 days ago)
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) -  Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners. (2 days ago)
-- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉 (5 days ago)
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - An Open-Source framework designed for best possible time to interactive, by focusing on resumability of server-side-rendering of HTML, and fine-grained lazy-loading of code. (6 days ago)
-- [adizohar/showoci](https://github.com/adizohar/showoci) - Master showoci version (6 days ago)
-- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched (1 week ago)
 
 #### 📫 How to reach me
 
