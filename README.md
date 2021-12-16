@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates (today)
 - [sagioto/maven2gradle](https://github.com/sagioto/maven2gradle) - converts maven dependencies to gradle format (today)
 - [stealthybox/tf-oci-arm](https://github.com/stealthybox/tf-oci-arm) - Some configurable terraform for a free, firewalled, oracle-cloud ARM Ubuntu machine with @Tailscale @Docker  and Uncomplicated Firewall. (1 day ago)
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) - Syncs Tailscale host IPs to a cloudflare hosted dns zone (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [mxbi/tailscale-hostmap](https://github.com/mxbi/tailscale-hostmap) - Automatically map Tailscale hosts to DNS names locally (1 day ago)
 - [mvisonneau/docker-tailscale](https://github.com/mvisonneau/docker-tailscale) - Run a Tailscale agent/relay in a container (1 day ago)
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries. (1 day ago)
-- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool (1 day ago)
 
 #### 📫 How to reach me
 
