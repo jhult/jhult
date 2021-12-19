@@ -38,6 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (today)
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (1 week ago)
 - [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (3 weeks ago)
 - [client - default_character_set - use DB_DEFAULT_CHARACTER_SET](https://github.com/bitnami/bitnami-docker-mariadb/pull/254) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (3 weeks ago)
@@ -47,10 +48,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Misc updates](https://github.com/tnarg/cue_terraform/pull/1) on [tnarg/cue_terraform](https://github.com/tnarg/cue_terraform) (2 months ago)
 - [usage2adw - remove prd_resource from OCI_COST](https://github.com/oracle/oci-python-sdk/pull/389) on [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) (2 months ago)
 - [Fix variable names - use-existing-groups-when-using-pre-config case](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart/pull/32) on [oracle-quickstart/oci-cis-landingzone-quickstart](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart) (2 months ago)
-- [Add MIT license](https://github.com/mrumkovskis/tresql/pull/40) on [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) (2 months ago)
 
 #### ⭐ Recent Stars
 
+- [pf4j/pf4j](https://github.com/pf4j/pf4j) - Plugin Framework for Java (PF4J) (today)
 - [apache/logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback&#39;s architecture. (1 day ago)
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project (1 day ago)
 - [AnalogJ/drawbridge](https://github.com/AnalogJ/drawbridge) - manage SSH access to multiple applications/environments protected by bastion servers (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [stealthybox/tf-oci-arm](https://github.com/stealthybox/tf-oci-arm) - Some configurable terraform for a free, firewalled, oracle-cloud ARM Ubuntu machine with @Tailscale @Docker  and Uncomplicated Firewall. (4 days ago)
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) - Syncs Tailscale host IPs to a cloudflare hosted dns zone (4 days ago)
 - [NeedsCoffee/Tailscale-Updater-Windows](https://github.com/NeedsCoffee/Tailscale-Updater-Windows) - Windows PowerShell scripts that will keep installations of Tailscale updated daily. Tailscale is an excellent peer-to-peer style mesh VPN based on the Wireguard protocol. See https://tailscale.com (4 days ago)
-- [mark-ignacio/tailscale2cloudflare](https://github.com/mark-ignacio/tailscale2cloudflare) - Don&#39;t want to use MagicDNS? Put all of those DNS entries in Cloudflare instead. (4 days ago)
 
 #### 📫 How to reach me
 
