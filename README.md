@@ -59,7 +59,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [sagioto/maven2gradle](https://github.com/sagioto/maven2gradle) - converts maven dependencies to gradle format (3 days ago)
 - [stealthybox/tf-oci-arm](https://github.com/stealthybox/tf-oci-arm) - Some configurable terraform for a free, firewalled, oracle-cloud ARM Ubuntu machine with @Tailscale @Docker  and Uncomplicated Firewall. (4 days ago)
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) - Syncs Tailscale host IPs to a cloudflare hosted dns zone (4 days ago)
-- [NeedsCoffee/Tailscale-Updater-Windows](https://github.com/NeedsCoffee/Tailscale-Updater-Windows) -  (4 days ago)
+- [NeedsCoffee/Tailscale-Updater-Windows](https://github.com/NeedsCoffee/Tailscale-Updater-Windows) - Windows PowerShell scripts that will keep installations of Tailscale updated daily. Tailscale is an excellent peer-to-peer style mesh VPN based on the Wireguard protocol. See https://tailscale.com (4 days ago)
 - [mark-ignacio/tailscale2cloudflare](https://github.com/mark-ignacio/tailscale2cloudflare) - Don&#39;t want to use MagicDNS? Put all of those DNS entries in Cloudflare instead. (4 days ago)
 
 #### 📫 How to reach me
