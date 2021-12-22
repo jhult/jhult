@@ -18,19 +18,19 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (2 months ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (2 months ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (2 months ago)
-- [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) - Shorthand SQL/JDBC wrapper language, providing nested results as JSON and more (2 months ago)
+- [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) - Shorthand SQL/JDBC wrapper language, providing nested results as JSON and more (3 months ago)
 - [dolthub/docs](https://github.com/dolthub/docs) -  (3 months ago)
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) -  (3 months ago)
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.53.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.53.1), today) - Oracle Cloud Infrastructure SDK for Python
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.2](https://github.com/vaadin/flow/releases/tag/9.0.2), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), today) - Secure sharing of secrets, passwords and files 
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.8](https://github.com/go-gitea/gitea/releases/tag/v1.15.8), today) - Git with a cup of tea, painless self-hosted git service
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.2](https://github.com/tailscale/tailscale/releases/tag/v1.18.2), 5 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.53.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.53.1), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.2](https://github.com/vaadin/flow/releases/tag/9.0.2), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 1 day ago) - Secure sharing of secrets, passwords and files 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.8](https://github.com/go-gitea/gitea/releases/tag/v1.15.8), 1 day ago) - Git with a cup of tea, painless self-hosted git service
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.1), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.2](https://github.com/tailscale/tailscale/releases/tag/v1.18.2), 6 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.63.1](https://github.com/aquasecurity/tfsec/releases/tag/v0.63.1), 2 weeks ago) - Security scanner for your Terraform code
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.2](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.2), 2 weeks ago) - Maven plugin for ktlint the Kotlin linter
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 1 month ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
@@ -38,29 +38,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (2 days ago)
+- [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (3 days ago)
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (1 week ago)
-- [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (4 weeks ago)
-- [client - default_character_set - use DB_DEFAULT_CHARACTER_SET](https://github.com/bitnami/bitnami-docker-mariadb/pull/254) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (4 weeks ago)
+- [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (1 month ago)
+- [client - default_character_set - use DB_DEFAULT_CHARACTER_SET](https://github.com/bitnami/bitnami-docker-mariadb/pull/254) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (1 month ago)
 - [Docs: fix Configuration &#34;kind&#34;](https://github.com/weaveworks/ignite/pull/877) on [weaveworks/ignite](https://github.com/weaveworks/ignite) (2 months ago)
 - [Add MIT license](https://github.com/goenning/webping.cloud/pull/10) on [goenning/webping.cloud](https://github.com/goenning/webping.cloud) (2 months ago)
 - [Fix installer script on Oracle Linux](https://github.com/tailscale/tailscale/pull/3146) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (2 months ago)
 - [Misc updates](https://github.com/tnarg/cue_terraform/pull/1) on [tnarg/cue_terraform](https://github.com/tnarg/cue_terraform) (2 months ago)
 - [usage2adw - remove prd_resource from OCI_COST](https://github.com/oracle/oci-python-sdk/pull/389) on [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) (2 months ago)
-- [Fix variable names - use-existing-groups-when-using-pre-config case](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart/pull/32) on [oracle-quickstart/oci-cis-landingzone-quickstart](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart) (2 months ago)
+- [Fix variable names - use-existing-groups-when-using-pre-config case](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart/pull/32) on [oracle-quickstart/oci-cis-landingzone-quickstart](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [wiretrustee/wiretrustee-dashboard](https://github.com/wiretrustee/wiretrustee-dashboard) - Wiretrustee Management Service UI dashboard (today)
-- [coreos/go-oidc](https://github.com/coreos/go-oidc) - A Go OpenID Connect client. (today)
-- [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network. (today)
-- [pf4j/pf4j](https://github.com/pf4j/pf4j) - Plugin Framework for Java (PF4J) (2 days ago)
-- [apache/logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback&#39;s architecture. (3 days ago)
-- [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project (3 days ago)
-- [AnalogJ/drawbridge](https://github.com/AnalogJ/drawbridge) - manage SSH access to multiple applications/environments protected by bastion servers (3 days ago)
-- [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool (4 days ago)
-- [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates (5 days ago)
-- [sagioto/maven2gradle](https://github.com/sagioto/maven2gradle) - converts maven dependencies to gradle format (5 days ago)
+- [wiretrustee/wiretrustee-dashboard](https://github.com/wiretrustee/wiretrustee-dashboard) - Wiretrustee Management Service UI dashboard (1 day ago)
+- [coreos/go-oidc](https://github.com/coreos/go-oidc) - A Go OpenID Connect client. (1 day ago)
+- [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network. (1 day ago)
+- [pf4j/pf4j](https://github.com/pf4j/pf4j) - Plugin Framework for Java (PF4J) (3 days ago)
+- [apache/logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback&#39;s architecture. (4 days ago)
+- [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project (4 days ago)
+- [AnalogJ/drawbridge](https://github.com/AnalogJ/drawbridge) - manage SSH access to multiple applications/environments protected by bastion servers (4 days ago)
+- [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool (5 days ago)
+- [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates (6 days ago)
+- [sagioto/maven2gradle](https://github.com/sagioto/maven2gradle) - converts maven dependencies to gradle format (6 days ago)
 
 #### 📫 How to reach me
 
