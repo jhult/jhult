@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server (today)
+- [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN (today)
 - [wiretrustee/wiretrustee-dashboard](https://github.com/wiretrustee/wiretrustee-dashboard) - Wiretrustee Management Service UI dashboard (1 day ago)
 - [coreos/go-oidc](https://github.com/coreos/go-oidc) - A Go OpenID Connect client. (1 day ago)
 - [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network. (1 day ago)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project (4 days ago)
 - [AnalogJ/drawbridge](https://github.com/AnalogJ/drawbridge) - manage SSH access to multiple applications/environments protected by bastion servers (4 days ago)
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool (5 days ago)
-- [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates (6 days ago)
-- [sagioto/maven2gradle](https://github.com/sagioto/maven2gradle) - converts maven dependencies to gradle format (6 days ago)
 
 #### 📫 How to reach me
 
