@@ -51,6 +51,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [EQ-Alpha/KeyDB](https://github.com/EQ-Alpha/KeyDB) - A Multithreaded Fork of Redis (today)
+- [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job. (today)
+- [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network (today)
 - [getnewdash/redash](https://github.com/getnewdash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (3 days ago)
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server (3 days ago)
 - [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN (3 days ago)
@@ -58,9 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [coreos/go-oidc](https://github.com/coreos/go-oidc) - A Go OpenID Connect client. (4 days ago)
 - [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network. (4 days ago)
 - [pf4j/pf4j](https://github.com/pf4j/pf4j) - Plugin Framework for Java (PF4J) (6 days ago)
-- [apache/logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback&#39;s architecture. (1 week ago)
-- [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project (1 week ago)
-- [AnalogJ/drawbridge](https://github.com/AnalogJ/drawbridge) - manage SSH access to multiple applications/environments protected by bastion servers (1 week ago)
 
 #### 📫 How to reach me
 
