@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([1.4.0rc3](https://github.com/apache/superset/releases/tag/1.4.0rc3), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.53.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.53.1), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.2](https://github.com/vaadin/flow/releases/tag/9.0.2), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 3 days ago) - Secure sharing of secrets, passwords and files 
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.8](https://github.com/go-gitea/gitea/releases/tag/v1.15.8), 3 days ago) - Git with a cup of tea, painless self-hosted git service
+- [apache/superset](https://github.com/apache/superset) ([1.4.0rc3](https://github.com/apache/superset/releases/tag/1.4.0rc3), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.53.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.53.1), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.2](https://github.com/vaadin/flow/releases/tag/9.0.2), 4 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 4 days ago) - Secure sharing of secrets, passwords and files 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.8](https://github.com/go-gitea/gitea/releases/tag/v1.15.8), 4 days ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.2](https://github.com/tailscale/tailscale/releases/tag/v1.18.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.63.1](https://github.com/aquasecurity/tfsec/releases/tag/v0.63.1), 2 weeks ago) - Security scanner for your Terraform code
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.2](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.2), 2 weeks ago) - Maven plugin for ktlint the Kotlin linter
@@ -38,7 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (5 days ago)
+- [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (6 days ago)
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (1 week ago)
 - [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (1 month ago)
 - [client - default_character_set - use DB_DEFAULT_CHARACTER_SET](https://github.com/bitnami/bitnami-docker-mariadb/pull/254) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (1 month ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [getnewdash/redash](https://github.com/getnewdash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (2 days ago)
-- [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server (2 days ago)
-- [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN (2 days ago)
-- [wiretrustee/wiretrustee-dashboard](https://github.com/wiretrustee/wiretrustee-dashboard) - Wiretrustee Management Service UI dashboard (3 days ago)
-- [coreos/go-oidc](https://github.com/coreos/go-oidc) - A Go OpenID Connect client. (3 days ago)
-- [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network. (3 days ago)
-- [pf4j/pf4j](https://github.com/pf4j/pf4j) - Plugin Framework for Java (PF4J) (5 days ago)
-- [apache/logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback&#39;s architecture. (6 days ago)
-- [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project (6 days ago)
-- [AnalogJ/drawbridge](https://github.com/AnalogJ/drawbridge) - manage SSH access to multiple applications/environments protected by bastion servers (6 days ago)
+- [getnewdash/redash](https://github.com/getnewdash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (3 days ago)
+- [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server (3 days ago)
+- [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN (3 days ago)
+- [wiretrustee/wiretrustee-dashboard](https://github.com/wiretrustee/wiretrustee-dashboard) - Wiretrustee Management Service UI dashboard (4 days ago)
+- [coreos/go-oidc](https://github.com/coreos/go-oidc) - A Go OpenID Connect client. (4 days ago)
+- [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network. (4 days ago)
+- [pf4j/pf4j](https://github.com/pf4j/pf4j) - Plugin Framework for Java (PF4J) (6 days ago)
+- [apache/logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback&#39;s architecture. (1 week ago)
+- [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project (1 week ago)
+- [AnalogJ/drawbridge](https://github.com/AnalogJ/drawbridge) - manage SSH access to multiple applications/environments protected by bastion servers (1 week ago)
 
 #### 📫 How to reach me
 
