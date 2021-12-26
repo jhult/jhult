@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (today)
+- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library. (today)
 - [jmfayard/refreshVersions](https://github.com/jmfayard/refreshVersions) - Life is too short to google for dependencies and versions (today)
 - [maelstromapp/maelstrom](https://github.com/maelstromapp/maelstrom) - Easy container orchestration (today)
 - [mtlynch/logpaste](https://github.com/mtlynch/logpaste) - A simple web service for storing text log files (today)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook (today)
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown (today)
 - [EQ-Alpha/KeyDB](https://github.com/EQ-Alpha/KeyDB) - A Multithreaded Fork of Redis (1 day ago)
-- [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job. (1 day ago)
-- [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network (1 day ago)
 
 #### 📫 How to reach me
 
