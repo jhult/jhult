@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (today)
+- [mucommander/mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface (today)
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook (today)
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown (today)
 - [EQ-Alpha/KeyDB](https://github.com/EQ-Alpha/KeyDB) - A Multithreaded Fork of Redis (1 day ago)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [getnewdash/redash](https://github.com/getnewdash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (4 days ago)
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server (4 days ago)
 - [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN (4 days ago)
-- [wiretrustee/wiretrustee-dashboard](https://github.com/wiretrustee/wiretrustee-dashboard) - Wiretrustee Management Service UI dashboard (5 days ago)
-- [coreos/go-oidc](https://github.com/coreos/go-oidc) - A Go OpenID Connect client. (5 days ago)
 
 #### 📫 How to reach me
 
