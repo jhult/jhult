@@ -25,6 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), today) - A container runtime written in Rust
 - [apache/superset](https://github.com/apache/superset) ([1.4.0rc3](https://github.com/apache/superset/releases/tag/1.4.0rc3), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.53.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.53.1), 5 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [vaadin/flow](https://github.com/vaadin/flow) ([9.0.2](https://github.com/vaadin/flow/releases/tag/9.0.2), 5 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
@@ -34,7 +35,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.63.1](https://github.com/aquasecurity/tfsec/releases/tag/v0.63.1), 2 weeks ago) - Security scanner for your Terraform code
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.2](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.2), 3 weeks ago) - Maven plugin for ktlint the Kotlin linter
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.4](https://github.com/tellery/tellery/releases/tag/0.8.4), 1 month ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
-- [agenda/agenda](https://github.com/agenda/agenda) ([v4.2.1](https://github.com/agenda/agenda/releases/tag/v4.2.1), 4 months ago) - Lightweight job scheduling for Node.js
 
 #### 🔨 My recent Pull Requests
 
@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [maelstromapp/maelstrom](https://github.com/maelstromapp/maelstrom) - Easy container orchestration (today)
+- [mtlynch/logpaste](https://github.com/mtlynch/logpaste) - A simple web service for storing text log files (today)
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (today)
 - [mucommander/mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface (today)
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook (today)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job. (1 day ago)
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network (1 day ago)
 - [getnewdash/redash](https://github.com/getnewdash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (4 days ago)
-- [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server (4 days ago)
-- [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN (4 days ago)
 
 #### 📫 How to reach me
 
