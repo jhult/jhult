@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [jmfayard/refreshVersions](https://github.com/jmfayard/refreshVersions) - Life is too short to google for dependencies and versions (today)
 - [maelstromapp/maelstrom](https://github.com/maelstromapp/maelstrom) - Easy container orchestration (today)
 - [mtlynch/logpaste](https://github.com/mtlynch/logpaste) - A simple web service for storing text log files (today)
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (today)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [EQ-Alpha/KeyDB](https://github.com/EQ-Alpha/KeyDB) - A Multithreaded Fork of Redis (1 day ago)
 - [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job. (1 day ago)
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network (1 day ago)
-- [getnewdash/redash](https://github.com/getnewdash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (4 days ago)
 
 #### 📫 How to reach me
 
