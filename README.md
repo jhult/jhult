@@ -12,8 +12,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (1 week ago)
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (1 week ago)
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (2 weeks ago)
+- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (2 weeks ago)
 - [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (3 weeks ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (2 months ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (2 months ago)
@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), today) - A container runtime written in Rust
-- [apache/superset](https://github.com/apache/superset) ([1.4.0rc3](https://github.com/apache/superset/releases/tag/1.4.0rc3), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.53.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.53.1), 5 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.2](https://github.com/vaadin/flow/releases/tag/9.0.2), 5 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 5 days ago) - Secure sharing of secrets, passwords and files 
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.8](https://github.com/go-gitea/gitea/releases/tag/v1.15.8), 5 days ago) - Git with a cup of tea, painless self-hosted git service
+- [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), 1 day ago) - A container runtime written in Rust
+- [apache/superset](https://github.com/apache/superset) ([1.4.0rc3](https://github.com/apache/superset/releases/tag/1.4.0rc3), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.53.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.53.1), 6 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.2](https://github.com/vaadin/flow/releases/tag/9.0.2), 6 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 6 days ago) - Secure sharing of secrets, passwords and files 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.8](https://github.com/go-gitea/gitea/releases/tag/v1.15.8), 6 days ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.2](https://github.com/tailscale/tailscale/releases/tag/v1.18.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.63.1](https://github.com/aquasecurity/tfsec/releases/tag/v0.63.1), 2 weeks ago) - Security scanner for your Terraform code
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.2](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.2), 3 weeks ago) - Maven plugin for ktlint the Kotlin linter
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (today)
-- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library. (today)
-- [jmfayard/refreshVersions](https://github.com/jmfayard/refreshVersions) - Life is too short to google for dependencies and versions (today)
-- [maelstromapp/maelstrom](https://github.com/maelstromapp/maelstrom) - Easy container orchestration (today)
-- [mtlynch/logpaste](https://github.com/mtlynch/logpaste) - A simple web service for storing text log files (today)
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (today)
-- [mucommander/mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface (today)
-- [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook (today)
-- [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown (today)
-- [EQ-Alpha/KeyDB](https://github.com/EQ-Alpha/KeyDB) - A Multithreaded Fork of Redis (1 day ago)
+- [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (1 day ago)
+- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library. (1 day ago)
+- [jmfayard/refreshVersions](https://github.com/jmfayard/refreshVersions) - Life is too short to google for dependencies and versions (1 day ago)
+- [maelstromapp/maelstrom](https://github.com/maelstromapp/maelstrom) - Easy container orchestration (1 day ago)
+- [mtlynch/logpaste](https://github.com/mtlynch/logpaste) - A simple web service for storing text log files (1 day ago)
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (1 day ago)
+- [mucommander/mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface (1 day ago)
+- [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook (1 day ago)
+- [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown (1 day ago)
+- [EQ-Alpha/KeyDB](https://github.com/EQ-Alpha/KeyDB) - A Multithreaded Fork of Redis (2 days ago)
 
 #### 📫 How to reach me
 
