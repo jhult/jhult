@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported! (today)
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (1 day ago)
 - [iterate-ch/rococoa](https://github.com/iterate-ch/rococoa) - Rococoa allows you to call Objective-C code through Java classes and interfaces that you define. (1 day ago)
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (2 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [mtlynch/logpaste](https://github.com/mtlynch/logpaste) - A simple web service for storing text log files (2 days ago)
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (2 days ago)
 - [mucommander/mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface (2 days ago)
-- [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook (2 days ago)
 
 #### 📫 How to reach me
 
