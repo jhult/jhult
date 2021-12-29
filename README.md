@@ -21,13 +21,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [mrumkovskis/tresql](https://github.com/mrumkovskis/tresql) - Shorthand SQL/JDBC wrapper language, providing nested results as JSON and more (3 months ago)
 - [dolthub/docs](https://github.com/dolthub/docs) -  (3 months ago)
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) -  (3 months ago)
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code (3 months ago)
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([2.7.7](https://github.com/vaadin/flow/releases/tag/2.7.7), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), 2 days ago) - A container runtime written in Rust
-- [apache/superset](https://github.com/apache/superset) ([1.4.0rc3](https://github.com/apache/superset/releases/tag/1.4.0rc3), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [vaadin/flow](https://github.com/vaadin/flow) ([2.7.7](https://github.com/vaadin/flow/releases/tag/2.7.7), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), 3 days ago) - A container runtime written in Rust
+- [apache/superset](https://github.com/apache/superset) ([1.4.0rc3](https://github.com/apache/superset/releases/tag/1.4.0rc3), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.53.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.53.1), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 1 week ago) - Secure sharing of secrets, passwords and files 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.8](https://github.com/go-gitea/gitea/releases/tag/v1.15.8), 1 week ago) - Git with a cup of tea, painless self-hosted git service
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export. (today)
-- [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported! (today)
-- [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (1 day ago)
-- [iterate-ch/rococoa](https://github.com/iterate-ch/rococoa) - Rococoa allows you to call Objective-C code through Java classes and interfaces that you define. (1 day ago)
-- [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (2 days ago)
-- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library. (2 days ago)
-- [jmfayard/refreshVersions](https://github.com/jmfayard/refreshVersions) - Life is too short to google for dependencies and versions (2 days ago)
-- [maelstromapp/maelstrom](https://github.com/maelstromapp/maelstrom) - Easy container orchestration (2 days ago)
-- [mtlynch/logpaste](https://github.com/mtlynch/logpaste) - A simple web service for storing text log files (2 days ago)
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (2 days ago)
+- [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export. (1 day ago)
+- [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported! (1 day ago)
+- [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (2 days ago)
+- [iterate-ch/rococoa](https://github.com/iterate-ch/rococoa) - Rococoa allows you to call Objective-C code through Java classes and interfaces that you define. (2 days ago)
+- [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (3 days ago)
+- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library. (3 days ago)
+- [jmfayard/refreshVersions](https://github.com/jmfayard/refreshVersions) - Life is too short to google for dependencies and versions (3 days ago)
+- [maelstromapp/maelstrom](https://github.com/maelstromapp/maelstrom) - Easy container orchestration (3 days ago)
+- [mtlynch/logpaste](https://github.com/mtlynch/logpaste) - A simple web service for storing text log files (3 days ago)
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (3 days ago)
 
 #### 📫 How to reach me
 
