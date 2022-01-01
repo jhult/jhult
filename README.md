@@ -25,9 +25,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.9](https://github.com/go-gitea/gitea/releases/tag/v1.15.9), 1 day ago) - Git with a cup of tea, painless self-hosted git service
-- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha1](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha1), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), 5 days ago) - A container runtime written in Rust
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.9](https://github.com/go-gitea/gitea/releases/tag/v1.15.9), 2 days ago) - Git with a cup of tea, painless self-hosted git service
+- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha1](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha1), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), 6 days ago) - A container runtime written in Rust
 - [apache/superset](https://github.com/apache/superset) ([1.4.0rc3](https://github.com/apache/superset/releases/tag/1.4.0rc3), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.53.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.53.1), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 1 week ago) - Secure sharing of secrets, passwords and files 
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [lcfyi/software-resume-template](https://github.com/lcfyi/software-resume-template) - A simple LaTeX template for software engineering resumes.  (today)
-- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (today)
-- [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate (today)
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries &amp; household management solution for your home (1 day ago)
-- [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export. (3 days ago)
-- [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported! (3 days ago)
-- [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (4 days ago)
-- [iterate-ch/rococoa](https://github.com/iterate-ch/rococoa) - Rococoa allows you to call Objective-C code through Java classes and interfaces that you define. (4 days ago)
-- [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (5 days ago)
-- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library. (5 days ago)
+- [lcfyi/software-resume-template](https://github.com/lcfyi/software-resume-template) - A simple LaTeX template for software engineering resumes.  (1 day ago)
+- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (1 day ago)
+- [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate (1 day ago)
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries &amp; household management solution for your home (2 days ago)
+- [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export. (4 days ago)
+- [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported! (4 days ago)
+- [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (5 days ago)
+- [iterate-ch/rococoa](https://github.com/iterate-ch/rococoa) - Rococoa allows you to call Objective-C code through Java classes and interfaces that you define. (5 days ago)
+- [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (6 days ago)
+- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library. (6 days ago)
 
 #### 📫 How to reach me
 
