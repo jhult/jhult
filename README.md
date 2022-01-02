@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228  (today)
 - [lcfyi/software-resume-template](https://github.com/lcfyi/software-resume-template) - A simple LaTeX template for software engineering resumes.  (2 days ago)
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (2 days ago)
 - [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate (2 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (6 days ago)
 - [iterate-ch/rococoa](https://github.com/iterate-ch/rococoa) - Rococoa allows you to call Objective-C code through Java classes and interfaces that you define. (6 days ago)
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (1 week ago)
-- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library. (1 week ago)
 
 #### 📫 How to reach me
 
