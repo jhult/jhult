@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.2](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.2), today) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.3), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.9](https://github.com/go-gitea/gitea/releases/tag/v1.15.9), 5 days ago) - Git with a cup of tea, painless self-hosted git service
 - [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha1](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha1), 6 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), 1 week ago) - A container runtime written in Rust
