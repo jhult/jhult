@@ -25,9 +25,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.3), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.9](https://github.com/go-gitea/gitea/releases/tag/v1.15.9), 5 days ago) - Git with a cup of tea, painless self-hosted git service
-- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha1](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha1), 6 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.3), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.9](https://github.com/go-gitea/gitea/releases/tag/v1.15.9), 6 days ago) - Git with a cup of tea, painless self-hosted git service
+- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha1](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha1), 1 week ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), 1 week ago) - A container runtime written in Rust
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.53.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.53.1), 2 weeks ago) - Oracle Cloud Infrastructure SDK for Python
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 2 weeks ago) - Secure sharing of secrets, passwords and files 
@@ -45,19 +45,19 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Docs: fix Configuration &#34;kind&#34;](https://github.com/weaveworks/ignite/pull/877) on [weaveworks/ignite](https://github.com/weaveworks/ignite) (2 months ago)
 - [Add MIT license](https://github.com/goenning/webping.cloud/pull/10) on [goenning/webping.cloud](https://github.com/goenning/webping.cloud) (2 months ago)
 - [Fix installer script on Oracle Linux](https://github.com/tailscale/tailscale/pull/3146) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (2 months ago)
-- [Misc updates](https://github.com/tnarg/cue_terraform/pull/1) on [tnarg/cue_terraform](https://github.com/tnarg/cue_terraform) (2 months ago)
+- [Misc updates](https://github.com/tnarg/cue_terraform/pull/1) on [tnarg/cue_terraform](https://github.com/tnarg/cue_terraform) (3 months ago)
 - [usage2adw - remove prd_resource from OCI_COST](https://github.com/oracle/oci-python-sdk/pull/389) on [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) (3 months ago)
 - [Fix variable names - use-existing-groups-when-using-pre-config case](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart/pull/32) on [oracle-quickstart/oci-cis-landingzone-quickstart](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [gazette/core](https://github.com/gazette/core) - Build platforms that flexibly mix SQL, batch, and stream processing paradigms (today)
-- [stacscan/stacs-ci](https://github.com/stacscan/stacs-ci) - A set of modules to enable integration of STACS with commonly used CI / CD systems (1 day ago)
-- [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228  (2 days ago)
-- [lcfyi/software-resume-template](https://github.com/lcfyi/software-resume-template) - A simple LaTeX template for software engineering resumes.  (4 days ago)
-- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (4 days ago)
-- [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate (4 days ago)
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries &amp; household management solution for your home (5 days ago)
+- [gazette/core](https://github.com/gazette/core) - Build platforms that flexibly mix SQL, batch, and stream processing paradigms (1 day ago)
+- [stacscan/stacs-ci](https://github.com/stacscan/stacs-ci) - A set of modules to enable integration of STACS with commonly used CI / CD systems (2 days ago)
+- [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228  (3 days ago)
+- [lcfyi/software-resume-template](https://github.com/lcfyi/software-resume-template) - A simple LaTeX template for software engineering resumes.  (5 days ago)
+- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (5 days ago)
+- [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate (5 days ago)
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries &amp; household management solution for your home (6 days ago)
 - [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export. (1 week ago)
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported! (1 week ago)
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (1 week ago)
