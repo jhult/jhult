@@ -51,7 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes JSON API change detection and monitoring support! (today)
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes XPATH and JSON API change detection and monitoring support! (today)
 - [gazette/core](https://github.com/gazette/core) - Build platforms that flexibly mix SQL, batch, and stream processing paradigms (1 day ago)
 - [stacscan/stacs-ci](https://github.com/stacscan/stacs-ci) - A set of modules to enable integration of STACS with commonly used CI / CD systems (2 days ago)
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228  (3 days ago)
