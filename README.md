@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (today)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes XPATH and JSON API change detection and monitoring support! (1 day ago)
 - [gazette/core](https://github.com/gazette/core) - Build platforms that flexibly mix SQL, batch, and stream processing paradigms (2 days ago)
 - [stacscan/stacs-ci](https://github.com/stacscan/stacs-ci) - A set of modules to enable integration of STACS with commonly used CI / CD systems (3 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate (6 days ago)
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries &amp; household management solution for your home (1 week ago)
 - [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export. (1 week ago)
-- [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported! (1 week ago)
 
 #### 📫 How to reach me
 
