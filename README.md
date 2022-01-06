@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology (today)
+- [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-) (today)
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (today)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes XPATH and JSON API change detection and monitoring support! (1 day ago)
 - [gazette/core](https://github.com/gazette/core) - Build platforms that flexibly mix SQL, batch, and stream processing paradigms (2 days ago)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [lcfyi/software-resume-template](https://github.com/lcfyi/software-resume-template) - A simple LaTeX template for software engineering resumes.  (6 days ago)
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (6 days ago)
 - [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate (6 days ago)
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries &amp; household management solution for your home (1 week ago)
-- [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export. (1 week ago)
 
 #### 📫 How to reach me
 
