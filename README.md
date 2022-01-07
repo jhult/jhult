@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.3), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.3), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.9](https://github.com/go-gitea/gitea/releases/tag/v1.15.9), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha1](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha1), 1 week ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), 1 week ago) - A container runtime written in Rust
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Brings the popular ruby faker gem to Java and Kotlin  (today)
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (today)
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps (today)
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories. (today)
-- [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform. (today)
-- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (today)
-- [nikitavoloboev/license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly (today)
-- [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS  (today)
-- [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes (today)
-- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ (today)
+- [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Brings the popular ruby faker gem to Java and Kotlin  (1 day ago)
+- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (1 day ago)
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps (1 day ago)
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories. (1 day ago)
+- [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform. (1 day ago)
+- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (1 day ago)
+- [nikitavoloboev/license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly (1 day ago)
+- [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS  (1 day ago)
+- [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes (1 day ago)
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ (1 day ago)
 
 #### 📫 How to reach me
 
