@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder (today)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (today)
+- [minio/minfs](https://github.com/minio/minfs) - A network filesystem client to connect to MinIO and Amazon S3 compatible cloud storage servers (today)
+- [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust (today)
 - [gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse) - gromgit&#39;s FUSE tap (today)
 - [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go (today)
 - [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API (today)
 - [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Brings the popular ruby faker gem to Java and Kotlin  (1 day ago)
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (1 day ago)
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps (1 day ago)
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories. (1 day ago)
-- [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform. (1 day ago)
-- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (1 day ago)
-- [nikitavoloboev/license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly (1 day ago)
 
 #### 📫 How to reach me
 
