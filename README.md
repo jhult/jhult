@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [microCOVID/microCOVID](https://github.com/microCOVID/microCOVID) - Estimating the COVID risk of ordinary activities (today)
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder (2 days ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (2 days ago)
 - [minio/minfs](https://github.com/minio/minfs) - A network filesystem client to connect to MinIO and Amazon S3 compatible cloud storage servers (2 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API (2 days ago)
 - [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Brings the popular ruby faker gem to Java and Kotlin  (3 days ago)
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (3 days ago)
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps (3 days ago)
 
 #### 📫 How to reach me
 
