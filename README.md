@@ -12,8 +12,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (3 weeks ago)
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (3 weeks ago)
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (4 weeks ago)
+- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (4 weeks ago)
 - [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (1 month ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (2 months ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (2 months ago)
@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha2](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha2), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.3), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha2](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha2), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.3), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.9](https://github.com/go-gitea/gitea/releases/tag/v1.15.9), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), 2 weeks ago) - A container runtime written in Rust
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.53.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.53.1), 2 weeks ago) - Oracle Cloud Infrastructure SDK for Python
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [microCOVID/microCOVID](https://github.com/microCOVID/microCOVID) - Estimating the COVID risk of ordinary activities (today)
-- [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder (2 days ago)
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (2 days ago)
-- [minio/minfs](https://github.com/minio/minfs) - A network filesystem client to connect to MinIO and Amazon S3 compatible cloud storage servers (2 days ago)
-- [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust (2 days ago)
-- [gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse) - gromgit&#39;s FUSE tap (2 days ago)
-- [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go (2 days ago)
-- [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API (2 days ago)
-- [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Brings the popular ruby faker gem to Java and Kotlin  (3 days ago)
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (3 days ago)
+- [microCOVID/microCOVID](https://github.com/microCOVID/microCOVID) - Estimating the COVID risk of ordinary activities (1 day ago)
+- [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder (3 days ago)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (3 days ago)
+- [minio/minfs](https://github.com/minio/minfs) - A network filesystem client to connect to MinIO and Amazon S3 compatible cloud storage servers (3 days ago)
+- [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust (3 days ago)
+- [gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse) - gromgit&#39;s FUSE tap (3 days ago)
+- [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go (3 days ago)
+- [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API (3 days ago)
+- [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Brings the popular ruby faker gem to Java and Kotlin  (4 days ago)
+- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (4 days ago)
 
 #### 📫 How to reach me
 
