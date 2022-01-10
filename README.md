@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (today)
+- [hbowie/notenik-swift](https://github.com/hbowie/notenik-swift) - Notenik ported to Swift (today)
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration. (today)
+- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS (today)
 - [microCOVID/microCOVID](https://github.com/microCOVID/microCOVID) - Estimating the COVID risk of ordinary activities (1 day ago)
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder (3 days ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (3 days ago)
 - [minio/minfs](https://github.com/minio/minfs) - A network filesystem client to connect to MinIO and Amazon S3 compatible cloud storage servers (3 days ago)
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust (3 days ago)
 - [gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse) - gromgit&#39;s FUSE tap (3 days ago)
-- [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go (3 days ago)
-- [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API (3 days ago)
-- [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Brings the popular ruby faker gem to Java and Kotlin  (4 days ago)
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (4 days ago)
 
 #### 📫 How to reach me
 
