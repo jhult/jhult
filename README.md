@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha2](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha2), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.3), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha2](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha2), 4 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.3), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.9](https://github.com/go-gitea/gitea/releases/tag/v1.15.9), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), 2 weeks ago) - A container runtime written in Rust
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.53.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.53.1), 2 weeks ago) - Oracle Cloud Infrastructure SDK for Python
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 2 weeks ago) - Secure sharing of secrets, passwords and files 
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.53.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.53.1), 3 weeks ago) - Oracle Cloud Infrastructure SDK for Python
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 3 weeks ago) - Secure sharing of secrets, passwords and files 
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.18.2](https://github.com/tailscale/tailscale/releases/tag/v1.18.2), 3 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.63.1](https://github.com/aquasecurity/tfsec/releases/tag/v0.63.1), 1 month ago) - Security scanner for your Terraform code
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.2](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.2), 1 month ago) - Maven plugin for ktlint the Kotlin linter
@@ -39,7 +39,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 🔨 My recent Pull Requests
 
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (3 weeks ago)
-- [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (4 weeks ago)
+- [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (1 month ago)
 - [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (1 month ago)
 - [client - default_character_set - use DB_DEFAULT_CHARACTER_SET](https://github.com/bitnami/bitnami-docker-mariadb/pull/254) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (1 month ago)
 - [Docs: fix Configuration &#34;kind&#34;](https://github.com/weaveworks/ignite/pull/877) on [weaveworks/ignite](https://github.com/weaveworks/ignite) (2 months ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (today)
-- [hbowie/notenik-swift](https://github.com/hbowie/notenik-swift) - Notenik ported to Swift (today)
-- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration. (today)
-- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS (today)
-- [microCOVID/microCOVID](https://github.com/microCOVID/microCOVID) - Estimating the COVID risk of ordinary activities (1 day ago)
-- [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder (3 days ago)
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (3 days ago)
-- [minio/minfs](https://github.com/minio/minfs) - A network filesystem client to connect to MinIO and Amazon S3 compatible cloud storage servers (3 days ago)
-- [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust (3 days ago)
-- [gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse) - gromgit&#39;s FUSE tap (3 days ago)
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (1 day ago)
+- [hbowie/notenik-swift](https://github.com/hbowie/notenik-swift) - Notenik ported to Swift (1 day ago)
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration. (1 day ago)
+- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS (1 day ago)
+- [microCOVID/microCOVID](https://github.com/microCOVID/microCOVID) - Estimating the COVID risk of ordinary activities (2 days ago)
+- [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder (4 days ago)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (4 days ago)
+- [minio/minfs](https://github.com/minio/minfs) - A network filesystem client to connect to MinIO and Amazon S3 compatible cloud storage servers (4 days ago)
+- [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust (4 days ago)
+- [gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse) - gromgit&#39;s FUSE tap (4 days ago)
 
 #### 📫 How to reach me
 
