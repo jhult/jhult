@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources. (today)
+- [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - A text repo to feature-track all the WireGuard mesh software (today)
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (2 days ago)
 - [hbowie/notenik-swift](https://github.com/hbowie/notenik-swift) - Notenik ported to Swift (2 days ago)
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration. (2 days ago)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder (5 days ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (5 days ago)
 - [minio/minfs](https://github.com/minio/minfs) - A network filesystem client to connect to MinIO and Amazon S3 compatible cloud storage servers (5 days ago)
-- [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust (5 days ago)
-- [gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse) - gromgit&#39;s FUSE tap (5 days ago)
 
 #### 📫 How to reach me
 
