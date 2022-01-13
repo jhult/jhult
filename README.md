@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (today)
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. (today)
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (today)
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources. (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration. (3 days ago)
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS (3 days ago)
 - [microCOVID/microCOVID](https://github.com/microCOVID/microCOVID) - Estimating the COVID risk of ordinary activities (4 days ago)
-- [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder (6 days ago)
 
 #### 📫 How to reach me
 
