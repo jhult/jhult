@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.0](https://github.com/tailscale/tailscale/releases/tag/v1.20.0), today) - The easiest, most secure way to use WireGuard and 2FA.
-- [apache/superset](https://github.com/apache/superset) ([1.4.0rc4](https://github.com/apache/superset/releases/tag/1.4.0rc4), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.54.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.54.0), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha3](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha3), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.0](https://github.com/tailscale/tailscale/releases/tag/v1.20.0), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [apache/superset](https://github.com/apache/superset) ([1.4.0rc4](https://github.com/apache/superset/releases/tag/1.4.0rc4), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.54.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.54.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha3](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha3), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.9](https://github.com/go-gitea/gitea/releases/tag/v1.15.9), 2 weeks ago) - Git with a cup of tea, painless self-hosted git service
 - [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), 2 weeks ago) - A container runtime written in Rust
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 3 weeks ago) - Secure sharing of secrets, passwords and files 
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (today)
-- [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. (today)
-- [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (today)
-- [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources. (1 day ago)
-- [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - A text repo to feature-track all the WireGuard mesh software (1 day ago)
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (3 days ago)
-- [hbowie/notenik-swift](https://github.com/hbowie/notenik-swift) - Notenik ported to Swift (3 days ago)
-- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration. (3 days ago)
-- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS (3 days ago)
-- [microCOVID/microCOVID](https://github.com/microCOVID/microCOVID) - Estimating the COVID risk of ordinary activities (4 days ago)
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (1 day ago)
+- [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. (1 day ago)
+- [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (1 day ago)
+- [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources. (2 days ago)
+- [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - A text repo to feature-track all the WireGuard mesh software (2 days ago)
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (4 days ago)
+- [hbowie/notenik-swift](https://github.com/hbowie/notenik-swift) - Notenik ported to Swift (4 days ago)
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration. (4 days ago)
+- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS (4 days ago)
+- [microCOVID/microCOVID](https://github.com/microCOVID/microCOVID) - Estimating the COVID risk of ordinary activities (5 days ago)
 
 #### 📫 How to reach me
 
