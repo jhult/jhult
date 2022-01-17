@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) -  (today)
 - [j0n17/bitbucket2gitea](https://github.com/j0n17/bitbucket2gitea) - Migrate Bitbucket repositories to Gitea (today)
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs. (1 day ago)
 - [Jwink3101/syncrclone](https://github.com/Jwink3101/syncrclone) - Python-based bi-direction sync tool for rclone (3 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (4 days ago)
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources. (5 days ago)
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - A text repo to feature-track all the WireGuard mesh software (5 days ago)
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (1 week ago)
 
 #### 📫 How to reach me
 
