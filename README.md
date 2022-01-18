@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.54.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.54.1), today) - Oracle Cloud Infrastructure SDK for Python
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.10](https://github.com/go-gitea/gitea/releases/tag/v1.15.10), 4 days ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.1](https://github.com/tailscale/tailscale/releases/tag/v1.20.1), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([1.4.0rc4](https://github.com/apache/superset/releases/tag/1.4.0rc4), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.54.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.54.0), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
 - [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha3](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha3), 1 week ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), 3 weeks ago) - A container runtime written in Rust
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 4 weeks ago) - Secure sharing of secrets, passwords and files 
