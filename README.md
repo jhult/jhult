@@ -25,6 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.0.0](https://github.com/qarmin/czkawka/releases/tag/4.0.0), today) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.16.0-rc1), today) - Git with a cup of tea, painless self-hosted git service
 - [apache/superset](https://github.com/apache/superset) ([1.4.0](https://github.com/apache/superset/releases/tag/1.4.0), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.54.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.54.1), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
@@ -34,7 +35,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 4 weeks ago) - Secure sharing of secrets, passwords and files 
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.63.1](https://github.com/aquasecurity/tfsec/releases/tag/v0.63.1), 1 month ago) - Security scanner for your Terraform code
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.2](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.2), 1 month ago) - Maven plugin for ktlint the Kotlin linter
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([3.3.1](https://github.com/qarmin/czkawka/releases/tag/3.3.1), 1 month ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 #### 🔨 My recent Pull Requests
 
