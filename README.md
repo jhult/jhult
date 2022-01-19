@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, and tummy time to learn about and predict baby&#39;s needs without (as much) guess work. (today)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (1 day ago)
 - [thedaviddias/Mac-OS-Setup-Applications](https://github.com/thedaviddias/Mac-OS-Setup-Applications) - 👾 All I need to setup a new Mac and the applications I use everyday as a Web Developper (1 day ago)
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Jwink3101/syncrclone](https://github.com/Jwink3101/syncrclone) - Python-based bi-direction sync tool for rclone (5 days ago)
 - [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.nameserve.rs/ (5 days ago)
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (6 days ago)
-- [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. (6 days ago)
 
 #### 📫 How to reach me
 
