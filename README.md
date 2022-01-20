@@ -12,7 +12,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (2 days ago)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (3 days ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (1 month ago)
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (1 month ago)
 - [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (1 month ago)
@@ -25,42 +25,42 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.0.0](https://github.com/qarmin/czkawka/releases/tag/4.0.0), today) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.16.0-rc1), today) - Git with a cup of tea, painless self-hosted git service
-- [apache/superset](https://github.com/apache/superset) ([1.4.0](https://github.com/apache/superset/releases/tag/1.4.0), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.54.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.54.1), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.1](https://github.com/tailscale/tailscale/releases/tag/v1.20.1), 5 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.0.0](https://github.com/qarmin/czkawka/releases/tag/4.0.0), 1 day ago) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.16.0-rc1), 1 day ago) - Git with a cup of tea, painless self-hosted git service
+- [apache/superset](https://github.com/apache/superset) ([1.4.0](https://github.com/apache/superset/releases/tag/1.4.0), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.54.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.54.1), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.1](https://github.com/tailscale/tailscale/releases/tag/v1.20.1), 6 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha3](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha3), 1 week ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.1](https://github.com/containers/youki/releases/tag/v0.0.1), 3 weeks ago) - A container runtime written in Rust
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 4 weeks ago) - Secure sharing of secrets, passwords and files 
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 1 month ago) - Secure sharing of secrets, passwords and files 
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v0.63.1](https://github.com/aquasecurity/tfsec/releases/tag/v0.63.1), 1 month ago) - Security scanner for your Terraform code
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.2](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.2), 1 month ago) - Maven plugin for ktlint the Kotlin linter
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (1 day ago)
-- [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (3 days ago)
+- [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (2 days ago)
+- [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (4 days ago)
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (1 month ago)
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (1 month ago)
 - [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (1 month ago)
 - [client - default_character_set - use DB_DEFAULT_CHARACTER_SET](https://github.com/bitnami/bitnami-docker-mariadb/pull/254) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (1 month ago)
-- [Docs: fix Configuration &#34;kind&#34;](https://github.com/weaveworks/ignite/pull/877) on [weaveworks/ignite](https://github.com/weaveworks/ignite) (2 months ago)
+- [Docs: fix Configuration &#34;kind&#34;](https://github.com/weaveworks/ignite/pull/877) on [weaveworks/ignite](https://github.com/weaveworks/ignite) (3 months ago)
 - [Add MIT license](https://github.com/goenning/webping.cloud/pull/10) on [goenning/webping.cloud](https://github.com/goenning/webping.cloud) (3 months ago)
 - [Fix installer script on Oracle Linux](https://github.com/tailscale/tailscale/pull/3146) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (3 months ago)
 - [Misc updates](https://github.com/tnarg/cue_terraform/pull/1) on [tnarg/cue_terraform](https://github.com/tnarg/cue_terraform) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, and tummy time to learn about and predict baby&#39;s needs without (as much) guess work. (today)
-- [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (1 day ago)
-- [thedaviddias/Mac-OS-Setup-Applications](https://github.com/thedaviddias/Mac-OS-Setup-Applications) - 👾 All I need to setup a new Mac and the applications I use everyday as a Web Developper (1 day ago)
-- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing (1 day ago)
-- [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) -  (2 days ago)
-- [j0n17/bitbucket2gitea](https://github.com/j0n17/bitbucket2gitea) - Migrate Bitbucket repositories to Gitea (2 days ago)
-- [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs. (3 days ago)
-- [Jwink3101/syncrclone](https://github.com/Jwink3101/syncrclone) - Python-based bi-direction sync tool for rclone (5 days ago)
-- [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.nameserve.rs/ (5 days ago)
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (6 days ago)
+- [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, and tummy time to learn about and predict baby&#39;s needs without (as much) guess work. (1 day ago)
+- [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (2 days ago)
+- [thedaviddias/Mac-OS-Setup-Applications](https://github.com/thedaviddias/Mac-OS-Setup-Applications) - 👾 All I need to setup a new Mac and the applications I use everyday as a Web Developper (2 days ago)
+- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing (2 days ago)
+- [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) -  (3 days ago)
+- [j0n17/bitbucket2gitea](https://github.com/j0n17/bitbucket2gitea) - Migrate Bitbucket repositories to Gitea (3 days ago)
+- [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs. (4 days ago)
+- [Jwink3101/syncrclone](https://github.com/Jwink3101/syncrclone) - Python-based bi-direction sync tool for rclone (6 days ago)
+- [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.nameserve.rs/ (6 days ago)
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (1 week ago)
 
 #### 📫 How to reach me
 
