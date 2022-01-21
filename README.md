@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha4](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha4), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.4](https://github.com/vaadin/flow/releases/tag/9.0.4), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.0.0](https://github.com/qarmin/czkawka/releases/tag/4.0.0), 2 days ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.16.0-rc1), 2 days ago) - Git with a cup of tea, painless self-hosted git service
 - [apache/superset](https://github.com/apache/superset) ([1.4.0](https://github.com/apache/superset/releases/tag/1.4.0), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
