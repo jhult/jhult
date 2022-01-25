@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.0.0-rc.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.0.0-rc.1), today) - Security scanner for your Terraform code
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.0.0-rc.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.0.0-rc.2), today) - Security scanner for your Terraform code
 - [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 3 days ago) - A container runtime written in Rust
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.2](https://github.com/tailscale/tailscale/releases/tag/v1.20.2), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [vaadin/flow](https://github.com/vaadin/flow) ([9.0.4](https://github.com/vaadin/flow/releases/tag/9.0.4), 4 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
