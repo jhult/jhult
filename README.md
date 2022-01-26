@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.0.0-rc.4](https://github.com/aquasecurity/tfsec/releases/tag/v1.0.0-rc.4), today) - Security scanner for your Terraform code
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.3](https://github.com/tailscale/tailscale/releases/tag/v1.20.3), today) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.5](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.5), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.alpha5](https://github.com/vaadin/flow/releases/tag/10.0.0.alpha5), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.55.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.55.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.0.0-rc.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.0.0-rc.3), 1 day ago) - Security scanner for your Terraform code
 - [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 4 days ago) - A container runtime written in Rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.0.0](https://github.com/qarmin/czkawka/releases/tag/4.0.0), 1 week ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.16.0-rc1), 1 week ago) - Git with a cup of tea, painless self-hosted git service
