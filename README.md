@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [therootcompany/serviceman](https://github.com/therootcompany/serviceman) - Cross-platform service management for Mac, Linux, and Windows. (today)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (today)
 - [container-desktop/container-desktop](https://github.com/container-desktop/container-desktop) - Provides an alternative for Docker for Desktop on Windows using WSL2. (today)
 - [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react) - A full fledged UI for the rclone cloud sync tool (today)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, and tummy time to learn about and predict baby&#39;s needs without (as much) guess work. (1 week ago)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (1 week ago)
 - [thedaviddias/Mac-OS-Setup-Applications](https://github.com/thedaviddias/Mac-OS-Setup-Applications) - 👾 All I need to setup a new Mac and the applications I use everyday as a Web Developper (1 week ago)
-- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing (1 week ago)
 
 #### 📫 How to reach me
 
