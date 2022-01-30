@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.15.11](https://github.com/go-gitea/gitea/releases/tag/v1.15.11), today) - Git with a cup of tea, painless self-hosted git service
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.0](https://github.com/go-gitea/gitea/releases/tag/v1.16.0), today) - Git with a cup of tea, painless self-hosted git service
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.0.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.0.2), today) - Security scanner for your Terraform code
 - [vaadin/flow](https://github.com/vaadin/flow) ([2.7.10](https://github.com/vaadin/flow/releases/tag/2.7.10), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.6), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
