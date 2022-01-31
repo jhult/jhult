@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [ehmad11/suiteql](https://github.com/ehmad11/suiteql) - Run SQL queries against NetSuite using SuiteQL through SuiteTalk Rest Webservices.  (today)
 - [therootcompany/serviceman](https://github.com/therootcompany/serviceman) - Cross-platform service management for Mac, Linux, and Windows. (4 days ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (4 days ago)
 - [container-desktop/container-desktop](https://github.com/container-desktop/container-desktop) - Provides an alternative for Docker for Desktop on Windows using WSL2. (4 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (1 week ago)
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, and tummy time to learn about and predict baby&#39;s needs without (as much) guess work. (1 week ago)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (1 week ago)
-- [thedaviddias/Mac-OS-Setup-Applications](https://github.com/thedaviddias/Mac-OS-Setup-Applications) - 👾 All I need to setup a new Mac and the applications I use everyday as a Web Developper (1 week ago)
 
 #### 📫 How to reach me
 
