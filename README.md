@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.0.9](https://github.com/aquasecurity/tfsec/releases/tag/v1.0.9), today) - Security scanner for your Terraform code
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.0.10](https://github.com/aquasecurity/tfsec/releases/tag/v1.0.10), today) - Security scanner for your Terraform code
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), today) - 
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.55.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.55.1), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
 - [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.beta1](https://github.com/vaadin/flow/releases/tag/10.0.0.beta1), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
