@@ -25,14 +25,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.55.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.55.1), today) - Oracle Cloud Infrastructure SDK for Python
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.0.8](https://github.com/aquasecurity/tfsec/releases/tag/v1.0.8), today) - Security scanner for your Terraform code
-- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.beta1](https://github.com/vaadin/flow/releases/tag/10.0.0.beta1), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.0](https://github.com/go-gitea/gitea/releases/tag/v1.16.0), 2 days ago) - Git with a cup of tea, painless self-hosted git service
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.6), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.3](https://github.com/tailscale/tailscale/releases/tag/v1.20.3), 6 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.55.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.55.1), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.0.8](https://github.com/aquasecurity/tfsec/releases/tag/v1.0.8), 1 day ago) - Security scanner for your Terraform code
+- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.beta1](https://github.com/vaadin/flow/releases/tag/10.0.0.beta1), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.0](https://github.com/go-gitea/gitea/releases/tag/v1.16.0), 3 days ago) - Git with a cup of tea, painless self-hosted git service
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.6), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.3](https://github.com/tailscale/tailscale/releases/tag/v1.20.3), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 1 week ago) - A container runtime written in Rust
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.0.0](https://github.com/qarmin/czkawka/releases/tag/4.0.0), 1 week ago) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.0.0](https://github.com/qarmin/czkawka/releases/tag/4.0.0), 2 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.1](https://github.com/jhaals/yopass/releases/tag/11.4.1), 1 month ago) - Secure sharing of secrets, passwords and files 
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.11.2](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.11.2), 1 month ago) - Maven plugin for ktlint the Kotlin linter
 
@@ -51,15 +51,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [ehmad11/suiteql](https://github.com/ehmad11/suiteql) - Run SQL queries against NetSuite using SuiteQL through SuiteTalk Rest Webservices.  (1 day ago)
-- [therootcompany/serviceman](https://github.com/therootcompany/serviceman) - Cross-platform service management for Mac, Linux, and Windows. (5 days ago)
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (5 days ago)
-- [container-desktop/container-desktop](https://github.com/container-desktop/container-desktop) - Provides an alternative for Docker for Desktop on Windows using WSL2. (5 days ago)
-- [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react) - A full fledged UI for the rclone cloud sync tool (5 days ago)
-- [tobiasmcvey/rclonesetup](https://github.com/tobiasmcvey/rclonesetup) - How to setup and mount rclone remote drives on boot using Linux and Mac (5 days ago)
+- [ehmad11/suiteql](https://github.com/ehmad11/suiteql) - Run SQL queries against NetSuite using SuiteQL through SuiteTalk Rest Webservices.  (2 days ago)
+- [therootcompany/serviceman](https://github.com/therootcompany/serviceman) - Cross-platform service management for Mac, Linux, and Windows. (6 days ago)
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (6 days ago)
+- [container-desktop/container-desktop](https://github.com/container-desktop/container-desktop) - Provides an alternative for Docker for Desktop on Windows using WSL2. (6 days ago)
+- [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react) - A full fledged UI for the rclone cloud sync tool (6 days ago)
+- [tobiasmcvey/rclonesetup](https://github.com/tobiasmcvey/rclonesetup) - How to setup and mount rclone remote drives on boot using Linux and Mac (6 days ago)
 - [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore (1 week ago)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (1 week ago)
-- [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, and tummy time to learn about and predict baby&#39;s needs without (as much) guess work. (1 week ago)
+- [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, and tummy time to learn about and predict baby&#39;s needs without (as much) guess work. (2 weeks ago)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (2 weeks ago)
 
 #### 📫 How to reach me
