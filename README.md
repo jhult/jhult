@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.0.11](https://github.com/aquasecurity/tfsec/releases/tag/v1.0.11), today) - Security scanner for your Terraform code
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), today) - 
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.55.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.55.1), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
-- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.beta1](https://github.com/vaadin/flow/releases/tag/10.0.0.beta1), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.0](https://github.com/go-gitea/gitea/releases/tag/v1.16.0), 3 days ago) - Git with a cup of tea, painless self-hosted git service
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.6), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.0.11](https://github.com/aquasecurity/tfsec/releases/tag/v1.0.11), 1 day ago) - Security scanner for your Terraform code
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 1 day ago) - 
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.55.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.55.1), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.beta1](https://github.com/vaadin/flow/releases/tag/10.0.0.beta1), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.0](https://github.com/go-gitea/gitea/releases/tag/v1.16.0), 4 days ago) - Git with a cup of tea, painless self-hosted git service
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.6), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.3](https://github.com/tailscale/tailscale/releases/tag/v1.20.3), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 1 week ago) - A container runtime written in Rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.0.0](https://github.com/qarmin/czkawka/releases/tag/4.0.0), 2 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -51,12 +51,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [ehmad11/suiteql](https://github.com/ehmad11/suiteql) - Run SQL queries against NetSuite using SuiteQL through SuiteTalk Rest Webservices.  (2 days ago)
-- [therootcompany/serviceman](https://github.com/therootcompany/serviceman) - Cross-platform service management for Mac, Linux, and Windows. (6 days ago)
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (6 days ago)
-- [container-desktop/container-desktop](https://github.com/container-desktop/container-desktop) - Provides an alternative for Docker for Desktop on Windows using WSL2. (6 days ago)
-- [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react) - A full fledged UI for the rclone cloud sync tool (6 days ago)
-- [tobiasmcvey/rclonesetup](https://github.com/tobiasmcvey/rclonesetup) - How to setup and mount rclone remote drives on boot using Linux and Mac (6 days ago)
+- [ehmad11/suiteql](https://github.com/ehmad11/suiteql) - Run SQL queries against NetSuite using SuiteQL through SuiteTalk Rest Webservices.  (3 days ago)
+- [therootcompany/serviceman](https://github.com/therootcompany/serviceman) - Cross-platform service management for Mac, Linux, and Windows. (1 week ago)
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (1 week ago)
+- [container-desktop/container-desktop](https://github.com/container-desktop/container-desktop) - Provides an alternative for Docker for Desktop on Windows using WSL2. (1 week ago)
+- [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react) - A full fledged UI for the rclone cloud sync tool (1 week ago)
+- [tobiasmcvey/rclonesetup](https://github.com/tobiasmcvey/rclonesetup) - How to setup and mount rclone remote drives on boot using Linux and Mac (1 week ago)
 - [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore (1 week ago)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (1 week ago)
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, and tummy time to learn about and predict baby&#39;s needs without (as much) guess work. (2 weeks ago)
