@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.0.11](https://github.com/aquasecurity/tfsec/releases/tag/v1.0.11), 3 days ago) - Security scanner for your Terraform code
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 3 days ago) - 
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.55.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.55.1), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.beta1](https://github.com/vaadin/flow/releases/tag/10.0.0.beta1), 4 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.0](https://github.com/go-gitea/gitea/releases/tag/v1.16.0), 6 days ago) - Git with a cup of tea, painless self-hosted git service
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.0.11](https://github.com/aquasecurity/tfsec/releases/tag/v1.0.11), 4 days ago) - Security scanner for your Terraform code
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 4 days ago) - 
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.55.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.55.1), 5 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [vaadin/flow](https://github.com/vaadin/flow) ([10.0.0.beta1](https://github.com/vaadin/flow/releases/tag/10.0.0.beta1), 5 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.0](https://github.com/go-gitea/gitea/releases/tag/v1.16.0), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.6), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.3](https://github.com/tailscale/tailscale/releases/tag/v1.20.3), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 2 weeks ago) - A container runtime written in Rust
@@ -39,7 +39,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 🔨 My recent Pull Requests
 
 - [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (2 weeks ago)
-- [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (2 weeks ago)
+- [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (3 weeks ago)
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (1 month ago)
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (1 month ago)
 - [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (2 months ago)
@@ -51,12 +51,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [graalvm/graalvm-ce-builds](https://github.com/graalvm/graalvm-ce-builds) - GraalVM CE binaires built by the GraalVM community (today)
-- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js (1 day ago)
-- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection (2 days ago)
-- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features &amp; more (2 days ago)
-- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  (2 days ago)
-- [ehmad11/suiteql](https://github.com/ehmad11/suiteql) - Run SQL queries against NetSuite using SuiteQL through SuiteTalk Rest Webservices.  (5 days ago)
+- [graalvm/graalvm-ce-builds](https://github.com/graalvm/graalvm-ce-builds) - GraalVM CE binaires built by the GraalVM community (1 day ago)
+- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js (2 days ago)
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection (3 days ago)
+- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features &amp; more (3 days ago)
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  (3 days ago)
+- [ehmad11/suiteql](https://github.com/ehmad11/suiteql) - Run SQL queries against NetSuite using SuiteQL through SuiteTalk Rest Webservices.  (6 days ago)
 - [therootcompany/serviceman](https://github.com/therootcompany/serviceman) - Cross-platform service management for Mac, Linux, and Windows. (1 week ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (1 week ago)
 - [container-desktop/container-desktop](https://github.com/container-desktop/container-desktop) - Provides an alternative for Docker for Desktop on Windows using WSL2. (1 week ago)
