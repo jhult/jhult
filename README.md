@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.1.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.1.0), today) - Security scanner for your Terraform code
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.1.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.1.1), today) - Security scanner for your Terraform code
 - [vaadin/flow](https://github.com/vaadin/flow) ([2.7.11](https://github.com/vaadin/flow/releases/tag/2.7.11), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.1](https://github.com/go-gitea/gitea/releases/tag/v1.16.1), 1 day ago) - Git with a cup of tea, painless self-hosted git service
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 5 days ago) - 
