@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.1.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.1.2), today) - Security scanner for your Terraform code
-- [vaadin/flow](https://github.com/vaadin/flow) ([2.7.11](https://github.com/vaadin/flow/releases/tag/2.7.11), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.1](https://github.com/go-gitea/gitea/releases/tag/v1.16.1), 1 day ago) - Git with a cup of tea, painless self-hosted git service
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 5 days ago) - 
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.55.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.55.1), 6 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.1.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.1.2), 1 day ago) - Security scanner for your Terraform code
+- [vaadin/flow](https://github.com/vaadin/flow) ([2.7.11](https://github.com/vaadin/flow/releases/tag/2.7.11), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.1](https://github.com/go-gitea/gitea/releases/tag/v1.16.1), 2 days ago) - Git with a cup of tea, painless self-hosted git service
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 6 days ago) - 
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.55.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.55.1), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.6), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.3](https://github.com/tailscale/tailscale/releases/tag/v1.20.3), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 2 weeks ago) - A container runtime written in Rust
@@ -38,7 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (2 weeks ago)
+- [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (3 weeks ago)
 - [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (3 weeks ago)
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (1 month ago)
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (1 month ago)
@@ -51,14 +51,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore WebPKI (today)
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (today)
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨ (1 day ago)
-- [graalvm/graalvm-ce-builds](https://github.com/graalvm/graalvm-ce-builds) - GraalVM CE binaires built by the GraalVM community (2 days ago)
-- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js (3 days ago)
-- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection (4 days ago)
-- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features &amp; more (4 days ago)
-- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  (4 days ago)
+- [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore WebPKI (1 day ago)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (1 day ago)
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨ (2 days ago)
+- [graalvm/graalvm-ce-builds](https://github.com/graalvm/graalvm-ce-builds) - GraalVM CE binaires built by the GraalVM community (3 days ago)
+- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js (4 days ago)
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection (5 days ago)
+- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features &amp; more (5 days ago)
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  (5 days ago)
 - [ehmad11/suiteql](https://github.com/ehmad11/suiteql) - Run SQL queries against NetSuite using SuiteQL through SuiteTalk Rest Webservices.  (1 week ago)
 - [therootcompany/serviceman](https://github.com/therootcompany/serviceman) - Cross-platform service management for Mac, Linux, and Windows. (1 week ago)
 
