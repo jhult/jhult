@@ -38,6 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (today)
 - [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (today)
 - [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (3 weeks ago)
 - [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (3 weeks ago)
@@ -47,7 +48,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [client - default_character_set - use DB_DEFAULT_CHARACTER_SET](https://github.com/bitnami/bitnami-docker-mariadb/pull/254) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (2 months ago)
 - [Docs: fix Configuration &#34;kind&#34;](https://github.com/weaveworks/ignite/pull/877) on [weaveworks/ignite](https://github.com/weaveworks/ignite) (3 months ago)
 - [Add MIT license](https://github.com/goenning/webping.cloud/pull/10) on [goenning/webping.cloud](https://github.com/goenning/webping.cloud) (3 months ago)
-- [Fix installer script on Oracle Linux](https://github.com/tailscale/tailscale/pull/3146) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (3 months ago)
 
 #### ⭐ Recent Stars
 
