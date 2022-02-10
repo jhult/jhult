@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.8](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.8), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.1.4](https://github.com/aquasecurity/tfsec/releases/tag/v1.1.4), today) - Security scanner for your Terraform code
 - [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.beta1](https://github.com/vaadin/flow/releases/tag/23.0.0.beta1), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.4](https://github.com/tailscale/tailscale/releases/tag/v1.20.4), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.7](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.7), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.56.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.56.0), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.1](https://github.com/go-gitea/gitea/releases/tag/v1.16.1), 4 days ago) - Git with a cup of tea, painless self-hosted git service
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 1 week ago) - 
@@ -38,6 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (today)
 - [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (3 weeks ago)
 - [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (3 weeks ago)
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (1 month ago)
@@ -47,7 +48,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Docs: fix Configuration &#34;kind&#34;](https://github.com/weaveworks/ignite/pull/877) on [weaveworks/ignite](https://github.com/weaveworks/ignite) (3 months ago)
 - [Add MIT license](https://github.com/goenning/webping.cloud/pull/10) on [goenning/webping.cloud](https://github.com/goenning/webping.cloud) (3 months ago)
 - [Fix installer script on Oracle Linux](https://github.com/tailscale/tailscale/pull/3146) on [tailscale/tailscale](https://github.com/tailscale/tailscale) (3 months ago)
-- [Misc updates](https://github.com/tnarg/cue_terraform/pull/1) on [tnarg/cue_terraform](https://github.com/tnarg/cue_terraform) (4 months ago)
 
 #### ⭐ Recent Stars
 
