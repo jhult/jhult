@@ -13,8 +13,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 👷 Check out what I'm currently working on
 
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (3 weeks ago)
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (1 month ago)
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (1 month ago)
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (2 months ago)
+- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (2 months ago)
 - [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (2 months ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (3 months ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (3 months ago)
@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.8](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.8), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.1.4](https://github.com/aquasecurity/tfsec/releases/tag/v1.1.4), today) - Security scanner for your Terraform code
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.beta1](https://github.com/vaadin/flow/releases/tag/23.0.0.beta1), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.4](https://github.com/tailscale/tailscale/releases/tag/v1.20.4), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.56.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.56.0), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.1](https://github.com/go-gitea/gitea/releases/tag/v1.16.1), 4 days ago) - Git with a cup of tea, painless self-hosted git service
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.8](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.8), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.1.4](https://github.com/aquasecurity/tfsec/releases/tag/v1.1.4), 1 day ago) - Security scanner for your Terraform code
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.beta1](https://github.com/vaadin/flow/releases/tag/23.0.0.beta1), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.4](https://github.com/tailscale/tailscale/releases/tag/v1.20.4), 2 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.56.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.56.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.1](https://github.com/go-gitea/gitea/releases/tag/v1.16.1), 5 days ago) - Git with a cup of tea, painless self-hosted git service
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 1 week ago) - 
 - [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 2 weeks ago) - A container runtime written in Rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.0.0](https://github.com/qarmin/czkawka/releases/tag/4.0.0), 3 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -38,8 +38,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (today)
-- [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (today)
+- [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (1 day ago)
+- [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (1 day ago)
 - [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (3 weeks ago)
 - [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (3 weeks ago)
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (1 month ago)
@@ -51,13 +51,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion (2 days ago)
-- [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions (2 days ago)
-- [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore WebPKI (3 days ago)
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (3 days ago)
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨ (4 days ago)
-- [graalvm/graalvm-ce-builds](https://github.com/graalvm/graalvm-ce-builds) - GraalVM CE binaires built by the GraalVM community (5 days ago)
-- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js (6 days ago)
+- [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion (3 days ago)
+- [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions (3 days ago)
+- [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore WebPKI (4 days ago)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (4 days ago)
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨ (5 days ago)
+- [graalvm/graalvm-ce-builds](https://github.com/graalvm/graalvm-ce-builds) - GraalVM CE binaires built by the GraalVM community (6 days ago)
+- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js (1 week ago)
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection (1 week ago)
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features &amp; more (1 week ago)
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  (1 week ago)
