@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.1.5](https://github.com/aquasecurity/tfsec/releases/tag/v1.1.5), today) - Security scanner for your Terraform code
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.8](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.8), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.1.4](https://github.com/aquasecurity/tfsec/releases/tag/v1.1.4), 1 day ago) - Security scanner for your Terraform code
 - [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.beta1](https://github.com/vaadin/flow/releases/tag/23.0.0.beta1), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.4](https://github.com/tailscale/tailscale/releases/tag/v1.20.4), 2 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.56.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.56.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
