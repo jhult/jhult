@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [warren-bank/fork-crx-PrivacyPass-challenge-bypass](https://github.com/warren-bank/fork-crx-PrivacyPass-challenge-bypass) - Privacy Pass: a privacy-enhancing protocol and browser extension. (today)
 - [tleyden/open-ocr](https://github.com/tleyden/open-ocr) - Run your own OCR-as-a-Service using Tesseract and Docker (today)
 - [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects (today)
 - [ElectricRCAircraftGuy/PDF2SearchablePDF](https://github.com/ElectricRCAircraftGuy/PDF2SearchablePDF) - `pdf2searchablepdf input.pdf` = voila! &#34;input_searchable.pdf&#34; is created &amp; now has searchable text! (today)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (1 day ago)
 - [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion (4 days ago)
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions (4 days ago)
-- [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore WebPKI (5 days ago)
 
 #### 📫 How to reach me
 
