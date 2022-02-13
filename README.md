@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that&#39;s optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo. (today)
 - [warren-bank/fork-crx-PrivacyPass-challenge-bypass](https://github.com/warren-bank/fork-crx-PrivacyPass-challenge-bypass) - Privacy Pass: a privacy-enhancing protocol and browser extension. (1 day ago)
 - [tleyden/open-ocr](https://github.com/tleyden/open-ocr) - Run your own OCR-as-a-Service using Tesseract and Docker (1 day ago)
 - [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [JonathanxD/meili-ktr](https://github.com/JonathanxD/meili-ktr) -  (2 days ago)
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (2 days ago)
 - [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion (5 days ago)
-- [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions (5 days ago)
 
 #### 📫 How to reach me
 
