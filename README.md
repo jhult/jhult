@@ -12,7 +12,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (1 day ago)
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (2 days ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (3 weeks ago)
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (2 months ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (2 months ago)
@@ -25,24 +25,24 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.beta2](https://github.com/vaadin/flow/releases/tag/23.0.0.beta2), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.1.5](https://github.com/aquasecurity/tfsec/releases/tag/v1.1.5), 1 day ago) - Security scanner for your Terraform code
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.8](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.8), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.4](https://github.com/tailscale/tailscale/releases/tag/v1.20.4), 3 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.56.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.56.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.12.1](https://github.com/postalsys/emailengine/releases/tag/v2.12.1), 4 days ago) - Headless email client
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.1](https://github.com/go-gitea/gitea/releases/tag/v1.16.1), 6 days ago) - Git with a cup of tea, painless self-hosted git service
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.beta2](https://github.com/vaadin/flow/releases/tag/23.0.0.beta2), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.1.5](https://github.com/aquasecurity/tfsec/releases/tag/v1.1.5), 2 days ago) - Security scanner for your Terraform code
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.8](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.8), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.4](https://github.com/tailscale/tailscale/releases/tag/v1.20.4), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.56.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.56.0), 5 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.12.1](https://github.com/postalsys/emailengine/releases/tag/v2.12.1), 5 days ago) - Headless email client
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.1](https://github.com/go-gitea/gitea/releases/tag/v1.16.1), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 1 week ago) - 
 - [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 3 weeks ago) - A container runtime written in Rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.0.0](https://github.com/qarmin/czkawka/releases/tag/4.0.0), 3 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (1 day ago)
-- [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (2 days ago)
-- [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (2 days ago)
+- [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (2 days ago)
+- [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (3 days ago)
+- [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (3 days ago)
 - [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (3 weeks ago)
-- [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (3 weeks ago)
+- [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (4 weeks ago)
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (1 month ago)
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (2 months ago)
 - [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (2 months ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [warren-bank/fork-crx-PrivacyPass-challenge-bypass](https://github.com/warren-bank/fork-crx-PrivacyPass-challenge-bypass) - Privacy Pass: a privacy-enhancing protocol and browser extension. (today)
-- [tleyden/open-ocr](https://github.com/tleyden/open-ocr) - Run your own OCR-as-a-Service using Tesseract and Docker (today)
-- [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects (today)
-- [ElectricRCAircraftGuy/PDF2SearchablePDF](https://github.com/ElectricRCAircraftGuy/PDF2SearchablePDF) - `pdf2searchablepdf input.pdf` = voila! &#34;input_searchable.pdf&#34; is created &amp; now has searchable text! (today)
-- [deajan/pmOCR](https://github.com/deajan/pmOCR) - A wrapper for tesseract / abbyyOCR11 ocr4linux finereader cli that can perform batch operations or monitor a directory and launch an OCR conversion on file activity (today)
-- [tesseract4java/tesseract4java](https://github.com/tesseract4java/tesseract4java) - Java GUI and Tools for Tesseract OCR (today)
-- [JonathanxD/meili-ktr](https://github.com/JonathanxD/meili-ktr) -  (1 day ago)
-- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (1 day ago)
-- [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion (4 days ago)
-- [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions (4 days ago)
+- [warren-bank/fork-crx-PrivacyPass-challenge-bypass](https://github.com/warren-bank/fork-crx-PrivacyPass-challenge-bypass) - Privacy Pass: a privacy-enhancing protocol and browser extension. (1 day ago)
+- [tleyden/open-ocr](https://github.com/tleyden/open-ocr) - Run your own OCR-as-a-Service using Tesseract and Docker (1 day ago)
+- [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects (1 day ago)
+- [ElectricRCAircraftGuy/PDF2SearchablePDF](https://github.com/ElectricRCAircraftGuy/PDF2SearchablePDF) - `pdf2searchablepdf input.pdf` = voila! &#34;input_searchable.pdf&#34; is created &amp; now has searchable text! (1 day ago)
+- [deajan/pmOCR](https://github.com/deajan/pmOCR) - A wrapper for tesseract / abbyyOCR11 ocr4linux finereader cli that can perform batch operations or monitor a directory and launch an OCR conversion on file activity (1 day ago)
+- [tesseract4java/tesseract4java](https://github.com/tesseract4java/tesseract4java) - Java GUI and Tools for Tesseract OCR (1 day ago)
+- [JonathanxD/meili-ktr](https://github.com/JonathanxD/meili-ktr) -  (2 days ago)
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (2 days ago)
+- [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion (5 days ago)
+- [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions (5 days ago)
 
 #### 📫 How to reach me
 
