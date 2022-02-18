@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.3.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.3.0), today) - Security scanner for your Terraform code
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.4.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.4.0), today) - Security scanner for your Terraform code
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.9](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.9), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.beta3](https://github.com/vaadin/flow/releases/tag/23.0.0.beta3), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.57.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.57.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [stephenegriffin/MHA](https://github.com/stephenegriffin/MHA) - Message Header Analyzer Add-in For Outlook (today)
 - [nguyenq/tess4j](https://github.com/nguyenq/tess4j) - Java JNA wrapper for Tesseract OCR API (3 days ago)
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that&#39;s optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo. (5 days ago)
 - [warren-bank/fork-crx-PrivacyPass-challenge-bypass](https://github.com/warren-bank/fork-crx-PrivacyPass-challenge-bypass) - Privacy Pass: a privacy-enhancing protocol and browser extension. (6 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [deajan/pmOCR](https://github.com/deajan/pmOCR) - A wrapper for tesseract / abbyyOCR11 ocr4linux finereader cli that can perform batch operations or monitor a directory and launch an OCR conversion on file activity (6 days ago)
 - [tesseract4java/tesseract4java](https://github.com/tesseract4java/tesseract4java) - Java GUI and Tools for Tesseract OCR (6 days ago)
 - [JonathanxD/meili-ktr](https://github.com/JonathanxD/meili-ktr) -  (1 week ago)
-- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (1 week ago)
 
 #### 📫 How to reach me
 
