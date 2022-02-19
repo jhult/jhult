@@ -25,15 +25,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.4.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.4.0), today) - Security scanner for your Terraform code
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.9](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.9), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.beta3](https://github.com/vaadin/flow/releases/tag/23.0.0.beta3), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.57.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.57.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.4.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.4.0), 1 day ago) - Security scanner for your Terraform code
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.9](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.9), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.beta3](https://github.com/vaadin/flow/releases/tag/23.0.0.beta3), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.57.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.57.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.4](https://github.com/tailscale/tailscale/releases/tag/v1.20.4), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.12.1](https://github.com/postalsys/emailengine/releases/tag/v2.12.1), 1 week ago) - Headless email client
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.1](https://github.com/go-gitea/gitea/releases/tag/v1.16.1), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 2 weeks ago) - 
-- [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 3 weeks ago) - A container runtime written in Rust
+- [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 4 weeks ago) - A container runtime written in Rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.0.0](https://github.com/qarmin/czkawka/releases/tag/4.0.0), 1 month ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 #### 🔨 My recent Pull Requests
@@ -47,20 +47,20 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (2 months ago)
 - [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (2 months ago)
 - [client - default_character_set - use DB_DEFAULT_CHARACTER_SET](https://github.com/bitnami/bitnami-docker-mariadb/pull/254) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (2 months ago)
-- [Docs: fix Configuration &#34;kind&#34;](https://github.com/weaveworks/ignite/pull/877) on [weaveworks/ignite](https://github.com/weaveworks/ignite) (3 months ago)
+- [Docs: fix Configuration &#34;kind&#34;](https://github.com/weaveworks/ignite/pull/877) on [weaveworks/ignite](https://github.com/weaveworks/ignite) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [hertzg/tesseract-server](https://github.com/hertzg/tesseract-server) - A small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract. (today)
-- [mismaah/ocr-rest-service](https://github.com/mismaah/ocr-rest-service) - REST service which returns text from an image when the url for the image is provided. (today)
-- [stephenegriffin/MHA](https://github.com/stephenegriffin/MHA) - Message Header Analyzer Add-in For Outlook (today)
-- [nguyenq/tess4j](https://github.com/nguyenq/tess4j) - Java JNA wrapper for Tesseract OCR API (3 days ago)
-- [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that&#39;s optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo. (5 days ago)
-- [warren-bank/fork-crx-PrivacyPass-challenge-bypass](https://github.com/warren-bank/fork-crx-PrivacyPass-challenge-bypass) - Privacy Pass: a privacy-enhancing protocol and browser extension. (6 days ago)
-- [tleyden/open-ocr](https://github.com/tleyden/open-ocr) - Run your own OCR-as-a-Service using Tesseract and Docker (6 days ago)
-- [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects (6 days ago)
-- [ElectricRCAircraftGuy/PDF2SearchablePDF](https://github.com/ElectricRCAircraftGuy/PDF2SearchablePDF) - `pdf2searchablepdf input.pdf` = voila! &#34;input_searchable.pdf&#34; is created &amp; now has searchable text! (6 days ago)
-- [deajan/pmOCR](https://github.com/deajan/pmOCR) - A wrapper for tesseract / abbyyOCR11 ocr4linux finereader cli that can perform batch operations or monitor a directory and launch an OCR conversion on file activity (6 days ago)
+- [hertzg/tesseract-server](https://github.com/hertzg/tesseract-server) - A small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract. (1 day ago)
+- [mismaah/ocr-rest-service](https://github.com/mismaah/ocr-rest-service) - REST service which returns text from an image when the url for the image is provided. (1 day ago)
+- [stephenegriffin/MHA](https://github.com/stephenegriffin/MHA) - Message Header Analyzer Add-in For Outlook (1 day ago)
+- [nguyenq/tess4j](https://github.com/nguyenq/tess4j) - Java JNA wrapper for Tesseract OCR API (4 days ago)
+- [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that&#39;s optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo. (6 days ago)
+- [warren-bank/fork-crx-PrivacyPass-challenge-bypass](https://github.com/warren-bank/fork-crx-PrivacyPass-challenge-bypass) - Privacy Pass: a privacy-enhancing protocol and browser extension. (1 week ago)
+- [tleyden/open-ocr](https://github.com/tleyden/open-ocr) - Run your own OCR-as-a-Service using Tesseract and Docker (1 week ago)
+- [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects (1 week ago)
+- [ElectricRCAircraftGuy/PDF2SearchablePDF](https://github.com/ElectricRCAircraftGuy/PDF2SearchablePDF) - `pdf2searchablepdf input.pdf` = voila! &#34;input_searchable.pdf&#34; is created &amp; now has searchable text! (1 week ago)
+- [deajan/pmOCR](https://github.com/deajan/pmOCR) - A wrapper for tesseract / abbyyOCR11 ocr4linux finereader cli that can perform batch operations or monitor a directory and launch an OCR conversion on file activity (1 week ago)
 
 #### 📫 How to reach me
 
