@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) -  Grist is the evolution of spreadsheets.  (today)
 - [hertzg/tesseract-server](https://github.com/hertzg/tesseract-server) - A small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract. (1 day ago)
 - [mismaah/ocr-rest-service](https://github.com/mismaah/ocr-rest-service) - REST service which returns text from an image when the url for the image is provided. (1 day ago)
 - [stephenegriffin/MHA](https://github.com/stephenegriffin/MHA) - Message Header Analyzer Add-in For Outlook (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [tleyden/open-ocr](https://github.com/tleyden/open-ocr) - Run your own OCR-as-a-Service using Tesseract and Docker (1 week ago)
 - [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects (1 week ago)
 - [ElectricRCAircraftGuy/PDF2SearchablePDF](https://github.com/ElectricRCAircraftGuy/PDF2SearchablePDF) - `pdf2searchablepdf input.pdf` = voila! &#34;input_searchable.pdf&#34; is created &amp; now has searchable text! (1 week ago)
-- [deajan/pmOCR](https://github.com/deajan/pmOCR) - A wrapper for tesseract / abbyyOCR11 ocr4linux finereader cli that can perform batch operations or monitor a directory and launch an OCR conversion on file activity (1 week ago)
 
 #### 📫 How to reach me
 
