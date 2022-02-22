@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.4.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.4.2), today) - Security scanner for your Terraform code
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.9](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.9), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.beta3](https://github.com/vaadin/flow/releases/tag/23.0.0.beta3), 5 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.57.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.57.0), 6 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.4.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.4.2), 1 day ago) - Security scanner for your Terraform code
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.9](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.9), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.beta3](https://github.com/vaadin/flow/releases/tag/23.0.0.beta3), 6 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.57.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.57.0), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.4](https://github.com/tailscale/tailscale/releases/tag/v1.20.4), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.12.1](https://github.com/postalsys/emailengine/releases/tag/v2.12.1), 1 week ago) - Headless email client
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.12.1](https://github.com/postalsys/emailengine/releases/tag/v2.12.1), 2 weeks ago) - Headless email client
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.1](https://github.com/go-gitea/gitea/releases/tag/v1.16.1), 2 weeks ago) - Git with a cup of tea, painless self-hosted git service
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 2 weeks ago) - 
 - [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 1 month ago) - A container runtime written in Rust
@@ -51,15 +51,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (today)
-- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨ (today)
-- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds (2 days ago)
-- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it (2 days ago)
-- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) -  Grist is the evolution of spreadsheets.  (2 days ago)
-- [hertzg/tesseract-server](https://github.com/hertzg/tesseract-server) - A small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract. (3 days ago)
-- [mismaah/ocr-service](https://github.com/mismaah/ocr-service) - Service which returns text from an image when the url for the image is provided. (3 days ago)
-- [stephenegriffin/MHA](https://github.com/stephenegriffin/MHA) - Message Header Analyzer Add-in For Outlook (3 days ago)
-- [nguyenq/tess4j](https://github.com/nguyenq/tess4j) - Java JNA wrapper for Tesseract OCR API (6 days ago)
+- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (1 day ago)
+- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨ (1 day ago)
+- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds (3 days ago)
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it (3 days ago)
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) -  Grist is the evolution of spreadsheets.  (3 days ago)
+- [hertzg/tesseract-server](https://github.com/hertzg/tesseract-server) - A small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract. (4 days ago)
+- [mismaah/ocr-service](https://github.com/mismaah/ocr-service) - Service which returns text from an image when the url for the image is provided. (4 days ago)
+- [stephenegriffin/MHA](https://github.com/stephenegriffin/MHA) - Message Header Analyzer Add-in For Outlook (4 days ago)
+- [nguyenq/tess4j](https://github.com/nguyenq/tess4j) - Java JNA wrapper for Tesseract OCR API (1 week ago)
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that&#39;s optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo. (1 week ago)
 
 #### 📫 How to reach me
