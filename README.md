@@ -25,14 +25,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.beta4](https://github.com/vaadin/flow/releases/tag/23.0.0.beta4), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.58.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.58.0), today) - Oracle Cloud Infrastructure SDK for Python
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.4.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.4.2), 1 day ago) - Security scanner for your Terraform code
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.9](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.9), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.4](https://github.com/tailscale/tailscale/releases/tag/v1.20.4), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.beta4](https://github.com/vaadin/flow/releases/tag/23.0.0.beta4), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.58.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.58.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.4.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.4.2), 2 days ago) - Security scanner for your Terraform code
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.9](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.9), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.20.4](https://github.com/tailscale/tailscale/releases/tag/v1.20.4), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.12.1](https://github.com/postalsys/emailengine/releases/tag/v2.12.1), 2 weeks ago) - Headless email client
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.1](https://github.com/go-gitea/gitea/releases/tag/v1.16.1), 2 weeks ago) - Git with a cup of tea, painless self-hosted git service
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 2 weeks ago) - 
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 3 weeks ago) - 
 - [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 1 month ago) - A container runtime written in Rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.0.0](https://github.com/qarmin/czkawka/releases/tag/4.0.0), 1 month ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [DanBloomberg/leptonica](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. The official github repository for Leptonica is: danbloomberg/leptonica.  See leptonica.org for more documentation and recent releases. (today)
-- [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome. (today)
-- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (1 day ago)
-- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨ (1 day ago)
-- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds (3 days ago)
-- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it (3 days ago)
-- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) -  Grist is the evolution of spreadsheets.  (3 days ago)
-- [hertzg/tesseract-server](https://github.com/hertzg/tesseract-server) - A small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract. (4 days ago)
-- [mismaah/ocr-service](https://github.com/mismaah/ocr-service) - Service which returns text from an image when the url for the image is provided. (4 days ago)
-- [stephenegriffin/MHA](https://github.com/stephenegriffin/MHA) - Message Header Analyzer Add-in For Outlook (4 days ago)
+- [DanBloomberg/leptonica](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. The official github repository for Leptonica is: danbloomberg/leptonica.  See leptonica.org for more documentation and recent releases. (1 day ago)
+- [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome. (1 day ago)
+- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (2 days ago)
+- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨ (2 days ago)
+- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds (4 days ago)
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it (4 days ago)
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) -  Grist is the evolution of spreadsheets.  (4 days ago)
+- [hertzg/tesseract-server](https://github.com/hertzg/tesseract-server) - A small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract. (5 days ago)
+- [mismaah/ocr-service](https://github.com/mismaah/ocr-service) - Service which returns text from an image when the url for the image is provided. (5 days ago)
+- [stephenegriffin/MHA](https://github.com/stephenegriffin/MHA) - Message Header Analyzer Add-in For Outlook (5 days ago)
 
 #### 📫 How to reach me
 
