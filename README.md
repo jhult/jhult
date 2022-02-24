@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.rc1](https://github.com/vaadin/flow/releases/tag/23.0.0.rc1), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.0](https://github.com/tailscale/tailscale/releases/tag/v1.22.0), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.8](https://github.com/vaadin/flow/releases/tag/9.0.8), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.10), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.13.0](https://github.com/postalsys/emailengine/releases/tag/v2.13.0), 1 day ago) - Headless email client
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.58.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.58.0), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
