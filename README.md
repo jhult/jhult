@@ -25,20 +25,20 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.2](https://github.com/go-gitea/gitea/releases/tag/v1.16.2), 1 day ago) - Git with a cup of tea, painless self-hosted git service
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.rc1](https://github.com/vaadin/flow/releases/tag/23.0.0.rc1), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.0](https://github.com/tailscale/tailscale/releases/tag/v1.22.0), 2 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.10), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.13.0](https://github.com/postalsys/emailengine/releases/tag/v2.13.0), 2 days ago) - Headless email client
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.58.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.58.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.4.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.4.2), 4 days ago) - Security scanner for your Terraform code
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.2](https://github.com/go-gitea/gitea/releases/tag/v1.16.2), 2 days ago) - Git with a cup of tea, painless self-hosted git service
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0.rc1](https://github.com/vaadin/flow/releases/tag/23.0.0.rc1), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.0](https://github.com/tailscale/tailscale/releases/tag/v1.22.0), 3 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.10), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.13.0](https://github.com/postalsys/emailengine/releases/tag/v2.13.0), 3 days ago) - Headless email client
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.58.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.58.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.4.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.4.2), 5 days ago) - Security scanner for your Terraform code
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 3 weeks ago) - 
 - [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 1 month ago) - A container runtime written in Rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.0.0](https://github.com/qarmin/czkawka/releases/tag/4.0.0), 1 month ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 #### 🔨 My recent Pull Requests
 
-- [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (2 days ago)
+- [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (3 days ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (2 weeks ago)
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (2 weeks ago)
 - [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (2 weeks ago)
@@ -51,13 +51,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [DanBloomberg/leptonica](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. The official github repository for Leptonica is: danbloomberg/leptonica.  See leptonica.org for more documentation and recent releases. (3 days ago)
-- [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome. (3 days ago)
-- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (4 days ago)
-- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨ (4 days ago)
-- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds (6 days ago)
-- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it (6 days ago)
-- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) -  Grist is the evolution of spreadsheets.  (6 days ago)
+- [DanBloomberg/leptonica](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. The official github repository for Leptonica is: danbloomberg/leptonica.  See leptonica.org for more documentation and recent releases. (4 days ago)
+- [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome. (4 days ago)
+- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (5 days ago)
+- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨ (5 days ago)
+- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds (1 week ago)
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it (1 week ago)
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) -  Grist is the evolution of spreadsheets.  (1 week ago)
 - [hertzg/tesseract-server](https://github.com/hertzg/tesseract-server) - A small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract. (1 week ago)
 - [mismaah/ocr-service](https://github.com/mismaah/ocr-service) - Service which returns text from an image when the url for the image is provided. (1 week ago)
 - [stephenegriffin/MHA](https://github.com/stephenegriffin/MHA) - Message Header Analyzer Add-in For Outlook (1 week ago)
