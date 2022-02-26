@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail&#39;s API over HTTPS. (today)
 - [DanBloomberg/leptonica](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. The official github repository for Leptonica is: danbloomberg/leptonica.  See leptonica.org for more documentation and recent releases. (4 days ago)
 - [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome. (4 days ago)
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (5 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) -  Grist is the evolution of spreadsheets.  (1 week ago)
 - [hertzg/tesseract-server](https://github.com/hertzg/tesseract-server) - A small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract. (1 week ago)
 - [mismaah/ocr-service](https://github.com/mismaah/ocr-service) - Service which returns text from an image when the url for the image is provided. (1 week ago)
-- [stephenegriffin/MHA](https://github.com/stephenegriffin/MHA) - Message Header Analyzer Add-in For Outlook (1 week ago)
 
 #### 📫 How to reach me
 
