@@ -12,8 +12,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (today)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. (2 weeks ago)
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (2 weeks ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (1 month ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (1 month ago)
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (2 months ago)
@@ -38,6 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (today)
 - [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (6 days ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (2 weeks ago)
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (2 weeks ago)
@@ -47,10 +48,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (2 months ago)
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (2 months ago)
 - [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (3 months ago)
-- [client - default_character_set - use DB_DEFAULT_CHARACTER_SET](https://github.com/bitnami/bitnami-docker-mariadb/pull/254) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (3 months ago)
 
 #### ⭐ Recent Stars
 
+- [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning (today)
 - [apache/dubbo](https://github.com/apache/dubbo) - Apache Dubbo is a high-performance, java based, open source RPC framework. (1 day ago)
 - [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management (1 day ago)
 - [apache/apisix-dashboard](https://github.com/apache/apisix-dashboard) - Dashboard for Apache APISIX (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [alash3al/smtp2http](https://github.com/alash3al/smtp2http) - A tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request (2 days ago)
 - [dbmail/dbmail](https://github.com/dbmail/dbmail) - DBMail: fast and scalable email services (2 days ago)
 - [Foundry376/Mailspring-Sync](https://github.com/Foundry376/Mailspring-Sync) -  (2 days ago)
-- [MailCore/mailcore2](https://github.com/MailCore/mailcore2) - MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP. The API has been redesigned from ground up. (2 days ago)
 
 #### 📫 How to reach me
 
