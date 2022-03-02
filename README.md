@@ -12,7 +12,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (today)
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (1 day ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. (2 weeks ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (1 month ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (1 month ago)
@@ -25,21 +25,21 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.59.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.59.0), today) - Oracle Cloud Infrastructure SDK for Python
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0](https://github.com/vaadin/flow/releases/tag/23.0.0), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.2](https://github.com/go-gitea/gitea/releases/tag/v1.16.2), 5 days ago) - Git with a cup of tea, painless self-hosted git service
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.0](https://github.com/tailscale/tailscale/releases/tag/v1.22.0), 6 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.10), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.13.0](https://github.com/postalsys/emailengine/releases/tag/v2.13.0), 6 days ago) - Headless email client
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.59.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.59.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0](https://github.com/vaadin/flow/releases/tag/23.0.0), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.2](https://github.com/go-gitea/gitea/releases/tag/v1.16.2), 6 days ago) - Git with a cup of tea, painless self-hosted git service
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.0](https://github.com/tailscale/tailscale/releases/tag/v1.22.0), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.10), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.13.0](https://github.com/postalsys/emailengine/releases/tag/v2.13.0), 1 week ago) - Headless email client
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.4.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.4.2), 1 week ago) - Security scanner for your Terraform code
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 3 weeks ago) - 
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 4 weeks ago) - 
 - [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 1 month ago) - A container runtime written in Rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.0.0](https://github.com/qarmin/czkawka/releases/tag/4.0.0), 1 month ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 #### 🔨 My recent Pull Requests
 
-- [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (today)
-- [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (6 days ago)
+- [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (1 day ago)
+- [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (1 week ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (2 weeks ago)
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (2 weeks ago)
 - [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (2 weeks ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning (today)
-- [apache/dubbo](https://github.com/apache/dubbo) - Apache Dubbo is a high-performance, java based, open source RPC framework. (1 day ago)
-- [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management (1 day ago)
-- [apache/apisix-dashboard](https://github.com/apache/apisix-dashboard) - Dashboard for Apache APISIX (1 day ago)
-- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway (1 day ago)
-- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols (1 day ago)
-- [devopsfaith/krakend-ce](https://github.com/devopsfaith/krakend-ce) - KrakenD Community Edition. Make your binary of KrakenD API Gateway (1 day ago)
-- [alash3al/smtp2http](https://github.com/alash3al/smtp2http) - A tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request (2 days ago)
-- [dbmail/dbmail](https://github.com/dbmail/dbmail) - DBMail: fast and scalable email services (2 days ago)
-- [Foundry376/Mailspring-Sync](https://github.com/Foundry376/Mailspring-Sync) -  (2 days ago)
+- [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning (1 day ago)
+- [apache/dubbo](https://github.com/apache/dubbo) - Apache Dubbo is a high-performance, java based, open source RPC framework. (2 days ago)
+- [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management (2 days ago)
+- [apache/apisix-dashboard](https://github.com/apache/apisix-dashboard) - Dashboard for Apache APISIX (2 days ago)
+- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway (2 days ago)
+- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols (2 days ago)
+- [devopsfaith/krakend-ce](https://github.com/devopsfaith/krakend-ce) - KrakenD Community Edition. Make your binary of KrakenD API Gateway (2 days ago)
+- [alash3al/smtp2http](https://github.com/alash3al/smtp2http) - A tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request (3 days ago)
+- [dbmail/dbmail](https://github.com/dbmail/dbmail) - DBMail: fast and scalable email services (3 days ago)
+- [Foundry376/Mailspring-Sync](https://github.com/Foundry376/Mailspring-Sync) -  (3 days ago)
 
 #### 📫 How to reach me
 
