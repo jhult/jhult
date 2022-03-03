@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface (today)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (1 day ago)
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers (1 day ago)
 - [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) - A curated list of awesome developer-first tools products. (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [apache/apisix-dashboard](https://github.com/apache/apisix-dashboard) - Dashboard for Apache APISIX (3 days ago)
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway (3 days ago)
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols (3 days ago)
-- [devopsfaith/krakend-ce](https://github.com/devopsfaith/krakend-ce) - KrakenD Community Edition. Make your binary of KrakenD API Gateway (3 days ago)
 
 #### 📫 How to reach me
 
