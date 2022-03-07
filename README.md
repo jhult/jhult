@@ -25,6 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), today) - Secure sharing of secrets, passwords and files 
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.12.0](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.12.0), 1 day ago) - Maven plugin for ktlint the Kotlin linter
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.6.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.6.2), 2 days ago) - Security scanner for your Terraform code
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.3](https://github.com/go-gitea/gitea/releases/tag/v1.16.3), 4 days ago) - Git with a cup of tea, painless self-hosted git service
@@ -34,7 +35,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.0](https://github.com/tailscale/tailscale/releases/tag/v1.22.0), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.10), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 1 month ago) - 
-- [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 1 month ago) - A container runtime written in Rust
 
 #### 🔨 My recent Pull Requests
 
