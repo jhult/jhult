@@ -25,13 +25,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.1](https://github.com/vaadin/flow/releases/tag/23.0.1), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.7.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.7.2), 1 day ago) - Security scanner for your Terraform code
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 2 days ago) - Secure sharing of secrets, passwords and files 
 - [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.12.0](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.12.0), 3 days ago) - Maven plugin for ktlint the Kotlin linter
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.3](https://github.com/go-gitea/gitea/releases/tag/v1.16.3), 6 days ago) - Git with a cup of tea, painless self-hosted git service
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.0](https://github.com/postalsys/emailengine/releases/tag/v2.14.0), 1 week ago) - Headless email client
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.0](https://github.com/vaadin/flow/releases/tag/23.0.0), 1 week ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.0](https://github.com/tailscale/tailscale/releases/tag/v1.22.0), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.10), 2 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 1 month ago) - 
