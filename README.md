@@ -12,9 +12,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (3 days ago)
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (4 days ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (1 week ago)
-- [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. (3 weeks ago)
+- [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. (4 weeks ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (1 month ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (1 month ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (2 months ago)
@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.1](https://github.com/tailscale/tailscale/releases/tag/v1.22.1), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.8.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.8.0), 1 day ago) - Security scanner for your Terraform code
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.1](https://github.com/vaadin/flow/releases/tag/23.0.1), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.0), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 3 days ago) - Secure sharing of secrets, passwords and files 
-- [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.12.0](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.12.0), 4 days ago) - Maven plugin for ktlint the Kotlin linter
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.1](https://github.com/tailscale/tailscale/releases/tag/v1.22.1), 2 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.8.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.8.0), 2 days ago) - Security scanner for your Terraform code
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.1](https://github.com/vaadin/flow/releases/tag/23.0.1), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 4 days ago) - Secure sharing of secrets, passwords and files 
+- [gantsign/ktlint-maven-plugin](https://github.com/gantsign/ktlint-maven-plugin) ([1.12.0](https://github.com/gantsign/ktlint-maven-plugin/releases/tag/1.12.0), 5 days ago) - Maven plugin for ktlint the Kotlin linter
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.3](https://github.com/go-gitea/gitea/releases/tag/v1.16.3), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.0](https://github.com/postalsys/emailengine/releases/tag/v2.14.0), 1 week ago) - Headless email client
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.10), 2 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -40,7 +40,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 - [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (1 week ago)
 - [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (2 weeks ago)
-- [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (3 weeks ago)
+- [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (4 weeks ago)
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (4 weeks ago)
 - [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (4 weeks ago)
 - [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (1 month ago)
@@ -51,9 +51,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane (today)
-- [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager (3 days ago)
-- [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection (3 days ago)
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane (1 day ago)
+- [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager (4 days ago)
+- [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection (4 days ago)
 - [thamara/time-to-leave](https://github.com/thamara/time-to-leave) - Log work hours and get notified when it&#39;s time to leave the office and start to live. (1 week ago)
 - [VikasSukhija/Downloads](https://github.com/VikasSukhija/Downloads) - AD Health Check, Send HTML Email,  Ping machines, Encrypt Password,Bulk Password,Microsoft Teams,Monitor Certificate expiry, Monitor cert expiry, AD attributes, IP to Hostname, Export AD group, CSV to SQL,Shutdown, Restart, Local Admin, Disk Space, Account expiry,Restore Permissions, Backup permissions, Delete Files Older Than X-Days, export DHCP options,Read Registry,Distribution group AD attributes,Monitor Windows Services,Export Reverse DNS,Task Monitor,Monitor and alert, Exchange Health check,Get Network Info, Export AD Attributes,AD group members, Office 365 Group member, SQL to CSV, Outlook save send attachments, Upload files to FTP,Exchange – Total Messages Sent Received, Set Teams Only Mode, Intune Duplicate Device,Intune Cleanup Not Evaluated, Ownership and Grant Permissions, Write Create Modify Registry , Organization Hierarchy from AD,Azure AD Privileged Identity Management,Intune – Export MAM Devices,Intune Marking devices as Corporate, Dynamic to Static Distribution Group,Monitor Alert Office 365 services,Group Member Count,Bulk Addition external users sharepoint, ADD to Exchange online License Group,All in One Office 365 Powershell,Bulk Addition of Secondary Email, Automate move mailboxes to o365, Addition Modification Termination Exchange users, Monitoring Unified Messaging port,Unified Messaging Extensions Report, Set Default Quota for SharePoint,Bulk Contact Creation and Forwarding, Uploading and Downloading files sftp, Monitoring Sftp file and download, Office 365 groups Write back, CSV parser, Email address update, Email address modify, MDM enrollment, Welcome Email, Intune Welcome Email, remove messages, remove email, SKOB to AD, SKOB to group, PowerApps report, Powerautomate Report, Flow report, Server QA, Server Check List, O365 IP range, IP range Monitor, o365 Admin Roles, memberof extraction, CSV to Excel,  Skype Policy, UPN Flip, Rooms Report, License Reconciliation,Intune Bulk Device Removal, Device Removal, Clear Activesync, Lync Account Termination,Lync Account Removal, Enable office 365 services, Enable o365 Services, Export PST, Site collection Report, Office 365 Group Sites, System Admin,ActiveSync Report,White Space,Active Directory attributes, outlook automation, Intune Detect App, Distribution list Fix, Legacy DN, start service, stop service, disable service, Message tracking, Distribution lists report,Distribution groups report,Quota Report, Auto reply, out of office, robocopy multi session, Home Folder, local admin, Database, UPN SIP Mismatch, Recoverable deleted, teams number, Number assignment, teams phone, AD Group Hierarchy, Hierarchy membership, Sync Groups, Powerapps, Powerapps DLP, AzureAD application, Azure AD Secret, AzureAD Certificate, AzureAD Cert, Powerapps DLP (1 week ago)
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface (1 week ago)
