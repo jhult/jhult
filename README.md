@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.1), today) - Oracle Cloud Infrastructure SDK for Python
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.4](https://github.com/go-gitea/gitea/releases/tag/v1.16.4), 1 day ago) - Git with a cup of tea, painless self-hosted git service
 - [vaadin/flow](https://github.com/vaadin/flow) ([23.0.2](https://github.com/vaadin/flow/releases/tag/23.0.2), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.1](https://github.com/tailscale/tailscale/releases/tag/v1.22.1), 6 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.8.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.8.0), 6 days ago) - Security scanner for your Terraform code
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.0), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 1 week ago) - Secure sharing of secrets, passwords and files 
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.0](https://github.com/postalsys/emailengine/releases/tag/v2.14.0), 1 week ago) - Headless email client
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.10), 2 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
