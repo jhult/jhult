@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [johnrengelman/shadow](https://github.com/johnrengelman/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven&#39;s Shade plugin. (today)
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane (5 days ago)
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager (1 week ago)
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection (1 week ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (1 week ago)
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers (1 week ago)
 - [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) - A curated list of awesome developer-first tools products. (1 week ago)
-- [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning (2 weeks ago)
 
 #### 📫 How to reach me
 
