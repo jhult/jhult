@@ -13,7 +13,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 👷 Check out what I'm currently working on
 
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (1 week ago)
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (1 week ago)
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (2 weeks ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. (1 month ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (1 month ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (1 month ago)
@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.4](https://github.com/go-gitea/gitea/releases/tag/v1.16.4), today) - Git with a cup of tea, painless self-hosted git service
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.2](https://github.com/vaadin/flow/releases/tag/23.0.2), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.1](https://github.com/tailscale/tailscale/releases/tag/v1.22.1), 5 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.8.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.8.0), 5 days ago) - Security scanner for your Terraform code
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.0), 6 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.4](https://github.com/go-gitea/gitea/releases/tag/v1.16.4), 1 day ago) - Git with a cup of tea, painless self-hosted git service
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.2](https://github.com/vaadin/flow/releases/tag/23.0.2), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.1](https://github.com/tailscale/tailscale/releases/tag/v1.22.1), 6 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.8.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.8.0), 6 days ago) - Security scanner for your Terraform code
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.0), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 1 week ago) - Secure sharing of secrets, passwords and files 
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.0](https://github.com/postalsys/emailengine/releases/tag/v2.14.0), 1 week ago) - Headless email client
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.10), 2 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -38,7 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (1 week ago)
+- [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (2 weeks ago)
 - [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (2 weeks ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (1 month ago)
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (1 month ago)
@@ -51,7 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane (4 days ago)
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane (5 days ago)
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager (1 week ago)
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection (1 week ago)
 - [thamara/time-to-leave](https://github.com/thamara/time-to-leave) - Log work hours and get notified when it&#39;s time to leave the office and start to live. (1 week ago)
@@ -60,7 +60,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (1 week ago)
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers (1 week ago)
 - [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) - A curated list of awesome developer-first tools products. (1 week ago)
-- [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning (1 week ago)
+- [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning (2 weeks ago)
 
 #### 📫 How to reach me
 
