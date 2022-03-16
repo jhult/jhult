@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.9.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.9.0), today) - Security scanner for your Terraform code
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.9.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.9.1), today) - Security scanner for your Terraform code
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.1](https://github.com/postalsys/emailengine/releases/tag/v2.14.1), today) - Headless email client
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.1), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.4](https://github.com/go-gitea/gitea/releases/tag/v1.16.4), 2 days ago) - Git with a cup of tea, painless self-hosted git service
