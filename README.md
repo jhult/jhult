@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [deeaarbee/G-Terminail](https://github.com/deeaarbee/G-Terminail) - Terminal Gmail is gmail client that can be used in a terminal with basic rules and actions (today)
 - [johnrengelman/shadow](https://github.com/johnrengelman/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven&#39;s Shade plugin. (2 days ago)
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane (1 week ago)
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager (1 week ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface (2 weeks ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (2 weeks ago)
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers (2 weeks ago)
-- [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) - A curated list of awesome developer-first tools products. (2 weeks ago)
 
 #### 📫 How to reach me
 
