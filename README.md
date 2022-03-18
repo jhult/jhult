@@ -16,20 +16,20 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (2 weeks ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. (1 month ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (1 month ago)
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (1 month ago)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (2 months ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (3 months ago)
 - [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami MariaDB Docker Image (3 months ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (4 months ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (4 months ago)
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (4 months ago)
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.10.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.10.0), today) - Security scanner for your Terraform code
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.1](https://github.com/postalsys/emailengine/releases/tag/v2.14.1), 1 day ago) - Headless email client
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.1), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.4](https://github.com/go-gitea/gitea/releases/tag/v1.16.4), 3 days ago) - Git with a cup of tea, painless self-hosted git service
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.2](https://github.com/vaadin/flow/releases/tag/23.0.2), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.10.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.10.0), 1 day ago) - Security scanner for your Terraform code
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.1](https://github.com/postalsys/emailengine/releases/tag/v2.14.1), 2 days ago) - Headless email client
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.1), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.4](https://github.com/go-gitea/gitea/releases/tag/v1.16.4), 4 days ago) - Git with a cup of tea, painless self-hosted git service
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.2](https://github.com/vaadin/flow/releases/tag/23.0.2), 4 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.1](https://github.com/tailscale/tailscale/releases/tag/v1.22.1), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 1 week ago) - Secure sharing of secrets, passwords and files 
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.10), 3 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -51,10 +51,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [realaravinth/gitpad](https://github.com/realaravinth/gitpad) - Self-Hosted alternative to GitHub Gists (today)
-- [meilisearch/mini-dashboard](https://github.com/meilisearch/mini-dashboard) - mini-dashboard for MeiliSearch (today)
-- [deeaarbee/G-Terminail](https://github.com/deeaarbee/G-Terminail) - Terminal Gmail is gmail client that can be used in a terminal with basic rules and actions (today)
-- [johnrengelman/shadow](https://github.com/johnrengelman/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven&#39;s Shade plugin. (2 days ago)
+- [realaravinth/gitpad](https://github.com/realaravinth/gitpad) - Self-Hosted alternative to GitHub Gists (1 day ago)
+- [meilisearch/mini-dashboard](https://github.com/meilisearch/mini-dashboard) - mini-dashboard for MeiliSearch (1 day ago)
+- [deeaarbee/G-Terminail](https://github.com/deeaarbee/G-Terminail) - Terminal Gmail is gmail client that can be used in a terminal with basic rules and actions (1 day ago)
+- [johnrengelman/shadow](https://github.com/johnrengelman/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven&#39;s Shade plugin. (3 days ago)
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane (1 week ago)
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager (1 week ago)
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection (1 week ago)
