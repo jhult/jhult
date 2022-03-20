@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). (today)
 - [AndBible/and-bible](https://github.com/AndBible/and-bible) - Bible Study App, by And Bible Open Source Project (today)
 - [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) -  (1 day ago)
 - [realaravinth/gitpad](https://github.com/realaravinth/gitpad) - Self-Hosted alternative to GitHub Gists (3 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane (1 week ago)
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager (1 week ago)
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection (1 week ago)
-- [thamara/time-to-leave](https://github.com/thamara/time-to-leave) - Log work hours and get notified when it&#39;s time to leave the office and start to live. (2 weeks ago)
 
 #### 📫 How to reach me
 
