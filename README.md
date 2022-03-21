@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.11.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.11.0), 3 days ago) - Security scanner for your Terraform code
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.12.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.12.0), today) - Security scanner for your Terraform code
 - [vaadin/flow](https://github.com/vaadin/flow) ([2.7.13](https://github.com/vaadin/flow/releases/tag/2.7.13), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 3 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.1](https://github.com/postalsys/emailengine/releases/tag/v2.14.1), 5 days ago) - Headless email client
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [CogStack/tika-service](https://github.com/CogStack/tika-service) - Apache Tika running as a web service (today)
+- [SaraVieira/uirecord](https://github.com/SaraVieira/uirecord) - A UI to manage your Meilisearch instances (today)
+- [meilisearch/awesome-meilisearch](https://github.com/meilisearch/awesome-meilisearch) - A curated list of awesome MeiliSearch resources (today)
+- [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - MITIE: library and tools for information extraction (today)
+- [ICIJ/extract](https://github.com/ICIJ/extract) - A cross-platform command line tool for parallelised content extraction and analysis. (today)
 - [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). (1 day ago)
 - [AndBible/and-bible](https://github.com/AndBible/and-bible) - Bible Study App, by And Bible Open Source Project (1 day ago)
 - [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) -  (2 days ago)
 - [realaravinth/gitpad](https://github.com/realaravinth/gitpad) - Self-Hosted alternative to GitHub Gists (4 days ago)
 - [meilisearch/mini-dashboard](https://github.com/meilisearch/mini-dashboard) - mini-dashboard for MeiliSearch (4 days ago)
-- [deeaarbee/G-Terminail](https://github.com/deeaarbee/G-Terminail) - Terminal Gmail is gmail client that can be used in a terminal with basic rules and actions (4 days ago)
-- [johnrengelman/shadow](https://github.com/johnrengelman/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven&#39;s Shade plugin. (6 days ago)
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane (1 week ago)
-- [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager (2 weeks ago)
-- [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection (2 weeks ago)
 
 #### 📫 How to reach me
 
