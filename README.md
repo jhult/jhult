@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.2](https://github.com/postalsys/emailengine/releases/tag/v2.14.2), today) - Headless email client
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.13.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.13.0), today) - Security scanner for your Terraform code
 - [vaadin/flow](https://github.com/vaadin/flow) ([2.7.13](https://github.com/vaadin/flow/releases/tag/2.7.13), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 3 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.1](https://github.com/postalsys/emailengine/releases/tag/v2.14.1), 5 days ago) - Headless email client
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.1), 6 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.4](https://github.com/go-gitea/gitea/releases/tag/v1.16.4), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 2 weeks ago) - Secure sharing of secrets, passwords and files 
