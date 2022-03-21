@@ -12,7 +12,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (1 week ago)
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (2 weeks ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (2 weeks ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. (1 month ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (2 months ago)
@@ -25,13 +25,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.11.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.11.0), 2 days ago) - Security scanner for your Terraform code
-- [vaadin/flow](https://github.com/vaadin/flow) ([2.7.13](https://github.com/vaadin/flow/releases/tag/2.7.13), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 2 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.1](https://github.com/postalsys/emailengine/releases/tag/v2.14.1), 4 days ago) - Headless email client
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.1), 5 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.4](https://github.com/go-gitea/gitea/releases/tag/v1.16.4), 6 days ago) - Git with a cup of tea, painless self-hosted git service
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 1 week ago) - Secure sharing of secrets, passwords and files 
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.11.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.11.0), 3 days ago) - Security scanner for your Terraform code
+- [vaadin/flow](https://github.com/vaadin/flow) ([2.7.13](https://github.com/vaadin/flow/releases/tag/2.7.13), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 3 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.1](https://github.com/postalsys/emailengine/releases/tag/v2.14.1), 5 days ago) - Headless email client
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.1), 6 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.4](https://github.com/go-gitea/gitea/releases/tag/v1.16.4), 1 week ago) - Git with a cup of tea, painless self-hosted git service
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 2 weeks ago) - Secure sharing of secrets, passwords and files 
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.10), 3 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 1 month ago) - 
 - [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 1 month ago) - A container runtime written in Rust
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). (today)
-- [AndBible/and-bible](https://github.com/AndBible/and-bible) - Bible Study App, by And Bible Open Source Project (today)
-- [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) -  (1 day ago)
-- [realaravinth/gitpad](https://github.com/realaravinth/gitpad) - Self-Hosted alternative to GitHub Gists (3 days ago)
-- [meilisearch/mini-dashboard](https://github.com/meilisearch/mini-dashboard) - mini-dashboard for MeiliSearch (3 days ago)
-- [deeaarbee/G-Terminail](https://github.com/deeaarbee/G-Terminail) - Terminal Gmail is gmail client that can be used in a terminal with basic rules and actions (3 days ago)
-- [johnrengelman/shadow](https://github.com/johnrengelman/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven&#39;s Shade plugin. (5 days ago)
+- [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). (1 day ago)
+- [AndBible/and-bible](https://github.com/AndBible/and-bible) - Bible Study App, by And Bible Open Source Project (1 day ago)
+- [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) -  (2 days ago)
+- [realaravinth/gitpad](https://github.com/realaravinth/gitpad) - Self-Hosted alternative to GitHub Gists (4 days ago)
+- [meilisearch/mini-dashboard](https://github.com/meilisearch/mini-dashboard) - mini-dashboard for MeiliSearch (4 days ago)
+- [deeaarbee/G-Terminail](https://github.com/deeaarbee/G-Terminail) - Terminal Gmail is gmail client that can be used in a terminal with basic rules and actions (4 days ago)
+- [johnrengelman/shadow](https://github.com/johnrengelman/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven&#39;s Shade plugin. (6 days ago)
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane (1 week ago)
-- [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager (1 week ago)
-- [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection (1 week ago)
+- [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager (2 weeks ago)
+- [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection (2 weeks ago)
 
 #### 📫 How to reach me
 
