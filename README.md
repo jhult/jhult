@@ -13,7 +13,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 👷 Check out what I'm currently working on
 
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (2 weeks ago)
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (2 weeks ago)
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (3 weeks ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. (1 month ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (2 months ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (2 months ago)
@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.2](https://github.com/postalsys/emailengine/releases/tag/v2.14.2), today) - Headless email client
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.13.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.13.0), today) - Security scanner for your Terraform code
-- [vaadin/flow](https://github.com/vaadin/flow) ([2.7.13](https://github.com/vaadin/flow/releases/tag/2.7.13), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 3 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.1), 6 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.2](https://github.com/postalsys/emailengine/releases/tag/v2.14.2), 1 day ago) - Headless email client
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.13.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.13.0), 1 day ago) - Security scanner for your Terraform code
+- [vaadin/flow](https://github.com/vaadin/flow) ([2.7.13](https://github.com/vaadin/flow/releases/tag/2.7.13), 4 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.60.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.60.1), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.4](https://github.com/go-gitea/gitea/releases/tag/v1.16.4), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 2 weeks ago) - Secure sharing of secrets, passwords and files 
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.10), 3 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -38,7 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (2 weeks ago)
+- [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (3 weeks ago)
 - [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (3 weeks ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (1 month ago)
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (1 month ago)
@@ -47,20 +47,20 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (2 months ago)
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (3 months ago)
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (3 months ago)
-- [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (3 months ago)
+- [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [CogStack/tika-service](https://github.com/CogStack/tika-service) - Apache Tika running as a web service (today)
-- [SaraVieira/uirecord](https://github.com/SaraVieira/uirecord) - A UI to manage your Meilisearch instances (today)
-- [meilisearch/awesome-meilisearch](https://github.com/meilisearch/awesome-meilisearch) - A curated list of awesome MeiliSearch resources (today)
-- [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - MITIE: library and tools for information extraction (today)
-- [ICIJ/extract](https://github.com/ICIJ/extract) - A cross-platform command line tool for parallelised content extraction and analysis. (today)
-- [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). (1 day ago)
-- [AndBible/and-bible](https://github.com/AndBible/and-bible) - Bible Study App, by And Bible Open Source Project (1 day ago)
-- [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) -  (2 days ago)
-- [realaravinth/gitpad](https://github.com/realaravinth/gitpad) - Self-Hosted alternative to GitHub Gists (4 days ago)
-- [meilisearch/mini-dashboard](https://github.com/meilisearch/mini-dashboard) - mini-dashboard for MeiliSearch (4 days ago)
+- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally (today)
+- [perkeep/gphotos-cdp](https://github.com/perkeep/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos. (today)
+- [CogStack/tika-service](https://github.com/CogStack/tika-service) - Apache Tika running as a web service (1 day ago)
+- [SaraVieira/uirecord](https://github.com/SaraVieira/uirecord) - A UI to manage your Meilisearch instances (1 day ago)
+- [meilisearch/awesome-meilisearch](https://github.com/meilisearch/awesome-meilisearch) - A curated list of awesome MeiliSearch resources (1 day ago)
+- [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - MITIE: library and tools for information extraction (1 day ago)
+- [ICIJ/extract](https://github.com/ICIJ/extract) - A cross-platform command line tool for parallelised content extraction and analysis. (1 day ago)
+- [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). (2 days ago)
+- [AndBible/and-bible](https://github.com/AndBible/and-bible) - Bible Study App, by And Bible Open Source Project (2 days ago)
+- [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) -  (3 days ago)
 
 #### 📫 How to reach me
 
