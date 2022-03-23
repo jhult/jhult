@@ -25,21 +25,21 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.61.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.61.0), today) - Oracle Cloud Infrastructure SDK for Python
-- [apache/superset](https://github.com/apache/superset) ([1.4.2rc1](https://github.com/apache/superset/releases/tag/1.4.2rc1), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.2](https://github.com/postalsys/emailengine/releases/tag/v2.14.2), 1 day ago) - Headless email client
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.13.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.13.0), 1 day ago) - Security scanner for your Terraform code
-- [vaadin/flow](https://github.com/vaadin/flow) ([2.7.13](https://github.com/vaadin/flow/releases/tag/2.7.13), 4 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.61.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.61.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
+- [apache/superset](https://github.com/apache/superset) ([1.4.2rc1](https://github.com/apache/superset/releases/tag/1.4.2rc1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.2](https://github.com/postalsys/emailengine/releases/tag/v2.14.2), 2 days ago) - Headless email client
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.13.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.13.0), 2 days ago) - Security scanner for your Terraform code
+- [vaadin/flow](https://github.com/vaadin/flow) ([2.7.13](https://github.com/vaadin/flow/releases/tag/2.7.13), 5 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 5 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.4](https://github.com/go-gitea/gitea/releases/tag/v1.16.4), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 2 weeks ago) - Secure sharing of secrets, passwords and files 
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 1 month ago) - 
-- [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 1 month ago) - A container runtime written in Rust
+- [containers/youki](https://github.com/containers/youki) ([v0.0.2](https://github.com/containers/youki/releases/tag/v0.0.2), 2 months ago) - A container runtime written in Rust
 
 #### 🔨 My recent Pull Requests
 
 - [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (3 weeks ago)
-- [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (3 weeks ago)
+- [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (4 weeks ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (1 month ago)
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (1 month ago)
 - [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (1 month ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [davidstrauss/google-drive-recursive-ownership](https://github.com/davidstrauss/google-drive-recursive-ownership) - Tool to recursively give away file and document ownership to another user. (today)
-- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally (today)
-- [perkeep/gphotos-cdp](https://github.com/perkeep/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos. (today)
-- [CogStack/tika-service](https://github.com/CogStack/tika-service) - Apache Tika running as a web service (1 day ago)
-- [SaraVieira/uirecord](https://github.com/SaraVieira/uirecord) - A UI to manage your Meilisearch instances (1 day ago)
-- [meilisearch/awesome-meilisearch](https://github.com/meilisearch/awesome-meilisearch) - A curated list of awesome MeiliSearch resources (1 day ago)
-- [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - MITIE: library and tools for information extraction (1 day ago)
-- [ICIJ/extract](https://github.com/ICIJ/extract) - A cross-platform command line tool for parallelised content extraction and analysis. (1 day ago)
-- [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). (2 days ago)
-- [AndBible/and-bible](https://github.com/AndBible/and-bible) - Bible Study App, by And Bible Open Source Project (2 days ago)
+- [davidstrauss/google-drive-recursive-ownership](https://github.com/davidstrauss/google-drive-recursive-ownership) - Tool to recursively give away file and document ownership to another user. (1 day ago)
+- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally (1 day ago)
+- [perkeep/gphotos-cdp](https://github.com/perkeep/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos. (1 day ago)
+- [CogStack/tika-service](https://github.com/CogStack/tika-service) - Apache Tika running as a web service (2 days ago)
+- [SaraVieira/uirecord](https://github.com/SaraVieira/uirecord) - A UI to manage your Meilisearch instances (2 days ago)
+- [meilisearch/awesome-meilisearch](https://github.com/meilisearch/awesome-meilisearch) - A curated list of awesome MeiliSearch resources (2 days ago)
+- [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - MITIE: library and tools for information extraction (2 days ago)
+- [ICIJ/extract](https://github.com/ICIJ/extract) - A cross-platform command line tool for parallelised content extraction and analysis. (2 days ago)
+- [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). (3 days ago)
+- [AndBible/and-bible](https://github.com/AndBible/and-bible) - Bible Study App, by And Bible Open Source Project (3 days ago)
 
 #### 📫 How to reach me
 
