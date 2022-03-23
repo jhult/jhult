@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.13.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.13.1), today) - Security scanner for your Terraform code
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.61.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.61.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
 - [apache/superset](https://github.com/apache/superset) ([1.4.2rc1](https://github.com/apache/superset/releases/tag/1.4.2rc1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.14.2](https://github.com/postalsys/emailengine/releases/tag/v2.14.2), 2 days ago) - Headless email client
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.13.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.13.0), 2 days ago) - Security scanner for your Terraform code
 - [vaadin/flow](https://github.com/vaadin/flow) ([2.7.13](https://github.com/vaadin/flow/releases/tag/2.7.13), 5 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 5 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.4](https://github.com/go-gitea/gitea/releases/tag/v1.16.4), 1 week ago) - Git with a cup of tea, painless self-hosted git service
