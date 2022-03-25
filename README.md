@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.14.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.14.0), today) - Security scanner for your Terraform code
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.15.1](https://github.com/postalsys/emailengine/releases/tag/v2.15.1), 1 day ago) - Headless email client
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.5](https://github.com/go-gitea/gitea/releases/tag/v1.16.5), 1 day ago) - Git with a cup of tea, painless self-hosted git service
 - [vaadin/flow](https://github.com/vaadin/flow) ([23.0.3](https://github.com/vaadin/flow/releases/tag/23.0.3), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.13.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.13.2), 2 days ago) - Security scanner for your Terraform code
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.61.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.61.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [apache/superset](https://github.com/apache/superset) ([1.4.2rc1](https://github.com/apache/superset/releases/tag/1.4.2rc1), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
