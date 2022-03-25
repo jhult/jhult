@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing (today)
 - [davidstrauss/google-drive-recursive-ownership](https://github.com/davidstrauss/google-drive-recursive-ownership) - Tool to recursively give away file and document ownership to another user. (3 days ago)
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally (3 days ago)
 - [perkeep/gphotos-cdp](https://github.com/perkeep/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos. (3 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - MITIE: library and tools for information extraction (4 days ago)
 - [ICIJ/extract](https://github.com/ICIJ/extract) - A cross-platform command line tool for parallelised content extraction and analysis. (4 days ago)
 - [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). (5 days ago)
-- [AndBible/and-bible](https://github.com/AndBible/and-bible) - Bible Study App, by And Bible Open Source Project (5 days ago)
 
 #### 📫 How to reach me
 
