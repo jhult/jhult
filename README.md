@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.15.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.15.0), today) - Security scanner for your Terraform code
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.15.1](https://github.com/postalsys/emailengine/releases/tag/v2.15.1), 1 day ago) - Headless email client
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.5](https://github.com/go-gitea/gitea/releases/tag/v1.16.5), 1 day ago) - Git with a cup of tea, painless self-hosted git service
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.3](https://github.com/vaadin/flow/releases/tag/23.0.3), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.61.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.61.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [apache/superset](https://github.com/apache/superset) ([1.4.2rc1](https://github.com/apache/superset/releases/tag/1.4.2rc1), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.15.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.15.0), 1 day ago) - Security scanner for your Terraform code
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.15.1](https://github.com/postalsys/emailengine/releases/tag/v2.15.1), 2 days ago) - Headless email client
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.5](https://github.com/go-gitea/gitea/releases/tag/v1.16.5), 2 days ago) - Git with a cup of tea, painless self-hosted git service
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.3](https://github.com/vaadin/flow/releases/tag/23.0.3), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.61.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.61.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [apache/superset](https://github.com/apache/superset) ([1.4.2rc1](https://github.com/apache/superset/releases/tag/1.4.2rc1), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 2 weeks ago) - Secure sharing of secrets, passwords and files 
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 1 month ago) - 
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing (today)
-- [davidstrauss/google-drive-recursive-ownership](https://github.com/davidstrauss/google-drive-recursive-ownership) - Tool to recursively give away file and document ownership to another user. (3 days ago)
-- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally (3 days ago)
-- [perkeep/gphotos-cdp](https://github.com/perkeep/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos. (3 days ago)
-- [CogStack/tika-service](https://github.com/CogStack/tika-service) - Apache Tika running as a web service (4 days ago)
-- [SaraVieira/uirecord](https://github.com/SaraVieira/uirecord) - A UI to manage your Meilisearch instances (4 days ago)
-- [meilisearch/awesome-meilisearch](https://github.com/meilisearch/awesome-meilisearch) - A curated list of awesome MeiliSearch resources (4 days ago)
-- [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - MITIE: library and tools for information extraction (4 days ago)
-- [ICIJ/extract](https://github.com/ICIJ/extract) - A cross-platform command line tool for parallelised content extraction and analysis. (4 days ago)
-- [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). (5 days ago)
+- [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing (1 day ago)
+- [davidstrauss/google-drive-recursive-ownership](https://github.com/davidstrauss/google-drive-recursive-ownership) - Tool to recursively give away file and document ownership to another user. (4 days ago)
+- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally (4 days ago)
+- [perkeep/gphotos-cdp](https://github.com/perkeep/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos. (4 days ago)
+- [CogStack/tika-service](https://github.com/CogStack/tika-service) - Apache Tika running as a web service (5 days ago)
+- [SaraVieira/uirecord](https://github.com/SaraVieira/uirecord) - A UI to manage your Meilisearch instances (5 days ago)
+- [meilisearch/awesome-meilisearch](https://github.com/meilisearch/awesome-meilisearch) - A curated list of awesome MeiliSearch resources (5 days ago)
+- [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - MITIE: library and tools for information extraction (5 days ago)
+- [ICIJ/extract](https://github.com/ICIJ/extract) - A cross-platform command line tool for parallelised content extraction and analysis. (5 days ago)
+- [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). (6 days ago)
 
 #### 📫 How to reach me
 
