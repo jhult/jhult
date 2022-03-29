@@ -13,7 +13,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 👷 Check out what I'm currently working on
 
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (3 weeks ago)
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (3 weeks ago)
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (4 weeks ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. (1 month ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (2 months ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (2 months ago)
@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.15.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.15.0), 3 days ago) - Security scanner for your Terraform code
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.15.1](https://github.com/postalsys/emailengine/releases/tag/v2.15.1), 4 days ago) - Headless email client
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.5](https://github.com/go-gitea/gitea/releases/tag/v1.16.5), 4 days ago) - Git with a cup of tea, painless self-hosted git service
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.3](https://github.com/vaadin/flow/releases/tag/23.0.3), 5 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.61.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.61.0), 6 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [apache/superset](https://github.com/apache/superset) ([1.4.2rc1](https://github.com/apache/superset/releases/tag/1.4.2rc1), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.15.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.15.0), 4 days ago) - Security scanner for your Terraform code
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.15.1](https://github.com/postalsys/emailengine/releases/tag/v2.15.1), 5 days ago) - Headless email client
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.5](https://github.com/go-gitea/gitea/releases/tag/v1.16.5), 5 days ago) - Git with a cup of tea, painless self-hosted git service
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.3](https://github.com/vaadin/flow/releases/tag/23.0.3), 6 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.61.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.61.0), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
+- [apache/superset](https://github.com/apache/superset) ([1.4.2rc1](https://github.com/apache/superset/releases/tag/1.4.2rc1), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 3 weeks ago) - Secure sharing of secrets, passwords and files 
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 1 month ago) - 
@@ -38,7 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (3 weeks ago)
+- [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (4 weeks ago)
 - [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (1 month ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (1 month ago)
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (1 month ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing (3 days ago)
-- [davidstrauss/google-drive-recursive-ownership](https://github.com/davidstrauss/google-drive-recursive-ownership) - Tool to recursively give away file and document ownership to another user. (6 days ago)
-- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally (6 days ago)
-- [perkeep/gphotos-cdp](https://github.com/perkeep/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos. (6 days ago)
+- [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver Project Source (today)
+- [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app (today)
+- [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac&#39;s menu bar. http://www.mowglii.com/itsycal (today)
+- [dustinrue/ControlPlane](https://github.com/dustinrue/ControlPlane) - ControlPlane - context-sensitive computing for OS X (today)
+- [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers (today)
+- [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing (4 days ago)
+- [davidstrauss/google-drive-recursive-ownership](https://github.com/davidstrauss/google-drive-recursive-ownership) - Tool to recursively give away file and document ownership to another user. (1 week ago)
+- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally (1 week ago)
+- [perkeep/gphotos-cdp](https://github.com/perkeep/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos. (1 week ago)
 - [CogStack/tika-service](https://github.com/CogStack/tika-service) - Apache Tika running as a web service (1 week ago)
-- [SaraVieira/uirecord](https://github.com/SaraVieira/uirecord) - A UI to manage your Meilisearch instances (1 week ago)
-- [meilisearch/awesome-meilisearch](https://github.com/meilisearch/awesome-meilisearch) - A curated list of awesome MeiliSearch resources (1 week ago)
-- [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - MITIE: library and tools for information extraction (1 week ago)
-- [ICIJ/extract](https://github.com/ICIJ/extract) - A cross-platform command line tool for parallelised content extraction and analysis. (1 week ago)
-- [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). (1 week ago)
 
 #### 📫 How to reach me
 
