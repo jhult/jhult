@@ -56,7 +56,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks. (1 day ago)
 - [sindresorhus/one-thing](https://github.com/sindresorhus/one-thing) - Set the text for the One Thing app (2 days ago)
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts (2 days ago)
-- [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig (2 days ago)
+- [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig. (2 days ago)
 - [f-person/timeow-mac](https://github.com/f-person/timeow-mac) - macOS menubar app that displays how long you&#39;ve been actively using your computer. It is configurable, and keeps track of active sessions and breaks (2 days ago)
 - [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver Project Source (2 days ago)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app (2 days ago)
