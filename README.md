@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (today)
 - [OtterBrowser/otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5 (today)
 - [trufflesecurity/truffleHog](https://github.com/trufflesecurity/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history (2 days ago)
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service. (2 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig. (3 days ago)
 - [f-person/timeow-mac](https://github.com/f-person/timeow-mac) - macOS menubar app that displays how long you&#39;ve been actively using your computer. It is configurable, and keeps track of active sessions and breaks (3 days ago)
 - [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver Project Source (3 days ago)
-- [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app (3 days ago)
 
 #### 📫 How to reach me
 
