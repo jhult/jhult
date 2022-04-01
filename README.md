@@ -12,7 +12,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (3 weeks ago)
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (1 week ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (1 month ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. (1 month ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (2 months ago)
@@ -25,14 +25,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.16.0](https://github.com/postalsys/emailengine/releases/tag/v2.16.0), 1 day ago) - Headless email client
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.15.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.15.2), 1 day ago) - Security scanner for your Terraform code
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.4](https://github.com/dagger/dagger/releases/tag/v0.2.4), 2 days ago) - A portable devkit for CI/CD pipelines
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.62.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.62.0), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [apache/superset](https://github.com/apache/superset) ([1.4.2](https://github.com/apache/superset/releases/tag/1.4.2), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.16.0](https://github.com/postalsys/emailengine/releases/tag/v2.16.0), 2 days ago) - Headless email client
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.15.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.15.2), 2 days ago) - Security scanner for your Terraform code
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.4](https://github.com/dagger/dagger/releases/tag/v0.2.4), 3 days ago) - A portable devkit for CI/CD pipelines
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.62.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.62.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [apache/superset](https://github.com/apache/superset) ([1.4.2](https://github.com/apache/superset/releases/tag/1.4.2), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.5](https://github.com/go-gitea/gitea/releases/tag/v1.16.5), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [vaadin/flow](https://github.com/vaadin/flow) ([23.0.3](https://github.com/vaadin/flow/releases/tag/23.0.3), 1 week ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 3 weeks ago) - Secure sharing of secrets, passwords and files 
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 1 month ago) - 
 
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [trufflesecurity/truffleHog](https://github.com/trufflesecurity/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history (1 day ago)
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service. (1 day ago)
-- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks. (1 day ago)
-- [sindresorhus/one-thing](https://github.com/sindresorhus/one-thing) - Set the text for the One Thing app (2 days ago)
-- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts (2 days ago)
-- [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig. (2 days ago)
-- [f-person/timeow-mac](https://github.com/f-person/timeow-mac) - macOS menubar app that displays how long you&#39;ve been actively using your computer. It is configurable, and keeps track of active sessions and breaks (2 days ago)
-- [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver Project Source (2 days ago)
-- [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app (2 days ago)
-- [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac&#39;s menu bar. http://www.mowglii.com/itsycal (2 days ago)
+- [OtterBrowser/otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5 (today)
+- [trufflesecurity/truffleHog](https://github.com/trufflesecurity/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history (2 days ago)
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service. (2 days ago)
+- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks. (2 days ago)
+- [sindresorhus/one-thing](https://github.com/sindresorhus/one-thing) - Set the text for the One Thing app (3 days ago)
+- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts (3 days ago)
+- [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig. (3 days ago)
+- [f-person/timeow-mac](https://github.com/f-person/timeow-mac) - macOS menubar app that displays how long you&#39;ve been actively using your computer. It is configurable, and keeps track of active sessions and breaks (3 days ago)
+- [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver Project Source (3 days ago)
+- [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app (3 days ago)
 
 #### 📫 How to reach me
 
