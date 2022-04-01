@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.15.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.15.3), today) - Security scanner for your Terraform code
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.16.0](https://github.com/postalsys/emailengine/releases/tag/v2.16.0), 2 days ago) - Headless email client
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.15.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.15.2), 2 days ago) - Security scanner for your Terraform code
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.4](https://github.com/dagger/dagger/releases/tag/v0.2.4), 3 days ago) - A portable devkit for CI/CD pipelines
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.62.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.62.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [apache/superset](https://github.com/apache/superset) ([1.4.2](https://github.com/apache/superset/releases/tag/1.4.2), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
