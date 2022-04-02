@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - A simple way to make your mouse better. (today)
 - [Homebrew/homebrew-cask-versions](https://github.com/Homebrew/homebrew-cask-versions) - 🔢 Alternate versions of Casks (1 day ago)
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying &#34;you forgot to …&#34; in code review (in Ruby) (1 day ago)
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks. (3 days ago)
 - [sindresorhus/one-thing](https://github.com/sindresorhus/one-thing) - Set the text for the One Thing app (4 days ago)
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts (4 days ago)
-- [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig. (4 days ago)
 
 #### 📫 How to reach me
 
