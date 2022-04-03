@@ -56,7 +56,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying &#34;you forgot to …&#34; in code review (in Ruby) (2 days ago)
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (2 days ago)
 - [OtterBrowser/otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5 (2 days ago)
-- [trufflesecurity/truffleHog](https://github.com/trufflesecurity/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history (4 days ago)
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history (4 days ago)
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service. (4 days ago)
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks. (4 days ago)
 - [sindresorhus/one-thing](https://github.com/sindresorhus/one-thing) - Set the text for the One Thing app (5 days ago)
