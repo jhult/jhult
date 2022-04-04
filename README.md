@@ -25,6 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.4](https://github.com/vaadin/flow/releases/tag/23.0.4), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 1 day ago) - A container runtime written in Rust
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.15.4](https://github.com/aquasecurity/tfsec/releases/tag/v1.15.4), 3 days ago) - Security scanner for your Terraform code
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.16.0](https://github.com/postalsys/emailengine/releases/tag/v2.16.0), 5 days ago) - Headless email client
@@ -32,7 +33,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.62.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.62.0), 6 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [apache/superset](https://github.com/apache/superset) ([1.4.2](https://github.com/apache/superset/releases/tag/1.4.2), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.5](https://github.com/go-gitea/gitea/releases/tag/v1.16.5), 1 week ago) - Git with a cup of tea, painless self-hosted git service
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.3](https://github.com/vaadin/flow/releases/tag/23.0.3), 1 week ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 4 weeks ago) - Secure sharing of secrets, passwords and files 
 
