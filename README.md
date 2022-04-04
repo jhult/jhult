@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.4](https://github.com/vaadin/flow/releases/tag/23.0.4), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.11](https://github.com/vaadin/flow/releases/tag/9.0.11), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 1 day ago) - A container runtime written in Rust
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.15.4](https://github.com/aquasecurity/tfsec/releases/tag/v1.15.4), 3 days ago) - Security scanner for your Terraform code
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.16.0](https://github.com/postalsys/emailengine/releases/tag/v2.16.0), 5 days ago) - Headless email client
