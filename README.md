@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Patrowl/PatrowlEngines](https://github.com/Patrowl/PatrowlEngines) - PatrOwl - Open Source, Free and Scalable Security Operations Orchestration Platform (today)
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - A simple way to make your mouse better. (2 days ago)
 - [Homebrew/homebrew-cask-versions](https://github.com/Homebrew/homebrew-cask-versions) - 🔢 Alternate versions of Casks (3 days ago)
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying &#34;you forgot to …&#34; in code review (in Ruby) (3 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service. (5 days ago)
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks. (5 days ago)
 - [sindresorhus/one-thing](https://github.com/sindresorhus/one-thing) - Set the text for the One Thing app (6 days ago)
-- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts (6 days ago)
 
 #### 📫 How to reach me
 
