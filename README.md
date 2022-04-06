@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency. (today)
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! (1 day ago)
 - [TermiT/Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers (1 day ago)
 - [inderdhir/DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.  (1 day ago)
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io (2 days ago)
 - [Shabang-Systems/Condution](https://github.com/Shabang-Systems/Condution) - Tasks? Done. That was quick. (2 days ago)
-- [KevinRamsunder/make-gitlab-look-like-github](https://github.com/KevinRamsunder/make-gitlab-look-like-github) -  (2 days ago)
 
 #### 📫 How to reach me
 
