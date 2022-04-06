@@ -25,16 +25,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.16.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.16.2), today) - Security scanner for your Terraform code
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.5](https://github.com/dagger/dagger/releases/tag/v0.2.5), today) - A portable devkit for CI/CD pipelines
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.62.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.62.1), today) - Oracle Cloud Infrastructure SDK for Python
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.17.0](https://github.com/postalsys/emailengine/releases/tag/v2.17.0), today) - Headless email client
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.alpha1](https://github.com/vaadin/flow/releases/tag/23.1.0.alpha1), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [apache/superset](https://github.com/apache/superset) ([1.5.0rc1](https://github.com/apache/superset/releases/tag/1.5.0rc1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 2 days ago) - A container runtime written in Rust
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.16.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.16.2), 1 day ago) - Security scanner for your Terraform code
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.5](https://github.com/dagger/dagger/releases/tag/v0.2.5), 1 day ago) - A portable devkit for CI/CD pipelines
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.62.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.62.1), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.17.0](https://github.com/postalsys/emailengine/releases/tag/v2.17.0), 1 day ago) - Headless email client
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.alpha1](https://github.com/vaadin/flow/releases/tag/23.1.0.alpha1), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [apache/superset](https://github.com/apache/superset) ([1.5.0rc1](https://github.com/apache/superset/releases/tag/1.5.0rc1), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 3 days ago) - A container runtime written in Rust
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.5](https://github.com/go-gitea/gitea/releases/tag/v1.16.5), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 4 weeks ago) - Secure sharing of secrets, passwords and files 
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 1 month ago) - Secure sharing of secrets, passwords and files 
 
 #### 🔨 My recent Pull Requests
 
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! (today)
-- [TermiT/Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers (today)
-- [inderdhir/DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS (today)
-- [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool (today)
-- [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser (today)
-- [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C&#43;&#43;, implements ZMTP/3.1 (today)
-- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.  (today)
-- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io (1 day ago)
-- [Shabang-Systems/Condution](https://github.com/Shabang-Systems/Condution) - Tasks? Done. That was quick. (1 day ago)
-- [KevinRamsunder/make-gitlab-look-like-github](https://github.com/KevinRamsunder/make-gitlab-look-like-github) -  (1 day ago)
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! (1 day ago)
+- [TermiT/Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers (1 day ago)
+- [inderdhir/DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS (1 day ago)
+- [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool (1 day ago)
+- [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser (1 day ago)
+- [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C&#43;&#43;, implements ZMTP/3.1 (1 day ago)
+- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.  (1 day ago)
+- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io (2 days ago)
+- [Shabang-Systems/Condution](https://github.com/Shabang-Systems/Condution) - Tasks? Done. That was quick. (2 days ago)
+- [KevinRamsunder/make-gitlab-look-like-github](https://github.com/KevinRamsunder/make-gitlab-look-like-github) -  (2 days ago)
 
 #### 📫 How to reach me
 
