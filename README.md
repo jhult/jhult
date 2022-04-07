@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.16.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.16.2), 2 days ago) - Security scanner for your Terraform code
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.16.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.16.3), today) - Security scanner for your Terraform code
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.5](https://github.com/dagger/dagger/releases/tag/v0.2.5), 2 days ago) - A portable devkit for CI/CD pipelines
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.62.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.62.1), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.17.0](https://github.com/postalsys/emailengine/releases/tag/v2.17.0), 2 days ago) - Headless email client
