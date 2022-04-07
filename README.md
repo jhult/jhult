@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.18.0](https://github.com/postalsys/emailengine/releases/tag/v2.18.0), today) - Headless email client
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.18.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.18.0), today) - Security scanner for your Terraform code
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.5](https://github.com/dagger/dagger/releases/tag/v0.2.5), 2 days ago) - A portable devkit for CI/CD pipelines
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.62.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.62.1), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.17.0](https://github.com/postalsys/emailengine/releases/tag/v2.17.0), 2 days ago) - Headless email client
 - [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.alpha1](https://github.com/vaadin/flow/releases/tag/23.1.0.alpha1), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [apache/superset](https://github.com/apache/superset) ([1.5.0rc1](https://github.com/apache/superset/releases/tag/1.5.0rc1), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 4 days ago) - A container runtime written in Rust
