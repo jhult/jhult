@@ -25,15 +25,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.18.0](https://github.com/postalsys/emailengine/releases/tag/v2.18.0), today) - Headless email client
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.18.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.18.0), today) - Security scanner for your Terraform code
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.5](https://github.com/dagger/dagger/releases/tag/v0.2.5), 2 days ago) - A portable devkit for CI/CD pipelines
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.62.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.62.1), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.alpha1](https://github.com/vaadin/flow/releases/tag/23.1.0.alpha1), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [apache/superset](https://github.com/apache/superset) ([1.5.0rc1](https://github.com/apache/superset/releases/tag/1.5.0rc1), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 4 days ago) - A container runtime written in Rust
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.18.0](https://github.com/postalsys/emailengine/releases/tag/v2.18.0), 1 day ago) - Headless email client
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.18.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.18.0), 1 day ago) - Security scanner for your Terraform code
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.5](https://github.com/dagger/dagger/releases/tag/v0.2.5), 3 days ago) - A portable devkit for CI/CD pipelines
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.62.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.62.1), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.alpha1](https://github.com/vaadin/flow/releases/tag/23.1.0.alpha1), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [apache/superset](https://github.com/apache/superset) ([1.5.0rc1](https://github.com/apache/superset/releases/tag/1.5.0rc1), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 5 days ago) - A container runtime written in Rust
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.5](https://github.com/go-gitea/gitea/releases/tag/v1.16.5), 2 weeks ago) - Git with a cup of tea, painless self-hosted git service
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 3 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 1 month ago) - Secure sharing of secrets, passwords and files 
 
 #### 🔨 My recent Pull Requests
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️ (today)
-- [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) -  CloudMapper helps you analyze your Amazon Web Services (AWS) environments. (today)
-- [CloudPouch/CloudPouch.dev](https://github.com/CloudPouch/CloudPouch.dev) -  (today)
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (today)
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (today)
-- [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you&#39;ve been missing all your life has finally arrived. (today)
-- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency. (1 day ago)
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! (2 days ago)
-- [TermiT/Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers (2 days ago)
-- [inderdhir/DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS (2 days ago)
+- [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️ (1 day ago)
+- [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) -  CloudMapper helps you analyze your Amazon Web Services (AWS) environments. (1 day ago)
+- [CloudPouch/CloudPouch.dev](https://github.com/CloudPouch/CloudPouch.dev) -  (1 day ago)
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (1 day ago)
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (1 day ago)
+- [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you&#39;ve been missing all your life has finally arrived. (1 day ago)
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency. (2 days ago)
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! (3 days ago)
+- [TermiT/Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers (3 days ago)
+- [inderdhir/DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS (3 days ago)
 
 #### 📫 How to reach me
 
