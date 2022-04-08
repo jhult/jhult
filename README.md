@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - Configuration profiles for DNS HTTPS and DNS over TLS for iOS 14 and MacOS Big Sur (today)
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️ (1 day ago)
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) -  CloudMapper helps you analyze your Amazon Web Services (AWS) environments. (1 day ago)
 - [CloudPouch/CloudPouch.dev](https://github.com/CloudPouch/CloudPouch.dev) -  (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency. (2 days ago)
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! (3 days ago)
 - [TermiT/Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers (3 days ago)
-- [inderdhir/DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS (3 days ago)
 
 #### 📫 How to reach me
 
