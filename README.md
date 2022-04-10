@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant. (today)
 - [hitrov/oci-arm-host-capacity](https://github.com/hitrov/oci-arm-host-capacity) - This script allows to bypass Oracle Cloud Infrastructure &#39;Out of host capacity&#39; error immediately when additional OCI capacity will appear in your Home Region / Availability domain. (1 day ago)
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. (1 day ago)
 - [pganalyze/libpg_query](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - Configuration profiles for DNS HTTPS and DNS over TLS for iOS 14 and MacOS Big Sur (2 days ago)
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️ (3 days ago)
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) -  CloudMapper helps you analyze your Amazon Web Services (AWS) environments. (3 days ago)
-- [CloudPouch/CloudPouch.dev](https://github.com/CloudPouch/CloudPouch.dev) -  (3 days ago)
 
 #### 📫 How to reach me
 
