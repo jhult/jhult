@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [superstrong/who-is-out](https://github.com/superstrong/who-is-out) - Automatically creates an aggregated calendar of who and when everyone will be out of office, emails your team a digest summary, and sends a short webhook event. Works on one or many groups, all configured via Google Sheet. (today)
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant. (1 day ago)
 - [hitrov/oci-arm-host-capacity](https://github.com/hitrov/oci-arm-host-capacity) - This script allows to bypass Oracle Cloud Infrastructure &#39;Out of host capacity&#39; error immediately when additional OCI capacity will appear in your Home Region / Availability domain. (2 days ago)
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. (2 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [fuzziebrain/docker-apex-stack](https://github.com/fuzziebrain/docker-apex-stack) - Utility scripts for creating an Oracle Application Express stack as a Docker container. (3 days ago)
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - Configuration profiles for DNS HTTPS and DNS over TLS for iOS 14 and MacOS Big Sur (3 days ago)
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️ (4 days ago)
-- [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) -  CloudMapper helps you analyze your Amazon Web Services (AWS) environments. (4 days ago)
 
 #### 📫 How to reach me
 
