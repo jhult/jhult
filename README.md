@@ -25,15 +25,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.63.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.63.0), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.6](https://github.com/dagger/dagger/releases/tag/v0.2.6), 2 days ago) - A portable devkit for CI/CD pipelines
-- [apache/superset](https://github.com/apache/superset) ([1.5.0rc2](https://github.com/apache/superset/releases/tag/1.5.0rc2), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.63.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.63.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.6](https://github.com/dagger/dagger/releases/tag/v0.2.6), 3 days ago) - A portable devkit for CI/CD pipelines
+- [apache/superset](https://github.com/apache/superset) ([1.5.0rc2](https://github.com/apache/superset/releases/tag/1.5.0rc2), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.18.0](https://github.com/postalsys/emailengine/releases/tag/v2.18.0), 1 week ago) - Headless email client
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.18.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.18.0), 1 week ago) - Security scanner for your Terraform code
 - [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.alpha1](https://github.com/vaadin/flow/releases/tag/23.1.0.alpha1), 1 week ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 1 week ago) - A container runtime written in Rust
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.5](https://github.com/go-gitea/gitea/releases/tag/v1.16.5), 3 weeks ago) - Git with a cup of tea, painless self-hosted git service
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 3 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 4 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 1 month ago) - Secure sharing of secrets, passwords and files 
 
 #### 🔨 My recent Pull Requests
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage (today)
-- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS (today)
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (today)
-- [brackets-cont/brackets](https://github.com/brackets-cont/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS. (today)
-- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (today)
-- [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason! (today)
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. (today)
-- [superstrong/who-is-out](https://github.com/superstrong/who-is-out) - Automatically creates an aggregated calendar of who and when everyone will be out of office, emails your team a digest summary, and sends a short webhook event. Works on one or many groups, all configured via Google Sheet. (3 days ago)
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant. (4 days ago)
-- [hitrov/oci-arm-host-capacity](https://github.com/hitrov/oci-arm-host-capacity) - This script allows to bypass Oracle Cloud Infrastructure &#39;Out of host capacity&#39; error immediately when additional OCI capacity will appear in your Home Region / Availability domain. (5 days ago)
+- [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage (1 day ago)
+- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS (1 day ago)
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (1 day ago)
+- [brackets-cont/brackets](https://github.com/brackets-cont/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS. (1 day ago)
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (1 day ago)
+- [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason! (1 day ago)
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. (1 day ago)
+- [superstrong/who-is-out](https://github.com/superstrong/who-is-out) - Automatically creates an aggregated calendar of who and when everyone will be out of office, emails your team a digest summary, and sends a short webhook event. Works on one or many groups, all configured via Google Sheet. (4 days ago)
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant. (5 days ago)
+- [hitrov/oci-arm-host-capacity](https://github.com/hitrov/oci-arm-host-capacity) - This script allows to bypass Oracle Cloud Infrastructure &#39;Out of host capacity&#39; error immediately when additional OCI capacity will appear in your Home Region / Availability domain. (6 days ago)
 
 #### 📫 How to reach me
 
