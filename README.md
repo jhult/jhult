@@ -34,7 +34,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 1 week ago) - A container runtime written in Rust
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.5](https://github.com/go-gitea/gitea/releases/tag/v1.16.5), 3 weeks ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 4 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.4.2](https://github.com/jhaals/yopass/releases/tag/11.4.2), 1 month ago) - Secure sharing of secrets, passwords and files 
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
