@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.63.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.63.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.6](https://github.com/dagger/dagger/releases/tag/v0.2.6), 3 days ago) - A portable devkit for CI/CD pipelines
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.63.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.63.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.6](https://github.com/dagger/dagger/releases/tag/v0.2.6), 4 days ago) - A portable devkit for CI/CD pipelines
 - [apache/superset](https://github.com/apache/superset) ([1.5.0rc2](https://github.com/apache/superset/releases/tag/1.5.0rc2), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.18.0](https://github.com/postalsys/emailengine/releases/tag/v2.18.0), 1 week ago) - Headless email client
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.18.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.18.0), 1 week ago) - Security scanner for your Terraform code
@@ -44,23 +44,23 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (2 months ago)
 - [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (2 months ago)
 - [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (2 months ago)
-- [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (2 months ago)
+- [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (3 months ago)
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (3 months ago)
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (4 months ago)
 - [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (today)
-- [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage (1 day ago)
-- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS (1 day ago)
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (1 day ago)
-- [brackets-cont/brackets](https://github.com/brackets-cont/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS. (1 day ago)
-- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (1 day ago)
-- [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason! (1 day ago)
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. (1 day ago)
-- [superstrong/who-is-out](https://github.com/superstrong/who-is-out) - Automatically creates an aggregated calendar of who and when everyone will be out of office, emails your team a digest summary, and sends a short webhook event. Works on one or many groups, all configured via Google Sheet. (4 days ago)
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant. (5 days ago)
+- [containers/netavark](https://github.com/containers/netavark) - Container network stack (today)
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (1 day ago)
+- [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage (2 days ago)
+- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS (2 days ago)
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (2 days ago)
+- [brackets-cont/brackets](https://github.com/brackets-cont/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS. (2 days ago)
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (2 days ago)
+- [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason! (2 days ago)
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. (2 days ago)
+- [superstrong/who-is-out](https://github.com/superstrong/who-is-out) - Automatically creates an aggregated calendar of who and when everyone will be out of office, emails your team a digest summary, and sends a short webhook event. Works on one or many groups, all configured via Google Sheet. (5 days ago)
 
 #### 📫 How to reach me
 
