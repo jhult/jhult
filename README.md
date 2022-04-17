@@ -12,11 +12,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (3 weeks ago)
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (4 weeks ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (1 month ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. (2 months ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (2 months ago)
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (2 months ago)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (3 months ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (4 months ago)
 - [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami Docker Image for MariaDB (4 months ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (5 months ago)
@@ -25,15 +25,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.18.1](https://github.com/postalsys/emailengine/releases/tag/v2.18.1), today) - Headless email client
-- [apache/superset](https://github.com/apache/superset) ([1.5.0rc3](https://github.com/apache/superset/releases/tag/1.5.0rc3), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.63.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.63.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.6](https://github.com/dagger/dagger/releases/tag/v0.2.6), 4 days ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.18.1](https://github.com/postalsys/emailengine/releases/tag/v2.18.1), 1 day ago) - Headless email client
+- [apache/superset](https://github.com/apache/superset) ([1.5.0rc3](https://github.com/apache/superset/releases/tag/1.5.0rc3), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.63.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.63.0), 5 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.6](https://github.com/dagger/dagger/releases/tag/v0.2.6), 5 days ago) - A portable devkit for CI/CD pipelines
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.18.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.18.0), 1 week ago) - Security scanner for your Terraform code
 - [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.alpha1](https://github.com/vaadin/flow/releases/tag/23.1.0.alpha1), 1 week ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 1 week ago) - A container runtime written in Rust
+- [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 2 weeks ago) - A container runtime written in Rust
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.5](https://github.com/go-gitea/gitea/releases/tag/v1.16.5), 3 weeks ago) - Git with a cup of tea, painless self-hosted git service
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 4 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 1 month ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [containers/netavark](https://github.com/containers/netavark) - Container network stack (today)
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (1 day ago)
-- [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage (2 days ago)
-- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS (2 days ago)
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (2 days ago)
-- [brackets-cont/brackets](https://github.com/brackets-cont/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS. (2 days ago)
-- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (2 days ago)
-- [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason! (2 days ago)
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. (2 days ago)
-- [superstrong/who-is-out](https://github.com/superstrong/who-is-out) - Automatically creates an aggregated calendar of who and when everyone will be out of office, emails your team a digest summary, and sends a short webhook event. Works on one or many groups, all configured via Google Sheet. (5 days ago)
+- [containers/netavark](https://github.com/containers/netavark) - Container network stack (1 day ago)
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (2 days ago)
+- [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage (3 days ago)
+- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS (3 days ago)
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (3 days ago)
+- [brackets-cont/brackets](https://github.com/brackets-cont/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS. (3 days ago)
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (3 days ago)
+- [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason! (3 days ago)
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. (3 days ago)
+- [superstrong/who-is-out](https://github.com/superstrong/who-is-out) - Automatically creates an aggregated calendar of who and when everyone will be out of office, emails your team a digest summary, and sends a short webhook event. Works on one or many groups, all configured via Google Sheet. (6 days ago)
 
 #### 📫 How to reach me
 
