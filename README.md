@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.18.1](https://github.com/postalsys/emailengine/releases/tag/v2.18.1), 3 days ago) - Headless email client
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.19.0](https://github.com/postalsys/emailengine/releases/tag/v2.19.0), today) - Headless email client
 - [apache/superset](https://github.com/apache/superset) ([1.5.0rc3](https://github.com/apache/superset/releases/tag/1.5.0rc3), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.63.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.63.0), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.6](https://github.com/dagger/dagger/releases/tag/v0.2.6), 1 week ago) - A portable devkit for CI/CD pipelines
