@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [skinny85/specnaz](https://github.com/skinny85/specnaz) - Library for writing beautiful, RSpec/Jasmine/Mocha/Jest-style specifications in Java, Kotlin and Groovy (today)
+- [rocketraman/gitworkflow](https://github.com/rocketraman/gitworkflow) - A documentation repository for gitworkflows https://medium.com/hackernoon/how-the-creators-of-git-do-branches-e6fcc57270fb (today)
 - [gaphor/gaphor](https://github.com/gaphor/gaphor) - Gaphor is the simple modeling tool (1 day ago)
 - [DrMarkusVoss/pumla](https://github.com/DrMarkusVoss/pumla) - pumla - systematic re-use of model elements described with PlantUML  (1 day ago)
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems. (1 day ago)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Sealjay/logic-calendar](https://github.com/Sealjay/logic-calendar) - A lightweight calendar of upcoming events in O365, so you can close Teams and Outlook for periods of focussed work. (1 day ago)
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. (1 day ago)
 - [lukas-krecan/ShedLock](https://github.com/lukas-krecan/ShedLock) - Distributed lock for your scheduled tasks (1 day ago)
-- [TeamTopologies/Team-Cognitive-Load-Assessment](https://github.com/TeamTopologies/Team-Cognitive-Load-Assessment) - A template for a team cognitive load assessment. Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@matthewskelton](https://github.com/matthewskelton) and Manuel Pais [@manupaisable](https://github.com/manupaisable). (1 day ago)
-- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (1 day ago)
 
 #### 📫 How to reach me
 
