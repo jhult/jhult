@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([2.7.15](https://github.com/vaadin/flow/releases/tag/2.7.15), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.12](https://github.com/vaadin/flow/releases/tag/9.0.12), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.19.1](https://github.com/postalsys/emailengine/releases/tag/v2.19.1), today) - Headless email client
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.64.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.64.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.7](https://github.com/dagger/dagger/releases/tag/v0.2.7), 1 day ago) - A portable devkit for CI/CD pipelines
@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms. (today)
+- [apollographql/apollo-kotlin](https://github.com/apollographql/apollo-kotlin) - :robot:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform. (today)
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (today)
 - [prisma/quaint](https://github.com/prisma/quaint) - SQL Query AST and Visitor for Rust (today)
 - [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir. (today)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [rocketraman/gitworkflow](https://github.com/rocketraman/gitworkflow) - A documentation repository for gitworkflows https://medium.com/hackernoon/how-the-creators-of-git-do-branches-e6fcc57270fb (1 day ago)
 - [gaphor/gaphor](https://github.com/gaphor/gaphor) - Gaphor is the simple modeling tool (2 days ago)
 - [DrMarkusVoss/pumla](https://github.com/DrMarkusVoss/pumla) - pumla - systematic re-use of model elements described with PlantUML  (2 days ago)
-- [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems. (2 days ago)
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions! (2 days ago)
 
 #### 📫 How to reach me
 
