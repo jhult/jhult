@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework? (today)
+- [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance &amp; great developer experience.  The core of Yoga implements W3C Fetch API and can run/deploy on any JS environment. (today)
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. (1 day ago)
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (1 day ago)
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (1 day ago)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (1 day ago)
 - [prisma/quaint](https://github.com/prisma/quaint) - SQL Query AST and Visitor for Rust (1 day ago)
 - [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir. (1 day ago)
-- [sblack4/oracledb-graphql-demo](https://github.com/sblack4/oracledb-graphql-demo) - Learning Material for GraphQL&#43;OracleDB. Run in the cloud☁️ or Docker🐳. Batteries included.  (1 day ago)
-- [skinny85/specnaz](https://github.com/skinny85/specnaz) - Library for writing beautiful, RSpec/Jasmine/Mocha/Jest-style specifications in Java, Kotlin and Groovy (2 days ago)
 
 #### 📫 How to reach me
 
