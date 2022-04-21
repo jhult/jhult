@@ -25,14 +25,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.alpha2](https://github.com/vaadin/flow/releases/tag/23.1.0.alpha2), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.19.1](https://github.com/postalsys/emailengine/releases/tag/v2.19.1), today) - Headless email client
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.64.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.64.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.7](https://github.com/dagger/dagger/releases/tag/v0.2.7), 1 day ago) - A portable devkit for CI/CD pipelines
-- [apache/superset](https://github.com/apache/superset) ([1.5.0rc3](https://github.com/apache/superset/releases/tag/1.5.0rc3), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.18.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.18.0), 1 week ago) - Security scanner for your Terraform code
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.6](https://github.com/go-gitea/gitea/releases/tag/v1.16.6), 1 day ago) - Git with a cup of tea, painless self-hosted git service
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.alpha2](https://github.com/vaadin/flow/releases/tag/23.1.0.alpha2), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.19.1](https://github.com/postalsys/emailengine/releases/tag/v2.19.1), 1 day ago) - Headless email client
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.64.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.64.0), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.7](https://github.com/dagger/dagger/releases/tag/v0.2.7), 2 days ago) - A portable devkit for CI/CD pipelines
+- [apache/superset](https://github.com/apache/superset) ([1.5.0rc3](https://github.com/apache/superset/releases/tag/1.5.0rc3), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.18.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.18.0), 2 weeks ago) - Security scanner for your Terraform code
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 2 weeks ago) - A container runtime written in Rust
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.5](https://github.com/go-gitea/gitea/releases/tag/v1.16.5), 3 weeks ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.22.2](https://github.com/tailscale/tailscale/releases/tag/v1.22.2), 1 month ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 2 months ago) - 
 
@@ -47,20 +47,20 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (3 months ago)
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (4 months ago)
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (4 months ago)
-- [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (4 months ago)
+- [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. (today)
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (today)
-- [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (today)
-- [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms. (today)
-- [apollographql/apollo-kotlin](https://github.com/apollographql/apollo-kotlin) - :robot:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform. (today)
-- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (today)
-- [prisma/quaint](https://github.com/prisma/quaint) - SQL Query AST and Visitor for Rust (today)
-- [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir. (today)
-- [sblack4/oracledb-graphql-demo](https://github.com/sblack4/oracledb-graphql-demo) - Learning Material for GraphQL&#43;OracleDB. Run in the cloud☁️ or Docker🐳. Batteries included.  (today)
-- [skinny85/specnaz](https://github.com/skinny85/specnaz) - Library for writing beautiful, RSpec/Jasmine/Mocha/Jest-style specifications in Java, Kotlin and Groovy (1 day ago)
+- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. (1 day ago)
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (1 day ago)
+- [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (1 day ago)
+- [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms. (1 day ago)
+- [apollographql/apollo-kotlin](https://github.com/apollographql/apollo-kotlin) - :robot:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform. (1 day ago)
+- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (1 day ago)
+- [prisma/quaint](https://github.com/prisma/quaint) - SQL Query AST and Visitor for Rust (1 day ago)
+- [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir. (1 day ago)
+- [sblack4/oracledb-graphql-demo](https://github.com/sblack4/oracledb-graphql-demo) - Learning Material for GraphQL&#43;OracleDB. Run in the cloud☁️ or Docker🐳. Batteries included.  (1 day ago)
+- [skinny85/specnaz](https://github.com/skinny85/specnaz) - Library for writing beautiful, RSpec/Jasmine/Mocha/Jest-style specifications in Java, Kotlin and Groovy (2 days ago)
 
 #### 📫 How to reach me
 
