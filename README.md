@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [gradle/jfr-polyfill](https://github.com/gradle/jfr-polyfill) - A polyfill for JDK Flight Recorder (JFR)  to avoid errors on JDKs that don&#39;t support JFR yet (today)
 - [johanatan/speako](https://github.com/johanatan/speako) - A compiler for GraphQL schema language (written in ClojureScript) (today)
 - [kensho-technologies/graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries. (4 days ago)
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (4 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (6 days ago)
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (6 days ago)
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms. (6 days ago)
-- [apollographql/apollo-kotlin](https://github.com/apollographql/apollo-kotlin) - :robot:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform. (6 days ago)
 
 #### 📫 How to reach me
 
