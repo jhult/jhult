@@ -25,14 +25,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([1.5.0rc4](https://github.com/apache/superset/releases/tag/1.5.0rc4), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 1 day ago) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.0](https://github.com/tailscale/tailscale/releases/tag/v1.24.0), 3 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.alpha3](https://github.com/vaadin/flow/releases/tag/23.1.0.alpha3), 4 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.6](https://github.com/go-gitea/gitea/releases/tag/v1.16.6), 5 days ago) - Git with a cup of tea, painless self-hosted git service
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.19.1](https://github.com/postalsys/emailengine/releases/tag/v2.19.1), 5 days ago) - Headless email client
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.64.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.64.0), 6 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.7](https://github.com/dagger/dagger/releases/tag/v0.2.7), 6 days ago) - A portable devkit for CI/CD pipelines
+- [apache/superset](https://github.com/apache/superset) ([1.5.0rc4](https://github.com/apache/superset/releases/tag/1.5.0rc4), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 2 days ago) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.0](https://github.com/tailscale/tailscale/releases/tag/v1.24.0), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.alpha3](https://github.com/vaadin/flow/releases/tag/23.1.0.alpha3), 5 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.6](https://github.com/go-gitea/gitea/releases/tag/v1.16.6), 6 days ago) - Git with a cup of tea, painless self-hosted git service
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.19.1](https://github.com/postalsys/emailengine/releases/tag/v2.19.1), 6 days ago) - Headless email client
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.64.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.64.0), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.7](https://github.com/dagger/dagger/releases/tag/v0.2.7), 1 week ago) - A portable devkit for CI/CD pipelines
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.18.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.18.0), 2 weeks ago) - Security scanner for your Terraform code
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 3 weeks ago) - A container runtime written in Rust
 
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [kensho-technologies/graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries. (3 days ago)
-- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (3 days ago)
-- [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework? (4 days ago)
-- [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance &amp; great developer experience.  The core of Yoga implements W3C Fetch API and can run/deploy on any JS environment. (4 days ago)
-- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. (5 days ago)
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (5 days ago)
-- [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (5 days ago)
-- [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms. (5 days ago)
-- [apollographql/apollo-kotlin](https://github.com/apollographql/apollo-kotlin) - :robot:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform. (5 days ago)
-- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (5 days ago)
+- [kensho-technologies/graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries. (4 days ago)
+- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (4 days ago)
+- [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework? (5 days ago)
+- [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance &amp; great developer experience.  The core of Yoga implements W3C Fetch API and can run/deploy on any JS environment. (5 days ago)
+- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. (6 days ago)
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (6 days ago)
+- [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (6 days ago)
+- [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms. (6 days ago)
+- [apollographql/apollo-kotlin](https://github.com/apollographql/apollo-kotlin) - :robot:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform. (6 days ago)
+- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (6 days ago)
 
 #### 📫 How to reach me
 
