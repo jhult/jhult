@@ -25,6 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.8](https://github.com/dagger/dagger/releases/tag/v0.2.8), today) - A portable devkit for CI/CD pipelines
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.65.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.65.0), today) - Oracle Cloud Infrastructure SDK for Python
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.19.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.19.0), today) - Security scanner for your Terraform code
 - [apache/superset](https://github.com/apache/superset) ([1.5.0rc4](https://github.com/apache/superset/releases/tag/1.5.0rc4), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -33,7 +34,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.alpha3](https://github.com/vaadin/flow/releases/tag/23.1.0.alpha3), 5 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.6](https://github.com/go-gitea/gitea/releases/tag/v1.16.6), 6 days ago) - Git with a cup of tea, painless self-hosted git service
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.19.1](https://github.com/postalsys/emailengine/releases/tag/v2.19.1), 6 days ago) - Headless email client
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.7](https://github.com/dagger/dagger/releases/tag/v0.2.7), 1 week ago) - A portable devkit for CI/CD pipelines
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 3 weeks ago) - A container runtime written in Rust
 
 #### 🔨 My recent Pull Requests
