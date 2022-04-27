@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.1](https://github.com/tailscale/tailscale/releases/tag/v1.24.1), today) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.19.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.19.1), today) - Security scanner for your Terraform code
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.8](https://github.com/dagger/dagger/releases/tag/v0.2.8), 1 day ago) - A portable devkit for CI/CD pipelines
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.65.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.65.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
 - [apache/superset](https://github.com/apache/superset) ([1.5.0rc4](https://github.com/apache/superset/releases/tag/1.5.0rc4), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 3 days ago) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.0](https://github.com/tailscale/tailscale/releases/tag/v1.24.0), 5 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.alpha3](https://github.com/vaadin/flow/releases/tag/23.1.0.alpha3), 6 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.6](https://github.com/go-gitea/gitea/releases/tag/v1.16.6), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.19.1](https://github.com/postalsys/emailengine/releases/tag/v2.19.1), 1 week ago) - Headless email client
