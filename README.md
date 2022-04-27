@@ -25,9 +25,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.19.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.19.1), today) - Security scanner for your Terraform code
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.8](https://github.com/dagger/dagger/releases/tag/v0.2.8), 1 day ago) - A portable devkit for CI/CD pipelines
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.65.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.65.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.19.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.19.0), 1 day ago) - Security scanner for your Terraform code
 - [apache/superset](https://github.com/apache/superset) ([1.5.0rc4](https://github.com/apache/superset/releases/tag/1.5.0rc4), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 3 days ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.0](https://github.com/tailscale/tailscale/releases/tag/v1.24.0), 5 days ago) - The easiest, most secure way to use WireGuard and 2FA.
