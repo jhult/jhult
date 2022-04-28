@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([1.5.0](https://github.com/apache/superset/releases/tag/1.5.0), today) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.alpha4](https://github.com/vaadin/flow/releases/tag/23.1.0.alpha4), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.1](https://github.com/tailscale/tailscale/releases/tag/v1.24.1), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.19.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.19.1), 1 day ago) - Security scanner for your Terraform code
