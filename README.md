@@ -25,16 +25,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.7](https://github.com/go-gitea/gitea/releases/tag/v1.16.7), today) - Git with a cup of tea, painless self-hosted git service
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.6](https://github.com/vaadin/flow/releases/tag/23.0.6), 3 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.19.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.19.1), 5 days ago) - Security scanner for your Terraform code
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.8](https://github.com/dagger/dagger/releases/tag/v0.2.8), 6 days ago) - A portable devkit for CI/CD pipelines
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.65.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.65.0), 6 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.7](https://github.com/go-gitea/gitea/releases/tag/v1.16.7), 1 day ago) - Git with a cup of tea, painless self-hosted git service
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.0.6](https://github.com/vaadin/flow/releases/tag/23.0.6), 4 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 5 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.19.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.19.1), 6 days ago) - Security scanner for your Terraform code
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.8](https://github.com/dagger/dagger/releases/tag/v0.2.8), 1 week ago) - A portable devkit for CI/CD pipelines
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.65.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.65.0), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 1 week ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.19.1](https://github.com/postalsys/emailengine/releases/tag/v2.19.1), 1 week ago) - Headless email client
-- [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 4 weeks ago) - A container runtime written in Rust
+- [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 1 month ago) - A container runtime written in Rust
 
 #### 🔨 My recent Pull Requests
 
@@ -51,13 +51,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [hasura/hasura-oracle-fdw](https://github.com/hasura/hasura-oracle-fdw) -  (today)
-- [laurenz/oracle_fdw](https://github.com/laurenz/oracle_fdw) - PostgreSQL Foreign Data Wrapper for Oracle (today)
-- [GitGuardian/src-fingerprint](https://github.com/GitGuardian/src-fingerprint) - Extract git related information (file shas, commit shas) from your hosted source version control system (1 day ago)
-- [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (4 days ago)
-- [zalando-incubator/graphql-jit](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler (4 days ago)
-- [gradle/jfr-polyfill](https://github.com/gradle/jfr-polyfill) - A polyfill for JDK Flight Recorder (JFR)  to avoid errors on JDKs that don&#39;t support JFR yet (6 days ago)
-- [johanatan/speako](https://github.com/johanatan/speako) - A compiler for GraphQL schema language (written in ClojureScript) (6 days ago)
+- [hasura/hasura-oracle-fdw](https://github.com/hasura/hasura-oracle-fdw) -  (1 day ago)
+- [laurenz/oracle_fdw](https://github.com/laurenz/oracle_fdw) - PostgreSQL Foreign Data Wrapper for Oracle (1 day ago)
+- [GitGuardian/src-fingerprint](https://github.com/GitGuardian/src-fingerprint) - Extract git related information (file shas, commit shas) from your hosted source version control system (2 days ago)
+- [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (5 days ago)
+- [zalando-incubator/graphql-jit](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler (5 days ago)
+- [gradle/jfr-polyfill](https://github.com/gradle/jfr-polyfill) - A polyfill for JDK Flight Recorder (JFR)  to avoid errors on JDKs that don&#39;t support JFR yet (1 week ago)
+- [johanatan/speako](https://github.com/johanatan/speako) - A compiler for GraphQL schema language (written in ClojureScript) (1 week ago)
 - [kensho-technologies/graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries. (1 week ago)
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (1 week ago)
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework? (1 week ago)
