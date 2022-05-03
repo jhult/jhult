@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook) - :book: Heuristics for effective management (today)
+- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. (today)
 - [turbot/steampipe-postgres-fdw](https://github.com/turbot/steampipe-postgres-fdw) - Postgres FDW for Steampipe (today)
 - [hasura/hasura-oracle-fdw](https://github.com/hasura/hasura-oracle-fdw) -  (1 day ago)
 - [laurenz/oracle_fdw](https://github.com/laurenz/oracle_fdw) - PostgreSQL Foreign Data Wrapper for Oracle (1 day ago)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [zalando-incubator/graphql-jit](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler (5 days ago)
 - [gradle/jfr-polyfill](https://github.com/gradle/jfr-polyfill) - A polyfill for JDK Flight Recorder (JFR)  to avoid errors on JDKs that don&#39;t support JFR yet (1 week ago)
 - [johanatan/speako](https://github.com/johanatan/speako) - A compiler for GraphQL schema language (written in ClojureScript) (1 week ago)
-- [kensho-technologies/graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries. (1 week ago)
-- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (1 week ago)
 
 #### 📫 How to reach me
 
