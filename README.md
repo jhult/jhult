@@ -25,6 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.66.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.66.0), today) - Oracle Cloud Infrastructure SDK for Python
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.9](https://github.com/dagger/dagger/releases/tag/v0.2.9), today) - A portable devkit for CI/CD pipelines
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.1](https://github.com/postalsys/emailengine/releases/tag/v2.20.1), today) - Headless email client
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.7](https://github.com/go-gitea/gitea/releases/tag/v1.16.7), 1 day ago) - Git with a cup of tea, painless self-hosted git service
@@ -32,7 +33,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 5 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.19.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.19.1), 6 days ago) - Security scanner for your Terraform code
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.65.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.65.0), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 1 week ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 1 month ago) - A container runtime written in Rust
 
