@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.1.0.beta1](https://github.com/vaadin/flow/releases/tag/23.1.0.beta1), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.13](https://github.com/vaadin/flow/releases/tag/9.0.13), today) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.66.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.66.0), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.9](https://github.com/dagger/dagger/releases/tag/v0.2.9), 2 days ago) - A portable devkit for CI/CD pipelines
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.1](https://github.com/postalsys/emailengine/releases/tag/v2.20.1), 2 days ago) - Headless email client
