@@ -26,7 +26,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 🔭 Latest releases I've contributed to
 
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.20.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.20.0), 1 day ago) - Security scanner for your Terraform code
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.13](https://github.com/vaadin/flow/releases/tag/9.0.13), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.66.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.66.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.9](https://github.com/dagger/dagger/releases/tag/v0.2.9), 4 days ago) - A portable devkit for CI/CD pipelines
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.1](https://github.com/postalsys/emailengine/releases/tag/v2.20.1), 4 days ago) - Headless email client
@@ -35,6 +34,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 1 week ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 1 month ago) - A container runtime written in Rust
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 3 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
