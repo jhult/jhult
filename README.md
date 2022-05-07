@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.20.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.20.0), today) - Security scanner for your Terraform code
-- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.13](https://github.com/vaadin/flow/releases/tag/9.0.13), 1 day ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.66.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.66.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.9](https://github.com/dagger/dagger/releases/tag/v0.2.9), 3 days ago) - A portable devkit for CI/CD pipelines
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.1](https://github.com/postalsys/emailengine/releases/tag/v2.20.1), 3 days ago) - Headless email client
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.7](https://github.com/go-gitea/gitea/releases/tag/v1.16.7), 4 days ago) - Git with a cup of tea, painless self-hosted git service
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.20.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.20.0), 1 day ago) - Security scanner for your Terraform code
+- [vaadin/flow](https://github.com/vaadin/flow) ([9.0.13](https://github.com/vaadin/flow/releases/tag/9.0.13), 2 days ago) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.66.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.66.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.9](https://github.com/dagger/dagger/releases/tag/v0.2.9), 4 days ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.1](https://github.com/postalsys/emailengine/releases/tag/v2.20.1), 4 days ago) - Headless email client
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.7](https://github.com/go-gitea/gitea/releases/tag/v1.16.7), 5 days ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 1 week ago) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -51,13 +51,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [petdance/bobby-tables](https://github.com/petdance/bobby-tables) - bobby-tables.com, the site for preventing SQL injections (2 days ago)
-- [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook) - :book: Heuristics for effective management (3 days ago)
-- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. (3 days ago)
-- [turbot/steampipe-postgres-fdw](https://github.com/turbot/steampipe-postgres-fdw) - Postgres FDW for Steampipe (3 days ago)
-- [hasura/hasura-oracle-fdw](https://github.com/hasura/hasura-oracle-fdw) -  (4 days ago)
-- [laurenz/oracle_fdw](https://github.com/laurenz/oracle_fdw) - PostgreSQL Foreign Data Wrapper for Oracle (4 days ago)
-- [GitGuardian/src-fingerprint](https://github.com/GitGuardian/src-fingerprint) - Extract git related information (file shas, commit shas) from your hosted source version control system (5 days ago)
+- [petdance/bobby-tables](https://github.com/petdance/bobby-tables) - bobby-tables.com, the site for preventing SQL injections (3 days ago)
+- [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook) - :book: Heuristics for effective management (4 days ago)
+- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. (4 days ago)
+- [turbot/steampipe-postgres-fdw](https://github.com/turbot/steampipe-postgres-fdw) - Postgres FDW for Steampipe (4 days ago)
+- [hasura/hasura-oracle-fdw](https://github.com/hasura/hasura-oracle-fdw) -  (5 days ago)
+- [laurenz/oracle_fdw](https://github.com/laurenz/oracle_fdw) - PostgreSQL Foreign Data Wrapper for Oracle (5 days ago)
+- [GitGuardian/src-fingerprint](https://github.com/GitGuardian/src-fingerprint) - Extract git related information (file shas, commit shas) from your hosted source version control system (6 days ago)
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (1 week ago)
 - [zalando-incubator/graphql-jit](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler (1 week ago)
 - [gradle/jfr-polyfill](https://github.com/gradle/jfr-polyfill) - A polyfill for JDK Flight Recorder (JFR)  to avoid errors on JDKs that don&#39;t support JFR yet (1 week ago)
