@@ -25,14 +25,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.20.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.20.0), 1 day ago) - Security scanner for your Terraform code
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.66.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.66.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.9](https://github.com/dagger/dagger/releases/tag/v0.2.9), 4 days ago) - A portable devkit for CI/CD pipelines
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.1](https://github.com/postalsys/emailengine/releases/tag/v2.20.1), 4 days ago) - Headless email client
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.7](https://github.com/go-gitea/gitea/releases/tag/v1.16.7), 5 days ago) - Git with a cup of tea, painless self-hosted git service
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.20.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.20.0), 2 days ago) - Security scanner for your Terraform code
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.66.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.66.0), 5 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.9](https://github.com/dagger/dagger/releases/tag/v0.2.9), 5 days ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.1](https://github.com/postalsys/emailengine/releases/tag/v2.20.1), 5 days ago) - Headless email client
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.7](https://github.com/go-gitea/gitea/releases/tag/v1.16.7), 6 days ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 1 week ago) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 2 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 1 month ago) - A container runtime written in Rust
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 3 months ago) - 
 
@@ -51,14 +51,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [mockk/mockk](https://github.com/mockk/mockk) - mocking library for Kotlin (today)
-- [petdance/bobby-tables](https://github.com/petdance/bobby-tables) - bobby-tables.com, the site for preventing SQL injections (3 days ago)
-- [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook) - :book: Heuristics for effective management (4 days ago)
-- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. (4 days ago)
-- [turbot/steampipe-postgres-fdw](https://github.com/turbot/steampipe-postgres-fdw) - Postgres FDW for Steampipe (4 days ago)
-- [hasura/hasura-oracle-fdw](https://github.com/hasura/hasura-oracle-fdw) -  (5 days ago)
-- [laurenz/oracle_fdw](https://github.com/laurenz/oracle_fdw) - PostgreSQL Foreign Data Wrapper for Oracle (5 days ago)
-- [GitGuardian/src-fingerprint](https://github.com/GitGuardian/src-fingerprint) - Extract git related information (file shas, commit shas) from your hosted source version control system (6 days ago)
+- [mockk/mockk](https://github.com/mockk/mockk) - mocking library for Kotlin (1 day ago)
+- [petdance/bobby-tables](https://github.com/petdance/bobby-tables) - bobby-tables.com, the site for preventing SQL injections (4 days ago)
+- [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook) - :book: Heuristics for effective management (5 days ago)
+- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. (5 days ago)
+- [turbot/steampipe-postgres-fdw](https://github.com/turbot/steampipe-postgres-fdw) - Postgres FDW for Steampipe (5 days ago)
+- [hasura/hasura-oracle-fdw](https://github.com/hasura/hasura-oracle-fdw) -  (6 days ago)
+- [laurenz/oracle_fdw](https://github.com/laurenz/oracle_fdw) - PostgreSQL Foreign Data Wrapper for Oracle (6 days ago)
+- [GitGuardian/src-fingerprint](https://github.com/GitGuardian/src-fingerprint) - Extract git related information (file shas, commit shas) from your hosted source version control system (1 week ago)
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (1 week ago)
 - [zalando-incubator/graphql-jit](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler (1 week ago)
 
