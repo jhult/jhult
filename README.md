@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [kobra-dev/Kobra](https://github.com/kobra-dev/Kobra) - Kobra is a visual programming language (like Scratch) for Machine Learning (currently under active development).  (today)
 - [utPLSQL/utPLSQL](https://github.com/utPLSQL/utPLSQL) - Testing Framework for PL/SQL (today)
 - [Trivadis/plsql-cop-sqldev](https://github.com/Trivadis/plsql-cop-sqldev) - db* CODECOP for SQL Developer (today)
 - [Trivadis/plsql-cop-cli](https://github.com/Trivadis/plsql-cop-cli) - db* CODECOP Command Line (today)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever! (today)
 - [mockk/mockk](https://github.com/mockk/mockk) - mocking library for Kotlin (4 days ago)
 - [petdance/bobby-tables](https://github.com/petdance/bobby-tables) - bobby-tables.com, the site for preventing SQL injections (1 week ago)
-- [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook) - :book: Heuristics for effective management (1 week ago)
 
 #### 📫 How to reach me
 
