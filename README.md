@@ -25,9 +25,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.67.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.67.0), today) - Oracle Cloud Infrastructure SDK for Python
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.10](https://github.com/dagger/dagger/releases/tag/v0.2.10), today) - A portable devkit for CI/CD pipelines
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.20.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.20.2), today) - Security scanner for your Terraform code
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.67.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.67.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.10](https://github.com/dagger/dagger/releases/tag/v0.2.10), 1 day ago) - A portable devkit for CI/CD pipelines
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.20.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.20.2), 1 day ago) - Security scanner for your Terraform code
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.1](https://github.com/postalsys/emailengine/releases/tag/v2.20.1), 1 week ago) - Headless email client
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.7](https://github.com/go-gitea/gitea/releases/tag/v1.16.7), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
@@ -41,26 +41,26 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (2 months ago)
 - [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (2 months ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (2 months ago)
-- [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (2 months ago)
-- [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (2 months ago)
+- [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (3 months ago)
+- [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (3 months ago)
 - [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (3 months ago)
 - [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (3 months ago)
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (4 months ago)
-- [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (4 months ago)
+- [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (5 months ago)
 - [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [mockk/mockk](https://github.com/mockk/mockk) - mocking library for Kotlin (3 days ago)
-- [petdance/bobby-tables](https://github.com/petdance/bobby-tables) - bobby-tables.com, the site for preventing SQL injections (6 days ago)
+- [utPLSQL/utPLSQL](https://github.com/utPLSQL/utPLSQL) - Testing Framework for PL/SQL (today)
+- [Trivadis/plsql-cop-sqldev](https://github.com/Trivadis/plsql-cop-sqldev) - db* CODECOP for SQL Developer (today)
+- [Trivadis/plsql-cop-cli](https://github.com/Trivadis/plsql-cop-cli) - db* CODECOP Command Line (today)
+- [felipebz/zpa-cli](https://github.com/felipebz/zpa-cli) - A command-line interface for the Z PL/SQL Analyzer. (today)
+- [felipebz/zpa](https://github.com/felipebz/zpa) - A parser and static source code analyzer for PL/SQL and Oracle SQL. (today)
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code. (today)
+- [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever! (today)
+- [mockk/mockk](https://github.com/mockk/mockk) - mocking library for Kotlin (4 days ago)
+- [petdance/bobby-tables](https://github.com/petdance/bobby-tables) - bobby-tables.com, the site for preventing SQL injections (1 week ago)
 - [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook) - :book: Heuristics for effective management (1 week ago)
-- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. (1 week ago)
-- [turbot/steampipe-postgres-fdw](https://github.com/turbot/steampipe-postgres-fdw) - Postgres FDW for Steampipe (1 week ago)
-- [hasura/hasura-oracle-fdw](https://github.com/hasura/hasura-oracle-fdw) -  (1 week ago)
-- [laurenz/oracle_fdw](https://github.com/laurenz/oracle_fdw) - PostgreSQL Foreign Data Wrapper for Oracle (1 week ago)
-- [GitGuardian/src-fingerprint](https://github.com/GitGuardian/src-fingerprint) - Extract git related information (file shas, commit shas) from your hosted source version control system (1 week ago)
-- [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (1 week ago)
-- [zalando-incubator/graphql-jit](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler (1 week ago)
 
 #### 📫 How to reach me
 
