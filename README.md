@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Devp00l/init-mono-repository-scripts](https://github.com/Devp00l/init-mono-repository-scripts) - Scripts to easily merge repositories into one repository (today)
 - [kobra-dev/Kobra](https://github.com/kobra-dev/Kobra) - Kobra is a visual programming language (like Scratch) for Machine Learning (currently under active development).  (1 day ago)
 - [utPLSQL/utPLSQL](https://github.com/utPLSQL/utPLSQL) - Testing Framework for PL/SQL (1 day ago)
 - [Trivadis/plsql-cop-sqldev](https://github.com/Trivadis/plsql-cop-sqldev) - db* CODECOP for SQL Developer (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code. (1 day ago)
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever! (1 day ago)
 - [mockk/mockk](https://github.com/mockk/mockk) - mocking library for Kotlin (5 days ago)
-- [petdance/bobby-tables](https://github.com/petdance/bobby-tables) - bobby-tables.com, the site for preventing SQL injections (1 week ago)
 
 #### 📫 How to reach me
 
