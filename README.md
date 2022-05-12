@@ -14,10 +14,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (1 month ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (2 months ago)
-- [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. (2 months ago)
+- [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. (3 months ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (3 months ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (3 months ago)
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (4 months ago)
+- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (5 months ago)
 - [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami Docker Image for MariaDB (5 months ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (6 months ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (6 months ago)
@@ -25,13 +25,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.21.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.21.0), today) - Security scanner for your Terraform code
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.67.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.67.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.10](https://github.com/dagger/dagger/releases/tag/v0.2.10), 1 day ago) - A portable devkit for CI/CD pipelines
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.21.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.21.0), 1 day ago) - Security scanner for your Terraform code
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.67.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.67.0), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.10](https://github.com/dagger/dagger/releases/tag/v0.2.10), 2 days ago) - A portable devkit for CI/CD pipelines
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.1](https://github.com/postalsys/emailengine/releases/tag/v2.20.1), 1 week ago) - Headless email client
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.7](https://github.com/go-gitea/gitea/releases/tag/v1.16.7), 1 week ago) - Git with a cup of tea, painless self-hosted git service
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 2 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 2 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 1 month ago) - A container runtime written in Rust
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.8](https://github.com/Mause/duckdb_engine/releases/tag/0.1.8), 3 months ago) - 
@@ -40,7 +40,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 - [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (2 months ago)
 - [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (2 months ago)
-- [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (2 months ago)
+- [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (3 months ago)
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (3 months ago)
 - [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (3 months ago)
 - [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (3 months ago)
@@ -51,15 +51,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [kobra-dev/Kobra](https://github.com/kobra-dev/Kobra) - Kobra is a visual programming language (like Scratch) for Machine Learning (currently under active development).  (today)
-- [utPLSQL/utPLSQL](https://github.com/utPLSQL/utPLSQL) - Testing Framework for PL/SQL (today)
-- [Trivadis/plsql-cop-sqldev](https://github.com/Trivadis/plsql-cop-sqldev) - db* CODECOP for SQL Developer (today)
-- [Trivadis/plsql-cop-cli](https://github.com/Trivadis/plsql-cop-cli) - db* CODECOP Command Line (today)
-- [felipebz/zpa-cli](https://github.com/felipebz/zpa-cli) - A command-line interface for the Z PL/SQL Analyzer. (today)
-- [felipebz/zpa](https://github.com/felipebz/zpa) - A parser and static source code analyzer for PL/SQL and Oracle SQL. (today)
-- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code. (today)
-- [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever! (today)
-- [mockk/mockk](https://github.com/mockk/mockk) - mocking library for Kotlin (4 days ago)
+- [kobra-dev/Kobra](https://github.com/kobra-dev/Kobra) - Kobra is a visual programming language (like Scratch) for Machine Learning (currently under active development).  (1 day ago)
+- [utPLSQL/utPLSQL](https://github.com/utPLSQL/utPLSQL) - Testing Framework for PL/SQL (1 day ago)
+- [Trivadis/plsql-cop-sqldev](https://github.com/Trivadis/plsql-cop-sqldev) - db* CODECOP for SQL Developer (1 day ago)
+- [Trivadis/plsql-cop-cli](https://github.com/Trivadis/plsql-cop-cli) - db* CODECOP Command Line (1 day ago)
+- [felipebz/zpa-cli](https://github.com/felipebz/zpa-cli) - A command-line interface for the Z PL/SQL Analyzer. (1 day ago)
+- [felipebz/zpa](https://github.com/felipebz/zpa) - A parser and static source code analyzer for PL/SQL and Oracle SQL. (1 day ago)
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code. (1 day ago)
+- [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever! (1 day ago)
+- [mockk/mockk](https://github.com/mockk/mockk) - mocking library for Kotlin (5 days ago)
 - [petdance/bobby-tables](https://github.com/petdance/bobby-tables) - bobby-tables.com, the site for preventing SQL injections (1 week ago)
 
 #### 📫 How to reach me
