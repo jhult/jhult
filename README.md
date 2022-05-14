@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [tellery/tellery](https://github.com/tellery/tellery) ([0.8.6](https://github.com/tellery/tellery/releases/tag/0.8.6), today) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.21.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.21.0), 2 days ago) - Security scanner for your Terraform code
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.67.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.67.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.10](https://github.com/dagger/dagger/releases/tag/v0.2.10), 3 days ago) - A portable devkit for CI/CD pipelines
+- [tellery/tellery](https://github.com/tellery/tellery) ([0.8.6](https://github.com/tellery/tellery/releases/tag/0.8.6), 1 day ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.21.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.21.0), 3 days ago) - Security scanner for your Terraform code
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.67.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.67.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.10](https://github.com/dagger/dagger/releases/tag/v0.2.10), 4 days ago) - A portable devkit for CI/CD pipelines
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.1](https://github.com/postalsys/emailengine/releases/tag/v2.20.1), 1 week ago) - Headless email client
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.7](https://github.com/go-gitea/gitea/releases/tag/v1.16.7), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [Dashibase/dashibase](https://github.com/Dashibase/dashibase) - Super simple user dashboards for Supabase users. (today)
-- [Devp00l/init-mono-repository-scripts](https://github.com/Devp00l/init-mono-repository-scripts) - Scripts to easily merge repositories into one repository (1 day ago)
-- [kobra-dev/Kobra](https://github.com/kobra-dev/Kobra) - Kobra is a visual programming language (like Scratch) for Machine Learning (currently under active development).  (2 days ago)
-- [utPLSQL/utPLSQL](https://github.com/utPLSQL/utPLSQL) - Testing Framework for PL/SQL (2 days ago)
-- [Trivadis/plsql-cop-sqldev](https://github.com/Trivadis/plsql-cop-sqldev) - db* CODECOP for SQL Developer (2 days ago)
-- [Trivadis/plsql-cop-cli](https://github.com/Trivadis/plsql-cop-cli) - db* CODECOP Command Line (2 days ago)
-- [felipebz/zpa-cli](https://github.com/felipebz/zpa-cli) - A command-line interface for the Z PL/SQL Analyzer. (2 days ago)
-- [felipebz/zpa](https://github.com/felipebz/zpa) - A parser and static source code analyzer for PL/SQL and Oracle SQL. (2 days ago)
-- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code. (2 days ago)
-- [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever! (2 days ago)
+- [Dashibase/dashibase](https://github.com/Dashibase/dashibase) - Super simple user dashboards for Supabase users. (1 day ago)
+- [Devp00l/init-mono-repository-scripts](https://github.com/Devp00l/init-mono-repository-scripts) - Scripts to easily merge repositories into one repository (2 days ago)
+- [kobra-dev/Kobra](https://github.com/kobra-dev/Kobra) - Kobra is a visual programming language (like Scratch) for Machine Learning (currently under active development).  (3 days ago)
+- [utPLSQL/utPLSQL](https://github.com/utPLSQL/utPLSQL) - Testing Framework for PL/SQL (3 days ago)
+- [Trivadis/plsql-cop-sqldev](https://github.com/Trivadis/plsql-cop-sqldev) - db* CODECOP for SQL Developer (3 days ago)
+- [Trivadis/plsql-cop-cli](https://github.com/Trivadis/plsql-cop-cli) - db* CODECOP Command Line (3 days ago)
+- [felipebz/zpa-cli](https://github.com/felipebz/zpa-cli) - A command-line interface for the Z PL/SQL Analyzer. (3 days ago)
+- [felipebz/zpa](https://github.com/felipebz/zpa) - A parser and static source code analyzer for PL/SQL and Oracle SQL. (3 days ago)
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code. (3 days ago)
+- [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever! (3 days ago)
 
 #### 📫 How to reach me
 
