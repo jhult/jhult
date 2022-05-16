@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [vaadin/hilla](https://github.com/vaadin/hilla) - The modern frontend framework for Java backends. Build fast reactive web apps with full type safety. Powered by Lit and Spring Boot. Built by Vaadin. (today)
+- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management (today)
 - [pmorch/c4viz](https://github.com/pmorch/c4viz) - c4viz: C4 Visualization (1 day ago)
 - [edgedb/imdbench](https://github.com/edgedb/imdbench) - IMDBench — Realistic ORM benchmarking (1 day ago)
 - [Dashibase/dashibase](https://github.com/Dashibase/dashibase) - Super simple user dashboards for Supabase users. (3 days ago)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [utPLSQL/utPLSQL](https://github.com/utPLSQL/utPLSQL) - Testing Framework for PL/SQL (5 days ago)
 - [Trivadis/plsql-cop-sqldev](https://github.com/Trivadis/plsql-cop-sqldev) - db* CODECOP for SQL Developer (5 days ago)
 - [Trivadis/plsql-cop-cli](https://github.com/Trivadis/plsql-cop-cli) - db* CODECOP Command Line (5 days ago)
-- [felipebz/zpa-cli](https://github.com/felipebz/zpa-cli) - A command-line interface for the Z PL/SQL Analyzer. (5 days ago)
-- [felipebz/zpa](https://github.com/felipebz/zpa) - A parser and static source code analyzer for PL/SQL and Oracle SQL. (5 days ago)
 
 #### 📫 How to reach me
 
