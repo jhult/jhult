@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.11](https://github.com/dagger/dagger/releases/tag/v0.2.11), today) - A portable devkit for CI/CD pipelines
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.2](https://github.com/postalsys/emailengine/releases/tag/v2.20.2), today) - Headless email client
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.68.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.68.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.21.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.21.1), 1 day ago) - Security scanner for your Terraform code
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.8](https://github.com/go-gitea/gitea/releases/tag/v1.16.8), 2 days ago) - Git with a cup of tea, painless self-hosted git service
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.6](https://github.com/tellery/tellery/releases/tag/0.8.6), 5 days ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.10](https://github.com/dagger/dagger/releases/tag/v0.2.10), 1 week ago) - A portable devkit for CI/CD pipelines
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 2 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 3 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (today)
 - [nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin) - A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts.  (1 day ago)
 - [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures (2 days ago)
 - [vaadin/hilla](https://github.com/vaadin/hilla) - The modern frontend framework for Java backends. Build fast reactive web apps with full type safety. Powered by Lit and Spring Boot. Built by Vaadin. (2 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Dashibase/dashibase](https://github.com/Dashibase/dashibase) - Super simple user dashboards for Supabase users. (5 days ago)
 - [Devp00l/init-mono-repository-scripts](https://github.com/Devp00l/init-mono-repository-scripts) - Scripts to easily merge repositories into one repository (6 days ago)
 - [kobra-dev/Kobra](https://github.com/kobra-dev/Kobra) - Kobra is a visual programming language (like Scratch) for Machine Learning (currently under active development).  (1 week ago)
-- [utPLSQL/utPLSQL](https://github.com/utPLSQL/utPLSQL) - Testing Framework for PL/SQL (1 week ago)
 
 #### 📫 How to reach me
 
