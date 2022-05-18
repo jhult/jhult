@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.2](https://github.com/postalsys/emailengine/releases/tag/v2.20.2), today) - Headless email client
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.68.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.68.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.21.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.21.1), 1 day ago) - Security scanner for your Terraform code
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.8](https://github.com/go-gitea/gitea/releases/tag/v1.16.8), 2 days ago) - Git with a cup of tea, painless self-hosted git service
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.6](https://github.com/tellery/tellery/releases/tag/0.8.6), 5 days ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.10](https://github.com/dagger/dagger/releases/tag/v0.2.10), 1 week ago) - A portable devkit for CI/CD pipelines
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.1](https://github.com/postalsys/emailengine/releases/tag/v2.20.1), 2 weeks ago) - Headless email client
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 2 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 3 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
