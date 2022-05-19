@@ -12,27 +12,27 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (1 month ago)
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (2 months ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (2 months ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. (3 months ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (4 months ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (4 months ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (5 months ago)
 - [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami Docker Image for MariaDB (5 months ago)
-- [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (6 months ago)
+- [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (7 months ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (7 months ago)
 - [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.11](https://github.com/dagger/dagger/releases/tag/v0.2.11), today) - A portable devkit for CI/CD pipelines
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.2](https://github.com/postalsys/emailengine/releases/tag/v2.20.2), today) - Headless email client
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.68.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.68.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.21.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.21.1), 1 day ago) - Security scanner for your Terraform code
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.8](https://github.com/go-gitea/gitea/releases/tag/v1.16.8), 2 days ago) - Git with a cup of tea, painless self-hosted git service
-- [tellery/tellery](https://github.com/tellery/tellery) ([0.8.6](https://github.com/tellery/tellery/releases/tag/0.8.6), 5 days ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 2 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.11](https://github.com/dagger/dagger/releases/tag/v0.2.11), 1 day ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.2](https://github.com/postalsys/emailengine/releases/tag/v2.20.2), 1 day ago) - Headless email client
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.68.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.68.0), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.21.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.21.1), 2 days ago) - Security scanner for your Terraform code
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.8](https://github.com/go-gitea/gitea/releases/tag/v1.16.8), 3 days ago) - Git with a cup of tea, painless self-hosted git service
+- [tellery/tellery](https://github.com/tellery/tellery) ([0.8.6](https://github.com/tellery/tellery/releases/tag/0.8.6), 6 days ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 3 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 3 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 3 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 1 month ago) - A container runtime written in Rust
 
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets. (today)
-- [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support. (today)
-- [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input (today)
-- [beamworks/react-csv-importer](https://github.com/beamworks/react-csv-importer) - Uploader &#43; CSV parser &#43; raw file preview &#43; UI for custom user column mapping, all in one (today)
-- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (today)
-- [nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin) - A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts.  (1 day ago)
-- [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures (2 days ago)
-- [vaadin/hilla](https://github.com/vaadin/hilla) - The modern frontend framework for Java backends. Build fast reactive web apps with full type safety. Powered by Lit and Spring Boot. Built by Vaadin. (2 days ago)
-- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management (2 days ago)
-- [pmorch/c4viz](https://github.com/pmorch/c4viz) - c4viz: C4 Visualization (3 days ago)
+- [platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter) - Gradle dependencies formatter for IntelliJ IDEA (today)
+- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless (today)
+- [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets. (1 day ago)
+- [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support. (1 day ago)
+- [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input (1 day ago)
+- [beamworks/react-csv-importer](https://github.com/beamworks/react-csv-importer) - Uploader &#43; CSV parser &#43; raw file preview &#43; UI for custom user column mapping, all in one (1 day ago)
+- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (1 day ago)
+- [nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin) - A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts.  (2 days ago)
+- [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures (3 days ago)
+- [vaadin/hilla](https://github.com/vaadin/hilla) - The modern frontend framework for Java backends. Build fast reactive web apps with full type safety. Powered by Lit and Spring Boot. Built by Vaadin. (3 days ago)
 
 #### 📫 How to reach me
 
