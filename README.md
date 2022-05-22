@@ -25,15 +25,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.21.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.21.2), 2 days ago) - Security scanner for your Terraform code
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.11](https://github.com/dagger/dagger/releases/tag/v0.2.11), 3 days ago) - A portable devkit for CI/CD pipelines
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.2](https://github.com/postalsys/emailengine/releases/tag/v2.20.2), 3 days ago) - Headless email client
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.68.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.68.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.8](https://github.com/go-gitea/gitea/releases/tag/v1.16.8), 5 days ago) - Git with a cup of tea, painless self-hosted git service
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.21.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.21.2), 3 days ago) - Security scanner for your Terraform code
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.11](https://github.com/dagger/dagger/releases/tag/v0.2.11), 4 days ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.2](https://github.com/postalsys/emailengine/releases/tag/v2.20.2), 4 days ago) - Headless email client
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.68.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.68.0), 5 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.8](https://github.com/go-gitea/gitea/releases/tag/v1.16.8), 6 days ago) - Git with a cup of tea, painless self-hosted git service
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.6](https://github.com/tellery/tellery/releases/tag/0.8.6), 1 week ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 3 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 3 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 3 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 4 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 1 month ago) - A container runtime written in Rust
 
 #### 🔨 My recent Pull Requests
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [pulumi/pulumi-java](https://github.com/pulumi/pulumi-java) - Java support for Pulumi (today)
-- [platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter) - Gradle dependencies formatter for IntelliJ IDEA (2 days ago)
-- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless (2 days ago)
-- [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets. (3 days ago)
-- [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support. (3 days ago)
-- [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input (3 days ago)
-- [beamworks/react-csv-importer](https://github.com/beamworks/react-csv-importer) - Uploader &#43; CSV parser &#43; raw file preview &#43; UI for custom user column mapping, all in one (3 days ago)
-- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (3 days ago)
-- [nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin) - A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts.  (4 days ago)
-- [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures (5 days ago)
+- [pulumi/pulumi-java](https://github.com/pulumi/pulumi-java) - Java support for Pulumi (1 day ago)
+- [platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter) - Gradle dependencies formatter for IntelliJ IDEA (3 days ago)
+- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless (3 days ago)
+- [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets. (4 days ago)
+- [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support. (4 days ago)
+- [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input (4 days ago)
+- [beamworks/react-csv-importer](https://github.com/beamworks/react-csv-importer) - Uploader &#43; CSV parser &#43; raw file preview &#43; UI for custom user column mapping, all in one (4 days ago)
+- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (4 days ago)
+- [nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin) - A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts.  (5 days ago)
+- [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures (6 days ago)
 
 #### 📫 How to reach me
 
