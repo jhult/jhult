@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [ljacomet/logging-capabilities](https://github.com/ljacomet/logging-capabilities) -  (today)
+- [jjohannes/java-ecosystem-capabilities](https://github.com/jjohannes/java-ecosystem-capabilities) - Gradle plugin that adds Capabilities to well-known components hosted on Maven Central. (today)
 - [pulumi/pulumi-java](https://github.com/pulumi/pulumi-java) - Java support for Pulumi (1 day ago)
 - [platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter) - Gradle dependencies formatter for IntelliJ IDEA (3 days ago)
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless (3 days ago)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input (4 days ago)
 - [beamworks/react-csv-importer](https://github.com/beamworks/react-csv-importer) - Uploader &#43; CSV parser &#43; raw file preview &#43; UI for custom user column mapping, all in one (4 days ago)
 - [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (4 days ago)
-- [nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin) - A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts.  (5 days ago)
-- [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures (6 days ago)
 
 #### 📫 How to reach me
 
