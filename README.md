@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.69.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.69.0), today) - Oracle Cloud Infrastructure SDK for Python
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.12](https://github.com/dagger/dagger/releases/tag/v0.2.12), today) - A portable devkit for CI/CD pipelines
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.21.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.21.2), 5 days ago) - Security scanner for your Terraform code
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.2](https://github.com/postalsys/emailengine/releases/tag/v2.20.2), 6 days ago) - Headless email client
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.69.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.69.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.12](https://github.com/dagger/dagger/releases/tag/v0.2.12), 1 day ago) - A portable devkit for CI/CD pipelines
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.21.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.21.2), 6 days ago) - Security scanner for your Terraform code
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.2](https://github.com/postalsys/emailengine/releases/tag/v2.20.2), 1 week ago) - Headless email client
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.8](https://github.com/go-gitea/gitea/releases/tag/v1.16.8), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.6](https://github.com/tellery/tellery/releases/tag/0.8.6), 1 week ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 3 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [ljacomet/logging-capabilities](https://github.com/ljacomet/logging-capabilities) -  (2 days ago)
-- [jjohannes/java-ecosystem-capabilities](https://github.com/jjohannes/java-ecosystem-capabilities) - Gradle plugin that adds Capabilities to well-known components hosted on Maven Central. (2 days ago)
-- [pulumi/pulumi-java](https://github.com/pulumi/pulumi-java) - Java support for Pulumi (3 days ago)
-- [platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter) - Gradle dependencies formatter for IntelliJ IDEA (5 days ago)
-- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless (5 days ago)
-- [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets. (6 days ago)
-- [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support. (6 days ago)
-- [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input (6 days ago)
-- [beamworks/react-csv-importer](https://github.com/beamworks/react-csv-importer) - Uploader &#43; CSV parser &#43; raw file preview &#43; UI for custom user column mapping, all in one (6 days ago)
-- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (6 days ago)
+- [ljacomet/logging-capabilities](https://github.com/ljacomet/logging-capabilities) -  (3 days ago)
+- [jjohannes/java-ecosystem-capabilities](https://github.com/jjohannes/java-ecosystem-capabilities) - Gradle plugin that adds Capabilities to well-known components hosted on Maven Central. (3 days ago)
+- [pulumi/pulumi-java](https://github.com/pulumi/pulumi-java) - Java support for Pulumi (4 days ago)
+- [platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter) - Gradle dependencies formatter for IntelliJ IDEA (6 days ago)
+- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless (6 days ago)
+- [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets. (1 week ago)
+- [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support. (1 week ago)
+- [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input (1 week ago)
+- [beamworks/react-csv-importer](https://github.com/beamworks/react-csv-importer) - Uploader &#43; CSV parser &#43; raw file preview &#43; UI for custom user column mapping, all in one (1 week ago)
+- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (1 week ago)
 
 #### 📫 How to reach me
 
