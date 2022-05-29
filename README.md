@@ -18,17 +18,17 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (4 months ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (4 months ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (5 months ago)
-- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami Docker Image for MariaDB (5 months ago)
+- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami Docker Image for MariaDB (6 months ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (7 months ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (7 months ago)
 - [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([1.5.1rc1](https://github.com/apache/superset/releases/tag/1.5.1rc1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.4](https://github.com/postalsys/emailengine/releases/tag/v2.20.4), 1 day ago) - Headless email client
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.69.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.69.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.12](https://github.com/dagger/dagger/releases/tag/v0.2.12), 4 days ago) - A portable devkit for CI/CD pipelines
+- [apache/superset](https://github.com/apache/superset) ([1.5.1rc1](https://github.com/apache/superset/releases/tag/1.5.1rc1), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.20.4](https://github.com/postalsys/emailengine/releases/tag/v2.20.4), 2 days ago) - Headless email client
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.69.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.69.0), 5 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.12](https://github.com/dagger/dagger/releases/tag/v0.2.12), 5 days ago) - A portable devkit for CI/CD pipelines
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.21.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.21.2), 1 week ago) - Security scanner for your Terraform code
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.8](https://github.com/go-gitea/gitea/releases/tag/v1.16.8), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.6](https://github.com/tellery/tellery/releases/tag/0.8.6), 2 weeks ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
@@ -51,10 +51,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (2 days ago)
-- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs (2 days ago)
-- [ljacomet/logging-capabilities](https://github.com/ljacomet/logging-capabilities) -  (6 days ago)
-- [jjohannes/java-ecosystem-capabilities](https://github.com/jjohannes/java-ecosystem-capabilities) - Gradle plugin that adds Capabilities to well-known components hosted on Maven Central. (6 days ago)
+- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (3 days ago)
+- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs (3 days ago)
+- [ljacomet/logging-capabilities](https://github.com/ljacomet/logging-capabilities) -  (1 week ago)
+- [jjohannes/java-ecosystem-capabilities](https://github.com/jjohannes/java-ecosystem-capabilities) - Gradle plugin that adds Capabilities to well-known components hosted on Maven Central. (1 week ago)
 - [pulumi/pulumi-java](https://github.com/pulumi/pulumi-java) - Java support for Pulumi (1 week ago)
 - [platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter) - Gradle dependencies formatter for IntelliJ IDEA (1 week ago)
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless (1 week ago)
