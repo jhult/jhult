@@ -51,6 +51,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [lukin/keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS (today)
+- [wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) - Tools to write high performance GraphQL applications using Go/Golang. (today)
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is the Next-Generation API Developer Platform. (today)
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor. (4 days ago)
 - [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust. (4 days ago)
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (1 week ago)
@@ -58,9 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [ljacomet/logging-capabilities](https://github.com/ljacomet/logging-capabilities) -  (1 week ago)
 - [jjohannes/java-ecosystem-capabilities](https://github.com/jjohannes/java-ecosystem-capabilities) - Gradle plugin that adds Capabilities to well-known components hosted on Maven Central. (1 week ago)
 - [pulumi/pulumi-java](https://github.com/pulumi/pulumi-java) - Java support for Pulumi (1 week ago)
-- [platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter) - Gradle dependencies formatter for IntelliJ IDEA (2 weeks ago)
-- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless (2 weeks ago)
-- [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets. (2 weeks ago)
 
 #### 📫 How to reach me
 
