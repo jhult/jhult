@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing (today)
 - [leangen/graphql-spqr](https://github.com/leangen/graphql-spqr) - Build a GraphQL service in seconds (today)
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift (today)
 - [lukin/keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS (today)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust. (4 days ago)
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (1 week ago)
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs (1 week ago)
-- [ljacomet/logging-capabilities](https://github.com/ljacomet/logging-capabilities) -  (1 week ago)
 
 #### 📫 How to reach me
 
