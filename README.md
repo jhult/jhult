@@ -25,16 +25,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.22.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.22.0), today) - Security scanner for your Terraform code
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.13](https://github.com/dagger/dagger/releases/tag/v0.2.13), today) - A portable devkit for CI/CD pipelines
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.70.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.70.0), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.21.1](https://github.com/postalsys/emailengine/releases/tag/v2.21.1), 2 days ago) - Headless email client
-- [apache/superset](https://github.com/apache/superset) ([1.5.1rc1](https://github.com/apache/superset/releases/tag/1.5.1rc1), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.22.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.22.0), 1 day ago) - Security scanner for your Terraform code
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.13](https://github.com/dagger/dagger/releases/tag/v0.2.13), 1 day ago) - A portable devkit for CI/CD pipelines
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.70.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.70.0), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.21.1](https://github.com/postalsys/emailengine/releases/tag/v2.21.1), 3 days ago) - Headless email client
+- [apache/superset](https://github.com/apache/superset) ([1.5.1rc1](https://github.com/apache/superset/releases/tag/1.5.1rc1), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.8](https://github.com/go-gitea/gitea/releases/tag/v1.16.8), 2 weeks ago) - Git with a cup of tea, painless self-hosted git service
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.6](https://github.com/tellery/tellery/releases/tag/0.8.6), 2 weeks ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.24.2](https://github.com/tailscale/tailscale/releases/tag/v1.24.2), 1 month ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 1 month ago) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 1 month ago) - A container runtime written in Rust
+- [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 2 months ago) - A container runtime written in Rust
 
 #### 🔨 My recent Pull Requests
 
@@ -51,15 +51,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor. (3 days ago)
-- [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust. (3 days ago)
-- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (6 days ago)
-- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs (6 days ago)
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor. (4 days ago)
+- [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust. (4 days ago)
+- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (1 week ago)
+- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs (1 week ago)
 - [ljacomet/logging-capabilities](https://github.com/ljacomet/logging-capabilities) -  (1 week ago)
 - [jjohannes/java-ecosystem-capabilities](https://github.com/jjohannes/java-ecosystem-capabilities) - Gradle plugin that adds Capabilities to well-known components hosted on Maven Central. (1 week ago)
 - [pulumi/pulumi-java](https://github.com/pulumi/pulumi-java) - Java support for Pulumi (1 week ago)
-- [platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter) - Gradle dependencies formatter for IntelliJ IDEA (1 week ago)
-- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless (1 week ago)
+- [platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter) - Gradle dependencies formatter for IntelliJ IDEA (2 weeks ago)
+- [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless (2 weeks ago)
 - [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets. (2 weeks ago)
 
 #### 📫 How to reach me
