@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Trivadis/plsql-formatter-settings](https://github.com/Trivadis/plsql-formatter-settings) - PL/SQL &amp; SQL formatter settings based on the Trivadis PL/SQL &amp; SQL Coding Guidelines (today)
 - [komapper/komapper](https://github.com/komapper/komapper) - Kotlin ORM for JDBC and R2DBC (today)
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (today)
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library (today)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) - A ktlint gradle plugin (4 days ago)
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing (4 days ago)
 - [leangen/graphql-spqr](https://github.com/leangen/graphql-spqr) - Build a GraphQL service in seconds (4 days ago)
-- [apache/thrift](https://github.com/apache/thrift) - Apache Thrift (4 days ago)
 
 #### 📫 How to reach me
 
