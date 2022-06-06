@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [komapper/komapper](https://github.com/komapper/komapper) - Kotlin ORM for JDBC and R2DBC (today)
+- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (today)
+- [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library (today)
+- [medly/norm](https://github.com/medly/norm) - ⚡ Not an ORM (today)
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more. (today)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy (today)
 - [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) - A ktlint gradle plugin (4 days ago)
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing (4 days ago)
 - [leangen/graphql-spqr](https://github.com/leangen/graphql-spqr) - Build a GraphQL service in seconds (4 days ago)
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift (4 days ago)
-- [lukin/keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS (4 days ago)
-- [wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) - Tools to write high performance GraphQL applications using Go/Golang. (4 days ago)
-- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is the Next-Generation API Developer Platform. (4 days ago)
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor. (1 week ago)
 
 #### 📫 How to reach me
 
