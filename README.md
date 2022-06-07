@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.70.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.70.1), today) - Oracle Cloud Infrastructure SDK for Python
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.17](https://github.com/dagger/dagger/releases/tag/v0.2.17), today) - A portable devkit for CI/CD pipelines
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.0](https://github.com/tailscale/tailscale/releases/tag/v1.26.0), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.22.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.22.1), 1 day ago) - Security scanner for your Terraform code
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.70.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.70.0), 1 week ago) - Oracle Cloud Infrastructure SDK for Python
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.21.1](https://github.com/postalsys/emailengine/releases/tag/v2.21.1), 1 week ago) - Headless email client
 - [apache/superset](https://github.com/apache/superset) ([1.5.1rc1](https://github.com/apache/superset/releases/tag/1.5.1rc1), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.8](https://github.com/go-gitea/gitea/releases/tag/v1.16.8), 3 weeks ago) - Git with a cup of tea, painless self-hosted git service
