@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine (today)
+- [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine (today)
 - [Trivadis/plsql-formatter-settings](https://github.com/Trivadis/plsql-formatter-settings) - PL/SQL &amp; SQL formatter settings based on the Trivadis PL/SQL &amp; SQL Coding Guidelines (1 day ago)
 - [komapper/komapper](https://github.com/komapper/komapper) - Kotlin ORM for JDBC and R2DBC (1 day ago)
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (1 day ago)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more. (1 day ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy (1 day ago)
 - [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) - A ktlint gradle plugin (5 days ago)
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing (5 days ago)
-- [leangen/graphql-spqr](https://github.com/leangen/graphql-spqr) - Build a GraphQL service in seconds (5 days ago)
 
 #### 📫 How to reach me
 
