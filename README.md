@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.70.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.70.1), today) - Oracle Cloud Infrastructure SDK for Python
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.17](https://github.com/dagger/dagger/releases/tag/v0.2.17), today) - A portable devkit for CI/CD pipelines
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.0](https://github.com/tailscale/tailscale/releases/tag/v1.26.0), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.22.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.22.1), 1 day ago) - Security scanner for your Terraform code
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.70.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.70.1), 1 day ago) - Oracle Cloud Infrastructure SDK for Python
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.17](https://github.com/dagger/dagger/releases/tag/v0.2.17), 1 day ago) - A portable devkit for CI/CD pipelines
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.0](https://github.com/tailscale/tailscale/releases/tag/v1.26.0), 2 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.22.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.22.1), 2 days ago) - Security scanner for your Terraform code
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.21.1](https://github.com/postalsys/emailengine/releases/tag/v2.21.1), 1 week ago) - Headless email client
 - [apache/superset](https://github.com/apache/superset) ([1.5.1rc1](https://github.com/apache/superset/releases/tag/1.5.1rc1), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.8](https://github.com/go-gitea/gitea/releases/tag/v1.16.8), 3 weeks ago) - Git with a cup of tea, painless self-hosted git service
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine (today)
-- [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine (today)
-- [Trivadis/plsql-formatter-settings](https://github.com/Trivadis/plsql-formatter-settings) - PL/SQL &amp; SQL formatter settings based on the Trivadis PL/SQL &amp; SQL Coding Guidelines (1 day ago)
-- [komapper/komapper](https://github.com/komapper/komapper) - Kotlin ORM for JDBC and R2DBC (1 day ago)
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (1 day ago)
-- [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library (1 day ago)
-- [medly/norm](https://github.com/medly/norm) - ⚡ Not an ORM (1 day ago)
-- [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more. (1 day ago)
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy (1 day ago)
-- [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) - A ktlint gradle plugin (5 days ago)
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine (1 day ago)
+- [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine (1 day ago)
+- [Trivadis/plsql-formatter-settings](https://github.com/Trivadis/plsql-formatter-settings) - PL/SQL &amp; SQL formatter settings based on the Trivadis PL/SQL &amp; SQL Coding Guidelines (2 days ago)
+- [komapper/komapper](https://github.com/komapper/komapper) - Kotlin ORM for JDBC and R2DBC (2 days ago)
+- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (2 days ago)
+- [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library (2 days ago)
+- [medly/norm](https://github.com/medly/norm) - ⚡ Not an ORM (2 days ago)
+- [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more. (2 days ago)
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy (2 days ago)
+- [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) - A ktlint gradle plugin (6 days ago)
 
 #### 📫 How to reach me
 
