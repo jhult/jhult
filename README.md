@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.23.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.23.0), today) - Security scanner for your Terraform code
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.0](https://github.com/postalsys/emailengine/releases/tag/v2.22.0), 1 day ago) - Headless email client
 - [apache/superset](https://github.com/apache/superset) ([1.5.1](https://github.com/apache/superset/releases/tag/1.5.1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.70.1](https://github.com/oracle/oci-python-sdk/releases/tag/v2.70.1), 2 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.17](https://github.com/dagger/dagger/releases/tag/v0.2.17), 2 days ago) - A portable devkit for CI/CD pipelines
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.0](https://github.com/tailscale/tailscale/releases/tag/v1.26.0), 3 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.22.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.22.1), 3 days ago) - Security scanner for your Terraform code
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.8](https://github.com/go-gitea/gitea/releases/tag/v1.16.8), 3 weeks ago) - Git with a cup of tea, painless self-hosted git service
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.6](https://github.com/tellery/tellery/releases/tag/0.8.6), 3 weeks ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 1 month ago) - Multi functional app to find duplicates, empty folders, similar images etc.
