@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.24.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.24.0), 1 day ago) - Security scanner for your Terraform code
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.24.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.24.3), today) - Security scanner for your Terraform code
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.2](https://github.com/postalsys/emailengine/releases/tag/v2.22.2), 2 days ago) - Headless email client
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.3), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.18](https://github.com/dagger/dagger/releases/tag/v0.2.18), 5 days ago) - A portable devkit for CI/CD pipelines
