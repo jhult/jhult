@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [ukupat/tabs-or-spaces](https://github.com/ukupat/tabs-or-spaces) - Module for analysing which whitespace types are used by the top starred repositories in GitHub (today)
 - [atomikos/transactions-essentials](https://github.com/atomikos/transactions-essentials) - Development repository for next major release of  (1 day ago)
 - [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style. (2 days ago)
 - [Kong/mockbin](https://github.com/Kong/mockbin) - Mock, Test &amp; Track HTTP Requests and Response for Microservices (5 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine (1 week ago)
 - [Trivadis/plsql-formatter-settings](https://github.com/Trivadis/plsql-formatter-settings) - PL/SQL &amp; SQL formatter settings based on the Trivadis PL/SQL &amp; SQL Coding Guidelines (1 week ago)
 - [komapper/komapper](https://github.com/komapper/komapper) - Kotlin ORM for JDBC and R2DBC (1 week ago)
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (1 week ago)
 
 #### 📫 How to reach me
 
