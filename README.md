@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.4](https://github.com/postalsys/emailengine/releases/tag/v2.22.4), today) - Headless email client
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.0), 1 day ago) - Security scanner for your Terraform code
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.3](https://github.com/postalsys/emailengine/releases/tag/v2.22.3), 2 days ago) - Headless email client
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.71.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.71.0), 3 days ago) - Oracle Cloud Infrastructure SDK for Python
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.19](https://github.com/dagger/dagger/releases/tag/v0.2.19), 3 days ago) - A portable devkit for CI/CD pipelines
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.9](https://github.com/Mause/duckdb_engine/releases/tag/0.1.9), 3 days ago) - 
@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. (today)
 - [ukupat/tabs-or-spaces](https://github.com/ukupat/tabs-or-spaces) - Module for analysing which whitespace types are used by the top starred repositories in GitHub (today)
 - [atomikos/transactions-essentials](https://github.com/atomikos/transactions-essentials) - Development repository for next major release of  (1 day ago)
 - [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style. (2 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine (1 week ago)
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine (1 week ago)
 - [Trivadis/plsql-formatter-settings](https://github.com/Trivadis/plsql-formatter-settings) - PL/SQL &amp; SQL formatter settings based on the Trivadis PL/SQL &amp; SQL Coding Guidelines (1 week ago)
-- [komapper/komapper](https://github.com/komapper/komapper) - Kotlin ORM for JDBC and R2DBC (1 week ago)
 
 #### 📫 How to reach me
 
