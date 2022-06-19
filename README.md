@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.1](https://github.com/tailscale/tailscale/releases/tag/v1.26.1), today) - The easiest, most secure way to use WireGuard and 2FA.
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.4](https://github.com/postalsys/emailengine/releases/tag/v2.22.4), 1 day ago) - Headless email client
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.0), 2 days ago) - Security scanner for your Terraform code
-- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.71.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.71.0), 4 days ago) - Oracle Cloud Infrastructure SDK for Python
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.19](https://github.com/dagger/dagger/releases/tag/v0.2.19), 4 days ago) - A portable devkit for CI/CD pipelines
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.9](https://github.com/Mause/duckdb_engine/releases/tag/0.1.9), 4 days ago) - 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.1](https://github.com/tailscale/tailscale/releases/tag/v1.26.1), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.4](https://github.com/postalsys/emailengine/releases/tag/v2.22.4), 2 days ago) - Headless email client
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.0), 3 days ago) - Security scanner for your Terraform code
+- [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) ([v2.71.0](https://github.com/oracle/oci-python-sdk/releases/tag/v2.71.0), 5 days ago) - Oracle Cloud Infrastructure SDK for Python
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.19](https://github.com/dagger/dagger/releases/tag/v0.2.19), 5 days ago) - A portable devkit for CI/CD pipelines
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.9](https://github.com/Mause/duckdb_engine/releases/tag/0.1.9), 5 days ago) - 
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.3), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.8](https://github.com/go-gitea/gitea/releases/tag/v1.16.8), 1 month ago) - Git with a cup of tea, painless self-hosted git service
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.6](https://github.com/tellery/tellery/releases/tag/0.8.6), 1 month ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
@@ -51,14 +51,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool (today)
-- [parsers-dev/sql-type-tracker](https://github.com/parsers-dev/sql-type-tracker) - Static tool for automatic tracking SQL-queries result type changes. (today)
-- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. (1 day ago)
-- [ukupat/tabs-or-spaces](https://github.com/ukupat/tabs-or-spaces) - Module for analysing which whitespace types are used by the top starred repositories in GitHub (1 day ago)
-- [atomikos/transactions-essentials](https://github.com/atomikos/transactions-essentials) - Development repository for next major release of  (2 days ago)
-- [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style. (3 days ago)
-- [Kong/mockbin](https://github.com/Kong/mockbin) - Mock, Test &amp; Track HTTP Requests and Response for Microservices (6 days ago)
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown (6 days ago)
+- [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool (1 day ago)
+- [parsers-dev/sql-type-tracker](https://github.com/parsers-dev/sql-type-tracker) - Static tool for automatic tracking SQL-queries result type changes. (1 day ago)
+- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. (2 days ago)
+- [ukupat/tabs-or-spaces](https://github.com/ukupat/tabs-or-spaces) - Module for analysing which whitespace types are used by the top starred repositories in GitHub (2 days ago)
+- [atomikos/transactions-essentials](https://github.com/atomikos/transactions-essentials) - Development repository for next major release of  (3 days ago)
+- [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style. (4 days ago)
+- [Kong/mockbin](https://github.com/Kong/mockbin) - Mock, Test &amp; Track HTTP Requests and Response for Microservices (1 week ago)
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown (1 week ago)
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala) - Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as Airbyte, dbt, or Great Expectations together in one intuitive interface built with React Flow. In addition we provide third-party data into data science models and products with a focus on geospatial data.  Currently, the following data connectors are available worldwide: a) High-resolution demographics data b) Point of Interests from Open Street Map c) Google Popular Times (1 week ago)
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine (1 week ago)
 
