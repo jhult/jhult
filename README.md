@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.10](https://github.com/Mause/duckdb_engine/releases/tag/0.1.10), today) - 
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.1](https://github.com/tailscale/tailscale/releases/tag/v1.26.1), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.4](https://github.com/postalsys/emailengine/releases/tag/v2.22.4), 2 days ago) - Headless email client
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.0), 3 days ago) - Security scanner for your Terraform code
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.19](https://github.com/dagger/dagger/releases/tag/v0.2.19), 5 days ago) - A portable devkit for CI/CD pipelines
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.10](https://github.com/Mause/duckdb_engine/releases/tag/0.1.10), 1 day ago) - 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.1](https://github.com/tailscale/tailscale/releases/tag/v1.26.1), 2 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.4](https://github.com/postalsys/emailengine/releases/tag/v2.22.4), 3 days ago) - Headless email client
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.0), 4 days ago) - Security scanner for your Terraform code
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.19](https://github.com/dagger/dagger/releases/tag/v0.2.19), 6 days ago) - A portable devkit for CI/CD pipelines
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.3), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.16.8](https://github.com/go-gitea/gitea/releases/tag/v1.16.8), 1 month ago) - Git with a cup of tea, painless self-hosted git service
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.6](https://github.com/tellery/tellery/releases/tag/0.8.6), 1 month ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
@@ -47,20 +47,20 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (5 months ago)
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (6 months ago)
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (6 months ago)
-- [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (6 months ago)
+- [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Engine helping developers escape the maze of complexity. (today)
-- [ebean-orm/ebean](https://github.com/ebean-orm/ebean) - Ebean ORM (today)
-- [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool (1 day ago)
-- [parsers-dev/sql-type-tracker](https://github.com/parsers-dev/sql-type-tracker) - Static tool for automatic tracking SQL-queries result type changes. (1 day ago)
-- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. (2 days ago)
-- [ukupat/tabs-or-spaces](https://github.com/ukupat/tabs-or-spaces) - Module for analysing which whitespace types are used by the top starred repositories in GitHub (2 days ago)
-- [atomikos/transactions-essentials](https://github.com/atomikos/transactions-essentials) - Development repository for next major release of  (3 days ago)
-- [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style. (4 days ago)
+- [ragurney/spotless-intellij-gradle](https://github.com/ragurney/spotless-intellij-gradle) - An IntelliJ plugin to allow running the Spotless gradle task from within the IDE. (today)
+- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Engine helping developers escape the maze of complexity. (1 day ago)
+- [ebean-orm/ebean](https://github.com/ebean-orm/ebean) - Ebean ORM (1 day ago)
+- [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool (2 days ago)
+- [parsers-dev/sql-type-tracker](https://github.com/parsers-dev/sql-type-tracker) - Static tool for automatic tracking SQL-queries result type changes. (2 days ago)
+- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. (3 days ago)
+- [ukupat/tabs-or-spaces](https://github.com/ukupat/tabs-or-spaces) - Module for analysing which whitespace types are used by the top starred repositories in GitHub (3 days ago)
+- [atomikos/transactions-essentials](https://github.com/atomikos/transactions-essentials) - Development repository for next major release of  (4 days ago)
+- [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style. (5 days ago)
 - [Kong/mockbin](https://github.com/Kong/mockbin) - Mock, Test &amp; Track HTTP Requests and Response for Microservices (1 week ago)
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown (1 week ago)
 
 #### 📫 How to reach me
 
