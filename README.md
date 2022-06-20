@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [spring-gradle-plugins/dependency-management-plugin](https://github.com/spring-gradle-plugins/dependency-management-plugin) - A Gradle plugin that provides Maven-like dependency management functionality (today)
 - [ragurney/spotless-intellij-gradle](https://github.com/ragurney/spotless-intellij-gradle) - An IntelliJ plugin to allow running the Spotless gradle task from within the IDE. (today)
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Engine helping developers escape the maze of complexity. (1 day ago)
 - [ebean-orm/ebean](https://github.com/ebean-orm/ebean) - Ebean ORM (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [ukupat/tabs-or-spaces](https://github.com/ukupat/tabs-or-spaces) - Module for analysing which whitespace types are used by the top starred repositories in GitHub (3 days ago)
 - [atomikos/transactions-essentials](https://github.com/atomikos/transactions-essentials) - Development repository for next major release of  (4 days ago)
 - [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style. (5 days ago)
-- [Kong/mockbin](https://github.com/Kong/mockbin) - Mock, Test &amp; Track HTTP Requests and Response for Microservices (1 week ago)
 
 #### 📫 How to reach me
 
