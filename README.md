@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.11](https://github.com/Mause/duckdb_engine/releases/tag/0.1.11), today) - 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.17.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.17.0-rc1), 1 day ago) - Git with a cup of tea, painless self-hosted git service
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.10](https://github.com/Mause/duckdb_engine/releases/tag/0.1.10), 2 days ago) - 
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.1](https://github.com/tailscale/tailscale/releases/tag/v1.26.1), 3 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.4](https://github.com/postalsys/emailengine/releases/tag/v2.22.4), 4 days ago) - Headless email client
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.0), 5 days ago) - Security scanner for your Terraform code
