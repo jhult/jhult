@@ -25,9 +25,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.12a0](https://github.com/Mause/duckdb_engine/releases/tag/0.1.12a0), today) - 
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.5](https://github.com/postalsys/emailengine/releases/tag/v2.22.5), 1 day ago) - Headless email client
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.20](https://github.com/dagger/dagger/releases/tag/v0.2.20), 2 days ago) - A portable devkit for CI/CD pipelines
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.11](https://github.com/Mause/duckdb_engine/releases/tag/0.1.11), 2 days ago) - 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.17.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.17.0-rc1), 3 days ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.1](https://github.com/tailscale/tailscale/releases/tag/v1.26.1), 5 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.0), 1 week ago) - Security scanner for your Terraform code
