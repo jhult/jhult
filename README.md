@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.12a0](https://github.com/Mause/duckdb_engine/releases/tag/0.1.12a0), 1 day ago) - 
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([0.1.12a0](https://github.com/Mause/duckdb_engine/releases/tag/0.1.12a0), 1 day ago) - Sqlalchemy driver for duckdb
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.5](https://github.com/postalsys/emailengine/releases/tag/v2.22.5), 2 days ago) - Headless email client
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.20](https://github.com/dagger/dagger/releases/tag/v0.2.20), 3 days ago) - A portable devkit for CI/CD pipelines
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.17.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.17.0-rc1), 4 days ago) - Git with a cup of tea, painless self-hosted git service
