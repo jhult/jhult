@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.1.12a0](https://github.com/Mause/duckdb_engine/releases/tag/v0.1.12a0), 2 days ago) - Sqlalchemy driver for duckdb
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.5](https://github.com/postalsys/emailengine/releases/tag/v2.22.5), 3 days ago) - Headless email client
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.20](https://github.com/dagger/dagger/releases/tag/v0.2.20), 4 days ago) - A portable devkit for CI/CD pipelines
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.17.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.17.0-rc1), 5 days ago) - Git with a cup of tea, painless self-hosted git service
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.1.12a0](https://github.com/Mause/duckdb_engine/releases/tag/v0.1.12a0), 3 days ago) - Sqlalchemy driver for duckdb
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.5](https://github.com/postalsys/emailengine/releases/tag/v2.22.5), 4 days ago) - Headless email client
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.20](https://github.com/dagger/dagger/releases/tag/v0.2.20), 5 days ago) - A portable devkit for CI/CD pipelines
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.17.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.17.0-rc1), 6 days ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.1](https://github.com/tailscale/tailscale/releases/tag/v1.26.1), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.0), 1 week ago) - Security scanner for your Terraform code
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.3), 2 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -51,15 +51,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [skrapeit/skrape.it](https://github.com/skrapeit/skrape.it) - A Kotlin-based testing/scraping/parsing library providing the ability to analyze and extract data from HTML (server &amp; client-side rendered). It places particular emphasis on ease of use and a high level of readability by providing an intuitive DSL. It aims to be a testing lib, but can also be used to scrape websites in a convenient fashion. (3 days ago)
-- [palantir/palantir-java-format](https://github.com/palantir/palantir-java-format) - A modern, lambda-friendly, 120 character Java formatter. (4 days ago)
-- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices. (4 days ago)
-- [goadesign/goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go (4 days ago)
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open source permissions database inspired by Google Zanzibar (4 days ago)
-- [spring-gradle-plugins/dependency-management-plugin](https://github.com/spring-gradle-plugins/dependency-management-plugin) - A Gradle plugin that provides Maven-like dependency management functionality (5 days ago)
-- [ragurney/spotless-intellij-gradle](https://github.com/ragurney/spotless-intellij-gradle) - An IntelliJ plugin to allow running the Spotless gradle task from within the IDE. (5 days ago)
-- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Engine helping developers escape the maze of complexity. (6 days ago)
-- [ebean-orm/ebean](https://github.com/ebean-orm/ebean) - Ebean ORM (6 days ago)
+- [skrapeit/skrape.it](https://github.com/skrapeit/skrape.it) - A Kotlin-based testing/scraping/parsing library providing the ability to analyze and extract data from HTML (server &amp; client-side rendered). It places particular emphasis on ease of use and a high level of readability by providing an intuitive DSL. It aims to be a testing lib, but can also be used to scrape websites in a convenient fashion. (4 days ago)
+- [palantir/palantir-java-format](https://github.com/palantir/palantir-java-format) - A modern, lambda-friendly, 120 character Java formatter. (5 days ago)
+- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices. (5 days ago)
+- [goadesign/goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go (5 days ago)
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open source permissions database inspired by Google Zanzibar (5 days ago)
+- [spring-gradle-plugins/dependency-management-plugin](https://github.com/spring-gradle-plugins/dependency-management-plugin) - A Gradle plugin that provides Maven-like dependency management functionality (6 days ago)
+- [ragurney/spotless-intellij-gradle](https://github.com/ragurney/spotless-intellij-gradle) - An IntelliJ plugin to allow running the Spotless gradle task from within the IDE. (6 days ago)
+- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Engine helping developers escape the maze of complexity. (1 week ago)
+- [ebean-orm/ebean](https://github.com/ebean-orm/ebean) - Ebean ORM (1 week ago)
 - [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool (1 week ago)
 
 #### 📫 How to reach me
