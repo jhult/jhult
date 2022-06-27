@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [krakendio/krakendesigner](https://github.com/krakendio/krakendesigner) - KrakenD configuration editor. (today)
 - [eolinker/apinto](https://github.com/eolinker/apinto) - A gateway developed based on golang.With a variety of plug-ins which can be expanded by itself, plug and play. what&#39;s more,it can quickly help enterprises manage API services and improve the stability and security of API services. (today)
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform (today)
 - [aklivity/zilla](https://github.com/aklivity/zilla) - Zilla Project (today)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [palantir/palantir-java-format](https://github.com/palantir/palantir-java-format) - A modern, lambda-friendly, 120 character Java formatter. (6 days ago)
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices. (6 days ago)
 - [goadesign/goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go (6 days ago)
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open source permissions database inspired by Google Zanzibar (6 days ago)
 
 #### 📫 How to reach me
 
