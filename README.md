@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([2.0.0rc1](https://github.com/apache/superset/releases/tag/2.0.0rc1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([2.0.0rc1](https://github.com/apache/superset/releases/tag/2.0.0rc1), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.21](https://github.com/dagger/dagger/releases/tag/v0.2.21), 1 day ago) - A portable devkit for CI/CD pipelines
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.1.12a0](https://github.com/Mause/duckdb_engine/releases/tag/v0.1.12a0), 6 days ago) - Sqlalchemy driver for duckdb
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.5](https://github.com/postalsys/emailengine/releases/tag/v2.22.5), 1 week ago) - Headless email client
@@ -51,6 +51,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool (today)
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.  (today)
+- [mocko-app/mocko](https://github.com/mocko-app/mocko) - Mocking made easy, proxy your API and choose which endpoints to mock (today)
 - [krakendio/krakendesigner](https://github.com/krakendio/krakendesigner) - KrakenD configuration editor. (2 days ago)
 - [eolinker/apinto](https://github.com/eolinker/apinto) - A gateway developed based on golang.With a variety of plug-ins which can be expanded by itself, plug and play. what&#39;s more,it can quickly help enterprises manage API services and improve the stability and security of API services. (2 days ago)
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform (2 days ago)
@@ -58,9 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything! (2 days ago)
 - [apache/avro](https://github.com/apache/avro) - Apache Avro is a data serialization system. (2 days ago)
 - [skrapeit/skrape.it](https://github.com/skrapeit/skrape.it) - A Kotlin-based testing/scraping/parsing library providing the ability to analyze and extract data from HTML (server &amp; client-side rendered). It places particular emphasis on ease of use and a high level of readability by providing an intuitive DSL. It aims to be a testing lib, but can also be used to scrape websites in a convenient fashion. (1 week ago)
-- [palantir/palantir-java-format](https://github.com/palantir/palantir-java-format) - A modern, lambda-friendly, 120 character Java formatter. (1 week ago)
-- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices. (1 week ago)
-- [goadesign/goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go (1 week ago)
 
 #### 📫 How to reach me
 
