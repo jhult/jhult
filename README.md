@@ -25,13 +25,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([2.0.0rc1](https://github.com/apache/superset/releases/tag/2.0.0rc1), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.21](https://github.com/dagger/dagger/releases/tag/v0.2.21), 1 day ago) - A portable devkit for CI/CD pipelines
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.1.12a0](https://github.com/Mause/duckdb_engine/releases/tag/v0.1.12a0), 6 days ago) - Sqlalchemy driver for duckdb
+- [apache/superset](https://github.com/apache/superset) ([2.0.0rc1](https://github.com/apache/superset/releases/tag/2.0.0rc1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.21](https://github.com/dagger/dagger/releases/tag/v0.2.21), 2 days ago) - A portable devkit for CI/CD pipelines
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.1.12a0](https://github.com/Mause/duckdb_engine/releases/tag/v0.1.12a0), 1 week ago) - Sqlalchemy driver for duckdb
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.5](https://github.com/postalsys/emailengine/releases/tag/v2.22.5), 1 week ago) - Headless email client
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.17.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.17.0-rc1), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.1](https://github.com/tailscale/tailscale/releases/tag/v1.26.1), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.0), 1 week ago) - Security scanner for your Terraform code
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.0), 2 weeks ago) - Security scanner for your Terraform code
 - [tellery/tellery](https://github.com/tellery/tellery) ([0.8.6](https://github.com/tellery/tellery/releases/tag/0.8.6), 1 month ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 2 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 2 months ago) - A container runtime written in Rust
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [notable/notable-insiders](https://github.com/notable/notable-insiders) - A repository containing experimental releases of Notable. (today)
-- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool (today)
-- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.  (today)
-- [mocko-app/mocko](https://github.com/mocko-app/mocko) - Mocking made easy, proxy your API and choose which endpoints to mock (today)
-- [krakendio/krakendesigner](https://github.com/krakendio/krakendesigner) - KrakenD configuration editor. (2 days ago)
-- [eolinker/apinto](https://github.com/eolinker/apinto) - A gateway developed based on golang.With a variety of plug-ins which can be expanded by itself, plug and play. what&#39;s more,it can quickly help enterprises manage API services and improve the stability and security of API services. (2 days ago)
-- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform (2 days ago)
-- [aklivity/zilla](https://github.com/aklivity/zilla) - Zilla Project (2 days ago)
-- [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything! (2 days ago)
-- [apache/avro](https://github.com/apache/avro) - Apache Avro is a data serialization system. (2 days ago)
+- [notable/notable-insiders](https://github.com/notable/notable-insiders) - A repository containing experimental releases of Notable. (1 day ago)
+- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool (1 day ago)
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.  (1 day ago)
+- [mocko-app/mocko](https://github.com/mocko-app/mocko) - Mocking made easy, proxy your API and choose which endpoints to mock (1 day ago)
+- [krakendio/krakendesigner](https://github.com/krakendio/krakendesigner) - KrakenD configuration editor. (3 days ago)
+- [eolinker/apinto](https://github.com/eolinker/apinto) - A gateway developed based on golang.With a variety of plug-ins which can be expanded by itself, plug and play. what&#39;s more,it can quickly help enterprises manage API services and improve the stability and security of API services. (3 days ago)
+- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform (3 days ago)
+- [aklivity/zilla](https://github.com/aklivity/zilla) - Zilla Project (3 days ago)
+- [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything! (3 days ago)
+- [apache/avro](https://github.com/apache/avro) - Apache Avro is a data serialization system. (3 days ago)
 
 #### 📫 How to reach me
 
