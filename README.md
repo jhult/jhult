@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [mvysny/dynatest](https://github.com/mvysny/dynatest) - Simplest Most Powerful Testing Framework For Kotlin (today)
 - [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming (1 day ago)
 - [notable/notable-insiders](https://github.com/notable/notable-insiders) - A repository containing experimental releases of Notable. (2 days ago)
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool (2 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [eolinker/apinto](https://github.com/eolinker/apinto) - A gateway developed based on golang.With a variety of plug-ins which can be expanded by itself, plug and play. what&#39;s more,it can quickly help enterprises manage API services and improve the stability and security of API services. (4 days ago)
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform (4 days ago)
 - [aklivity/zilla](https://github.com/aklivity/zilla) - Zilla Project (4 days ago)
-- [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything! (4 days ago)
 
 #### 📫 How to reach me
 
