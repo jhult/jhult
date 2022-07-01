@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.0](https://github.com/postalsys/emailengine/releases/tag/v2.23.0), today) - Headless email client
 - [tellery/tellery](https://github.com/tellery/tellery) ([v0.8.7](https://github.com/tellery/tellery/releases/tag/v0.8.7), 1 day ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [apache/superset](https://github.com/apache/superset) ([2.0.0rc1](https://github.com/apache/superset/releases/tag/2.0.0rc1), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.21](https://github.com/dagger/dagger/releases/tag/v0.2.21), 3 days ago) - A portable devkit for CI/CD pipelines
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.1.12a0](https://github.com/Mause/duckdb_engine/releases/tag/v0.1.12a0), 1 week ago) - Sqlalchemy driver for duckdb
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.22.5](https://github.com/postalsys/emailengine/releases/tag/v2.22.5), 1 week ago) - Headless email client
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.17.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.17.0-rc1), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.1](https://github.com/tailscale/tailscale/releases/tag/v1.26.1), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.0), 2 weeks ago) - Security scanner for your Terraform code
