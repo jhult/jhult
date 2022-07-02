@@ -25,16 +25,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.0](https://github.com/postalsys/emailengine/releases/tag/v2.23.0), today) - Headless email client
-- [tellery/tellery](https://github.com/tellery/tellery) ([v0.8.7](https://github.com/tellery/tellery/releases/tag/v0.8.7), 1 day ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
-- [apache/superset](https://github.com/apache/superset) ([2.0.0rc1](https://github.com/apache/superset/releases/tag/2.0.0rc1), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.21](https://github.com/dagger/dagger/releases/tag/v0.2.21), 3 days ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.0](https://github.com/postalsys/emailengine/releases/tag/v2.23.0), 1 day ago) - Headless email client
+- [tellery/tellery](https://github.com/tellery/tellery) ([v0.8.7](https://github.com/tellery/tellery/releases/tag/v0.8.7), 2 days ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
+- [apache/superset](https://github.com/apache/superset) ([2.0.0rc1](https://github.com/apache/superset/releases/tag/2.0.0rc1), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.21](https://github.com/dagger/dagger/releases/tag/v0.2.21), 4 days ago) - A portable devkit for CI/CD pipelines
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.1.12a0](https://github.com/Mause/duckdb_engine/releases/tag/v0.1.12a0), 1 week ago) - Sqlalchemy driver for duckdb
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.17.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.17.0-rc1), 1 week ago) - Git with a cup of tea, painless self-hosted git service
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.1](https://github.com/tailscale/tailscale/releases/tag/v1.26.1), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.1](https://github.com/tailscale/tailscale/releases/tag/v1.26.1), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.0), 2 weeks ago) - Security scanner for your Terraform code
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 2 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 2 months ago) - A container runtime written in Rust
+- [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 3 months ago) - A container runtime written in Rust
 
 #### 🔨 My recent Pull Requests
 
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [mvysny/dynatest](https://github.com/mvysny/dynatest) - Simplest Most Powerful Testing Framework For Kotlin (today)
-- [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming (1 day ago)
-- [notable/notable-insiders](https://github.com/notable/notable-insiders) - A repository containing experimental releases of Notable. (2 days ago)
-- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool (2 days ago)
-- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.  (2 days ago)
-- [mocko-app/mocko](https://github.com/mocko-app/mocko) - Mocking made easy, proxy your API and choose which endpoints to mock (2 days ago)
-- [krakendio/krakendesigner](https://github.com/krakendio/krakendesigner) - KrakenD configuration editor. (4 days ago)
-- [eolinker/apinto](https://github.com/eolinker/apinto) - A gateway developed based on golang.With a variety of plug-ins which can be expanded by itself, plug and play. what&#39;s more,it can quickly help enterprises manage API services and improve the stability and security of API services. (4 days ago)
-- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform (4 days ago)
-- [aklivity/zilla](https://github.com/aklivity/zilla) - Zilla Project (4 days ago)
+- [mvysny/dynatest](https://github.com/mvysny/dynatest) - Simplest Most Powerful Testing Framework For Kotlin (1 day ago)
+- [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming (2 days ago)
+- [notable/notable-insiders](https://github.com/notable/notable-insiders) - A repository containing experimental releases of Notable. (3 days ago)
+- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool (3 days ago)
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.  (3 days ago)
+- [mocko-app/mocko](https://github.com/mocko-app/mocko) - Mocking made easy, proxy your API and choose which endpoints to mock (3 days ago)
+- [krakendio/krakendesigner](https://github.com/krakendio/krakendesigner) - KrakenD configuration editor. (5 days ago)
+- [eolinker/apinto](https://github.com/eolinker/apinto) - A gateway developed based on golang.With a variety of plug-ins which can be expanded by itself, plug and play. what&#39;s more,it can quickly help enterprises manage API services and improve the stability and security of API services. (5 days ago)
+- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform (5 days ago)
+- [aklivity/zilla](https://github.com/aklivity/zilla) - Zilla Project (5 days ago)
 
 #### 📫 How to reach me
 
