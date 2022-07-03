@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.1](https://github.com/postalsys/emailengine/releases/tag/v2.23.1), today) - Headless email client
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.2.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.2.0), today) - Sqlalchemy driver for duckdb
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.0](https://github.com/postalsys/emailengine/releases/tag/v2.23.0), 2 days ago) - Headless email client
 - [tellery/tellery](https://github.com/tellery/tellery) ([v0.8.7](https://github.com/tellery/tellery/releases/tag/v0.8.7), 3 days ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [apache/superset](https://github.com/apache/superset) ([2.0.0rc1](https://github.com/apache/superset/releases/tag/2.0.0rc1), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.21](https://github.com/dagger/dagger/releases/tag/v0.2.21), 5 days ago) - A portable devkit for CI/CD pipelines
