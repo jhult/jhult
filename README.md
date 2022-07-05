@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com (today)
 - [bbyars/mountebank](https://github.com/bbyars/mountebank) - Over the wire test doubles (3 days ago)
 - [dmcg/okey-doke](https://github.com/dmcg/okey-doke) -  (3 days ago)
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It&#39;s like JSON, but very fast and small. (3 days ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool (6 days ago)
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.  (6 days ago)
 - [mocko-app/mocko](https://github.com/mocko-app/mocko) - Mocking made easy, proxy your API and choose which endpoints to mock (6 days ago)
-- [krakendio/krakendesigner](https://github.com/krakendio/krakendesigner) - KrakenD configuration editor. (1 week ago)
 
 #### 📫 How to reach me
 
