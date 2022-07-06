@@ -25,6 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.2), today) - Security scanner for your Terraform code
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.2](https://github.com/tailscale/tailscale/releases/tag/v1.26.2), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.4](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.4), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.1](https://github.com/postalsys/emailengine/releases/tag/v2.23.1), 3 days ago) - Headless email client
@@ -32,7 +33,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [tellery/tellery](https://github.com/tellery/tellery) ([v0.8.7](https://github.com/tellery/tellery/releases/tag/v0.8.7), 6 days ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.21](https://github.com/dagger/dagger/releases/tag/v0.2.21), 1 week ago) - A portable devkit for CI/CD pipelines
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.17.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.17.0-rc1), 2 weeks ago) - Git with a cup of tea, painless self-hosted git service
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.0), 2 weeks ago) - Security scanner for your Terraform code
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 2 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 3 months ago) - A container runtime written in Rust
 
