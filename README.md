@@ -25,9 +25,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/superset](https://github.com/apache/superset) ([2.0.0rc2](https://github.com/apache/superset/releases/tag/2.0.0rc2), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.2), today) - Security scanner for your Terraform code
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.2](https://github.com/tailscale/tailscale/releases/tag/v1.26.2), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.4](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.4), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.1](https://github.com/postalsys/emailengine/releases/tag/v2.23.1), 3 days ago) - Headless email client
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.2.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.2.0), 3 days ago) - Sqlalchemy driver for duckdb
 - [tellery/tellery](https://github.com/tellery/tellery) ([v0.8.7](https://github.com/tellery/tellery/releases/tag/v0.8.7), 6 days ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
