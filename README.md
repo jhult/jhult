@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.2](https://github.com/tailscale/tailscale/releases/tag/v1.26.2), today) - The easiest, most secure way to use WireGuard and 2FA.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.4](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.4), today) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.1](https://github.com/postalsys/emailengine/releases/tag/v2.23.1), 2 days ago) - Headless email client
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.2.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.2.0), 2 days ago) - Sqlalchemy driver for duckdb
-- [tellery/tellery](https://github.com/tellery/tellery) ([v0.8.7](https://github.com/tellery/tellery/releases/tag/v0.8.7), 5 days ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.2](https://github.com/tailscale/tailscale/releases/tag/v1.26.2), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.4](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.4), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.1](https://github.com/postalsys/emailengine/releases/tag/v2.23.1), 3 days ago) - Headless email client
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.2.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.2.0), 3 days ago) - Sqlalchemy driver for duckdb
+- [tellery/tellery](https://github.com/tellery/tellery) ([v0.8.7](https://github.com/tellery/tellery/releases/tag/v0.8.7), 6 days ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.21](https://github.com/dagger/dagger/releases/tag/v0.2.21), 1 week ago) - A portable devkit for CI/CD pipelines
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.17.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.17.0-rc1), 2 weeks ago) - Git with a cup of tea, painless self-hosted git service
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.0](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.0), 2 weeks ago) - Security scanner for your Terraform code
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com (today)
-- [bbyars/mountebank](https://github.com/bbyars/mountebank) - Over the wire test doubles (3 days ago)
-- [dmcg/okey-doke](https://github.com/dmcg/okey-doke) -  (3 days ago)
-- [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It&#39;s like JSON, but very fast and small. (3 days ago)
-- [mvysny/dynatest](https://github.com/mvysny/dynatest) - Simplest Most Powerful Testing Framework For Kotlin (4 days ago)
-- [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming (5 days ago)
-- [notable/notable-insiders](https://github.com/notable/notable-insiders) - A repository containing experimental releases of Notable. (6 days ago)
-- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool (6 days ago)
-- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.  (6 days ago)
-- [mocko-app/mocko](https://github.com/mocko-app/mocko) - Mocking made easy, proxy your API and choose which endpoints to mock (6 days ago)
+- [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com (1 day ago)
+- [bbyars/mountebank](https://github.com/bbyars/mountebank) - Over the wire test doubles (4 days ago)
+- [dmcg/okey-doke](https://github.com/dmcg/okey-doke) -  (4 days ago)
+- [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It&#39;s like JSON, but very fast and small. (4 days ago)
+- [mvysny/dynatest](https://github.com/mvysny/dynatest) - Simplest Most Powerful Testing Framework For Kotlin (5 days ago)
+- [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming (6 days ago)
+- [notable/notable-insiders](https://github.com/notable/notable-insiders) - A repository containing experimental releases of Notable. (1 week ago)
+- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool (1 week ago)
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.  (1 week ago)
+- [mocko-app/mocko](https://github.com/mocko-app/mocko) - Mocking made easy, proxy your API and choose which endpoints to mock (1 week ago)
 
 #### 📫 How to reach me
 
