@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.3), today) - Security scanner for your Terraform code
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.22](https://github.com/dagger/dagger/releases/tag/v0.2.22), today) - A portable devkit for CI/CD pipelines
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.2](https://github.com/postalsys/emailengine/releases/tag/v2.23.2), today) - Headless email client
-- [apache/superset](https://github.com/apache/superset) ([2.0.0rc2](https://github.com/apache/superset/releases/tag/2.0.0rc2), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.2](https://github.com/tailscale/tailscale/releases/tag/v1.26.2), 2 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.2.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.2.0), 4 days ago) - Sqlalchemy driver for duckdb
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.3), 1 day ago) - Security scanner for your Terraform code
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.22](https://github.com/dagger/dagger/releases/tag/v0.2.22), 1 day ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.2](https://github.com/postalsys/emailengine/releases/tag/v2.23.2), 1 day ago) - Headless email client
+- [apache/superset](https://github.com/apache/superset) ([2.0.0rc2](https://github.com/apache/superset/releases/tag/2.0.0rc2), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.2](https://github.com/tailscale/tailscale/releases/tag/v1.26.2), 3 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.2.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.2.0), 5 days ago) - Sqlalchemy driver for duckdb
 - [tellery/tellery](https://github.com/tellery/tellery) ([v0.8.7](https://github.com/tellery/tellery/releases/tag/v0.8.7), 1 week ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.17.0-rc1](https://github.com/go-gitea/gitea/releases/tag/v1.17.0-rc1), 2 weeks ago) - Git with a cup of tea, painless self-hosted git service
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 2 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -51,13 +51,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin integrates with 1Password Connect to allow for the retrieval, creation, and deletion of items stored in 1Password. (today)
-- [graalvm/homebrew-tap](https://github.com/graalvm/homebrew-tap) -  (1 day ago)
-- [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com (2 days ago)
-- [bbyars/mountebank](https://github.com/bbyars/mountebank) - Over the wire test doubles (5 days ago)
-- [dmcg/okey-doke](https://github.com/dmcg/okey-doke) -  (5 days ago)
-- [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It&#39;s like JSON, but very fast and small. (5 days ago)
-- [mvysny/dynatest](https://github.com/mvysny/dynatest) - Simplest Most Powerful Testing Framework For Kotlin (6 days ago)
+- [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin integrates with 1Password Connect to allow for the retrieval, creation, and deletion of items stored in 1Password. (1 day ago)
+- [graalvm/homebrew-tap](https://github.com/graalvm/homebrew-tap) -  (2 days ago)
+- [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com (3 days ago)
+- [bbyars/mountebank](https://github.com/bbyars/mountebank) - Over the wire test doubles (6 days ago)
+- [dmcg/okey-doke](https://github.com/dmcg/okey-doke) -  (6 days ago)
+- [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It&#39;s like JSON, but very fast and small. (6 days ago)
+- [mvysny/dynatest](https://github.com/mvysny/dynatest) - Simplest Most Powerful Testing Framework For Kotlin (1 week ago)
 - [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming (1 week ago)
 - [notable/notable-insiders](https://github.com/notable/notable-insiders) - A repository containing experimental releases of Notable. (1 week ago)
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool (1 week ago)
