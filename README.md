@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [gitlab4j/gitlab4j-api](https://github.com/gitlab4j/gitlab4j-api) - GitLab4J API (gitlab4j-api) provides a full featured Java client library for working with GitLab repositories via the GitLab REST API (today)
 - [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (today)
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases. (today)
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation (today)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Management Platform (1 day ago)
 - [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin integrates with 1Password Connect to allow for the retrieval, creation, and deletion of items stored in 1Password. (2 days ago)
 - [graalvm/homebrew-tap](https://github.com/graalvm/homebrew-tap) -  (3 days ago)
-- [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com (4 days ago)
 
 #### 📫 How to reach me
 
