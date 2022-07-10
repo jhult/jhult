@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal (today)
 - [gitlab4j/gitlab4j-api](https://github.com/gitlab4j/gitlab4j-api) - GitLab4J API (gitlab4j-api) provides a full featured Java client library for working with GitLab repositories via the GitLab REST API (1 day ago)
 - [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (1 day ago)
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases. (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Management Platform (2 days ago)
 - [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin integrates with 1Password Connect to allow for the retrieval, creation, and deletion of items stored in 1Password. (3 days ago)
-- [graalvm/homebrew-tap](https://github.com/graalvm/homebrew-tap) -  (4 days ago)
 
 #### 📫 How to reach me
 
