@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.23](https://github.com/dagger/dagger/releases/tag/v0.2.23), today) - A portable devkit for CI/CD pipelines
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.3](https://github.com/postalsys/emailengine/releases/tag/v2.23.3), 3 days ago) - Headless email client
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.3), 4 days ago) - Security scanner for your Terraform code
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.2](https://github.com/tailscale/tailscale/releases/tag/v1.26.2), 6 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.23](https://github.com/dagger/dagger/releases/tag/v0.2.23), 1 day ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.3](https://github.com/postalsys/emailengine/releases/tag/v2.23.3), 4 days ago) - Headless email client
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.3), 5 days ago) - Security scanner for your Terraform code
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.2](https://github.com/tailscale/tailscale/releases/tag/v1.26.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.2.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.2.0), 1 week ago) - Sqlalchemy driver for duckdb
 - [tellery/tellery](https://github.com/tellery/tellery) ([v0.8.7](https://github.com/tellery/tellery/releases/tag/v0.8.7), 1 week ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 2 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal (1 day ago)
-- [gitlab4j/gitlab4j-api](https://github.com/gitlab4j/gitlab4j-api) - GitLab4J API (gitlab4j-api) provides a full featured Java client library for working with GitLab repositories via the GitLab REST API (2 days ago)
-- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (2 days ago)
-- [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases. (2 days ago)
-- [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation (2 days ago)
-- [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy (2 days ago)
-- [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs (2 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
-- [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Management Platform (3 days ago)
-- [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin integrates with 1Password Connect to allow for the retrieval, creation, and deletion of items stored in 1Password. (4 days ago)
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal (2 days ago)
+- [gitlab4j/gitlab4j-api](https://github.com/gitlab4j/gitlab4j-api) - GitLab4J API (gitlab4j-api) provides a full featured Java client library for working with GitLab repositories via the GitLab REST API (3 days ago)
+- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (3 days ago)
+- [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases. (3 days ago)
+- [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation (3 days ago)
+- [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy (3 days ago)
+- [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs (3 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
+- [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Management Platform (4 days ago)
+- [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) - Hashicorp Vault plugin integrates with 1Password Connect to allow for the retrieval, creation, and deletion of items stored in 1Password. (5 days ago)
 
 #### 📫 How to reach me
 
