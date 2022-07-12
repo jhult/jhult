@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.4](https://github.com/postalsys/emailengine/releases/tag/v2.23.4), today) - Headless email client
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.23](https://github.com/dagger/dagger/releases/tag/v0.2.23), 1 day ago) - A portable devkit for CI/CD pipelines
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.3](https://github.com/postalsys/emailengine/releases/tag/v2.23.3), 4 days ago) - Headless email client
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.3), 5 days ago) - Security scanner for your Terraform code
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.2](https://github.com/tailscale/tailscale/releases/tag/v1.26.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.2.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.2.0), 1 week ago) - Sqlalchemy driver for duckdb
