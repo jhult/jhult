@@ -38,6 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo](https://github.com/GoogleContainerTools/jib-extensions/pull/131) on [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) (today)
 - [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (4 months ago)
 - [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (4 months ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (5 months ago)
@@ -47,7 +48,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (5 months ago)
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (6 months ago)
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (7 months ago)
-- [Use default character set &#39;utf8mb4&#39; and collation set utf8mb4_general_ci](https://github.com/bitnami/bitnami-docker-mariadb/pull/255) on [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) (7 months ago)
 
 #### ⭐ Recent Stars
 
