@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.4](https://github.com/postalsys/emailengine/releases/tag/v2.23.4), 2 days ago) - Headless email client
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.23](https://github.com/dagger/dagger/releases/tag/v0.2.23), 3 days ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.23.4](https://github.com/postalsys/emailengine/releases/tag/v2.23.4), 3 days ago) - Headless email client
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.23](https://github.com/dagger/dagger/releases/tag/v0.2.23), 4 days ago) - A portable devkit for CI/CD pipelines
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.3), 1 week ago) - Security scanner for your Terraform code
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.26.2](https://github.com/tailscale/tailscale/releases/tag/v1.26.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.2.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.2.0), 1 week ago) - Sqlalchemy driver for duckdb
@@ -38,29 +38,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Fix typo](https://github.com/GoogleContainerTools/jib-extensions/pull/131) on [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) (today)
+- [Fix typo](https://github.com/GoogleContainerTools/jib-extensions/pull/131) on [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) (1 day ago)
 - [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (4 months ago)
 - [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (4 months ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (5 months ago)
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (5 months ago)
 - [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (5 months ago)
 - [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (5 months ago)
-- [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (5 months ago)
+- [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (6 months ago)
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (6 months ago)
 - [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [atteo/evo-inflector](https://github.com/atteo/evo-inflector) - Singular to plural english word converter (1 day ago)
-- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal (4 days ago)
-- [gitlab4j/gitlab4j-api](https://github.com/gitlab4j/gitlab4j-api) - GitLab4J API (gitlab4j-api) provides a full featured Java client library for working with GitLab repositories via the GitLab REST API (5 days ago)
-- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (5 days ago)
-- [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases. (5 days ago)
-- [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation (5 days ago)
-- [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy (5 days ago)
-- [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs (5 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (5 days ago)
-- [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Management Platform (6 days ago)
+- [atteo/evo-inflector](https://github.com/atteo/evo-inflector) - Singular to plural english word converter (2 days ago)
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal (5 days ago)
+- [gitlab4j/gitlab4j-api](https://github.com/gitlab4j/gitlab4j-api) - GitLab4J API (gitlab4j-api) provides a full featured Java client library for working with GitLab repositories via the GitLab REST API (6 days ago)
+- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (6 days ago)
+- [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases. (6 days ago)
+- [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation (6 days ago)
+- [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy (6 days ago)
+- [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs (6 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (6 days ago)
+- [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Management Platform (1 week ago)
 
 #### 📫 How to reach me
 
