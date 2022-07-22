@@ -25,9 +25,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.0](https://github.com/postalsys/emailengine/releases/tag/v2.24.0), today) - Headless email client
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.25](https://github.com/dagger/dagger/releases/tag/v0.2.25), 1 day ago) - A portable devkit for CI/CD pipelines
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 3 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.0](https://github.com/postalsys/emailengine/releases/tag/v2.24.0), 1 day ago) - Headless email client
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.25](https://github.com/dagger/dagger/releases/tag/v0.2.25), 2 days ago) - A portable devkit for CI/CD pipelines
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.3), 2 weeks ago) - Security scanner for your Terraform code
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.2.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.2.0), 2 weeks ago) - Sqlalchemy driver for duckdb
 - [tellery/tellery](https://github.com/tellery/tellery) ([v0.8.7](https://github.com/tellery/tellery/releases/tag/v0.8.7), 3 weeks ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
@@ -51,11 +51,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell (3 days ago)
-- [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all (3 days ago)
-- [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system (3 days ago)
-- [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development. (3 days ago)
-- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. (5 days ago)
+- [Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell (4 days ago)
+- [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all (4 days ago)
+- [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system (4 days ago)
+- [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development. (4 days ago)
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. (6 days ago)
 - [atteo/evo-inflector](https://github.com/atteo/evo-inflector) - Singular to plural english word converter (1 week ago)
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal (1 week ago)
 - [gitlab4j/gitlab4j-api](https://github.com/gitlab4j/gitlab4j-api) - GitLab4J API (gitlab4j-api) provides a full featured Java client library for working with GitLab repositories via the GitLab REST API (1 week ago)
