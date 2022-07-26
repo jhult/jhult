@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history. (today)
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native  (today)
 - [MichaelAquilina/zsh-history-filter](https://github.com/MichaelAquilina/zsh-history-filter) - 🔍 Zsh plugin to filter out some commands from being added to you history (today)
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool. (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development. (1 week ago)
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. (1 week ago)
 - [atteo/evo-inflector](https://github.com/atteo/evo-inflector) - Singular to plural english word converter (1 week ago)
-- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal (2 weeks ago)
 
 #### 📫 How to reach me
 
