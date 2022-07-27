@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.26](https://github.com/dagger/dagger/releases/tag/v0.2.26), 1 day ago) - A portable devkit for CI/CD pipelines
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.0](https://github.com/postalsys/emailengine/releases/tag/v2.24.0), 5 days ago) - Headless email client
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.26](https://github.com/dagger/dagger/releases/tag/v0.2.26), 2 days ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.0](https://github.com/postalsys/emailengine/releases/tag/v2.24.0), 6 days ago) - Headless email client
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.3), 2 weeks ago) - Security scanner for your Terraform code
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.2.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.2.0), 3 weeks ago) - Sqlalchemy driver for duckdb
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history. (today)
-- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native  (today)
-- [MichaelAquilina/zsh-history-filter](https://github.com/MichaelAquilina/zsh-history-filter) - 🔍 Zsh plugin to filter out some commands from being added to you history (today)
-- [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool. (1 day ago)
+- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history. (1 day ago)
+- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native  (1 day ago)
+- [MichaelAquilina/zsh-history-filter](https://github.com/MichaelAquilina/zsh-history-filter) - 🔍 Zsh plugin to filter out some commands from being added to you history (1 day ago)
+- [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool. (2 days ago)
 - [Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell (1 week ago)
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all (1 week ago)
 - [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system (1 week ago)
 - [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development. (1 week ago)
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. (1 week ago)
-- [atteo/evo-inflector](https://github.com/atteo/evo-inflector) - Singular to plural english word converter (1 week ago)
+- [atteo/evo-inflector](https://github.com/atteo/evo-inflector) - Singular to plural english word converter (2 weeks ago)
 
 #### 📫 How to reach me
 
