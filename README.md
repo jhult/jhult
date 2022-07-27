@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.26](https://github.com/dagger/dagger/releases/tag/v0.2.26), 2 days ago) - A portable devkit for CI/CD pipelines
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.27](https://github.com/dagger/dagger/releases/tag/v0.2.27), today) - A portable devkit for CI/CD pipelines
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.0](https://github.com/postalsys/emailengine/releases/tag/v2.24.0), 6 days ago) - Headless email client
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.3), 2 weeks ago) - Security scanner for your Terraform code
