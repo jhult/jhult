@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. (today)
+- [webjars/swagger-ui](https://github.com/webjars/swagger-ui) -  (today)
 - [lbguilherme/as-typed](https://github.com/lbguilherme/as-typed) - Static TypeScript types from a literal JSONSchema type (today)
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history. (2 days ago)
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native  (2 days ago)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell (1 week ago)
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all (1 week ago)
 - [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system (1 week ago)
-- [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development. (1 week ago)
-- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. (1 week ago)
 
 #### 📫 How to reach me
 
