@@ -12,25 +12,25 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) -  (1 week ago)
+- [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) -  (2 weeks ago)
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (4 months ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (4 months ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search. (5 months ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (6 months ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (6 months ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (7 months ago)
-- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami Docker Image for MariaDB (7 months ago)
+- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami Docker Image for MariaDB (8 months ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (9 months ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.1](https://github.com/postalsys/emailengine/releases/tag/v2.24.1), today) - Headless email client
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.27](https://github.com/dagger/dagger/releases/tag/v0.2.27), today) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.1](https://github.com/postalsys/emailengine/releases/tag/v2.24.1), 1 day ago) - Headless email client
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.27](https://github.com/dagger/dagger/releases/tag/v0.2.27), 1 day ago) - A portable devkit for CI/CD pipelines
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.3), 2 weeks ago) - Security scanner for your Terraform code
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.26.3](https://github.com/aquasecurity/tfsec/releases/tag/v1.26.3), 3 weeks ago) - Security scanner for your Terraform code
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.2.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.2.0), 3 weeks ago) - Sqlalchemy driver for duckdb
-- [tellery/tellery](https://github.com/tellery/tellery) ([v0.8.7](https://github.com/tellery/tellery/releases/tag/v0.8.7), 3 weeks ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
+- [tellery/tellery](https://github.com/tellery/tellery) ([v0.8.7](https://github.com/tellery/tellery/releases/tag/v0.8.7), 4 weeks ago) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([4.1.0](https://github.com/qarmin/czkawka/releases/tag/4.1.0), 3 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 3 months ago) - A container runtime written in Rust
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 7 months ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
@@ -38,7 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Fix typo](https://github.com/GoogleContainerTools/jib-extensions/pull/131) on [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) (1 week ago)
+- [Fix typo](https://github.com/GoogleContainerTools/jib-extensions/pull/131) on [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) (2 weeks ago)
 - [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (4 months ago)
 - [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (5 months ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (5 months ago)
@@ -51,10 +51,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history. (1 day ago)
-- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native  (1 day ago)
-- [MichaelAquilina/zsh-history-filter](https://github.com/MichaelAquilina/zsh-history-filter) - 🔍 Zsh plugin to filter out some commands from being added to you history (1 day ago)
-- [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool. (2 days ago)
+- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history. (2 days ago)
+- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native  (2 days ago)
+- [MichaelAquilina/zsh-history-filter](https://github.com/MichaelAquilina/zsh-history-filter) - 🔍 Zsh plugin to filter out some commands from being added to you history (2 days ago)
+- [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool. (3 days ago)
 - [Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell (1 week ago)
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all (1 week ago)
 - [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system (1 week ago)
