@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.28](https://github.com/dagger/dagger/releases/tag/v0.2.28), today) - A portable devkit for CI/CD pipelines
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.3.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.3.0), 1 day ago) - Sqlalchemy driver for duckdb
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.1), 2 days ago) - Security scanner for your Terraform code
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.0](https://github.com/qarmin/czkawka/releases/tag/5.0.0), 6 days ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.1](https://github.com/postalsys/emailengine/releases/tag/v2.24.1), 1 week ago) - Headless email client
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.27](https://github.com/dagger/dagger/releases/tag/v0.2.27), 1 week ago) - A portable devkit for CI/CD pipelines
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 4 months ago) - A container runtime written in Rust
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 7 months ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
