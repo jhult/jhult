@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.3.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.3.0), today) - Sqlalchemy driver for duckdb
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.1), 1 day ago) - Security scanner for your Terraform code
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.0](https://github.com/qarmin/czkawka/releases/tag/5.0.0), 5 days ago) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.1](https://github.com/postalsys/emailengine/releases/tag/v2.24.1), 6 days ago) - Headless email client
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.27](https://github.com/dagger/dagger/releases/tag/v0.2.27), 6 days ago) - A portable devkit for CI/CD pipelines
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.3.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.3.0), 1 day ago) - Sqlalchemy driver for duckdb
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.1), 2 days ago) - Security scanner for your Terraform code
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.0](https://github.com/qarmin/czkawka/releases/tag/5.0.0), 6 days ago) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.1](https://github.com/postalsys/emailengine/releases/tag/v2.24.1), 1 week ago) - Headless email client
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.27](https://github.com/dagger/dagger/releases/tag/v0.2.27), 1 week ago) - A portable devkit for CI/CD pipelines
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 4 months ago) - A container runtime written in Rust
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 7 months ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
@@ -50,14 +50,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos (1 day ago)
-- [snoopForms/snoopHub](https://github.com/snoopForms/snoopHub) - The Open-Source Typeform Alternative (1 day ago)
-- [nearform/lyra](https://github.com/nearform/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. Now in beta. (1 day ago)
-- [josh-project/josh](https://github.com/josh-project/josh) - Just One Single History (1 day ago)
-- [Nithur-M/work-from-anywhere](https://github.com/Nithur-M/work-from-anywhere) - A daily curated list of jobs that allow working from anywhere. (1 day ago)
-- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. (5 days ago)
-- [webjars/swagger-ui](https://github.com/webjars/swagger-ui) -  (5 days ago)
-- [lbguilherme/as-typed](https://github.com/lbguilherme/as-typed) - Static TypeScript types from a literal JSONSchema type (5 days ago)
+- [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos (2 days ago)
+- [snoopForms/snoopHub](https://github.com/snoopForms/snoopHub) - The Open-Source Typeform Alternative (2 days ago)
+- [nearform/lyra](https://github.com/nearform/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. Now in beta. (2 days ago)
+- [josh-project/josh](https://github.com/josh-project/josh) - Just One Single History (2 days ago)
+- [Nithur-M/work-from-anywhere](https://github.com/Nithur-M/work-from-anywhere) - A daily curated list of jobs that allow working from anywhere. (2 days ago)
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. (6 days ago)
+- [webjars/swagger-ui](https://github.com/webjars/swagger-ui) -  (6 days ago)
+- [lbguilherme/as-typed](https://github.com/lbguilherme/as-typed) - Static TypeScript types from a literal JSONSchema type (6 days ago)
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history. (1 week ago)
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native  (1 week ago)
 
