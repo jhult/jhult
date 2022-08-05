@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.3.1](https://github.com/Mause/duckdb_engine/releases/tag/v0.3.1), today) - SQLAlchemy driver for DuckDB
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.3.2](https://github.com/Mause/duckdb_engine/releases/tag/v0.3.2), today) - SQLAlchemy driver for DuckDB
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.1](https://github.com/qarmin/czkawka/releases/tag/5.0.1), 2 days ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.3](https://github.com/postalsys/emailengine/releases/tag/v2.24.3), 2 days ago) - Headless email client
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.28](https://github.com/dagger/dagger/releases/tag/v0.2.28), 2 days ago) - A portable devkit for CI/CD pipelines
