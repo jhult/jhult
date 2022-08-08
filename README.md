@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.4](https://github.com/postalsys/emailengine/releases/tag/v2.24.4), 1 day ago) - Headless email client
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.3.3](https://github.com/Mause/duckdb_engine/releases/tag/v0.3.3), 1 day ago) - SQLAlchemy driver for DuckDB
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.1](https://github.com/qarmin/czkawka/releases/tag/5.0.1), 4 days ago) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.28](https://github.com/dagger/dagger/releases/tag/v0.2.28), 4 days ago) - A portable devkit for CI/CD pipelines
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.1), 6 days ago) - Security scanner for your Terraform code
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.4](https://github.com/postalsys/emailengine/releases/tag/v2.24.4), 2 days ago) - Headless email client
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.3.3](https://github.com/Mause/duckdb_engine/releases/tag/v0.3.3), 2 days ago) - SQLAlchemy driver for DuckDB
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.1](https://github.com/qarmin/czkawka/releases/tag/5.0.1), 5 days ago) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.28](https://github.com/dagger/dagger/releases/tag/v0.2.28), 5 days ago) - A portable devkit for CI/CD pipelines
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.1), 1 week ago) - Security scanner for your Terraform code
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 3 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 4 months ago) - A container runtime written in Rust
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 8 months ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) ([v0.10.0](https://github.com/weaveworks/ignite/releases/tag/v0.10.0), 1 year ago) - Ignite a Firecracker microVM
@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page (today)
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. (3 days ago)
-- [PagerDuty/pd-oncall-chat-topic](https://github.com/PagerDuty/pd-oncall-chat-topic) - AWS Lambda Function that updates a Chat Room topic (eg, Slack) (3 days ago)
-- [klogging/klogging](https://github.com/klogging/klogging) - Kotlin multi-platform logging library with structured logging and coroutines support (3 days ago)
-- [lolo101/MsgViewer](https://github.com/lolo101/MsgViewer) - MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programmatically. (4 days ago)
-- [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos (6 days ago)
-- [snoopForms/snoopHub](https://github.com/snoopForms/snoopHub) - The Open-Source Typeform Alternative (6 days ago)
-- [nearform/lyra](https://github.com/nearform/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. (6 days ago)
-- [josh-project/josh](https://github.com/josh-project/josh) - Just One Single History (6 days ago)
-- [Nithur-M/work-from-anywhere](https://github.com/Nithur-M/work-from-anywhere) - A daily curated list of jobs that allow working from anywhere. (6 days ago)
+- [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page (1 day ago)
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. (4 days ago)
+- [PagerDuty/pd-oncall-chat-topic](https://github.com/PagerDuty/pd-oncall-chat-topic) - AWS Lambda Function that updates a Chat Room topic (eg, Slack) (4 days ago)
+- [klogging/klogging](https://github.com/klogging/klogging) - Kotlin multi-platform logging library with structured logging and coroutines support (4 days ago)
+- [lolo101/MsgViewer](https://github.com/lolo101/MsgViewer) - MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programmatically. (5 days ago)
+- [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos (1 week ago)
+- [snoopForms/snoopHub](https://github.com/snoopForms/snoopHub) - The Open-Source Typeform Alternative (1 week ago)
+- [nearform/lyra](https://github.com/nearform/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. (1 week ago)
+- [josh-project/josh](https://github.com/josh-project/josh) - Just One Single History (1 week ago)
+- [Nithur-M/work-from-anywhere](https://github.com/Nithur-M/work-from-anywhere) - A daily curated list of jobs that allow working from anywhere. (1 week ago)
 
 #### 📫 How to reach me
 
