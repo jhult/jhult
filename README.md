@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.4](https://github.com/postalsys/emailengine/releases/tag/v2.24.4), 2 days ago) - Headless email client
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.3.3](https://github.com/Mause/duckdb_engine/releases/tag/v0.3.3), 2 days ago) - SQLAlchemy driver for DuckDB
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.1](https://github.com/qarmin/czkawka/releases/tag/5.0.1), 5 days ago) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.28](https://github.com/dagger/dagger/releases/tag/v0.2.28), 5 days ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.4](https://github.com/postalsys/emailengine/releases/tag/v2.24.4), 3 days ago) - Headless email client
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.3.3](https://github.com/Mause/duckdb_engine/releases/tag/v0.3.3), 3 days ago) - SQLAlchemy driver for DuckDB
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.1](https://github.com/qarmin/czkawka/releases/tag/5.0.1), 6 days ago) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.28](https://github.com/dagger/dagger/releases/tag/v0.2.28), 6 days ago) - A portable devkit for CI/CD pipelines
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.1), 1 week ago) - Security scanner for your Terraform code
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 3 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 4 months ago) - A container runtime written in Rust
@@ -41,25 +41,25 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (5 months ago)
 - [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (5 months ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (5 months ago)
-- [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (5 months ago)
-- [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (5 months ago)
+- [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (6 months ago)
+- [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (6 months ago)
 - [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (6 months ago)
 - [Update English translation](https://github.com/qarmin/czkawka/pull/585) on [qarmin/czkawka](https://github.com/qarmin/czkawka) (6 months ago)
 - [Bump log4j to latest](https://github.com/jillesvangurp/es-kotlin-client/pull/76) on [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) (7 months ago)
-- [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (7 months ago)
+- [Update version for runc compatibility for Moby](https://github.com/containers/youki/pull/530) on [containers/youki](https://github.com/containers/youki) (8 months ago)
 
 #### ⭐ Recent Stars
 
-- [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page (1 day ago)
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. (4 days ago)
-- [PagerDuty/pd-oncall-chat-topic](https://github.com/PagerDuty/pd-oncall-chat-topic) - AWS Lambda Function that updates a Chat Room topic (eg, Slack) (4 days ago)
-- [klogging/klogging](https://github.com/klogging/klogging) - Kotlin multi-platform logging library with structured logging and coroutines support (4 days ago)
-- [lolo101/MsgViewer](https://github.com/lolo101/MsgViewer) - MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programmatically. (5 days ago)
+- [visulate/visulate-ora2pg](https://github.com/visulate/visulate-ora2pg) - Docker image and single page web application for Ora2Pg (today)
+- [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page (2 days ago)
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. (5 days ago)
+- [PagerDuty/pd-oncall-chat-topic](https://github.com/PagerDuty/pd-oncall-chat-topic) - AWS Lambda Function that updates a Chat Room topic (eg, Slack) (5 days ago)
+- [klogging/klogging](https://github.com/klogging/klogging) - Kotlin multi-platform logging library with structured logging and coroutines support (5 days ago)
+- [lolo101/MsgViewer](https://github.com/lolo101/MsgViewer) - MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programmatically. (6 days ago)
 - [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos (1 week ago)
 - [snoopForms/snoopHub](https://github.com/snoopForms/snoopHub) - The Open-Source Typeform Alternative (1 week ago)
 - [nearform/lyra](https://github.com/nearform/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. (1 week ago)
 - [josh-project/josh](https://github.com/josh-project/josh) - Just One Single History (1 week ago)
-- [Nithur-M/work-from-anywhere](https://github.com/Nithur-M/work-from-anywhere) - A daily curated list of jobs that allow working from anywhere. (1 week ago)
 
 #### 📫 How to reach me
 
