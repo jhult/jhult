@@ -50,6 +50,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [cubeprogramming/GradleBOM](https://github.com/cubeprogramming/GradleBOM) - Maven BOM and artifact versioning Gradle example (today)
 - [oarevalo/BugLogHQ](https://github.com/oarevalo/BugLogHQ) - BugLogHQ is a tool to centralize the handling of automated bug reports from multiple applications. BugLogHQ provides a unified view of error messages sent from any number of applications, allowing the developer to search, graph, forward, and explore the bug reports submitted by the applications. (1 day ago)
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem. (1 day ago)
 - [acorn-io/acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes (2 days ago)
@@ -59,7 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [PagerDuty/pd-oncall-chat-topic](https://github.com/PagerDuty/pd-oncall-chat-topic) - AWS Lambda Function that updates a Chat Room topic (eg, Slack) (1 week ago)
 - [klogging/klogging](https://github.com/klogging/klogging) - Kotlin multi-platform logging library with structured logging and coroutines support (1 week ago)
 - [lolo101/MsgViewer](https://github.com/lolo101/MsgViewer) - MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programmatically. (1 week ago)
-- [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos (1 week ago)
 
 #### 📫 How to reach me
 
