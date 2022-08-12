@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.5](https://github.com/postalsys/emailengine/releases/tag/v2.24.5), today) - Headless email client
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.3.3](https://github.com/Mause/duckdb_engine/releases/tag/v0.3.3), 5 days ago) - SQLAlchemy driver for DuckDB
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.5](https://github.com/postalsys/emailengine/releases/tag/v2.24.5), 1 day ago) - Headless email client
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.3.3](https://github.com/Mause/duckdb_engine/releases/tag/v0.3.3), 6 days ago) - SQLAlchemy driver for DuckDB
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.1](https://github.com/qarmin/czkawka/releases/tag/5.0.1), 1 week ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.28](https://github.com/dagger/dagger/releases/tag/v0.2.28), 1 week ago) - A portable devkit for CI/CD pipelines
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.1), 1 week ago) - Security scanner for your Terraform code
@@ -50,12 +50,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [cubeprogramming/GradleBOM](https://github.com/cubeprogramming/GradleBOM) - Maven BOM and artifact versioning Gradle example (today)
-- [oarevalo/BugLogHQ](https://github.com/oarevalo/BugLogHQ) - BugLogHQ is a tool to centralize the handling of automated bug reports from multiple applications. BugLogHQ provides a unified view of error messages sent from any number of applications, allowing the developer to search, graph, forward, and explore the bug reports submitted by the applications. (1 day ago)
-- [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem. (1 day ago)
-- [acorn-io/acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes (2 days ago)
-- [visulate/visulate-ora2pg](https://github.com/visulate/visulate-ora2pg) - Docker image and single page web application for Ora2Pg (2 days ago)
-- [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page (4 days ago)
+- [cubeprogramming/GradleBOM](https://github.com/cubeprogramming/GradleBOM) - Maven BOM and artifact versioning Gradle example (1 day ago)
+- [oarevalo/BugLogHQ](https://github.com/oarevalo/BugLogHQ) - BugLogHQ is a tool to centralize the handling of automated bug reports from multiple applications. BugLogHQ provides a unified view of error messages sent from any number of applications, allowing the developer to search, graph, forward, and explore the bug reports submitted by the applications. (2 days ago)
+- [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem. (2 days ago)
+- [acorn-io/acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes (3 days ago)
+- [visulate/visulate-ora2pg](https://github.com/visulate/visulate-ora2pg) - Docker image and single page web application for Ora2Pg (3 days ago)
+- [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page (5 days ago)
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. (1 week ago)
 - [PagerDuty/pd-oncall-chat-topic](https://github.com/PagerDuty/pd-oncall-chat-topic) - AWS Lambda Function that updates a Chat Room topic (eg, Slack) (1 week ago)
 - [klogging/klogging](https://github.com/klogging/klogging) - Kotlin multi-platform logging library with structured logging and coroutines support (1 week ago)
