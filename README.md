@@ -17,7 +17,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (5 months ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search. (6 months ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (6 months ago)
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (6 months ago)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (7 months ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (8 months ago)
 - [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami Docker Image for MariaDB (8 months ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (9 months ago)
@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.3.4](https://github.com/Mause/duckdb_engine/releases/tag/v0.3.4), 2 days ago) - SQLAlchemy driver for DuckDB
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.29](https://github.com/dagger/dagger/releases/tag/v0.2.29), 2 days ago) - A portable devkit for CI/CD pipelines
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.5](https://github.com/postalsys/emailengine/releases/tag/v2.24.5), 3 days ago) - Headless email client
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.3.4](https://github.com/Mause/duckdb_engine/releases/tag/v0.3.4), 3 days ago) - SQLAlchemy driver for DuckDB
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.29](https://github.com/dagger/dagger/releases/tag/v0.2.29), 3 days ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.5](https://github.com/postalsys/emailengine/releases/tag/v2.24.5), 4 days ago) - Headless email client
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.1](https://github.com/qarmin/czkawka/releases/tag/5.0.1), 1 week ago) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.1), 1 week ago) - Security scanner for your Terraform code
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 3 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.1](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.1), 2 weeks ago) - Security scanner for your Terraform code
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 4 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 4 months ago) - A container runtime written in Rust
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 8 months ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) ([v0.10.0](https://github.com/weaveworks/ignite/releases/tag/v0.10.0), 1 year ago) - Ignite a Firecracker microVM
@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. (1 day ago)
-- [sunface/datav](https://github.com/sunface/datav) - 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It&#39;s also a lightweight alternative to Grafana. (1 day ago)
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 day ago)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 day ago)
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon (1 day ago)
-- [craigmichaelmartin/pure-orm](https://github.com/craigmichaelmartin/pure-orm) - A pure ORM for writing native SQL queries yielding pure business objects (1 day ago)
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (1 day ago)
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay. (1 day ago)
-- [cubeprogramming/GradleBOM](https://github.com/cubeprogramming/GradleBOM) - Maven BOM and artifact versioning Gradle example (3 days ago)
-- [oarevalo/BugLogHQ](https://github.com/oarevalo/BugLogHQ) - BugLogHQ is a tool to centralize the handling of automated bug reports from multiple applications. BugLogHQ provides a unified view of error messages sent from any number of applications, allowing the developer to search, graph, forward, and explore the bug reports submitted by the applications. (4 days ago)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. (2 days ago)
+- [sunface/datav](https://github.com/sunface/datav) - 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It&#39;s also a lightweight alternative to Grafana. (2 days ago)
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (2 days ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 days ago)
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon (2 days ago)
+- [craigmichaelmartin/pure-orm](https://github.com/craigmichaelmartin/pure-orm) - A pure ORM for writing native SQL queries yielding pure business objects (2 days ago)
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (2 days ago)
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay. (2 days ago)
+- [cubeprogramming/GradleBOM](https://github.com/cubeprogramming/GradleBOM) - Maven BOM and artifact versioning Gradle example (4 days ago)
+- [oarevalo/BugLogHQ](https://github.com/oarevalo/BugLogHQ) - BugLogHQ is a tool to centralize the handling of automated bug reports from multiple applications. BugLogHQ provides a unified view of error messages sent from any number of applications, allowing the developer to search, graph, forward, and explore the bug reports submitted by the applications. (5 days ago)
 
 #### 📫 How to reach me
 
