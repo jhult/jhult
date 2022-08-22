@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.4](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.4), today) - Security scanner for your Terraform code
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.6.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.6.0), today) - SQLAlchemy driver for DuckDB
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.2), 3 days ago) - Security scanner for your Terraform code
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.30](https://github.com/dagger/dagger/releases/tag/v0.2.30), 6 days ago) - A portable devkit for CI/CD pipelines
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.6](https://github.com/postalsys/emailengine/releases/tag/v2.24.6), 6 days ago) - Headless email client
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.1](https://github.com/qarmin/czkawka/releases/tag/5.0.1), 2 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
