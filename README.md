@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.5.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.5.0), 2 days ago) - SQLAlchemy driver for DuckDB
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.2), 2 days ago) - Security scanner for your Terraform code
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.30](https://github.com/dagger/dagger/releases/tag/v0.2.30), 5 days ago) - A portable devkit for CI/CD pipelines
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.6](https://github.com/postalsys/emailengine/releases/tag/v2.24.6), 5 days ago) - Headless email client
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.5.0](https://github.com/Mause/duckdb_engine/releases/tag/v0.5.0), 3 days ago) - SQLAlchemy driver for DuckDB
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.2](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.2), 3 days ago) - Security scanner for your Terraform code
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.30](https://github.com/dagger/dagger/releases/tag/v0.2.30), 6 days ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.24.6](https://github.com/postalsys/emailengine/releases/tag/v2.24.6), 6 days ago) - Headless email client
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.1](https://github.com/qarmin/czkawka/releases/tag/5.0.1), 2 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 1 month ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 4 months ago) - A container runtime written in Rust
@@ -39,7 +39,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 - [Fix typo](https://github.com/GoogleContainerTools/jib-extensions/pull/131) on [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) (1 month ago)
 - [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (5 months ago)
-- [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (5 months ago)
+- [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (6 months ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (6 months ago)
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (6 months ago)
 - [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (6 months ago)
@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [fork-handles/forkhandles](https://github.com/fork-handles/forkhandles) - Foundational libraries for Kotlin (today)
-- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github! (1 day ago)
-- [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. (1 day ago)
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster (1 day ago)
-- [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3 (1 day ago)
-- [yawkat/javap](https://github.com/yawkat/javap) - Web UI for javap (5 days ago)
-- [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8&#43; Jar &amp; Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger &amp; More) (6 days ago)
-- [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding). (6 days ago)
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS) (today)
+- [fork-handles/forkhandles](https://github.com/fork-handles/forkhandles) - Foundational libraries for Kotlin (1 day ago)
+- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github! (2 days ago)
+- [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. (2 days ago)
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster (2 days ago)
+- [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3 (2 days ago)
+- [yawkat/javap](https://github.com/yawkat/javap) - Web UI for javap (6 days ago)
+- [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8&#43; Jar &amp; Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger &amp; More) (1 week ago)
+- [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding). (1 week ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. (1 week ago)
-- [sunface/datav](https://github.com/sunface/datav) - 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It&#39;s also a lightweight alternative to Grafana. (1 week ago)
 
 #### 📫 How to reach me
 
