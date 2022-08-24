@@ -25,9 +25,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.1](https://github.com/postalsys/emailengine/releases/tag/v2.25.1), today) - Headless email client
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.31](https://github.com/dagger/dagger/releases/tag/v0.2.31), 1 day ago) - A portable devkit for CI/CD pipelines
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.6.1](https://github.com/Mause/duckdb_engine/releases/tag/v0.6.1), 1 day ago) - SQLAlchemy driver for DuckDB
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.0](https://github.com/postalsys/emailengine/releases/tag/v2.25.0), 1 day ago) - Headless email client
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.5](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.5), 2 days ago) - Security scanner for your Terraform code
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.1](https://github.com/qarmin/czkawka/releases/tag/5.0.1), 3 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 1 month ago) - The easiest, most secure way to use WireGuard and 2FA.
