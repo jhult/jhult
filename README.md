@@ -19,16 +19,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (7 months ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (7 months ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (8 months ago)
-- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami Docker Image for MariaDB (8 months ago)
+- [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami Docker Image for MariaDB (9 months ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (10 months ago)
 - [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser. (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.2](https://github.com/postalsys/emailengine/releases/tag/v2.25.2), 1 day ago) - Headless email client
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.6.2](https://github.com/Mause/duckdb_engine/releases/tag/v0.6.2), 1 day ago) - SQLAlchemy driver for DuckDB
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.31](https://github.com/dagger/dagger/releases/tag/v0.2.31), 3 days ago) - A portable devkit for CI/CD pipelines
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.5](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.5), 4 days ago) - Security scanner for your Terraform code
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.2](https://github.com/postalsys/emailengine/releases/tag/v2.25.2), 2 days ago) - Headless email client
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.6.2](https://github.com/Mause/duckdb_engine/releases/tag/v0.6.2), 2 days ago) - SQLAlchemy driver for DuckDB
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.31](https://github.com/dagger/dagger/releases/tag/v0.2.31), 4 days ago) - A portable devkit for CI/CD pipelines
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.5](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.5), 5 days ago) - Security scanner for your Terraform code
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.1](https://github.com/qarmin/czkawka/releases/tag/5.0.1), 3 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 1 month ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 4 months ago) - A container runtime written in Rust
@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [FasterXML/jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin (http://kotlinlang.org) classes and data classes. (3 days ago)
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines. (4 days ago)
-- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀 (4 days ago)
-- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project (4 days ago)
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS) (4 days ago)
-- [fork-handles/forkhandles](https://github.com/fork-handles/forkhandles) - Foundational libraries for Kotlin (5 days ago)
-- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github! (6 days ago)
-- [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. (6 days ago)
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster (6 days ago)
-- [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3 (6 days ago)
+- [FasterXML/jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin (http://kotlinlang.org) classes and data classes. (4 days ago)
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines. (5 days ago)
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀 (5 days ago)
+- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project (5 days ago)
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS) (5 days ago)
+- [fork-handles/forkhandles](https://github.com/fork-handles/forkhandles) - Foundational libraries for Kotlin (6 days ago)
+- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github! (1 week ago)
+- [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. (1 week ago)
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster (1 week ago)
+- [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3 (1 week ago)
 
 #### 📫 How to reach me
 
