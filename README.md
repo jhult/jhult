@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.2](https://github.com/postalsys/emailengine/releases/tag/v2.25.2), 4 days ago) - Headless email client
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.3](https://github.com/postalsys/emailengine/releases/tag/v2.25.3), today) - Headless email client
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.6.2](https://github.com/Mause/duckdb_engine/releases/tag/v0.6.2), 4 days ago) - SQLAlchemy driver for DuckDB
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 4 days ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.31](https://github.com/dagger/dagger/releases/tag/v0.2.31), 6 days ago) - A portable devkit for CI/CD pipelines
