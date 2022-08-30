@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.3](https://github.com/postalsys/emailengine/releases/tag/v2.25.3), today) - Headless email client
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.6.2](https://github.com/Mause/duckdb_engine/releases/tag/v0.6.2), 4 days ago) - SQLAlchemy driver for DuckDB
-- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 4 days ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.31](https://github.com/dagger/dagger/releases/tag/v0.2.31), 6 days ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.3](https://github.com/postalsys/emailengine/releases/tag/v2.25.3), 1 day ago) - Headless email client
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.6.2](https://github.com/Mause/duckdb_engine/releases/tag/v0.6.2), 5 days ago) - SQLAlchemy driver for DuckDB
+- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 5 days ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.31](https://github.com/dagger/dagger/releases/tag/v0.2.31), 1 week ago) - A portable devkit for CI/CD pipelines
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.5](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.5), 1 week ago) - Security scanner for your Terraform code
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.1](https://github.com/qarmin/czkawka/releases/tag/5.0.1), 3 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 1 month ago) - The easiest, most secure way to use WireGuard and 2FA.
@@ -51,10 +51,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL (1 day ago)
-- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) - Multi platform kotlin client for Elasticsearch &amp; Opensearch (2 days ago)
-- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers. (2 days ago)
-- [FasterXML/jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin (http://kotlinlang.org) classes and data classes. (6 days ago)
+- [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL (2 days ago)
+- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) - Multi platform kotlin client for Elasticsearch &amp; Opensearch (3 days ago)
+- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers. (3 days ago)
+- [FasterXML/jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin (http://kotlinlang.org) classes and data classes. (1 week ago)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines. (1 week ago)
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀 (1 week ago)
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project (1 week ago)
