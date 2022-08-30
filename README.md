@@ -25,12 +25,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), today) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.32](https://github.com/dagger/dagger/releases/tag/v0.2.32), today) - A portable devkit for CI/CD pipelines
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.3](https://github.com/postalsys/emailengine/releases/tag/v2.25.3), 1 day ago) - Headless email client
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.6.2](https://github.com/Mause/duckdb_engine/releases/tag/v0.6.2), 5 days ago) - SQLAlchemy driver for DuckDB
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 5 days ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.31](https://github.com/dagger/dagger/releases/tag/v0.2.31), 1 week ago) - A portable devkit for CI/CD pipelines
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ([v1.27.5](https://github.com/aquasecurity/tfsec/releases/tag/v1.27.5), 1 week ago) - Security scanner for your Terraform code
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.1](https://github.com/qarmin/czkawka/releases/tag/5.0.1), 3 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.28.0](https://github.com/tailscale/tailscale/releases/tag/v1.28.0), 1 month ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 4 months ago) - A container runtime written in Rust
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 8 months ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
@@ -51,6 +51,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (today)
+- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem (today)
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL (2 days ago)
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) - Multi platform kotlin client for Elasticsearch &amp; Opensearch (3 days ago)
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers. (3 days ago)
@@ -59,8 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀 (1 week ago)
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project (1 week ago)
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS) (1 week ago)
-- [fork-handles/forkhandles](https://github.com/fork-handles/forkhandles) - Foundational libraries for Kotlin (1 week ago)
-- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github! (1 week ago)
 
 #### 📫 How to reach me
 
