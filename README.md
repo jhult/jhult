@@ -50,6 +50,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [google/j2cl](https://github.com/google/j2cl) - Java to Closure JavaScript transpiler (today)
 - [pipebird/pipebird](https://github.com/pipebird/pipebird) - Pipebird is open source infrastructure for securely sharing data with customers. (today)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (3 days ago)
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem (3 days ago)
@@ -59,7 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [FasterXML/jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin (http://kotlinlang.org) classes and data classes. (1 week ago)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines. (1 week ago)
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀 (1 week ago)
-- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project (1 week ago)
 
 #### 📫 How to reach me
 
