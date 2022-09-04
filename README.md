@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.0](https://github.com/tailscale/tailscale/releases/tag/v1.30.0), 3 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.4](https://github.com/postalsys/emailengine/releases/tag/v2.25.4), 3 days ago) - Headless email client
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 4 days ago) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.32](https://github.com/dagger/dagger/releases/tag/v0.2.32), 4 days ago) - A portable devkit for CI/CD pipelines
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.0](https://github.com/tailscale/tailscale/releases/tag/v1.30.0), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.4](https://github.com/postalsys/emailengine/releases/tag/v2.25.4), 4 days ago) - Headless email client
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 5 days ago) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.32](https://github.com/dagger/dagger/releases/tag/v0.2.32), 5 days ago) - A portable devkit for CI/CD pipelines
 - [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.6.2](https://github.com/Mause/duckdb_engine/releases/tag/v0.6.2), 1 week ago) - SQLAlchemy driver for DuckDB
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 1 week ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 5 months ago) - A container runtime written in Rust
@@ -50,11 +50,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [google/j2cl](https://github.com/google/j2cl) - Java to Closure JavaScript transpiler (1 day ago)
-- [pipebird/pipebird](https://github.com/pipebird/pipebird) - Pipebird is open source infrastructure for securely sharing data with customers. (1 day ago)
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (4 days ago)
-- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem (4 days ago)
-- [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL (6 days ago)
+- [google/j2cl](https://github.com/google/j2cl) - Java to Closure JavaScript transpiler (2 days ago)
+- [pipebird/pipebird](https://github.com/pipebird/pipebird) - Pipebird is open source infrastructure for securely sharing data with customers. (2 days ago)
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (5 days ago)
+- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem (5 days ago)
+- [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL (1 week ago)
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) - Multi platform kotlin client for Elasticsearch &amp; Opensearch (1 week ago)
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers. (1 week ago)
 - [FasterXML/jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin (http://kotlinlang.org) classes and data classes. (1 week ago)
