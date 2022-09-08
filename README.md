@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.6.3](https://github.com/Mause/duckdb_engine/releases/tag/v0.6.3), today) - SQLAlchemy driver for DuckDB
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.33](https://github.com/dagger/dagger/releases/tag/v0.2.33), 2 days ago) - A portable devkit for CI/CD pipelines
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.5](https://github.com/postalsys/emailengine/releases/tag/v2.25.5), 3 days ago) - Headless email client
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.0](https://github.com/tailscale/tailscale/releases/tag/v1.30.0), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 1 week ago) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.6.2](https://github.com/Mause/duckdb_engine/releases/tag/v0.6.2), 2 weeks ago) - SQLAlchemy driver for DuckDB
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 2 weeks ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 5 months ago) - A container runtime written in Rust
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 9 months ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
