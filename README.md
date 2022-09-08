@@ -50,6 +50,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code. (today)
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is a DevSecOps and vulnerability management tool. (today)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (1 day ago)
 - [saveourtool/diktat](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs (4 days ago)
 - [google/j2cl](https://github.com/google/j2cl) - Java to Closure JavaScript transpiler (6 days ago)
@@ -58,8 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem (1 week ago)
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL (1 week ago)
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) - Multi platform kotlin client for Elasticsearch &amp; Opensearch (1 week ago)
-- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers. (1 week ago)
-- [FasterXML/jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin (http://kotlinlang.org) classes and data classes. (2 weeks ago)
 
 #### 📫 How to reach me
 
