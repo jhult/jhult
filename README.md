@@ -15,20 +15,20 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) -  (1 month ago)
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (5 months ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (6 months ago)
-- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) - Multi platform kotlin client for Elasticsearch &amp; Opensearch (6 months ago)
-- [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search. (6 months ago)
+- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) - Multi platform kotlin client for Elasticsearch &amp; Opensearch (7 months ago)
+- [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search. (7 months ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (7 months ago)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (7 months ago)
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (8 months ago)
+- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (9 months ago)
 - [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami Docker Image for MariaDB (9 months ago)
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.1](https://github.com/tailscale/tailscale/releases/tag/v1.30.1), today) - The easiest, most secure way to use WireGuard and 2FA.
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.6.3](https://github.com/Mause/duckdb_engine/releases/tag/v0.6.3), today) - SQLAlchemy driver for DuckDB
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.33](https://github.com/dagger/dagger/releases/tag/v0.2.33), 2 days ago) - A portable devkit for CI/CD pipelines
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.5](https://github.com/postalsys/emailengine/releases/tag/v2.25.5), 3 days ago) - Headless email client
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.1](https://github.com/tailscale/tailscale/releases/tag/v1.30.1), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.6.3](https://github.com/Mause/duckdb_engine/releases/tag/v0.6.3), 1 day ago) - SQLAlchemy driver for DuckDB
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.33](https://github.com/dagger/dagger/releases/tag/v0.2.33), 3 days ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.5](https://github.com/postalsys/emailengine/releases/tag/v2.25.5), 4 days ago) - Headless email client
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 1 week ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 2 weeks ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 5 months ago) - A container runtime written in Rust
@@ -40,7 +40,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Fix typo](https://github.com/GoogleContainerTools/jib-extensions/pull/131) on [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) (1 month ago)
 - [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (6 months ago)
 - [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (6 months ago)
-- [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (6 months ago)
+- [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (7 months ago)
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (7 months ago)
 - [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (7 months ago)
 - [Add MIT license](https://github.com/Callumpy/macos-rclone-launchd/pull/1) on [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) (7 months ago)
@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [sylabs/singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure. (today)
-- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code. (today)
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is a DevSecOps and vulnerability management tool. (today)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (1 day ago)
-- [saveourtool/diktat](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs (4 days ago)
-- [google/j2cl](https://github.com/google/j2cl) - Java to Closure JavaScript transpiler (6 days ago)
-- [pipebird/pipebird](https://github.com/pipebird/pipebird) - Pipebird is open source infrastructure for securely sharing data with customers. (6 days ago)
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (1 week ago)
-- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem (1 week ago)
-- [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL (1 week ago)
+- [onelogin/java-saml](https://github.com/onelogin/java-saml) - Java SAML toolkit (today)
+- [milton-lai/saml-chrome-panel](https://github.com/milton-lai/saml-chrome-panel) - Chrome DevTools Extension Panel for viewing SAML messages (today)
+- [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating. (today)
+- [sylabs/singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure. (1 day ago)
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code. (1 day ago)
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is a DevSecOps and vulnerability management tool. (1 day ago)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 days ago)
+- [saveourtool/diktat](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs (5 days ago)
+- [google/j2cl](https://github.com/google/j2cl) - Java to Closure JavaScript transpiler (1 week ago)
+- [pipebird/pipebird](https://github.com/pipebird/pipebird) - Pipebird is open source infrastructure for securely sharing data with customers. (1 week ago)
 
 #### 📫 How to reach me
 
