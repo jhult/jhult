@@ -26,7 +26,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 🔭 Latest releases I've contributed to
 
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.1](https://github.com/tailscale/tailscale/releases/tag/v1.30.1), 1 day ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine) ([v0.6.3](https://github.com/Mause/duckdb_engine/releases/tag/v0.6.3), 1 day ago) - SQLAlchemy driver for DuckDB
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.33](https://github.com/dagger/dagger/releases/tag/v0.2.33), 3 days ago) - A portable devkit for CI/CD pipelines
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.25.5](https://github.com/postalsys/emailengine/releases/tag/v2.25.5), 4 days ago) - Headless email client
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 1 week ago) - Multi functional app to find duplicates, empty folders, similar images etc.
