@@ -13,7 +13,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 👷 Check out what I'm currently working on
 
 - [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) -  (2 months ago)
-- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (5 months ago)
+- [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (6 months ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (6 months ago)
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) - Multi platform kotlin client for Elasticsearch &amp; Opensearch (7 months ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search. (7 months ago)
@@ -21,12 +21,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (8 months ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (9 months ago)
 - [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami Docker Image for MariaDB (9 months ago)
-- [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (10 months ago)
+- [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.26.2](https://github.com/postalsys/emailengine/releases/tag/v2.26.2), 1 day ago) - Headless email client
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.34](https://github.com/dagger/dagger/releases/tag/v0.2.34), 2 days ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.26.2](https://github.com/postalsys/emailengine/releases/tag/v2.26.2), 2 days ago) - Headless email client
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.34](https://github.com/dagger/dagger/releases/tag/v0.2.34), 3 days ago) - A portable devkit for CI/CD pipelines
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.1](https://github.com/tailscale/tailscale/releases/tag/v1.30.1), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 2 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 3 weeks ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
@@ -49,14 +49,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (1 day ago)
-- [Ch4t4r/Nebulo](https://github.com/Ch4t4r/Nebulo) - Mirror of https://git.frostnerd.com/PublicAndroidApps/smokescreen. Feel free to contribute here as well. (5 days ago)
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall (5 days ago)
-- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android. (5 days ago)
-- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io (5 days ago)
-- [onelogin/java-saml](https://github.com/onelogin/java-saml) - Java SAML toolkit (6 days ago)
-- [milton-lai/saml-chrome-panel](https://github.com/milton-lai/saml-chrome-panel) - Chrome DevTools Extension Panel for viewing SAML messages (6 days ago)
-- [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating. (6 days ago)
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (2 days ago)
+- [Ch4t4r/Nebulo](https://github.com/Ch4t4r/Nebulo) - Mirror of https://git.frostnerd.com/PublicAndroidApps/smokescreen. Feel free to contribute here as well. (6 days ago)
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall (6 days ago)
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android. (6 days ago)
+- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io (6 days ago)
+- [onelogin/java-saml](https://github.com/onelogin/java-saml) - Java SAML toolkit (1 week ago)
+- [milton-lai/saml-chrome-panel](https://github.com/milton-lai/saml-chrome-panel) - Chrome DevTools Extension Panel for viewing SAML messages (1 week ago)
+- [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating. (1 week ago)
 - [sylabs/singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure. (1 week ago)
 - [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code. (1 week ago)
 
