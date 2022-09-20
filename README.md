@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.26.3](https://github.com/postalsys/emailengine/releases/tag/v2.26.3), today) - Headless email client
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.2](https://github.com/tailscale/tailscale/releases/tag/v1.30.2), 3 days ago) - The easiest, most secure way to use WireGuard and 2FA.
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.34](https://github.com/dagger/dagger/releases/tag/v0.2.34), 6 days ago) - A portable devkit for CI/CD pipelines
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 2 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.26.3](https://github.com/postalsys/emailengine/releases/tag/v2.26.3), 1 day ago) - Headless email client
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.2](https://github.com/tailscale/tailscale/releases/tag/v1.30.2), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.34](https://github.com/dagger/dagger/releases/tag/v0.2.34), 1 week ago) - A portable devkit for CI/CD pipelines
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 3 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 3 weeks ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 5 months ago) - A container runtime written in Rust
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 9 months ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
@@ -49,7 +49,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (5 days ago)
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (6 days ago)
 - [Ch4t4r/Nebulo](https://github.com/Ch4t4r/Nebulo) - Mirror of https://git.frostnerd.com/PublicAndroidApps/smokescreen. Feel free to contribute here as well. (1 week ago)
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall (1 week ago)
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android. (1 week ago)
