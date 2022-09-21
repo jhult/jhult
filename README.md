@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.26.3](https://github.com/postalsys/emailengine/releases/tag/v2.26.3), 1 day ago) - Headless email client
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.2](https://github.com/tailscale/tailscale/releases/tag/v1.30.2), 4 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.26.3](https://github.com/postalsys/emailengine/releases/tag/v2.26.3), 2 days ago) - Headless email client
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.2](https://github.com/tailscale/tailscale/releases/tag/v1.30.2), 5 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.34](https://github.com/dagger/dagger/releases/tag/v0.2.34), 1 week ago) - A portable devkit for CI/CD pipelines
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 3 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 3 weeks ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
@@ -38,7 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 - [Fix typo](https://github.com/GoogleContainerTools/jib-extensions/pull/131) on [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) (2 months ago)
 - [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (6 months ago)
-- [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (6 months ago)
+- [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (7 months ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (7 months ago)
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (7 months ago)
 - [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (7 months ago)
@@ -49,7 +49,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (6 days ago)
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (1 week ago)
 - [Ch4t4r/Nebulo](https://github.com/Ch4t4r/Nebulo) - Mirror of https://git.frostnerd.com/PublicAndroidApps/smokescreen. Feel free to contribute here as well. (1 week ago)
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall (1 week ago)
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android. (1 week ago)
