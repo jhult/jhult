@@ -25,11 +25,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.26.3](https://github.com/postalsys/emailengine/releases/tag/v2.26.3), 2 days ago) - Headless email client
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.2](https://github.com/tailscale/tailscale/releases/tag/v1.30.2), 5 days ago) - The easiest, most secure way to use WireGuard and 2FA.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.26.3](https://github.com/postalsys/emailengine/releases/tag/v2.26.3), 3 days ago) - Headless email client
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.2](https://github.com/tailscale/tailscale/releases/tag/v1.30.2), 6 days ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.34](https://github.com/dagger/dagger/releases/tag/v0.2.34), 1 week ago) - A portable devkit for CI/CD pipelines
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 3 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 3 weeks ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
+- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 4 weeks ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 5 months ago) - A container runtime written in Rust
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 9 months ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) ([v0.10.0](https://github.com/weaveworks/ignite/releases/tag/v0.10.0), 1 year ago) - Ignite a Firecracker microVM
@@ -57,8 +57,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [onelogin/java-saml](https://github.com/onelogin/java-saml) - Java SAML toolkit (1 week ago)
 - [milton-lai/saml-chrome-panel](https://github.com/milton-lai/saml-chrome-panel) - Chrome DevTools Extension Panel for viewing SAML messages (1 week ago)
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating. (1 week ago)
-- [sylabs/singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure. (1 week ago)
-- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code. (1 week ago)
+- [sylabs/singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure. (2 weeks ago)
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code. (2 weeks ago)
 
 #### 📫 How to reach me
 
