@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.26.4](https://github.com/postalsys/emailengine/releases/tag/v2.26.4), 1 day ago) - Headless email client
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.26.4](https://github.com/postalsys/emailengine/releases/tag/v2.26.4), 2 days ago) - Headless email client
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.2](https://github.com/tailscale/tailscale/releases/tag/v1.30.2), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.34](https://github.com/dagger/dagger/releases/tag/v0.2.34), 1 week ago) - A portable devkit for CI/CD pipelines
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 3 weeks ago) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -36,8 +36,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Add Apache 2.0 license](https://github.com/http4k/http4k-by-example/pull/48) on [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) (1 day ago)
-- [Add Apache 2.0 license](https://github.com/http4k/http4k-oidc/pull/8) on [http4k/http4k-oidc](https://github.com/http4k/http4k-oidc) (1 day ago)
+- [Add Apache 2.0 license](https://github.com/http4k/http4k-by-example/pull/48) on [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) (2 days ago)
+- [Add Apache 2.0 license](https://github.com/http4k/http4k-oidc/pull/8) on [http4k/http4k-oidc](https://github.com/http4k/http4k-oidc) (2 days ago)
 - [Fix typo](https://github.com/GoogleContainerTools/jib-extensions/pull/131) on [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) (2 months ago)
 - [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (6 months ago)
 - [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (7 months ago)
