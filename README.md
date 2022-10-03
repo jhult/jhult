@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.26.6](https://github.com/postalsys/emailengine/releases/tag/v2.26.6), 3 days ago) - Headless email client
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.35](https://github.com/dagger/dagger/releases/tag/v0.2.35), 5 days ago) - A portable devkit for CI/CD pipelines
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.26.6](https://github.com/postalsys/emailengine/releases/tag/v2.26.6), 4 days ago) - Headless email client
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.35](https://github.com/dagger/dagger/releases/tag/v0.2.35), 6 days ago) - A portable devkit for CI/CD pipelines
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.2](https://github.com/tailscale/tailscale/releases/tag/v1.30.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 1 month ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 1 month ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
@@ -49,6 +49,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [nbaars/paseto4j](https://github.com/nbaars/paseto4j) - Paseto implementation for Java (today)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (2 weeks ago)
 - [Ch4t4r/Nebulo](https://github.com/Ch4t4r/Nebulo) - Mirror of https://git.frostnerd.com/PublicAndroidApps/smokescreen. Feel free to contribute here as well. (3 weeks ago)
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall (3 weeks ago)
@@ -58,7 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [milton-lai/saml-chrome-panel](https://github.com/milton-lai/saml-chrome-panel) - Chrome DevTools Extension Panel for viewing SAML messages (3 weeks ago)
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating. (3 weeks ago)
 - [sylabs/singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure. (3 weeks ago)
-- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code. (3 weeks ago)
 
 #### 📫 How to reach me
 
