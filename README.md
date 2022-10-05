@@ -25,13 +25,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.26.7](https://github.com/postalsys/emailengine/releases/tag/v2.26.7), 1 day ago) - Headless email client
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.26.7](https://github.com/postalsys/emailengine/releases/tag/v2.26.7), 2 days ago) - Headless email client
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.35](https://github.com/dagger/dagger/releases/tag/v0.2.35), 1 week ago) - A portable devkit for CI/CD pipelines
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.30.2](https://github.com/tailscale/tailscale/releases/tag/v1.30.2), 2 weeks ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 1 month ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 1 month ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 6 months ago) - A container runtime written in Rust
-- [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 9 months ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
+- [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 10 months ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) ([v0.10.0](https://github.com/weaveworks/ignite/releases/tag/v0.10.0), 1 year ago) - Ignite a Firecracker microVM
 
 #### 🔨 My recent Pull Requests
@@ -49,8 +49,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [nbaars/paseto4j](https://github.com/nbaars/paseto4j) - Paseto implementation for Java (1 day ago)
-- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (2 weeks ago)
+- [nbaars/paseto4j](https://github.com/nbaars/paseto4j) - Paseto implementation for Java (2 days ago)
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (3 weeks ago)
 - [Ch4t4r/Nebulo](https://github.com/Ch4t4r/Nebulo) - Mirror of https://git.frostnerd.com/PublicAndroidApps/smokescreen. Feel free to contribute here as well. (3 weeks ago)
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall (3 weeks ago)
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android. (3 weeks ago)
