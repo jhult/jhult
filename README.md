@@ -49,16 +49,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager (today)
+- [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code. (today)
+- [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API. (today)
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (today)
+- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud. (today)
+- [stereosteve/git-goggles](https://github.com/stereosteve/git-goggles) - WIP Web UI to browse a git repo. (today)
+- [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git (today)
+- [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more. (today)
+- [neilotoole/sq](https://github.com/neilotoole/sq) - swiss-army knife for data (today)
 - [cryptography-cafe/ed25519-elisabeth](https://github.com/cryptography-cafe/ed25519-elisabeth) - Pure Java implementation of Ed25519 (1 week ago)
-- [nbaars/paseto4j](https://github.com/nbaars/paseto4j) - Paseto implementation for Java (1 week ago)
-- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (1 month ago)
-- [Ch4t4r/Nebulo](https://github.com/Ch4t4r/Nebulo) - Mirror of https://git.frostnerd.com/PublicAndroidApps/smokescreen. Feel free to contribute here as well. (1 month ago)
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall (1 month ago)
-- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android. (1 month ago)
-- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io (1 month ago)
-- [onelogin/java-saml](https://github.com/onelogin/java-saml) - Java SAML toolkit (1 month ago)
-- [milton-lai/saml-chrome-panel](https://github.com/milton-lai/saml-chrome-panel) - Chrome DevTools Extension Panel for viewing SAML messages (1 month ago)
-- [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating. (1 month ago)
 
 #### 📫 How to reach me
 
