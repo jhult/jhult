@@ -49,6 +49,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [tconfrey/BrainTool](https://github.com/tconfrey/BrainTool) - A better way to manage Tabs, Links and Notes (today)
+- [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) -  (today)
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager (1 day ago)
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code. (1 day ago)
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API. (1 day ago)
@@ -57,8 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [stereosteve/git-goggles](https://github.com/stereosteve/git-goggles) - WIP Web UI to browse a git repo. (1 day ago)
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git (1 day ago)
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more. (1 day ago)
-- [neilotoole/sq](https://github.com/neilotoole/sq) - swiss-army knife for data (1 day ago)
-- [cryptography-cafe/ed25519-elisabeth](https://github.com/cryptography-cafe/ed25519-elisabeth) - Pure Java implementation of Ed25519 (1 week ago)
 
 #### 📫 How to reach me
 
