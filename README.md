@@ -48,6 +48,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server (today)
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers (today)
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy&#39;s Social/Annoyances/Notifications Blocking List) (today)
 - [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (1 day ago)
@@ -57,7 +58,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [tconfrey/BrainTool](https://github.com/tconfrey/BrainTool) - A better way to manage Tabs, Links and Notes (4 days ago)
 - [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) -  (4 days ago)
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager (5 days ago)
-- [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code. (5 days ago)
 
 #### 📫 How to reach me
 
