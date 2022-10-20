@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.27.1](https://github.com/postalsys/emailengine/releases/tag/v2.27.1), today) - Headless email client
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.27.1](https://github.com/postalsys/emailengine/releases/tag/v2.27.1), 1 day ago) - Headless email client
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) ([v1.32.0](https://github.com/tailscale/tailscale/releases/tag/v1.32.0), 1 week ago) - The easiest, most secure way to use WireGuard and 2FA.
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.36](https://github.com/dagger/dagger/releases/tag/v0.2.36), 1 week ago) - A portable devkit for CI/CD pipelines
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 1 month ago) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -36,7 +36,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Fix #288 - enable compatibility with `mktemp` from `uutils/coreutils`](https://github.com/cantino/mcfly/pull/291) on [cantino/mcfly](https://github.com/cantino/mcfly) (6 days ago)
+- [Fix #288 - enable compatibility with `mktemp` from `uutils/coreutils`](https://github.com/cantino/mcfly/pull/291) on [cantino/mcfly](https://github.com/cantino/mcfly) (1 week ago)
 - [Add Apache 2.0 license](https://github.com/http4k/http4k-by-example/pull/48) on [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) (3 weeks ago)
 - [Add Apache 2.0 license](https://github.com/http4k/http4k-oidc/pull/8) on [http4k/http4k-oidc](https://github.com/http4k/http4k-oidc) (3 weeks ago)
 - [Fix typo](https://github.com/GoogleContainerTools/jib-extensions/pull/131) on [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) (3 months ago)
@@ -49,16 +49,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (today)
-- [goadesign/model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go. (2 days ago)
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 (2 days ago)
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (2 days ago)
-- [tconfrey/BrainTool](https://github.com/tconfrey/BrainTool) - A better way to manage Tabs, Links and Notes (3 days ago)
-- [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) -  (3 days ago)
-- [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager (4 days ago)
-- [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code. (4 days ago)
-- [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API. (4 days ago)
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (4 days ago)
+- [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (1 day ago)
+- [goadesign/model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go. (3 days ago)
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 (3 days ago)
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (3 days ago)
+- [tconfrey/BrainTool](https://github.com/tconfrey/BrainTool) - A better way to manage Tabs, Links and Notes (4 days ago)
+- [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) -  (4 days ago)
+- [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager (5 days ago)
+- [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code. (5 days ago)
+- [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API. (5 days ago)
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (5 days ago)
 
 #### 📫 How to reach me
 
