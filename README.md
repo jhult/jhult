@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.27.1](https://github.com/postalsys/emailengine/releases/tag/v2.27.1), 1 day ago) - Headless email client
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.27.1](https://github.com/postalsys/emailengine/releases/tag/v2.27.1), 2 days ago) - Headless email client
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.36](https://github.com/dagger/dagger/releases/tag/v0.2.36), 1 week ago) - A cross-platform CI/CD engine that is programmable and container-native
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 1 month ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 1 month ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
@@ -36,11 +36,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 🔨 My recent Pull Requests
 
 - [Fix #288 - enable compatibility with `mktemp` from `uutils/coreutils`](https://github.com/cantino/mcfly/pull/291) on [cantino/mcfly](https://github.com/cantino/mcfly) (1 week ago)
-- [Add Apache 2.0 license](https://github.com/http4k/http4k-by-example/pull/48) on [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) (3 weeks ago)
-- [Add Apache 2.0 license](https://github.com/http4k/http4k-oidc/pull/8) on [http4k/http4k-oidc](https://github.com/http4k/http4k-oidc) (3 weeks ago)
+- [Add Apache 2.0 license](https://github.com/http4k/http4k-by-example/pull/48) on [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) (4 weeks ago)
+- [Add Apache 2.0 license](https://github.com/http4k/http4k-oidc/pull/8) on [http4k/http4k-oidc](https://github.com/http4k/http4k-oidc) (4 weeks ago)
 - [Fix typo](https://github.com/GoogleContainerTools/jib-extensions/pull/131) on [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) (3 months ago)
 - [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (7 months ago)
-- [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (7 months ago)
+- [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (8 months ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (8 months ago)
 - [Add MIT license](https://github.com/jdevelop/otk2gcal/pull/1) on [jdevelop/otk2gcal](https://github.com/jdevelop/otk2gcal) (8 months ago)
 - [Fix principals not including local part of an email](https://github.com/smallstep/cli/pull/635) on [smallstep/cli](https://github.com/smallstep/cli) (8 months ago)
@@ -48,16 +48,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server (today)
-- [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers (today)
-- [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy&#39;s Social/Annoyances/Notifications Blocking List) (today)
-- [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (1 day ago)
-- [goadesign/model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go. (3 days ago)
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 (3 days ago)
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (3 days ago)
-- [tconfrey/BrainTool](https://github.com/tconfrey/BrainTool) - A better way to manage Tabs, Links and Notes (4 days ago)
-- [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) -  (4 days ago)
-- [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager (5 days ago)
+- [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server (1 day ago)
+- [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers (1 day ago)
+- [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy&#39;s Social/Annoyances/Notifications Blocking List) (1 day ago)
+- [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (2 days ago)
+- [goadesign/model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go. (4 days ago)
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 (4 days ago)
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (4 days ago)
+- [tconfrey/BrainTool](https://github.com/tconfrey/BrainTool) - A better way to manage Tabs, Links and Notes (5 days ago)
+- [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) -  (5 days ago)
+- [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager (6 days ago)
 
 #### 📫 How to reach me
 
