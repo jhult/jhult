@@ -30,7 +30,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 1 month ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 6 months ago) - A container runtime written in Rust
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 10 months ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
-- [weaveworks/ignite](https://github.com/weaveworks/ignite) ([v0.10.0](https://github.com/weaveworks/ignite/releases/tag/v0.10.0), 1 year ago) - Ignite a Firecracker microVM
 
 #### 🔨 My recent Pull Requests
 
