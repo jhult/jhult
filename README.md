@@ -46,6 +46,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [bwaldvogel/base91](https://github.com/bwaldvogel/base91) - Base91 codec (today)
 - [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s &#43; wg = kg) (1 day ago)
 - [stv0g/cunicu](https://github.com/stv0g/cunicu) - A zeroconf peer-to-peer mesh VPN using Wireguard® and Interactive Connectivity Establishment (ICE) (1 day ago)
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library. (1 day ago)
@@ -55,7 +56,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (4 days ago)
 - [goadesign/model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go. (6 days ago)
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 (6 days ago)
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (6 days ago)
 
 #### 📫 How to reach me
 
