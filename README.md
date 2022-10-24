@@ -21,7 +21,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (9 months ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (10 months ago)
 - [bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) - Bitnami Docker Image for MariaDB (10 months ago)
-- [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
