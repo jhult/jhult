@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension &#34;I don&#39;t care about cookies&#34; (today)
 - [prettier/plugin-xml](https://github.com/prettier/plugin-xml) - Prettier XML plugin (1 day ago)
 - [bwaldvogel/base91](https://github.com/bwaldvogel/base91) - Base91 codec (2 days ago)
 - [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s &#43; wg = kg) (3 days ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers (5 days ago)
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy&#39;s Social/Annoyances/Notifications Blocking List) (5 days ago)
 - [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (6 days ago)
-- [goadesign/model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go. (1 week ago)
 
 #### 📫 How to reach me
 
