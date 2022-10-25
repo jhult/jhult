@@ -24,7 +24,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.27.2](https://github.com/postalsys/emailengine/releases/tag/v2.27.2), 3 days ago) - Headless email client
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.27.2](https://github.com/postalsys/emailengine/releases/tag/v2.27.2), 4 days ago) - Headless email client
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 1 month ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.13](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.13), 2 months ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [containers/youki](https://github.com/containers/youki) ([v0.0.3](https://github.com/containers/youki/releases/tag/v0.0.3), 6 months ago) - A container runtime written in Rust
@@ -45,15 +45,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [prettier/plugin-xml](https://github.com/prettier/plugin-xml) - Prettier XML plugin (today)
-- [bwaldvogel/base91](https://github.com/bwaldvogel/base91) - Base91 codec (1 day ago)
-- [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s &#43; wg = kg) (2 days ago)
-- [stv0g/cunicu](https://github.com/stv0g/cunicu) - A zeroconf peer-to-peer mesh VPN using Wireguard® and Interactive Connectivity Establishment (ICE) (2 days ago)
-- [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library. (2 days ago)
-- [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server (4 days ago)
-- [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers (4 days ago)
-- [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy&#39;s Social/Annoyances/Notifications Blocking List) (4 days ago)
-- [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (5 days ago)
+- [prettier/plugin-xml](https://github.com/prettier/plugin-xml) - Prettier XML plugin (1 day ago)
+- [bwaldvogel/base91](https://github.com/bwaldvogel/base91) - Base91 codec (2 days ago)
+- [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s &#43; wg = kg) (3 days ago)
+- [stv0g/cunicu](https://github.com/stv0g/cunicu) - A zeroconf peer-to-peer mesh VPN using Wireguard® and Interactive Connectivity Establishment (ICE) (3 days ago)
+- [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library. (3 days ago)
+- [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server (5 days ago)
+- [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers (5 days ago)
+- [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy&#39;s Social/Annoyances/Notifications Blocking List) (5 days ago)
+- [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (6 days ago)
 - [goadesign/model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go. (1 week ago)
 
 #### 📫 How to reach me
