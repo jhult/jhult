@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.18](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.18), 2 days ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.28.6](https://github.com/postalsys/emailengine/releases/tag/v2.28.6), 3 days ago) - Headless email client
+- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.18](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.18), 3 days ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.28.6](https://github.com/postalsys/emailengine/releases/tag/v2.28.6), 4 days ago) - Headless email client
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 1 week ago) - Fly through your shell history. Great Scott!
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 3 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 1 year ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
@@ -46,13 +46,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (today)
-- [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers (4 days ago)
-- [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place. (4 days ago)
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (4 days ago)
-- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion, &#43;25-50% speed increase &#43; memory efficient &#43; DreamBooth (5 days ago)
-- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working (5 days ago)
-- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (6 days ago)
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (1 day ago)
+- [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers (5 days ago)
+- [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place. (5 days ago)
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (5 days ago)
+- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion, &#43;25-50% speed increase &#43; memory efficient &#43; DreamBooth (6 days ago)
+- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working (6 days ago)
+- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (1 week ago)
 - [IvorySQL/IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL. (1 week ago)
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI (1 week ago)
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging. (1 week ago)
