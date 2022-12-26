@@ -17,7 +17,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (2 months ago)
 - [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) -  (5 months ago)
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (9 months ago)
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (9 months ago)
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (10 months ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search. (10 months ago)
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) - Multi platform kotlin client for Elasticsearch &amp; Opensearch (10 months ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (11 months ago)
@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.19](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.19), today) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.28.6](https://github.com/postalsys/emailengine/releases/tag/v2.28.6), 5 days ago) - Headless email client
+- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.19](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.19), 1 day ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.28.6](https://github.com/postalsys/emailengine/releases/tag/v2.28.6), 6 days ago) - Headless email client
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 1 week ago) - Fly through your shell history. Great Scott!
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 3 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 1 year ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
@@ -40,22 +40,22 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Add Apache 2.0 license](https://github.com/http4k/http4k-by-example/pull/48) on [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) (3 months ago)
 - [Add Apache 2.0 license](https://github.com/http4k/http4k-oidc/pull/8) on [http4k/http4k-oidc](https://github.com/http4k/http4k-oidc) (3 months ago)
 - [Fix typo](https://github.com/GoogleContainerTools/jib-extensions/pull/131) on [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) (5 months ago)
-- [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (9 months ago)
+- [A few misc fixes](https://github.com/postalsys/emailengine/pull/117) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (10 months ago)
 - [Update Lite XL](https://github.com/prantlf/homebrew-tap/pull/1) on [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) (10 months ago)
 - [Fix typos](https://github.com/postalsys/emailengine/pull/112) on [postalsys/emailengine](https://github.com/postalsys/emailengine) (10 months ago)
 
 #### ⭐ Recent Stars
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal &amp; shell (today)
-- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (2 days ago)
-- [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers (6 days ago)
-- [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place. (6 days ago)
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (6 days ago)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal &amp; shell (1 day ago)
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (3 days ago)
+- [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers (1 week ago)
+- [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place. (1 week ago)
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (1 week ago)
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion, &#43;25-50% speed increase &#43; memory efficient &#43; DreamBooth (1 week ago)
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working (1 week ago)
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (1 week ago)
 - [IvorySQL/IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL. (1 week ago)
-- [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI (1 week ago)
+- [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI (2 weeks ago)
 
 #### 📫 How to reach me
 
