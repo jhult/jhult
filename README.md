@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.19](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.19), 2 days ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
+- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.20](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.20), today) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.28.6](https://github.com/postalsys/emailengine/releases/tag/v2.28.6), 1 week ago) - Headless email client
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 1 week ago) - Fly through your shell history. Great Scott!
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 3 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
