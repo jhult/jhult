@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.20](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.20), today) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
+- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.20](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.20), 1 day ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.28.6](https://github.com/postalsys/emailengine/releases/tag/v2.28.6), 1 week ago) - Headless email client
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 1 week ago) - Fly through your shell history. Great Scott!
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 3 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 4 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 1 year ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
 
 #### 🔨 My recent Pull Requests
@@ -46,8 +46,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal &amp; shell (2 days ago)
-- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (4 days ago)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal &amp; shell (3 days ago)
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (5 days ago)
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers (1 week ago)
 - [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place. (1 week ago)
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (1 week ago)
