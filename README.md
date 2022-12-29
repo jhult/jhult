@@ -12,6 +12,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
+- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (today)
 - [uptech/engineering](https://github.com/uptech/engineering) - The source for the Uptech Studio Engineering Space (1 month ago)
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (1 month ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (2 months ago)
@@ -21,10 +22,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) - Multi platform kotlin client for Elasticsearch &amp; Opensearch (10 months ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search. (10 months ago)
 - [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (11 months ago)
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.35.2.0](https://github.com/http4k/http4k/releases/tag/4.35.2.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([1.99.20](https://github.com/jillesvangurp/kt-search/releases/tag/1.99.20), 2 days ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.28.6](https://github.com/postalsys/emailengine/releases/tag/v2.28.6), 1 week ago) - Headless email client
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 1 week ago) - Fly through your shell history. Great Scott!
