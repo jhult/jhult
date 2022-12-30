@@ -47,6 +47,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [eUgEntOptIc44/teddit](https://github.com/eUgEntOptIc44/teddit) - [up to date] mirror for teddit an alternative Reddit front-end focused on privacy (today)
+- [teddit-net/teddit](https://github.com/teddit-net/teddit) -  alternative Reddit front-end focused on privacy https://teddit.net (today)
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end (today)
 - [yonilevy/automute](https://github.com/yonilevy/automute) - A MacOS menu bar app that mutes the sound on headphones disconnect / awake from sleep (today)
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal &amp; shell (5 days ago)
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (1 week ago)
@@ -54,9 +57,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place. (1 week ago)
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (1 week ago)
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion, &#43;25-50% speed increase &#43; memory efficient &#43; DreamBooth (1 week ago)
-- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working (1 week ago)
-- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (1 week ago)
-- [IvorySQL/IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL. (2 weeks ago)
 
 #### 📫 How to reach me
 
