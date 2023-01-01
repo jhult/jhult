@@ -47,6 +47,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [seratch/kotliquery](https://github.com/seratch/kotliquery) - A handy Database access library in Kotlin (today)
 - [janbarari/gradle-analytics-plugin](https://github.com/janbarari/gradle-analytics-plugin) - A free Gradle plugin to analyze your project builds. It provides unique visual and text metrics in HTML format. (1 day ago)
 - [lunasec-io/lunasec](https://github.com/lunasec-io/lunasec) - LunaSec - Dependency Security Scanner that automatically notifies you about vulnerabilities like Log4Shell or node-ipc in your Pull Requests and Builds. Protect yourself in 30 seconds with the LunaTrace GitHub App: https://github.com/marketplace/lunatrace-by-lunasec/  (2 days ago)
 - [eUgEntOptIc44/teddit](https://github.com/eUgEntOptIc44/teddit) - [up to date] mirror for teddit an alternative Reddit front-end focused on privacy (2 days ago)
@@ -56,7 +57,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal &amp; shell (1 week ago)
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (1 week ago)
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers (1 week ago)
-- [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place. (1 week ago)
 
 #### 📫 How to reach me
 
