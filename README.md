@@ -47,6 +47,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎. (today)
+- [PlainAdmin/plain-free-bootstrap-admin-template](https://github.com/PlainAdmin/plain-free-bootstrap-admin-template) - Free Bootstrap 5 Admin and Dashboard Template that comes with all essential dashboard components, elements, charts, graph and application pages. Download now for free and use with personal or commercial projects. (today)
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly. (today)
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (2 days ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (3 days ago)
 - [hydraulic-software/conveyor](https://github.com/hydraulic-software/conveyor) - Gradle plugin, user guide and discussion forums for Conveyor (4 days ago)
@@ -54,9 +57,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [seratch/kotliquery](https://github.com/seratch/kotliquery) - A handy Database access library in Kotlin (4 days ago)
 - [janbarari/gradle-analytics-plugin](https://github.com/janbarari/gradle-analytics-plugin) - A free Gradle plugin to analyze your project builds. It provides unique visual and text metrics in HTML format. (5 days ago)
 - [lunasec-io/lunasec](https://github.com/lunasec-io/lunasec) - LunaSec - Dependency Security Scanner that automatically notifies you about vulnerabilities like Log4Shell or node-ipc in your Pull Requests and Builds. Protect yourself in 30 seconds with the LunaTrace GitHub App: https://github.com/marketplace/lunatrace-by-lunasec/  (6 days ago)
-- [eUgEntOptIc44/teddit](https://github.com/eUgEntOptIc44/teddit) - [up to date] mirror for teddit an alternative Reddit front-end focused on privacy (6 days ago)
-- [teddit-net/teddit](https://github.com/teddit-net/teddit) -  alternative Reddit front-end focused on privacy https://teddit.net (6 days ago)
-- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end (6 days ago)
 
 #### 📫 How to reach me
 
