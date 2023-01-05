@@ -25,9 +25,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.28.7](https://github.com/postalsys/emailengine/releases/tag/v2.28.7), today) - Headless email client
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([2.0.0-RC-5](https://github.com/jillesvangurp/kt-search/releases/tag/2.0.0-RC-5), 1 day ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [http4k/http4k](https://github.com/http4k/http4k) ([4.35.3.0](https://github.com/http4k/http4k/releases/tag/4.35.3.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.28.6](https://github.com/postalsys/emailengine/releases/tag/v2.28.6), 2 weeks ago) - Headless email client
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 2 weeks ago) - Fly through your shell history. Great Scott!
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 4 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 1 year ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
