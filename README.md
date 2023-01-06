@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.28.7](https://github.com/postalsys/emailengine/releases/tag/v2.28.7), today) - Headless email client
-- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([2.0.0-RC-5](https://github.com/jillesvangurp/kt-search/releases/tag/2.0.0-RC-5), 1 day ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.35.3.0](https://github.com/http4k/http4k/releases/tag/4.35.3.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 2 weeks ago) - Fly through your shell history. Great Scott!
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.28.7](https://github.com/postalsys/emailengine/releases/tag/v2.28.7), 1 day ago) - Headless email client
+- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([2.0.0-RC-5](https://github.com/jillesvangurp/kt-search/releases/tag/2.0.0-RC-5), 2 days ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.35.3.0](https://github.com/http4k/http4k/releases/tag/4.35.3.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 3 weeks ago) - Fly through your shell history. Great Scott!
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 4 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 1 year ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
 
@@ -47,16 +47,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎. (today)
-- [PlainAdmin/plain-free-bootstrap-admin-template](https://github.com/PlainAdmin/plain-free-bootstrap-admin-template) - Free Bootstrap 5 Admin and Dashboard Template that comes with all essential dashboard components, elements, charts, graph and application pages. Download now for free and use with personal or commercial projects. (today)
-- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly. (today)
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (2 days ago)
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (3 days ago)
-- [hydraulic-software/conveyor](https://github.com/hydraulic-software/conveyor) - Gradle plugin, user guide and discussion forums for Conveyor (4 days ago)
-- [orafce/orafce](https://github.com/orafce/orafce) - The &#34;orafce&#34; project implements in Postgres some of the functions from the Oracle database that are missing (or behaving differently).Those functions were verified on Oracle 10g, and the module is useful for production work. (4 days ago)
-- [seratch/kotliquery](https://github.com/seratch/kotliquery) - A handy Database access library in Kotlin (4 days ago)
-- [janbarari/gradle-analytics-plugin](https://github.com/janbarari/gradle-analytics-plugin) - A free Gradle plugin to analyze your project builds. It provides unique visual and text metrics in HTML format. (5 days ago)
-- [lunasec-io/lunasec](https://github.com/lunasec-io/lunasec) - LunaSec - Dependency Security Scanner that automatically notifies you about vulnerabilities like Log4Shell or node-ipc in your Pull Requests and Builds. Protect yourself in 30 seconds with the LunaTrace GitHub App: https://github.com/marketplace/lunatrace-by-lunasec/  (6 days ago)
+- [TouK/nussknacker](https://github.com/TouK/nussknacker) - A visual tool to define and run real-time decision algorithms. Brings agility to business teams, liberates developers to focus on technology. (today)
+- [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎. (1 day ago)
+- [PlainAdmin/plain-free-bootstrap-admin-template](https://github.com/PlainAdmin/plain-free-bootstrap-admin-template) - Free Bootstrap 5 Admin and Dashboard Template that comes with all essential dashboard components, elements, charts, graph and application pages. Download now for free and use with personal or commercial projects. (1 day ago)
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly. (1 day ago)
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (3 days ago)
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (4 days ago)
+- [hydraulic-software/conveyor](https://github.com/hydraulic-software/conveyor) - Gradle plugin, user guide and discussion forums for Conveyor (5 days ago)
+- [orafce/orafce](https://github.com/orafce/orafce) - The &#34;orafce&#34; project implements in Postgres some of the functions from the Oracle database that are missing (or behaving differently).Those functions were verified on Oracle 10g, and the module is useful for production work. (5 days ago)
+- [seratch/kotliquery](https://github.com/seratch/kotliquery) - A handy Database access library in Kotlin (5 days ago)
+- [janbarari/gradle-analytics-plugin](https://github.com/janbarari/gradle-analytics-plugin) - A free Gradle plugin to analyze your project builds. It provides unique visual and text metrics in HTML format. (6 days ago)
 
 #### 📫 How to reach me
 
