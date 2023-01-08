@@ -47,6 +47,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [ntop/n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN (today)
 - [pojntfx/goit](https://github.com/pojntfx/goit) - Get a OIDC token from your terminal. (today)
 - [delthas/punch-check](https://github.com/delthas/punch-check) - A simple tool to check whether your router supports UDP hole-punching, as well as additional NAT properties. (today)
 - [libp2p/punchr](https://github.com/libp2p/punchr) - 🥊 Components to measure Direct Connection Upgrade through Relay (DCUtR) performance. (today)
@@ -56,7 +57,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [TouK/nussknacker](https://github.com/TouK/nussknacker) - A visual tool to define and run real-time decision algorithms. Brings agility to business teams, liberates developers to focus on technology. (2 days ago)
 - [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎. (3 days ago)
 - [PlainAdmin/plain-free-bootstrap-admin-template](https://github.com/PlainAdmin/plain-free-bootstrap-admin-template) - Free Bootstrap 5 Admin and Dashboard Template that comes with all essential dashboard components, elements, charts, graph and application pages. Download now for free and use with personal or commercial projects. (3 days ago)
-- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly. (3 days ago)
 
 #### 📫 How to reach me
 
