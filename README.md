@@ -47,6 +47,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN） (today)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (today)
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC. (1 day ago)
 - [TouK/nussknacker](https://github.com/TouK/nussknacker) - A visual tool to define and run real-time decision algorithms. Brings agility to business teams, liberates developers to focus on technology. (2 days ago)
@@ -56,7 +57,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (5 days ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (6 days ago)
 - [hydraulic-software/conveyor](https://github.com/hydraulic-software/conveyor) - Gradle plugin, user guide and discussion forums for Conveyor (1 week ago)
-- [orafce/orafce](https://github.com/orafce/orafce) - The &#34;orafce&#34; project implements in Postgres some of the functions from the Oracle database that are missing (or behaving differently).Those functions were verified on Oracle 10g, and the module is useful for production work. (1 week ago)
 
 #### 📫 How to reach me
 
