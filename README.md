@@ -12,6 +12,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
+- [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (1 day ago)
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (1 week ago)
 - [uptech/engineering](https://github.com/uptech/engineering) - The source for the Uptech Studio Engineering Space (1 month ago)
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (1 month ago)
@@ -21,7 +22,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (10 months ago)
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) - Multi platform kotlin client for Elasticsearch &amp; Opensearch (11 months ago)
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search. (11 months ago)
-- [Callumpy/macos-rclone-launchd](https://github.com/Callumpy/macos-rclone-launchd) - My plist file for mounting Rclone on MacOS using launchd (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -34,6 +34,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (today)
 - [Add MIT license](https://github.com/hailwind/natwg/pull/1) on [hailwind/natwg](https://github.com/hailwind/natwg) (1 day ago)
 - [Add MIT License](https://github.com/malcolmseyd/natpunch-go/pull/10) on [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) (1 day ago)
 - [Misc enhancements](https://github.com/http4k/http4k/pull/836) on [http4k/http4k](https://github.com/http4k/http4k) (1 week ago)
@@ -43,7 +44,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Fix #288 - enable compatibility with `mktemp` from `uutils/coreutils`](https://github.com/cantino/mcfly/pull/291) on [cantino/mcfly](https://github.com/cantino/mcfly) (2 months ago)
 - [Add Apache 2.0 license](https://github.com/http4k/http4k-by-example/pull/48) on [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) (3 months ago)
 - [Add Apache 2.0 license](https://github.com/http4k/http4k-oidc/pull/8) on [http4k/http4k-oidc](https://github.com/http4k/http4k-oidc) (3 months ago)
-- [Fix typo](https://github.com/GoogleContainerTools/jib-extensions/pull/131) on [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) (5 months ago)
 
 #### ⭐ Recent Stars
 
