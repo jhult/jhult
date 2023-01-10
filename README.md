@@ -48,6 +48,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News (today)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (today)
 - [zulu-openjdk/zulu-openjdk](https://github.com/zulu-openjdk/zulu-openjdk) - Dockerfiles for Zulu OpenJDK (today)
 - [ivanilves/lstags](https://github.com/ivanilves/lstags) - Explore Docker registries and manipulate Docker images! (today)
@@ -57,7 +58,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [samyk/pwnat](https://github.com/samyk/pwnat) - The only tool and technique to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, router administrative requirements, STUN/TURN/UPnP/ICE, or spoofing required. (2 days ago)
 - [ntop/n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN (2 days ago)
 - [pojntfx/goit](https://github.com/pojntfx/goit) - Get a OIDC token from your terminal. (2 days ago)
-- [delthas/punch-check](https://github.com/delthas/punch-check) - A simple tool to check whether your router supports UDP hole-punching, as well as additional NAT properties. (2 days ago)
 
 #### 📫 How to reach me
 
