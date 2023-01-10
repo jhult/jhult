@@ -35,6 +35,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (today)
 - [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (2 days ago)
 - [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (2 days ago)
 - [Add MIT license](https://github.com/hailwind/natwg/pull/1) on [hailwind/natwg](https://github.com/hailwind/natwg) (3 days ago)
@@ -44,7 +45,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Fix typo](https://github.com/uptech/engineering/pull/14) on [uptech/engineering](https://github.com/uptech/engineering) (1 month ago)
 - [Fix OwlOCR link](https://github.com/mRs-/Black-Friday-Deals/pull/338) on [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) (1 month ago)
 - [Fix #288 - enable compatibility with `mktemp` from `uutils/coreutils`](https://github.com/cantino/mcfly/pull/291) on [cantino/mcfly](https://github.com/cantino/mcfly) (2 months ago)
-- [Add Apache 2.0 license](https://github.com/http4k/http4k-by-example/pull/48) on [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) (3 months ago)
 
 #### ⭐ Recent Stars
 
