@@ -48,6 +48,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [zulu-openjdk/zulu-openjdk](https://github.com/zulu-openjdk/zulu-openjdk) - Dockerfiles for Zulu OpenJDK (today)
 - [ivanilves/lstags](https://github.com/ivanilves/lstags) - Explore Docker registries and manipulate Docker images! (today)
 - [theAkito/sue](https://github.com/theAkito/sue) - As small and swift as su-exec, but as featureful and robust as gosu! (today)
 - [vicanso/diving](https://github.com/vicanso/diving) - Exploring each layer in a docker image (today)
@@ -57,7 +58,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [pojntfx/goit](https://github.com/pojntfx/goit) - Get a OIDC token from your terminal. (2 days ago)
 - [delthas/punch-check](https://github.com/delthas/punch-check) - A simple tool to check whether your router supports UDP hole-punching, as well as additional NAT properties. (2 days ago)
 - [libp2p/punchr](https://github.com/libp2p/punchr) - 🥊 Components to measure Direct Connection Upgrade through Relay (DCUtR) performance. (2 days ago)
-- [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN） (2 days ago)
 
 #### 📫 How to reach me
 
