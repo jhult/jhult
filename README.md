@@ -48,6 +48,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [ehulinsky/AnalogChess](https://github.com/ehulinsky/AnalogChess) - Chess but no grid (today)
 - [jtdowney/tailscale-proxy](https://github.com/jtdowney/tailscale-proxy) - A reverse proxy for tailscale that auto-configures with certificates from the local daemon. (today)
 - [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News (3 days ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 days ago)
@@ -57,7 +58,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [vicanso/diving](https://github.com/vicanso/diving) - Exploring each layer in a docker image (3 days ago)
 - [enobufs/go-nats](https://github.com/enobufs/go-nats) - NAT type discovery tool using STUN written purely in Go. (5 days ago)
 - [samyk/pwnat](https://github.com/samyk/pwnat) - The only tool and technique to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, router administrative requirements, STUN/TURN/UPnP/ICE, or spoofing required. (5 days ago)
-- [ntop/n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN (5 days ago)
 
 #### 📫 How to reach me
 
