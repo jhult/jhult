@@ -12,8 +12,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (4 days ago)
-- [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (5 days ago)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (5 days ago)
+- [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (6 days ago)
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (2 weeks ago)
 - [uptech/engineering](https://github.com/uptech/engineering) - The source for the Uptech Studio Engineering Space (1 month ago)
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (1 month ago)
@@ -25,21 +25,21 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.36.0.0](https://github.com/http4k/http4k/releases/tag/4.36.0.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([2.0.0-RC-6](https://github.com/jillesvangurp/kt-search/releases/tag/2.0.0-RC-6), 6 days ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.36.0.0](https://github.com/http4k/http4k/releases/tag/4.36.0.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([2.0.0-RC-6](https://github.com/jillesvangurp/kt-search/releases/tag/2.0.0-RC-6), 1 week ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.28.7](https://github.com/postalsys/emailengine/releases/tag/v2.28.7), 1 week ago) - Headless email client
-- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 3 weeks ago) - Fly through your shell history. Great Scott!
+- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 4 weeks ago) - Fly through your shell history. Great Scott!
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.11.6](https://github.com/netbirdio/netbird/releases/tag/v0.11.6), 1 month ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 4 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 1 year ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (2 days ago)
-- [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (4 days ago)
-- [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (4 days ago)
-- [Add MIT license](https://github.com/hailwind/natwg/pull/1) on [hailwind/natwg](https://github.com/hailwind/natwg) (5 days ago)
-- [Add MIT License](https://github.com/malcolmseyd/natpunch-go/pull/10) on [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) (5 days ago)
+- [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (3 days ago)
+- [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (5 days ago)
+- [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (5 days ago)
+- [Add MIT license](https://github.com/hailwind/natwg/pull/1) on [hailwind/natwg](https://github.com/hailwind/natwg) (6 days ago)
+- [Add MIT License](https://github.com/malcolmseyd/natpunch-go/pull/10) on [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) (6 days ago)
 - [Misc enhancements](https://github.com/http4k/http4k/pull/836) on [http4k/http4k](https://github.com/http4k/http4k) (2 weeks ago)
 - [Fix typos/grammar](https://github.com/uptech/engineering/pull/15) on [uptech/engineering](https://github.com/uptech/engineering) (1 month ago)
 - [Fix typo](https://github.com/uptech/engineering/pull/14) on [uptech/engineering](https://github.com/uptech/engineering) (1 month ago)
@@ -48,16 +48,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News (2 days ago)
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 days ago)
-- [zulu-openjdk/zulu-openjdk](https://github.com/zulu-openjdk/zulu-openjdk) - Dockerfiles for Zulu OpenJDK (2 days ago)
-- [ivanilves/lstags](https://github.com/ivanilves/lstags) - Explore Docker registries and manipulate Docker images! (2 days ago)
-- [theAkito/sue](https://github.com/theAkito/sue) - As small and swift as su-exec, but as featureful and robust as gosu! (2 days ago)
-- [vicanso/diving](https://github.com/vicanso/diving) - Exploring each layer in a docker image (2 days ago)
-- [enobufs/go-nats](https://github.com/enobufs/go-nats) - NAT type discovery tool using STUN written purely in Go. (4 days ago)
-- [samyk/pwnat](https://github.com/samyk/pwnat) - The only tool and technique to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, router administrative requirements, STUN/TURN/UPnP/ICE, or spoofing required. (4 days ago)
-- [ntop/n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN (4 days ago)
-- [pojntfx/goit](https://github.com/pojntfx/goit) - Get a OIDC token from your terminal. (4 days ago)
+- [jtdowney/tailscale-proxy](https://github.com/jtdowney/tailscale-proxy) - A reverse proxy for tailscale that auto-configures with certificates from the local daemon. (today)
+- [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News (3 days ago)
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 days ago)
+- [zulu-openjdk/zulu-openjdk](https://github.com/zulu-openjdk/zulu-openjdk) - Dockerfiles for Zulu OpenJDK (3 days ago)
+- [ivanilves/lstags](https://github.com/ivanilves/lstags) - Explore Docker registries and manipulate Docker images! (3 days ago)
+- [theAkito/sue](https://github.com/theAkito/sue) - As small and swift as su-exec, but as featureful and robust as gosu! (3 days ago)
+- [vicanso/diving](https://github.com/vicanso/diving) - Exploring each layer in a docker image (3 days ago)
+- [enobufs/go-nats](https://github.com/enobufs/go-nats) - NAT type discovery tool using STUN written purely in Go. (5 days ago)
+- [samyk/pwnat](https://github.com/samyk/pwnat) - The only tool and technique to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, router administrative requirements, STUN/TURN/UPnP/ICE, or spoofing required. (5 days ago)
+- [ntop/n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN (5 days ago)
 
 #### 📫 How to reach me
 
