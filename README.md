@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.29.0](https://github.com/postalsys/emailengine/releases/tag/v2.29.0), 1 day ago) - Headless email client
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.36.0.0](https://github.com/http4k/http4k/releases/tag/4.36.0.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.29.0](https://github.com/postalsys/emailengine/releases/tag/v2.29.0), 2 days ago) - Headless email client
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.36.0.0](https://github.com/http4k/http4k/releases/tag/4.36.0.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([2.0.0-RC-6](https://github.com/jillesvangurp/kt-search/releases/tag/2.0.0-RC-6), 1 week ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 1 month ago) - Fly through your shell history. Great Scott!
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.11.6](https://github.com/netbirdio/netbird/releases/tag/v0.11.6), 1 month ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
@@ -35,7 +35,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (5 days ago)
+- [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (6 days ago)
 - [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (1 week ago)
 - [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (1 week ago)
 - [Add MIT license](https://github.com/hailwind/natwg/pull/1) on [hailwind/natwg](https://github.com/hailwind/natwg) (1 week ago)
@@ -48,15 +48,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux (1 day ago)
-- [ehulinsky/AnalogChess](https://github.com/ehulinsky/AnalogChess) - Chess but no grid (2 days ago)
-- [jtdowney/tailscale-proxy](https://github.com/jtdowney/tailscale-proxy) - A reverse proxy for tailscale that auto-configures with certificates from the local daemon. (2 days ago)
-- [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News (5 days ago)
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (5 days ago)
-- [zulu-openjdk/zulu-openjdk](https://github.com/zulu-openjdk/zulu-openjdk) - Dockerfiles for Zulu OpenJDK (5 days ago)
-- [ivanilves/lstags](https://github.com/ivanilves/lstags) - Explore Docker registries and manipulate Docker images! (5 days ago)
-- [theAkito/sue](https://github.com/theAkito/sue) - As small and swift as su-exec, but as featureful and robust as gosu! (5 days ago)
-- [vicanso/diving](https://github.com/vicanso/diving) - Exploring each layer in a docker image (5 days ago)
+- [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux (2 days ago)
+- [ehulinsky/AnalogChess](https://github.com/ehulinsky/AnalogChess) - Chess but no grid (3 days ago)
+- [jtdowney/tailscale-proxy](https://github.com/jtdowney/tailscale-proxy) - A reverse proxy for tailscale that auto-configures with certificates from the local daemon. (3 days ago)
+- [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News (6 days ago)
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (6 days ago)
+- [zulu-openjdk/zulu-openjdk](https://github.com/zulu-openjdk/zulu-openjdk) - Dockerfiles for Zulu OpenJDK (6 days ago)
+- [ivanilves/lstags](https://github.com/ivanilves/lstags) - Explore Docker registries and manipulate Docker images! (6 days ago)
+- [theAkito/sue](https://github.com/theAkito/sue) - As small and swift as su-exec, but as featureful and robust as gosu! (6 days ago)
+- [vicanso/diving](https://github.com/vicanso/diving) - Exploring each layer in a docker image (6 days ago)
 - [enobufs/go-nats](https://github.com/enobufs/go-nats) - NAT type discovery tool using STUN written purely in Go. (1 week ago)
 
 #### 📫 How to reach me
