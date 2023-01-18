@@ -30,7 +30,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([2.0.0-RC-6](https://github.com/jillesvangurp/kt-search/releases/tag/2.0.0-RC-6), 1 week ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 1 month ago) - Fly through your shell history. Great Scott!
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.11.6](https://github.com/netbirdio/netbird/releases/tag/v0.11.6), 1 month ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) ([5.0.2](https://github.com/qarmin/czkawka/releases/tag/5.0.2), 4 months ago) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 1 year ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
 
 #### 🔨 My recent Pull Requests
