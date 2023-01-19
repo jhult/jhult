@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (1 week ago)
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (1 week ago)
-- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (2 weeks ago)
+- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (3 weeks ago)
 - [uptech/engineering](https://github.com/uptech/engineering) - The source for the Uptech Studio Engineering Space (1 month ago)
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (1 month ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (3 months ago)
@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.29.1](https://github.com/postalsys/emailengine/releases/tag/v2.29.1), today) - Headless email client
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.29.1](https://github.com/postalsys/emailengine/releases/tag/v2.29.1), 1 day ago) - Headless email client
 - [http4k/http4k](https://github.com/http4k/http4k) ([4.36.0.0](https://github.com/http4k/http4k/releases/tag/4.36.0.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([2.0.0-RC-6](https://github.com/jillesvangurp/kt-search/releases/tag/2.0.0-RC-6), 1 week ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 1 month ago) - Fly through your shell history. Great Scott!
@@ -47,12 +47,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don&#39;t change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (2 days ago)
-- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together (2 days ago)
-- [ProjectMapK/jackson-module-kogera](https://github.com/ProjectMapK/jackson-module-kogera) - Lightweight and high-performance jackson-module-kotlin (2 days ago)
-- [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux (4 days ago)
-- [ehulinsky/AnalogChess](https://github.com/ehulinsky/AnalogChess) - Chess but no grid (5 days ago)
-- [jtdowney/tailscale-proxy](https://github.com/jtdowney/tailscale-proxy) - A reverse proxy for tailscale that auto-configures with certificates from the local daemon. (5 days ago)
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don&#39;t change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (3 days ago)
+- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together (3 days ago)
+- [ProjectMapK/jackson-module-kogera](https://github.com/ProjectMapK/jackson-module-kogera) - Lightweight and high-performance jackson-module-kotlin (3 days ago)
+- [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux (5 days ago)
+- [ehulinsky/AnalogChess](https://github.com/ehulinsky/AnalogChess) - Chess but no grid (6 days ago)
+- [jtdowney/tailscale-proxy](https://github.com/jtdowney/tailscale-proxy) - A reverse proxy for tailscale that auto-configures with certificates from the local daemon. (6 days ago)
 - [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News (1 week ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 week ago)
 - [zulu-openjdk/zulu-openjdk](https://github.com/zulu-openjdk/zulu-openjdk) - Dockerfiles for Zulu OpenJDK (1 week ago)
