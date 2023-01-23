@@ -47,6 +47,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Trivadis/plsql-syntax-colors](https://github.com/Trivadis/plsql-syntax-colors) - PL/SQL Syntax Colors for SQL Developer (today)
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats (1 day ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (2 days ago)
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server (2 days ago)
@@ -56,7 +57,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it. (3 days ago)
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don&#39;t change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (1 week ago)
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together (1 week ago)
-- [ProjectMapK/jackson-module-kogera](https://github.com/ProjectMapK/jackson-module-kogera) - Lightweight and high-performance jackson-module-kotlin (1 week ago)
 
 #### 📫 How to reach me
 
