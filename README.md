@@ -13,8 +13,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 👷 Check out what I'm currently working on
 
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (2 weeks ago)
-- [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (2 weeks ago)
-- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (4 weeks ago)
+- [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (3 weeks ago)
+- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (1 month ago)
 - [uptech/engineering](https://github.com/uptech/engineering) - The source for the Uptech Studio Engineering Space (2 months ago)
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (2 months ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (3 months ago)
@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.30.0](https://github.com/postalsys/emailengine/releases/tag/v2.30.0), 2 days ago) - Headless email client
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.30.0](https://github.com/postalsys/emailengine/releases/tag/v2.30.0), 3 days ago) - Headless email client
 - [http4k/http4k](https://github.com/http4k/http4k) ([4.37.0.0](https://github.com/http4k/http4k/releases/tag/4.37.0.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.12.0](https://github.com/netbirdio/netbird/releases/tag/v0.12.0), 1 week ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([2.0.0-RC-6](https://github.com/jillesvangurp/kt-search/releases/tag/2.0.0-RC-6), 3 weeks ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
@@ -37,8 +37,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (2 weeks ago)
 - [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (2 weeks ago)
 - [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (2 weeks ago)
-- [Add MIT license](https://github.com/hailwind/natwg/pull/1) on [hailwind/natwg](https://github.com/hailwind/natwg) (2 weeks ago)
-- [Add MIT License](https://github.com/malcolmseyd/natpunch-go/pull/10) on [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) (2 weeks ago)
+- [Add MIT license](https://github.com/hailwind/natwg/pull/1) on [hailwind/natwg](https://github.com/hailwind/natwg) (3 weeks ago)
+- [Add MIT License](https://github.com/malcolmseyd/natpunch-go/pull/10) on [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) (3 weeks ago)
 - [Misc enhancements](https://github.com/http4k/http4k/pull/836) on [http4k/http4k](https://github.com/http4k/http4k) (1 month ago)
 - [Fix typos/grammar](https://github.com/uptech/engineering/pull/15) on [uptech/engineering](https://github.com/uptech/engineering) (1 month ago)
 - [Fix typo](https://github.com/uptech/engineering/pull/14) on [uptech/engineering](https://github.com/uptech/engineering) (2 months ago)
@@ -47,14 +47,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript (1 day ago)
-- [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder (1 day ago)
-- [Trivadis/plsql-syntax-colors](https://github.com/Trivadis/plsql-syntax-colors) - PL/SQL Syntax Colors for SQL Developer (4 days ago)
-- [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats (5 days ago)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (6 days ago)
-- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server (6 days ago)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (6 days ago)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (6 days ago)
+- [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript (2 days ago)
+- [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder (2 days ago)
+- [Trivadis/plsql-syntax-colors](https://github.com/Trivadis/plsql-syntax-colors) - PL/SQL Syntax Colors for SQL Developer (5 days ago)
+- [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats (6 days ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (1 week ago)
+- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server (1 week ago)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (1 week ago)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 week ago)
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust (1 week ago)
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it. (1 week ago)
 
