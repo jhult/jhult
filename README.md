@@ -25,10 +25,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.30.1](https://github.com/postalsys/emailengine/releases/tag/v2.30.1), 2 days ago) - Headless email client
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.37.0.0](https://github.com/http4k/http4k/releases/tag/4.37.0.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.30.1](https://github.com/postalsys/emailengine/releases/tag/v2.30.1), 3 days ago) - Headless email client
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.37.0.0](https://github.com/http4k/http4k/releases/tag/4.37.0.0), 2 weeks ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.12.0](https://github.com/netbirdio/netbird/releases/tag/v0.12.0), 2 weeks ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([2.0.0-RC-6](https://github.com/jillesvangurp/kt-search/releases/tag/2.0.0-RC-6), 3 weeks ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
+- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([2.0.0-RC-6](https://github.com/jillesvangurp/kt-search/releases/tag/2.0.0-RC-6), 4 weeks ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 1 month ago) - Fly through your shell history. Great Scott!
 - [jillesvangurp/es-kotlin-client](https://github.com/jillesvangurp/es-kotlin-client) ([1.1.9](https://github.com/jillesvangurp/es-kotlin-client/releases/tag/1.1.9), 1 year ago) - Kotlin client for Elasticsearch that adds kotlin DSLs, support for co-routines, and more to the official Java client. Deprecated and replaced by kt-search.
 
@@ -47,9 +47,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. (1 day ago)
-- [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs. (5 days ago)
-- [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js (5 days ago)
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. (2 days ago)
+- [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs. (6 days ago)
+- [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js (6 days ago)
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript (1 week ago)
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder (1 week ago)
 - [Trivadis/plsql-syntax-colors](https://github.com/Trivadis/plsql-syntax-colors) - PL/SQL Syntax Colors for SQL Developer (1 week ago)
