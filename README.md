@@ -47,6 +47,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [FasterXML/jackson-core](https://github.com/FasterXML/jackson-core) - Core part of Jackson that defines Streaming API as well as basic shared abstractions (today)
+- [FasterXML/jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s) (today)
+- [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions. (today)
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys. (today)
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. (6 days ago)
 - [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs. (1 week ago)
@@ -54,9 +57,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript (1 week ago)
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder (1 week ago)
 - [Trivadis/plsql-syntax-colors](https://github.com/Trivadis/plsql-syntax-colors) - PL/SQL Syntax Colors for SQL Developer (2 weeks ago)
-- [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats (2 weeks ago)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (2 weeks ago)
-- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server (2 weeks ago)
 
 #### 📫 How to reach me
 
