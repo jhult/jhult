@@ -12,7 +12,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (4 weeks ago)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (1 month ago)
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (1 month ago)
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (1 month ago)
 - [uptech/engineering](https://github.com/uptech/engineering) - The source for the Uptech Studio Engineering Space (2 months ago)
@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.38.0.1](https://github.com/http4k/http4k/releases/tag/4.38.0.1), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.30.2](https://github.com/postalsys/emailengine/releases/tag/v2.30.2), 1 day ago) - Headless email client
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.38.0.1](https://github.com/http4k/http4k/releases/tag/4.38.0.1), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.30.2](https://github.com/postalsys/emailengine/releases/tag/v2.30.2), 2 days ago) - Headless email client
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.12.0](https://github.com/netbirdio/netbird/releases/tag/v0.12.0), 2 weeks ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([2.0.0-RC-6](https://github.com/jillesvangurp/kt-search/releases/tag/2.0.0-RC-6), 1 month ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 1 month ago) - Fly through your shell history. Great Scott!
@@ -34,9 +34,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (3 weeks ago)
-- [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (4 weeks ago)
-- [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (4 weeks ago)
+- [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (4 weeks ago)
+- [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (1 month ago)
+- [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (1 month ago)
 - [Add MIT license](https://github.com/hailwind/natwg/pull/1) on [hailwind/natwg](https://github.com/hailwind/natwg) (1 month ago)
 - [Add MIT License](https://github.com/malcolmseyd/natpunch-go/pull/10) on [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) (1 month ago)
 - [Misc enhancements](https://github.com/http4k/http4k/pull/836) on [http4k/http4k](https://github.com/http4k/http4k) (1 month ago)
@@ -47,7 +47,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. (5 days ago)
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. (6 days ago)
 - [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs. (1 week ago)
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js (1 week ago)
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript (1 week ago)
