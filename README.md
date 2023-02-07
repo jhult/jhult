@@ -47,6 +47,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (today)
 - [FasterXML/jackson-core](https://github.com/FasterXML/jackson-core) - Core part of Jackson that defines Streaming API as well as basic shared abstractions (today)
 - [FasterXML/jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s) (today)
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions. (today)
@@ -56,7 +57,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js (1 week ago)
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript (1 week ago)
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder (1 week ago)
-- [Trivadis/plsql-syntax-colors](https://github.com/Trivadis/plsql-syntax-colors) - PL/SQL Syntax Colors for SQL Developer (2 weeks ago)
 
 #### 📫 How to reach me
 
