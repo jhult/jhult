@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.39.0.0](https://github.com/http4k/http4k/releases/tag/4.39.0.0), today) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.30.2](https://github.com/postalsys/emailengine/releases/tag/v2.30.2), 2 days ago) - Headless email client
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.39.0.0](https://github.com/http4k/http4k/releases/tag/4.39.0.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.30.2](https://github.com/postalsys/emailengine/releases/tag/v2.30.2), 3 days ago) - Headless email client
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.12.0](https://github.com/netbirdio/netbird/releases/tag/v0.12.0), 2 weeks ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) ([2.0.0-RC-6](https://github.com/jillesvangurp/kt-search/releases/tag/2.0.0-RC-6), 1 month ago) - Multi platform kotlin client for Elasticsearch &amp; Opensearch
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 1 month ago) - Fly through your shell history. Great Scott!
@@ -47,12 +47,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (today)
-- [FasterXML/jackson-core](https://github.com/FasterXML/jackson-core) - Core part of Jackson that defines Streaming API as well as basic shared abstractions (today)
-- [FasterXML/jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s) (today)
-- [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions. (today)
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys. (today)
-- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. (6 days ago)
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (1 day ago)
+- [FasterXML/jackson-core](https://github.com/FasterXML/jackson-core) - Core part of Jackson that defines Streaming API as well as basic shared abstractions (1 day ago)
+- [FasterXML/jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s) (1 day ago)
+- [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions. (1 day ago)
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys. (1 day ago)
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. (1 week ago)
 - [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs. (1 week ago)
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js (1 week ago)
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript (1 week ago)
