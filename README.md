@@ -21,7 +21,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) -  (7 months ago)
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (11 months ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (11 months ago)
-- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) - Multi platform kotlin client for Elasticsearch &amp; Opensearch (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
