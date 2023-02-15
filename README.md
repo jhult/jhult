@@ -44,6 +44,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages. (today)
 - [ErikKalkoken/slackchannel2pdf](https://github.com/ErikKalkoken/slackchannel2pdf) - Export the text contents of any Slack channel to a PDF file. https://pypi.org/project/slackchannel2pdf/ (today)
 - [lukechampine/goldilocks](https://github.com/lukechampine/goldilocks) - Find your habitable zone (3 days ago)
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation  (3 days ago)
@@ -53,7 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (1 week ago)
 - [FasterXML/jackson-core](https://github.com/FasterXML/jackson-core) - Core part of Jackson that defines Streaming API as well as basic shared abstractions (1 week ago)
 - [FasterXML/jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s) (1 week ago)
-- [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions. (1 week ago)
 
 #### 📫 How to reach me
 
