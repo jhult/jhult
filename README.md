@@ -24,8 +24,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.30.3](https://github.com/postalsys/emailengine/releases/tag/v2.30.3), today) - Headless email client
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.13.0](https://github.com/netbirdio/netbird/releases/tag/v0.13.0), 6 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.30.3](https://github.com/postalsys/emailengine/releases/tag/v2.30.3), 1 day ago) - Headless email client
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.13.0](https://github.com/netbirdio/netbird/releases/tag/v0.13.0), 1 week ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [http4k/http4k](https://github.com/http4k/http4k) ([4.39.0.0](https://github.com/http4k/http4k/releases/tag/4.39.0.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 2 months ago) - Fly through your shell history. Great Scott!
 
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages. (today)
-- [ErikKalkoken/slackchannel2pdf](https://github.com/ErikKalkoken/slackchannel2pdf) - Export the text contents of any Slack channel to a PDF file. https://pypi.org/project/slackchannel2pdf/ (today)
-- [lukechampine/goldilocks](https://github.com/lukechampine/goldilocks) - Find your habitable zone (3 days ago)
-- [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation  (3 days ago)
-- [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service. (4 days ago)
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust. (4 days ago)
-- [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery (5 days ago)
+- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine. (today)
+- [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages. (1 day ago)
+- [ErikKalkoken/slackchannel2pdf](https://github.com/ErikKalkoken/slackchannel2pdf) - Export the text contents of any Slack channel to a PDF file. https://pypi.org/project/slackchannel2pdf/ (1 day ago)
+- [lukechampine/goldilocks](https://github.com/lukechampine/goldilocks) - Find your habitable zone (4 days ago)
+- [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation  (4 days ago)
+- [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service. (5 days ago)
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust. (5 days ago)
+- [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery (6 days ago)
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (1 week ago)
 - [FasterXML/jackson-core](https://github.com/FasterXML/jackson-core) - Core part of Jackson that defines Streaming API as well as basic shared abstractions (1 week ago)
-- [FasterXML/jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s) (1 week ago)
 
 #### 📫 How to reach me
 
