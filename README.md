@@ -31,6 +31,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [Docs: What is a Provider - typo/grammar](https://github.com/keephq/keep/pull/44) on [keephq/keep](https://github.com/keephq/keep) (today)
 - [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (1 month ago)
 - [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (1 month ago)
 - [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (1 month ago)
@@ -40,20 +41,19 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Fix typos/grammar](https://github.com/uptech/engineering/pull/15) on [uptech/engineering](https://github.com/uptech/engineering) (2 months ago)
 - [Fix typo](https://github.com/uptech/engineering/pull/14) on [uptech/engineering](https://github.com/uptech/engineering) (2 months ago)
 - [Fix OwlOCR link](https://github.com/mRs-/Black-Friday-Deals/pull/338) on [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) (2 months ago)
-- [Fix #288 - enable compatibility with `mktemp` from `uutils/coreutils`](https://github.com/cantino/mcfly/pull/291) on [cantino/mcfly](https://github.com/cantino/mcfly) (4 months ago)
 
 #### ⭐ Recent Stars
 
+- [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding (today)
+- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. (today)
+- [Hylian/atkinson-monolegible](https://github.com/Hylian/atkinson-monolegible) - An attempt at converting the Atkinson Hyperlegible font to monospace (today)
+- [daveearley/screenshot.rocks](https://github.com/daveearley/screenshot.rocks) - Create beautiful mobile &amp; browser mockups from screenshots (today)
+- [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage. (today)
 - [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers. (today)
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (today)
 - [rilldata/rill-developer](https://github.com/rilldata/rill-developer) - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code. (today)
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine. (today)
 - [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages. (1 day ago)
-- [ErikKalkoken/slackchannel2pdf](https://github.com/ErikKalkoken/slackchannel2pdf) - Export the text contents of any Slack channel to a PDF file. https://pypi.org/project/slackchannel2pdf/ (1 day ago)
-- [lukechampine/goldilocks](https://github.com/lukechampine/goldilocks) - Find your habitable zone (4 days ago)
-- [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation  (4 days ago)
-- [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service. (5 days ago)
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust. (5 days ago)
 
 #### 📫 How to reach me
 
