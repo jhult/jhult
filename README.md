@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [KengoTODA/findbugs-slf4j](https://github.com/KengoTODA/findbugs-slf4j) - A SpotBugs/FindBugs plugin to verify usage of SLF4J (today)
 - [NetBSD/pkgsrc](https://github.com/NetBSD/pkgsrc) - Automatic conversion of the NetBSD pkgsrc CVS module, use with care (today)
 - [DeterminateSystems/riff](https://github.com/DeterminateSystems/riff) - Riff automatically provides external dependencies for Rust projects, with support for other languages coming soon. (today)
 - [eclipse-vertx/vertx-auth](https://github.com/eclipse-vertx/vertx-auth) -  (1 day ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [daveearley/screenshot.rocks](https://github.com/daveearley/screenshot.rocks) - Create beautiful mobile &amp; browser mockups from screenshots (2 days ago)
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage. (2 days ago)
 - [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers. (2 days ago)
-- [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (2 days ago)
 
 #### 📫 How to reach me
 
