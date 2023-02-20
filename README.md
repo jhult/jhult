@@ -45,6 +45,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (today)
+- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin (today)
 - [paulaltin/git-subline-merge](https://github.com/paulaltin/git-subline-merge) - An interactive git merge driver which can resolve non-overlapping conflicts on individual or adjacent lines. (today)
 - [mhagger/git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git (today)
 - [KengoTODA/findbugs-slf4j](https://github.com/KengoTODA/findbugs-slf4j) - A SpotBugs/FindBugs plugin to verify usage of SLF4J (2 days ago)
@@ -53,8 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [eclipse-vertx/vertx-auth](https://github.com/eclipse-vertx/vertx-auth) -  (3 days ago)
 - [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding (4 days ago)
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. (4 days ago)
-- [Hylian/atkinson-monolegible](https://github.com/Hylian/atkinson-monolegible) - An attempt at converting the Atkinson Hyperlegible font to monospace (4 days ago)
-- [daveearley/screenshot.rocks](https://github.com/daveearley/screenshot.rocks) - Create beautiful mobile &amp; browser mockups from screenshots (4 days ago)
 
 #### 📫 How to reach me
 
