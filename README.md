@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language. (today)
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (today)
+- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD (today)
+- [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - A neat code differencing tool (today)
+- [atlantistechnology/sdt](https://github.com/atlantistechnology/sdt) - Semantic comparison of versioned files with git awareness (today)
 - [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs (today)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (today)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (1 day ago)
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin (1 day ago)
 - [paulaltin/git-subline-merge](https://github.com/paulaltin/git-subline-merge) - An interactive git merge driver which can resolve non-overlapping conflicts on individual or adjacent lines. (1 day ago)
-- [mhagger/git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git (1 day ago)
-- [KengoTODA/findbugs-slf4j](https://github.com/KengoTODA/findbugs-slf4j) - A SpotBugs/FindBugs plugin to verify usage of SLF4J (3 days ago)
-- [NetBSD/pkgsrc](https://github.com/NetBSD/pkgsrc) - Automatic conversion of the NetBSD pkgsrc CVS module, use with care (3 days ago)
-- [DeterminateSystems/riff](https://github.com/DeterminateSystems/riff) - Riff automatically provides external dependencies for Rust projects, with support for other languages coming soon. (3 days ago)
-- [eclipse-vertx/vertx-auth](https://github.com/eclipse-vertx/vertx-auth) -  (4 days ago)
 
 #### 📫 How to reach me
 
