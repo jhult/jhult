@@ -25,7 +25,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.30.5](https://github.com/postalsys/emailengine/releases/tag/v2.30.5), 2 days ago) - Headless email client
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.31.0](https://github.com/postalsys/emailengine/releases/tag/v2.31.0), today) - Headless email client
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.0](https://github.com/netbirdio/netbird/releases/tag/v0.14.0), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [http4k/http4k](https://github.com/http4k/http4k) ([4.39.0.0](https://github.com/http4k/http4k/releases/tag/4.39.0.0), 2 weeks ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 2 months ago) - Fly through your shell history. Great Scott!
