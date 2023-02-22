@@ -12,7 +12,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers. (6 days ago)
+- [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers. (1 week ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (1 month ago)
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (1 month ago)
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (1 month ago)
@@ -25,14 +25,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.30.5](https://github.com/postalsys/emailengine/releases/tag/v2.30.5), 1 day ago) - Headless email client
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.0](https://github.com/netbirdio/netbird/releases/tag/v0.14.0), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.30.5](https://github.com/postalsys/emailengine/releases/tag/v2.30.5), 2 days ago) - Headless email client
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.0](https://github.com/netbirdio/netbird/releases/tag/v0.14.0), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [http4k/http4k](https://github.com/http4k/http4k) ([4.39.0.0](https://github.com/http4k/http4k/releases/tag/4.39.0.0), 2 weeks ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 2 months ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
 
-- [Docs: What is a Provider - typo/grammar](https://github.com/keephq/keep/pull/44) on [keephq/keep](https://github.com/keephq/keep) (5 days ago)
+- [Docs: What is a Provider - typo/grammar](https://github.com/keephq/keep/pull/44) on [keephq/keep](https://github.com/keephq/keep) (6 days ago)
 - [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (1 month ago)
 - [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (1 month ago)
 - [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (1 month ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language. (today)
-- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (today)
-- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD (today)
-- [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - A neat code differencing tool (today)
-- [atlantistechnology/sdt](https://github.com/atlantistechnology/sdt) - Semantic comparison of versioned files with git awareness (today)
-- [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs (today)
-- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (today)
-- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (1 day ago)
-- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin (1 day ago)
-- [paulaltin/git-subline-merge](https://github.com/paulaltin/git-subline-merge) - An interactive git merge driver which can resolve non-overlapping conflicts on individual or adjacent lines. (1 day ago)
+- [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language. (1 day ago)
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (1 day ago)
+- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD (1 day ago)
+- [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - A neat code differencing tool (1 day ago)
+- [atlantistechnology/sdt](https://github.com/atlantistechnology/sdt) - Semantic comparison of versioned files with git awareness (1 day ago)
+- [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs (1 day ago)
+- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (1 day ago)
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (2 days ago)
+- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin (2 days ago)
+- [paulaltin/git-subline-merge](https://github.com/paulaltin/git-subline-merge) - An interactive git merge driver which can resolve non-overlapping conflicts on individual or adjacent lines. (2 days ago)
 
 #### 📫 How to reach me
 
