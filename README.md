@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [getguesstimate/guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates (today)
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language. (2 days ago)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (2 days ago)
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD (2 days ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (2 days ago)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (3 days ago)
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin (3 days ago)
-- [paulaltin/git-subline-merge](https://github.com/paulaltin/git-subline-merge) - An interactive git merge driver which can resolve non-overlapping conflicts on individual or adjacent lines. (3 days ago)
 
 #### 📫 How to reach me
 
