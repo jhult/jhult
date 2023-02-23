@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation (today)
 - [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP server library written in Go (today)
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. (today)
 - [getguesstimate/guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates (today)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - A neat code differencing tool (2 days ago)
 - [atlantistechnology/sdt](https://github.com/atlantistechnology/sdt) - Semantic comparison of versioned files with git awareness (2 days ago)
 - [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs (2 days ago)
-- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (2 days ago)
 
 #### 📫 How to reach me
 
