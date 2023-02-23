@@ -45,6 +45,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP server library written in Go (today)
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. (today)
 - [getguesstimate/guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates (today)
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language. (2 days ago)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (2 days ago)
@@ -53,8 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [atlantistechnology/sdt](https://github.com/atlantistechnology/sdt) - Semantic comparison of versioned files with git awareness (2 days ago)
 - [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs (2 days ago)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (2 days ago)
-- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (3 days ago)
-- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin (3 days ago)
 
 #### 📫 How to reach me
 
