@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps. (today)
 - [cloudflare/circl](https://github.com/cloudflare/circl) - CIRCL: Cloudflare Interoperable Reusable Cryptographic Library (today)
 - [HexmosTech/Lama2](https://github.com/HexmosTech/Lama2) - Plain-text Powered REST API Client for Teams 🦙 (today)
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (today)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [getguesstimate/guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates (1 day ago)
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language. (3 days ago)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (3 days ago)
-- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD (3 days ago)
 
 #### 📫 How to reach me
 
