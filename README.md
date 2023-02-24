@@ -45,6 +45,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [cloudflare/circl](https://github.com/cloudflare/circl) - CIRCL: Cloudflare Interoperable Reusable Cryptographic Library (today)
+- [HexmosTech/Lama2](https://github.com/HexmosTech/Lama2) - Plain-text Powered REST API Client for Teams 🦙 (today)
+- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (today)
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation (1 day ago)
 - [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP server library written in Go (1 day ago)
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. (1 day ago)
@@ -52,9 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language. (3 days ago)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (3 days ago)
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD (3 days ago)
-- [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - A neat code differencing tool (3 days ago)
-- [atlantistechnology/sdt](https://github.com/atlantistechnology/sdt) - Semantic comparison of versioned files with git awareness (3 days ago)
-- [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs (3 days ago)
 
 #### 📫 How to reach me
 
