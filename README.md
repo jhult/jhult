@@ -21,12 +21,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (4 months ago)
 - [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) -  (7 months ago)
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (11 months ago)
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (11 months ago)
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.31.0](https://github.com/postalsys/emailengine/releases/tag/v2.31.0), 1 day ago) - Headless email client
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.0](https://github.com/netbirdio/netbird/releases/tag/v0.14.0), 3 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.31.0](https://github.com/postalsys/emailengine/releases/tag/v2.31.0), 2 days ago) - Headless email client
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.0](https://github.com/netbirdio/netbird/releases/tag/v0.14.0), 4 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [http4k/http4k](https://github.com/http4k/http4k) ([4.39.0.0](https://github.com/http4k/http4k/releases/tag/4.39.0.0), 2 weeks ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 2 months ago) - Fly through your shell history. Great Scott!
 
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation (today)
-- [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP server library written in Go (today)
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. (today)
-- [getguesstimate/guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates (today)
-- [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language. (2 days ago)
-- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (2 days ago)
-- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD (2 days ago)
-- [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - A neat code differencing tool (2 days ago)
-- [atlantistechnology/sdt](https://github.com/atlantistechnology/sdt) - Semantic comparison of versioned files with git awareness (2 days ago)
-- [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs (2 days ago)
+- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation (1 day ago)
+- [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP server library written in Go (1 day ago)
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. (1 day ago)
+- [getguesstimate/guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates (1 day ago)
+- [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language. (3 days ago)
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (3 days ago)
+- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD (3 days ago)
+- [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - A neat code differencing tool (3 days ago)
+- [atlantistechnology/sdt](https://github.com/atlantistechnology/sdt) - Semantic comparison of versioned files with git awareness (3 days ago)
+- [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs (3 days ago)
 
 #### 📫 How to reach me
 
