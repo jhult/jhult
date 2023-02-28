@@ -25,9 +25,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.31.2](https://github.com/postalsys/emailengine/releases/tag/v2.31.2), today) - Headless email client
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.1](https://github.com/netbirdio/netbird/releases/tag/v0.14.1), 3 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.39.0.0](https://github.com/http4k/http4k/releases/tag/4.39.0.0), 2 weeks ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) ([v2.31.2](https://github.com/postalsys/emailengine/releases/tag/v2.31.2), 1 day ago) - Headless email client
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.1](https://github.com/netbirdio/netbird/releases/tag/v0.14.1), 4 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.39.0.0](https://github.com/http4k/http4k/releases/tag/4.39.0.0), 3 weeks ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.7.1](https://github.com/cantino/mcfly/releases/tag/v0.7.1), 2 months ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (today)
-- [bermi/snapdir](https://github.com/bermi/snapdir) - Audit and distribute authenticated directory snapshots. (3 days ago)
-- [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec (3 days ago)
-- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps. (3 days ago)
-- [cloudflare/circl](https://github.com/cloudflare/circl) - CIRCL: Cloudflare Interoperable Reusable Cryptographic Library (3 days ago)
-- [HexmosTech/Lama2](https://github.com/HexmosTech/Lama2) - Plain-text Powered REST API Client for Teams 🦙 (3 days ago)
-- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (3 days ago)
-- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation (4 days ago)
-- [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP server library written in Go (4 days ago)
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. (4 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [bermi/snapdir](https://github.com/bermi/snapdir) - Audit and distribute authenticated directory snapshots. (4 days ago)
+- [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec (4 days ago)
+- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps. (4 days ago)
+- [cloudflare/circl](https://github.com/cloudflare/circl) - CIRCL: Cloudflare Interoperable Reusable Cryptographic Library (4 days ago)
+- [HexmosTech/Lama2](https://github.com/HexmosTech/Lama2) - Plain-text Powered REST API Client for Teams 🦙 (4 days ago)
+- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (4 days ago)
+- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation (5 days ago)
+- [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP server library written in Go (5 days ago)
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. (5 days ago)
 
 #### 📫 How to reach me
 
