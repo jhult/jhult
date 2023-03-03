@@ -44,6 +44,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases. (today)
 - [estesp/manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes (today)
 - [http4k/examples](https://github.com/http4k/examples) - Fully self-contained examples of using the various http4k features (2 days ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
@@ -53,7 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [cloudflare/circl](https://github.com/cloudflare/circl) - CIRCL: Cloudflare Interoperable Reusable Cryptographic Library (1 week ago)
 - [HexmosTech/Lama2](https://github.com/HexmosTech/Lama2) - Plain-text Powered REST API Client for Teams 🦙 (1 week ago)
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (1 week ago)
-- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation (1 week ago)
 
 #### 📫 How to reach me
 
