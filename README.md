@@ -31,6 +31,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [Misc SwaggerUI updates](https://github.com/http4k/http4k/pull/864) on [http4k/http4k](https://github.com/http4k/http4k) (today)
 - [Docs: What is a Provider - typo/grammar](https://github.com/keephq/keep/pull/44) on [keephq/keep](https://github.com/keephq/keep) (2 weeks ago)
 - [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (1 month ago)
 - [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (1 month ago)
@@ -40,7 +41,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Misc enhancements](https://github.com/http4k/http4k/pull/836) on [http4k/http4k](https://github.com/http4k/http4k) (2 months ago)
 - [Fix typos/grammar](https://github.com/uptech/engineering/pull/15) on [uptech/engineering](https://github.com/uptech/engineering) (2 months ago)
 - [Fix typo](https://github.com/uptech/engineering/pull/14) on [uptech/engineering](https://github.com/uptech/engineering) (3 months ago)
-- [Fix OwlOCR link](https://github.com/mRs-/Black-Friday-Deals/pull/338) on [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) (3 months ago)
 
 #### ⭐ Recent Stars
 
