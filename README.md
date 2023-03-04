@@ -44,6 +44,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol (today)
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases. (1 day ago)
 - [estesp/manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes (1 day ago)
 - [http4k/examples](https://github.com/http4k/examples) - Fully self-contained examples of using the various http4k features (3 days ago)
@@ -53,7 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps. (1 week ago)
 - [cloudflare/circl](https://github.com/cloudflare/circl) - CIRCL: Cloudflare Interoperable Reusable Cryptographic Library (1 week ago)
 - [HexmosTech/Lama2](https://github.com/HexmosTech/Lama2) - Plain-text Powered REST API Client for Teams 🦙 (1 week ago)
-- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (1 week ago)
 
 #### 📫 How to reach me
 
