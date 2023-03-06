@@ -21,7 +21,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (4 months ago)
 - [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) -  (7 months ago)
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira (11 months ago)
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
