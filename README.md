@@ -43,6 +43,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD). (today)
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (today)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (today)
 - [sorbayhq/sorbay](https://github.com/sorbayhq/sorbay) - Open Source Loom alternative (1 day ago)
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - No-code Business Automation Tool. An open source alternative to Zapier. (2 days ago)
@@ -51,8 +53,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases. (4 days ago)
 - [estesp/manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes (4 days ago)
 - [http4k/examples](https://github.com/http4k/examples) - Fully self-contained examples of using the various http4k features (6 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 week ago)
-- [bermi/snapdir](https://github.com/bermi/snapdir) - Audit and distribute authenticated directory snapshots. (1 week ago)
 
 #### 📫 How to reach me
 
