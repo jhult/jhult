@@ -43,6 +43,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (today)
 - [sorbayhq/sorbay](https://github.com/sorbayhq/sorbay) - Open Source Loom alternative (1 day ago)
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - No-code Business Automation Tool. An open source alternative to Zapier. (2 days ago)
 - [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files. (2 days ago)
@@ -52,7 +53,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [http4k/examples](https://github.com/http4k/examples) - Fully self-contained examples of using the various http4k features (6 days ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 week ago)
 - [bermi/snapdir](https://github.com/bermi/snapdir) - Audit and distribute authenticated directory snapshots. (1 week ago)
-- [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec (1 week ago)
 
 #### 📫 How to reach me
 
