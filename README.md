@@ -43,6 +43,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files. (today)
 - [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin) - A Gradle plugin that publishes your Android and Kotlin libraries, including sources and javadoc,  to Maven Central or any other Nexus instance. (today)
 - [Jolanrensen/docProcessorGradlePlugin](https://github.com/Jolanrensen/docProcessorGradlePlugin) - Gradle Plugin: KDoc / JavaDoc Preprocessor that can produce modified sources (today)
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD). (1 day ago)
@@ -52,7 +53,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - No-code Business Automation Tool. An open source alternative to Zapier. (3 days ago)
 - [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files. (3 days ago)
 - [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol (4 days ago)
-- [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases. (5 days ago)
 
 #### 📫 How to reach me
 
