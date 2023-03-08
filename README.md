@@ -43,6 +43,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Jolanrensen/docProcessorGradlePlugin](https://github.com/Jolanrensen/docProcessorGradlePlugin) - Gradle Plugin: KDoc / JavaDoc Preprocessor that can produce modified sources (today)
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD). (1 day ago)
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (1 day ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (1 day ago)
@@ -52,7 +53,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol (4 days ago)
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases. (5 days ago)
 - [estesp/manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes (5 days ago)
-- [http4k/examples](https://github.com/http4k/examples) - Fully self-contained examples of using the various http4k features (1 week ago)
 
 #### 📫 How to reach me
 
