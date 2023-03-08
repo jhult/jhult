@@ -43,6 +43,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin) - A Gradle plugin that publishes your Android and Kotlin libraries, including sources and javadoc,  to Maven Central or any other Nexus instance. (today)
 - [Jolanrensen/docProcessorGradlePlugin](https://github.com/Jolanrensen/docProcessorGradlePlugin) - Gradle Plugin: KDoc / JavaDoc Preprocessor that can produce modified sources (today)
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD). (1 day ago)
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (1 day ago)
@@ -52,7 +53,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files. (3 days ago)
 - [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol (4 days ago)
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases. (5 days ago)
-- [estesp/manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes (5 days ago)
 
 #### 📫 How to reach me
 
