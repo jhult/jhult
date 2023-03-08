@@ -12,9 +12,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers. (2 weeks ago)
+- [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers. (3 weeks ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (1 month ago)
-- [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (1 month ago)
+- [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (2 months ago)
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (2 months ago)
 - [uptech/engineering](https://github.com/uptech/engineering) - The source for the Uptech Studio Engineering Space (3 months ago)
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (3 months ago)
@@ -24,35 +24,35 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), today) - Fly through your shell history. Great Scott!
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.40.0.0](https://github.com/http4k/http4k/releases/tag/4.40.0.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.2](https://github.com/netbirdio/netbird/releases/tag/v0.14.2), 4 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 1 day ago) - Fly through your shell history. Great Scott!
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.40.0.0](https://github.com/http4k/http4k/releases/tag/4.40.0.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.2](https://github.com/netbirdio/netbird/releases/tag/v0.14.2), 5 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 
 #### 🔨 My recent Pull Requests
 
-- [Misc SwaggerUI updates](https://github.com/http4k/http4k/pull/864) on [http4k/http4k](https://github.com/http4k/http4k) (3 days ago)
+- [Misc SwaggerUI updates](https://github.com/http4k/http4k/pull/864) on [http4k/http4k](https://github.com/http4k/http4k) (4 days ago)
 - [Docs: What is a Provider - typo/grammar](https://github.com/keephq/keep/pull/44) on [keephq/keep](https://github.com/keephq/keep) (2 weeks ago)
 - [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (1 month ago)
 - [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (1 month ago)
 - [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (1 month ago)
-- [Add MIT license](https://github.com/hailwind/natwg/pull/1) on [hailwind/natwg](https://github.com/hailwind/natwg) (1 month ago)
-- [Add MIT License](https://github.com/malcolmseyd/natpunch-go/pull/10) on [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) (1 month ago)
+- [Add MIT license](https://github.com/hailwind/natwg/pull/1) on [hailwind/natwg](https://github.com/hailwind/natwg) (2 months ago)
+- [Add MIT License](https://github.com/malcolmseyd/natpunch-go/pull/10) on [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) (2 months ago)
 - [Misc enhancements](https://github.com/http4k/http4k/pull/836) on [http4k/http4k](https://github.com/http4k/http4k) (2 months ago)
 - [Fix typos/grammar](https://github.com/uptech/engineering/pull/15) on [uptech/engineering](https://github.com/uptech/engineering) (3 months ago)
 - [Fix typo](https://github.com/uptech/engineering/pull/14) on [uptech/engineering](https://github.com/uptech/engineering) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD). (today)
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (today)
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (today)
-- [sorbayhq/sorbay](https://github.com/sorbayhq/sorbay) - Open Source Loom alternative (1 day ago)
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - No-code Business Automation Tool. An open source alternative to Zapier. (2 days ago)
-- [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files. (2 days ago)
-- [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol (3 days ago)
-- [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases. (4 days ago)
-- [estesp/manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes (4 days ago)
-- [http4k/examples](https://github.com/http4k/examples) - Fully self-contained examples of using the various http4k features (6 days ago)
+- [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD). (1 day ago)
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (1 day ago)
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (1 day ago)
+- [sorbayhq/sorbay](https://github.com/sorbayhq/sorbay) - Open Source Loom alternative (2 days ago)
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - No-code Business Automation Tool. An open source alternative to Zapier. (3 days ago)
+- [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files. (3 days ago)
+- [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol (4 days ago)
+- [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases. (5 days ago)
+- [estesp/manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes (5 days ago)
+- [http4k/examples](https://github.com/http4k/examples) - Fully self-contained examples of using the various http4k features (1 week ago)
 
 #### 📫 How to reach me
 
