@@ -24,9 +24,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.3](https://github.com/netbirdio/netbird/releases/tag/v0.14.3), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 2 days ago) - Fly through your shell history. Great Scott!
 - [http4k/http4k](https://github.com/http4k/http4k) ([4.40.0.0](https://github.com/http4k/http4k/releases/tag/4.40.0.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.2](https://github.com/netbirdio/netbird/releases/tag/v0.14.2), 6 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 
 #### 🔨 My recent Pull Requests
 
