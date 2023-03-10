@@ -24,7 +24,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.3](https://github.com/netbirdio/netbird/releases/tag/v0.14.3), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.4](https://github.com/netbirdio/netbird/releases/tag/v0.14.4), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 3 days ago) - Fly through your shell history. Great Scott!
 - [http4k/http4k](https://github.com/http4k/http4k) ([4.40.0.0](https://github.com/http4k/http4k/releases/tag/4.40.0.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 
@@ -51,7 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD). (3 days ago)
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (3 days ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (3 days ago)
-- [sorbayhq/sorbay](https://github.com/sorbayhq/sorbay) - Open Source Loom alternative (4 days ago)
+- [sorbayhq/sorbay](https://github.com/sorbayhq/sorbay) - Open source asynchronous video communication (4 days ago)
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - No-code Business Automation Tool. An open source alternative to Zapier. (5 days ago)
 
 #### 📫 How to reach me
