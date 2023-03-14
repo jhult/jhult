@@ -12,7 +12,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (5 days ago)
+- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (6 days ago)
 - [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers. (3 weeks ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (2 months ago)
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (2 months ago)
@@ -24,9 +24,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.40.1.0](https://github.com/http4k/http4k/releases/tag/4.40.1.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.4](https://github.com/netbirdio/netbird/releases/tag/v0.14.4), 3 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 6 days ago) - Fly through your shell history. Great Scott!
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.40.1.0](https://github.com/http4k/http4k/releases/tag/4.40.1.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.4](https://github.com/netbirdio/netbird/releases/tag/v0.14.4), 4 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 1 week ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
 
@@ -43,15 +43,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development (2 days ago)
-- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes (3 days ago)
-- [hawtio/hawtio](https://github.com/hawtio/hawtio) - Hawtio web console helps you manage your JVM stuff and stay cool! (4 days ago)
-- [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files. (5 days ago)
-- [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin) - A Gradle plugin that publishes your Android and Kotlin libraries, including sources and javadoc,  to Maven Central or any other Nexus instance. (5 days ago)
-- [Jolanrensen/docProcessorGradlePlugin](https://github.com/Jolanrensen/docProcessorGradlePlugin) - Gradle Plugin: KDoc / JavaDoc Preprocessor that can produce modified sources (5 days ago)
-- [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD). (6 days ago)
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (6 days ago)
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (6 days ago)
+- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development (3 days ago)
+- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes (4 days ago)
+- [hawtio/hawtio](https://github.com/hawtio/hawtio) - Hawtio web console helps you manage your JVM stuff and stay cool! (5 days ago)
+- [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files. (6 days ago)
+- [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin) - A Gradle plugin that publishes your Android and Kotlin libraries, including sources and javadoc,  to Maven Central or any other Nexus instance. (6 days ago)
+- [Jolanrensen/docProcessorGradlePlugin](https://github.com/Jolanrensen/docProcessorGradlePlugin) - Gradle Plugin: KDoc / JavaDoc Preprocessor that can produce modified sources (6 days ago)
+- [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD). (1 week ago)
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (1 week ago)
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (1 week ago)
 - [sorbayhq/sorbay](https://github.com/sorbayhq/sorbay) - Open source asynchronous video communication (1 week ago)
 
 #### 📫 How to reach me
