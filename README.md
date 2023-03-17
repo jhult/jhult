@@ -43,16 +43,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [chocoteam/choco-solver](https://github.com/chocoteam/choco-solver) - An open-source Java library for Constraint Programming (today)
+- [MeliorArtefacts/service-harness-jdbc](https://github.com/MeliorArtefacts/service-harness-jdbc) - An easy to use, auto-configuring JDBC connection pool with circuit breaker and configurable backoff strategy.  Plus, a data access object harness with many helper functions. (today)
+- [DanielYWoo/fast-object-pool](https://github.com/DanielYWoo/fast-object-pool) - A lightweight partitioned object pool, you can use it to pool expensive objects like jdbc connections, thrift clients etc. (today)
+- [Chris2018998/BeeCP](https://github.com/Chris2018998/BeeCP) - A small JDBC Connection pool (today)
+- [ff4j/ff4j](https://github.com/ff4j/ff4j) - Feature Flags for Java made easy (today)
+- [togglz/togglz](https://github.com/togglz/togglz) - Feature Flags for the Java platform (today)
+- [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. (today)
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C&#43;&#43;, and Objective-C (today)
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data (1 day ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. (3 days ago)
-- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development (6 days ago)
-- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes (1 week ago)
-- [hawtio/hawtio](https://github.com/hawtio/hawtio) - Hawtio web console helps you manage your JVM stuff and stay cool! (1 week ago)
-- [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files. (1 week ago)
-- [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin) - A Gradle plugin that publishes your Android and Kotlin libraries, including sources and javadoc,  to Maven Central or any other Nexus instance. (1 week ago)
-- [Jolanrensen/docProcessorGradlePlugin](https://github.com/Jolanrensen/docProcessorGradlePlugin) - Gradle Plugin: KDoc / JavaDoc Preprocessor that can produce modified sources (1 week ago)
-- [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD). (1 week ago)
 
 #### 📫 How to reach me
 
