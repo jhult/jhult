@@ -24,14 +24,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.40.2.0](https://github.com/http4k/http4k/releases/tag/4.40.2.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.40.2.0](https://github.com/http4k/http4k/releases/tag/4.40.2.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.4](https://github.com/netbirdio/netbird/releases/tag/v0.14.4), 1 week ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 1 week ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
 
-- [Misc SwaggerUI updates](https://github.com/http4k/http4k/pull/864) on [http4k/http4k](https://github.com/http4k/http4k) (1 week ago)
-- [Docs: What is a Provider - typo/grammar](https://github.com/keephq/keep/pull/44) on [keephq/keep](https://github.com/keephq/keep) (4 weeks ago)
+- [Misc SwaggerUI updates](https://github.com/http4k/http4k/pull/864) on [http4k/http4k](https://github.com/http4k/http4k) (2 weeks ago)
+- [Docs: What is a Provider - typo/grammar](https://github.com/keephq/keep/pull/44) on [keephq/keep](https://github.com/keephq/keep) (1 month ago)
 - [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (2 months ago)
 - [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (2 months ago)
 - [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (2 months ago)
@@ -43,16 +43,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [chocoteam/choco-solver](https://github.com/chocoteam/choco-solver) - An open-source Java library for Constraint Programming (today)
-- [MeliorArtefacts/service-harness-jdbc](https://github.com/MeliorArtefacts/service-harness-jdbc) - An easy to use, auto-configuring JDBC connection pool with circuit breaker and configurable backoff strategy.  Plus, a data access object harness with many helper functions. (today)
-- [DanielYWoo/fast-object-pool](https://github.com/DanielYWoo/fast-object-pool) - A lightweight partitioned object pool, you can use it to pool expensive objects like jdbc connections, thrift clients etc. (today)
-- [Chris2018998/BeeCP](https://github.com/Chris2018998/BeeCP) - A small JDBC Connection pool (today)
-- [ff4j/ff4j](https://github.com/ff4j/ff4j) - Feature Flags for Java made easy (today)
-- [togglz/togglz](https://github.com/togglz/togglz) - Feature Flags for the Java platform (today)
-- [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. (today)
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C&#43;&#43;, and Objective-C (today)
-- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data (1 day ago)
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. (3 days ago)
+- [chocoteam/choco-solver](https://github.com/chocoteam/choco-solver) - An open-source Java library for Constraint Programming (1 day ago)
+- [MeliorArtefacts/service-harness-jdbc](https://github.com/MeliorArtefacts/service-harness-jdbc) - An easy to use, auto-configuring JDBC connection pool with circuit breaker and configurable backoff strategy.  Plus, a data access object harness with many helper functions. (1 day ago)
+- [DanielYWoo/fast-object-pool](https://github.com/DanielYWoo/fast-object-pool) - A lightweight partitioned object pool, you can use it to pool expensive objects like jdbc connections, thrift clients etc. (1 day ago)
+- [Chris2018998/BeeCP](https://github.com/Chris2018998/BeeCP) - A small JDBC Connection pool (1 day ago)
+- [ff4j/ff4j](https://github.com/ff4j/ff4j) - Feature Flags for Java made easy (1 day ago)
+- [togglz/togglz](https://github.com/togglz/togglz) - Feature Flags for the Java platform (1 day ago)
+- [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. (1 day ago)
+- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C&#43;&#43;, and Objective-C (1 day ago)
+- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data (2 days ago)
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. (4 days ago)
 
 #### 📫 How to reach me
 
