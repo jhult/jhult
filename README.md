@@ -46,13 +46,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [chocoteam/choco-solver](https://github.com/chocoteam/choco-solver) - An open-source Java library for Constraint Programming (1 day ago)
 - [MeliorArtefacts/service-harness-jdbc](https://github.com/MeliorArtefacts/service-harness-jdbc) - An easy to use, auto-configuring JDBC connection pool with circuit breaker and configurable backoff strategy.  Plus, a data access object harness with many helper functions. (1 day ago)
 - [DanielYWoo/fast-object-pool](https://github.com/DanielYWoo/fast-object-pool) - A lightweight partitioned object pool, you can use it to pool expensive objects like jdbc connections, thrift clients etc. (1 day ago)
-- [Chris2018998/BeeCP](https://github.com/Chris2018998/BeeCP) - A small JDBC Connection pool (1 day ago)
 - [ff4j/ff4j](https://github.com/ff4j/ff4j) - Feature Flags for Java made easy (1 day ago)
 - [togglz/togglz](https://github.com/togglz/togglz) - Feature Flags for the Java platform (1 day ago)
 - [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. (1 day ago)
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C&#43;&#43;, and Objective-C (1 day ago)
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data (2 days ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. (4 days ago)
+- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development (1 week ago)
 
 #### 📫 How to reach me
 
