@@ -43,6 +43,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [eclipse/jkube](https://github.com/eclipse/jkube) - Build and Deploy java applications on Kubernetes (today)
 - [nats-io/nats-kafka](https://github.com/nats-io/nats-kafka) - NATS to Kafka Bridging (1 day ago)
 - [brettwooldridge/HikariCP-benchmark](https://github.com/brettwooldridge/HikariCP-benchmark) - JHM benchmarks for JDBC Connection Pools (1 day ago)
 - [karsany/obridge](https://github.com/karsany/obridge) - Java code generator for calling PL/SQL. (1 day ago)
@@ -52,7 +53,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [ff4j/ff4j](https://github.com/ff4j/ff4j) - Feature Flags for Java made easy (2 days ago)
 - [togglz/togglz](https://github.com/togglz/togglz) - Feature Flags for the Java platform (2 days ago)
 - [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. (2 days ago)
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C&#43;&#43;, and Objective-C (2 days ago)
 
 #### 📫 How to reach me
 
