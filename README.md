@@ -43,6 +43,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [keploy/keploy](https://github.com/keploy/keploy) - Testing for Developers. Toolkit that creates test-cases and data mocks from API calls, DB queries, etc. (today)
+- [apache/incubator-eventmesh](https://github.com/apache/incubator-eventmesh) - EventMesh is a new generation serverless event middleware for building distributed event-driven applications. (today)
 - [eclipse/jkube](https://github.com/eclipse/jkube) - Build and Deploy java applications on Kubernetes (1 day ago)
 - [nats-io/nats-kafka](https://github.com/nats-io/nats-kafka) - NATS to Kafka Bridging (2 days ago)
 - [brettwooldridge/HikariCP-benchmark](https://github.com/brettwooldridge/HikariCP-benchmark) - JHM benchmarks for JDBC Connection Pools (2 days ago)
@@ -51,8 +53,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [MeliorArtefacts/service-harness-jdbc](https://github.com/MeliorArtefacts/service-harness-jdbc) - An easy to use, auto-configuring JDBC connection pool with circuit breaker and configurable backoff strategy.  Plus, a data access object harness with many helper functions. (3 days ago)
 - [DanielYWoo/fast-object-pool](https://github.com/DanielYWoo/fast-object-pool) - A lightweight partitioned object pool, you can use it to pool expensive objects like jdbc connections, thrift clients etc. (3 days ago)
 - [ff4j/ff4j](https://github.com/ff4j/ff4j) - Feature Flags for Java made easy (3 days ago)
-- [togglz/togglz](https://github.com/togglz/togglz) - Feature Flags for the Java platform (3 days ago)
-- [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. (3 days ago)
 
 #### 📫 How to reach me
 
