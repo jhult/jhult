@@ -43,6 +43,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Apsu/Canary](https://github.com/Apsu/Canary) - Canary keyboard layout (today)
 - [keploy/keploy](https://github.com/keploy/keploy) - Testing for Developers. Toolkit that creates test-cases and data mocks from API calls, DB queries, etc. (today)
 - [apache/incubator-eventmesh](https://github.com/apache/incubator-eventmesh) - EventMesh is a new generation serverless event middleware for building distributed event-driven applications. (today)
 - [eclipse/jkube](https://github.com/eclipse/jkube) - Build and Deploy java applications on Kubernetes (1 day ago)
@@ -52,7 +53,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [chocoteam/choco-solver](https://github.com/chocoteam/choco-solver) - An open-source Java library for Constraint Programming (3 days ago)
 - [MeliorArtefacts/service-harness-jdbc](https://github.com/MeliorArtefacts/service-harness-jdbc) - An easy to use, auto-configuring JDBC connection pool with circuit breaker and configurable backoff strategy.  Plus, a data access object harness with many helper functions. (3 days ago)
 - [DanielYWoo/fast-object-pool](https://github.com/DanielYWoo/fast-object-pool) - A lightweight partitioned object pool, you can use it to pool expensive objects like jdbc connections, thrift clients etc. (3 days ago)
-- [ff4j/ff4j](https://github.com/ff4j/ff4j) - Feature Flags for Java made easy (3 days ago)
 
 #### 📫 How to reach me
 
