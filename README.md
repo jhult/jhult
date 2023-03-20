@@ -24,7 +24,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.0.0](https://github.com/http4k/http4k/releases/tag/4.41.0.0), today) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.0.0](https://github.com/http4k/http4k/releases/tag/4.41.0.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.4](https://github.com/netbirdio/netbird/releases/tag/v0.14.4), 1 week ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 1 week ago) - Fly through your shell history. Great Scott!
 
@@ -43,16 +43,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [eclipse/jkube](https://github.com/eclipse/jkube) - Build and Deploy java applications on Kubernetes (today)
-- [nats-io/nats-kafka](https://github.com/nats-io/nats-kafka) - NATS to Kafka Bridging (1 day ago)
-- [brettwooldridge/HikariCP-benchmark](https://github.com/brettwooldridge/HikariCP-benchmark) - JHM benchmarks for JDBC Connection Pools (1 day ago)
-- [karsany/obridge](https://github.com/karsany/obridge) - Java code generator for calling PL/SQL. (1 day ago)
-- [chocoteam/choco-solver](https://github.com/chocoteam/choco-solver) - An open-source Java library for Constraint Programming (2 days ago)
-- [MeliorArtefacts/service-harness-jdbc](https://github.com/MeliorArtefacts/service-harness-jdbc) - An easy to use, auto-configuring JDBC connection pool with circuit breaker and configurable backoff strategy.  Plus, a data access object harness with many helper functions. (2 days ago)
-- [DanielYWoo/fast-object-pool](https://github.com/DanielYWoo/fast-object-pool) - A lightweight partitioned object pool, you can use it to pool expensive objects like jdbc connections, thrift clients etc. (2 days ago)
-- [ff4j/ff4j](https://github.com/ff4j/ff4j) - Feature Flags for Java made easy (2 days ago)
-- [togglz/togglz](https://github.com/togglz/togglz) - Feature Flags for the Java platform (2 days ago)
-- [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. (2 days ago)
+- [eclipse/jkube](https://github.com/eclipse/jkube) - Build and Deploy java applications on Kubernetes (1 day ago)
+- [nats-io/nats-kafka](https://github.com/nats-io/nats-kafka) - NATS to Kafka Bridging (2 days ago)
+- [brettwooldridge/HikariCP-benchmark](https://github.com/brettwooldridge/HikariCP-benchmark) - JHM benchmarks for JDBC Connection Pools (2 days ago)
+- [karsany/obridge](https://github.com/karsany/obridge) - Java code generator for calling PL/SQL. (2 days ago)
+- [chocoteam/choco-solver](https://github.com/chocoteam/choco-solver) - An open-source Java library for Constraint Programming (3 days ago)
+- [MeliorArtefacts/service-harness-jdbc](https://github.com/MeliorArtefacts/service-harness-jdbc) - An easy to use, auto-configuring JDBC connection pool with circuit breaker and configurable backoff strategy.  Plus, a data access object harness with many helper functions. (3 days ago)
+- [DanielYWoo/fast-object-pool](https://github.com/DanielYWoo/fast-object-pool) - A lightweight partitioned object pool, you can use it to pool expensive objects like jdbc connections, thrift clients etc. (3 days ago)
+- [ff4j/ff4j](https://github.com/ff4j/ff4j) - Feature Flags for Java made easy (3 days ago)
+- [togglz/togglz](https://github.com/togglz/togglz) - Feature Flags for the Java platform (3 days ago)
+- [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. (3 days ago)
 
 #### 📫 How to reach me
 
