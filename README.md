@@ -16,7 +16,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers. (1 month ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (2 months ago)
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (2 months ago)
-- [uptech/engineering](https://github.com/uptech/engineering) - The source for the Uptech Studio Engineering Space (3 months ago)
+- [uptech/engineering](https://github.com/uptech/engineering) - The source for the Uptech Studio Engineering Space (4 months ago)
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (4 months ago)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (5 months ago)
 - [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) -  (8 months ago)
@@ -24,7 +24,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.0.0](https://github.com/http4k/http4k/releases/tag/4.41.0.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.0.0](https://github.com/http4k/http4k/releases/tag/4.41.0.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.4](https://github.com/netbirdio/netbird/releases/tag/v0.14.4), 1 week ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 2 weeks ago) - Fly through your shell history. Great Scott!
 
@@ -39,20 +39,20 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Add MIT License](https://github.com/malcolmseyd/natpunch-go/pull/10) on [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) (2 months ago)
 - [Misc enhancements](https://github.com/http4k/http4k/pull/836) on [http4k/http4k](https://github.com/http4k/http4k) (2 months ago)
 - [Fix typos/grammar](https://github.com/uptech/engineering/pull/15) on [uptech/engineering](https://github.com/uptech/engineering) (3 months ago)
-- [Fix typo](https://github.com/uptech/engineering/pull/14) on [uptech/engineering](https://github.com/uptech/engineering) (3 months ago)
+- [Fix typo](https://github.com/uptech/engineering/pull/14) on [uptech/engineering](https://github.com/uptech/engineering) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [spring-projects-experimental/spring-boot-migrator](https://github.com/spring-projects-experimental/spring-boot-migrator) - Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot (1 day ago)
-- [kagkarlsson/db-scheduler](https://github.com/kagkarlsson/db-scheduler) - Persistent cluster-friendly scheduler for Java (1 day ago)
-- [Apsu/Canary](https://github.com/Apsu/Canary) - Canary keyboard layout (2 days ago)
-- [keploy/keploy](https://github.com/keploy/keploy) - Testing for Developers. Toolkit that creates test-cases and data mocks from API calls, DB queries, etc. (2 days ago)
-- [apache/incubator-eventmesh](https://github.com/apache/incubator-eventmesh) - EventMesh is a new generation serverless event middleware for building distributed event-driven applications. (2 days ago)
-- [eclipse/jkube](https://github.com/eclipse/jkube) - Build and Deploy java applications on Kubernetes (3 days ago)
-- [nats-io/nats-kafka](https://github.com/nats-io/nats-kafka) - NATS to Kafka Bridging (4 days ago)
-- [brettwooldridge/HikariCP-benchmark](https://github.com/brettwooldridge/HikariCP-benchmark) - JHM benchmarks for JDBC Connection Pools (4 days ago)
-- [karsany/obridge](https://github.com/karsany/obridge) - Java code generator for calling PL/SQL. (4 days ago)
-- [chocoteam/choco-solver](https://github.com/chocoteam/choco-solver) - An open-source Java library for Constraint Programming (5 days ago)
+- [spring-projects-experimental/spring-boot-migrator](https://github.com/spring-projects-experimental/spring-boot-migrator) - Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot (2 days ago)
+- [kagkarlsson/db-scheduler](https://github.com/kagkarlsson/db-scheduler) - Persistent cluster-friendly scheduler for Java (2 days ago)
+- [Apsu/Canary](https://github.com/Apsu/Canary) - Canary keyboard layout (3 days ago)
+- [keploy/keploy](https://github.com/keploy/keploy) - Testing for Developers. Toolkit that creates test-cases and data mocks from API calls, DB queries, etc. (3 days ago)
+- [apache/incubator-eventmesh](https://github.com/apache/incubator-eventmesh) - EventMesh is a new generation serverless event middleware for building distributed event-driven applications. (3 days ago)
+- [eclipse/jkube](https://github.com/eclipse/jkube) - Build and Deploy java applications on Kubernetes (4 days ago)
+- [nats-io/nats-kafka](https://github.com/nats-io/nats-kafka) - NATS to Kafka Bridging (5 days ago)
+- [brettwooldridge/HikariCP-benchmark](https://github.com/brettwooldridge/HikariCP-benchmark) - JHM benchmarks for JDBC Connection Pools (5 days ago)
+- [karsany/obridge](https://github.com/karsany/obridge) - Java code generator for calling PL/SQL. (5 days ago)
+- [chocoteam/choco-solver](https://github.com/chocoteam/choco-solver) - An open-source Java library for Constraint Programming (6 days ago)
 
 #### 📫 How to reach me
 
