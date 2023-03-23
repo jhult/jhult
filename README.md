@@ -43,6 +43,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere. (today)
 - [spring-projects-experimental/spring-boot-migrator](https://github.com/spring-projects-experimental/spring-boot-migrator) - Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot (2 days ago)
 - [kagkarlsson/db-scheduler](https://github.com/kagkarlsson/db-scheduler) - Persistent cluster-friendly scheduler for Java (2 days ago)
 - [Apsu/Canary](https://github.com/Apsu/Canary) - Canary keyboard layout (3 days ago)
@@ -52,7 +53,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [nats-io/nats-kafka](https://github.com/nats-io/nats-kafka) - NATS to Kafka Bridging (5 days ago)
 - [brettwooldridge/HikariCP-benchmark](https://github.com/brettwooldridge/HikariCP-benchmark) - JHM benchmarks for JDBC Connection Pools (5 days ago)
 - [karsany/obridge](https://github.com/karsany/obridge) - Java code generator for calling PL/SQL. (5 days ago)
-- [chocoteam/choco-solver](https://github.com/chocoteam/choco-solver) - An open-source Java library for Constraint Programming (6 days ago)
 
 #### 📫 How to reach me
 
