@@ -43,6 +43,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React &amp; Node.js.  (today)
+- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (today)
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Efficiently diff data in or across relational databases (today)
 - [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere. (today)
 - [spring-projects-experimental/spring-boot-migrator](https://github.com/spring-projects-experimental/spring-boot-migrator) - Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot (2 days ago)
@@ -51,8 +53,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [keploy/keploy](https://github.com/keploy/keploy) - Testing for Developers. Toolkit that creates test-cases and data mocks from API calls, DB queries, etc. (3 days ago)
 - [apache/incubator-eventmesh](https://github.com/apache/incubator-eventmesh) - EventMesh is a new generation serverless event middleware for building distributed event-driven applications. (3 days ago)
 - [eclipse/jkube](https://github.com/eclipse/jkube) - Build and Deploy java applications on Kubernetes (4 days ago)
-- [nats-io/nats-kafka](https://github.com/nats-io/nats-kafka) - NATS to Kafka Bridging (5 days ago)
-- [brettwooldridge/HikariCP-benchmark](https://github.com/brettwooldridge/HikariCP-benchmark) - JHM benchmarks for JDBC Connection Pools (5 days ago)
 
 #### 📫 How to reach me
 
