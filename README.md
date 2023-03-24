@@ -24,8 +24,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.5](https://github.com/netbirdio/netbird/releases/tag/v0.14.5), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [http4k/http4k](https://github.com/http4k/http4k) ([4.41.0.0](https://github.com/http4k/http4k/releases/tag/4.41.0.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.4](https://github.com/netbirdio/netbird/releases/tag/v0.14.4), 2 weeks ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 2 weeks ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
@@ -50,7 +50,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [spring-projects-experimental/spring-boot-migrator](https://github.com/spring-projects-experimental/spring-boot-migrator) - Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot (3 days ago)
 - [kagkarlsson/db-scheduler](https://github.com/kagkarlsson/db-scheduler) - Persistent cluster-friendly scheduler for Java (3 days ago)
 - [Apsu/Canary](https://github.com/Apsu/Canary) - Canary keyboard layout (4 days ago)
-- [keploy/keploy](https://github.com/keploy/keploy) - Testing for Developers. Toolkit that creates test-cases and data mocks from API calls, DB queries, etc. (4 days ago)
+- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works! (4 days ago)
 - [apache/incubator-eventmesh](https://github.com/apache/incubator-eventmesh) - EventMesh is a new generation serverless event middleware for building distributed event-driven applications. (4 days ago)
 - [eclipse/jkube](https://github.com/eclipse/jkube) - Build and Deploy java applications on Kubernetes (5 days ago)
 
