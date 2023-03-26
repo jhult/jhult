@@ -43,6 +43,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge (today)
 - [Volcomix/virtual-background](https://github.com/Volcomix/virtual-background) - Demo on adding virtual background to a live video stream in the browser (today)
 - [openrewrite/rewrite-spring](https://github.com/openrewrite/rewrite-spring) - Eliminate legacy Spring patterns. Automatically. (1 day ago)
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React &amp; Node.js.  (3 days ago)
@@ -52,7 +53,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [spring-projects-experimental/spring-boot-migrator](https://github.com/spring-projects-experimental/spring-boot-migrator) - Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot (5 days ago)
 - [kagkarlsson/db-scheduler](https://github.com/kagkarlsson/db-scheduler) - Persistent cluster-friendly scheduler for Java (5 days ago)
 - [Apsu/Canary](https://github.com/Apsu/Canary) - Canary keyboard layout (6 days ago)
-- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works! (6 days ago)
 
 #### 📫 How to reach me
 
