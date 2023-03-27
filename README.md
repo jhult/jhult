@@ -43,6 +43,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (today)
 - [mvysny/vaadin-boot](https://github.com/mvysny/vaadin-boot) - Boots your Vaadin app in embedded Jetty from your main() method quickly and easily (today)
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge (1 day ago)
 - [Volcomix/virtual-background](https://github.com/Volcomix/virtual-background) - Demo on adding virtual background to a live video stream in the browser (1 day ago)
@@ -52,7 +53,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases (4 days ago)
 - [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere. (4 days ago)
 - [spring-projects-experimental/spring-boot-migrator](https://github.com/spring-projects-experimental/spring-boot-migrator) - Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot (6 days ago)
-- [kagkarlsson/db-scheduler](https://github.com/kagkarlsson/db-scheduler) - Persistent cluster-friendly scheduler for Java (6 days ago)
 
 #### 📫 How to reach me
 
