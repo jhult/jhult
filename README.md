@@ -42,6 +42,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution. (today)
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (today)
 - [mvysny/vaadin-boot](https://github.com/mvysny/vaadin-boot) - Boots your Vaadin app in embedded Jetty from your main() method quickly and easily (today)
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge (1 day ago)
@@ -51,7 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (4 days ago)
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases (4 days ago)
 - [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere. (4 days ago)
-- [spring-projects-experimental/spring-boot-migrator](https://github.com/spring-projects-experimental/spring-boot-migrator) - Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot (6 days ago)
 
 #### 📫 How to reach me
 
