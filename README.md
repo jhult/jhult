@@ -23,9 +23,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.1.1](https://github.com/http4k/http4k/releases/tag/4.41.1.1), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.5](https://github.com/netbirdio/netbird/releases/tag/v0.14.5), 3 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 2 weeks ago) - Fly through your shell history. Great Scott!
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.1.1](https://github.com/http4k/http4k/releases/tag/4.41.1.1), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.5](https://github.com/netbirdio/netbird/releases/tag/v0.14.5), 4 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 3 weeks ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
 
@@ -36,22 +36,22 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (2 months ago)
 - [Add MIT license](https://github.com/hailwind/natwg/pull/1) on [hailwind/natwg](https://github.com/hailwind/natwg) (2 months ago)
 - [Add MIT License](https://github.com/malcolmseyd/natpunch-go/pull/10) on [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) (2 months ago)
-- [Misc enhancements](https://github.com/http4k/http4k/pull/836) on [http4k/http4k](https://github.com/http4k/http4k) (2 months ago)
+- [Misc enhancements](https://github.com/http4k/http4k/pull/836) on [http4k/http4k](https://github.com/http4k/http4k) (3 months ago)
 - [Fix typos/grammar](https://github.com/uptech/engineering/pull/15) on [uptech/engineering](https://github.com/uptech/engineering) (3 months ago)
 - [Fix typo](https://github.com/uptech/engineering/pull/14) on [uptech/engineering](https://github.com/uptech/engineering) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution. (today)
-- [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (today)
-- [mvysny/vaadin-boot](https://github.com/mvysny/vaadin-boot) - Boots your Vaadin app in embedded Jetty from your main() method quickly and easily (today)
-- [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge (1 day ago)
-- [Volcomix/virtual-background](https://github.com/Volcomix/virtual-background) - Demo on adding virtual background to a live video stream in the browser (1 day ago)
-- [openrewrite/rewrite-spring](https://github.com/openrewrite/rewrite-spring) - Eliminate legacy Spring patterns. Automatically. (2 days ago)
-- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React &amp; Node.js.  (4 days ago)
-- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (4 days ago)
-- [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases (4 days ago)
-- [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere. (4 days ago)
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution. (1 day ago)
+- [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (1 day ago)
+- [mvysny/vaadin-boot](https://github.com/mvysny/vaadin-boot) - Boots your Vaadin app in embedded Jetty from your main() method quickly and easily (1 day ago)
+- [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge (2 days ago)
+- [Volcomix/virtual-background](https://github.com/Volcomix/virtual-background) - Demo on adding virtual background to a live video stream in the browser (2 days ago)
+- [openrewrite/rewrite-spring](https://github.com/openrewrite/rewrite-spring) - Eliminate legacy Spring patterns. Automatically. (3 days ago)
+- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React &amp; Node.js.  (5 days ago)
+- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (5 days ago)
+- [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases (5 days ago)
+- [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere. (5 days ago)
 
 #### 📫 How to reach me
 
