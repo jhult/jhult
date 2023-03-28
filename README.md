@@ -42,6 +42,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (today)
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution. (1 day ago)
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (1 day ago)
 - [mvysny/vaadin-boot](https://github.com/mvysny/vaadin-boot) - Boots your Vaadin app in embedded Jetty from your main() method quickly and easily (1 day ago)
@@ -51,7 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React &amp; Node.js.  (5 days ago)
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (5 days ago)
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases (5 days ago)
-- [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere. (5 days ago)
 
 #### 📫 How to reach me
 
