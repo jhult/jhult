@@ -42,6 +42,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [parttimenerd/firefox-profiler](https://github.com/parttimenerd/firefox-profiler) - Firefox Profiler — Web app for Firefox performance analysis (today)
+- [parttimenerd/intellij-profiler-plugin](https://github.com/parttimenerd/intellij-profiler-plugin) - IntelliJ plugin to view JFR profiler files and to profile using JFR (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (1 day ago)
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution. (2 days ago)
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (2 days ago)
@@ -50,8 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Volcomix/virtual-background](https://github.com/Volcomix/virtual-background) - Demo on adding virtual background to a live video stream in the browser (3 days ago)
 - [openrewrite/rewrite-spring](https://github.com/openrewrite/rewrite-spring) - Eliminate legacy Spring patterns. Automatically. (4 days ago)
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React &amp; Node.js.  (6 days ago)
-- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (6 days ago)
-- [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases (6 days ago)
 
 #### 📫 How to reach me
 
