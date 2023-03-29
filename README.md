@@ -42,6 +42,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust! (today)
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (today)
 - [parttimenerd/firefox-profiler](https://github.com/parttimenerd/firefox-profiler) - Firefox Profiler — Web app for Firefox performance analysis (today)
 - [parttimenerd/intellij-profiler-plugin](https://github.com/parttimenerd/intellij-profiler-plugin) - IntelliJ plugin to view JFR profiler files and to profile using JFR (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (1 day ago)
@@ -50,8 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [mvysny/vaadin-boot](https://github.com/mvysny/vaadin-boot) - Boots your Vaadin app in embedded Jetty from your main() method quickly and easily (2 days ago)
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge (3 days ago)
 - [Volcomix/virtual-background](https://github.com/Volcomix/virtual-background) - Demo on adding virtual background to a live video stream in the browser (3 days ago)
-- [openrewrite/rewrite-spring](https://github.com/openrewrite/rewrite-spring) - Eliminate legacy Spring patterns. Automatically. (4 days ago)
-- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React &amp; Node.js.  (6 days ago)
 
 #### 📫 How to reach me
 
