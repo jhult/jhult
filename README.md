@@ -42,6 +42,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦 (today)
 - [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler) - Firefox Profiler — Web app for Firefox performance analysis (1 day ago)
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust! (1 day ago)
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (1 day ago)
@@ -51,7 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution. (3 days ago)
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (3 days ago)
 - [mvysny/vaadin-boot](https://github.com/mvysny/vaadin-boot) - Boots your Vaadin app in embedded Jetty from your main() method quickly and easily (3 days ago)
-- [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge (4 days ago)
 
 #### 📫 How to reach me
 
