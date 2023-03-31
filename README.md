@@ -23,8 +23,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.2.0](https://github.com/http4k/http4k/releases/tag/4.41.2.0), today) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.5](https://github.com/netbirdio/netbird/releases/tag/v0.14.5), 6 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.2.0](https://github.com/http4k/http4k/releases/tag/4.41.2.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.5](https://github.com/netbirdio/netbird/releases/tag/v0.14.5), 1 week ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 3 weeks ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
@@ -42,16 +42,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language) (today)
-- [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦 (today)
-- [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler) - Firefox Profiler — Web app for Firefox performance analysis (1 day ago)
-- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust! (1 day ago)
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (1 day ago)
-- [parttimenerd/firefox-profiler](https://github.com/parttimenerd/firefox-profiler) - Firefox Profiler — Web app for Firefox performance analysis (1 day ago)
-- [parttimenerd/intellij-profiler-plugin](https://github.com/parttimenerd/intellij-profiler-plugin) - IntelliJ plugin to view JFR profiler files and to profile using JFR (1 day ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (2 days ago)
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution. (3 days ago)
-- [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (3 days ago)
+- [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language) (1 day ago)
+- [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦 (1 day ago)
+- [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler) - Firefox Profiler — Web app for Firefox performance analysis (2 days ago)
+- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust! (2 days ago)
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (2 days ago)
+- [parttimenerd/firefox-profiler](https://github.com/parttimenerd/firefox-profiler) - Firefox Profiler — Web app for Firefox performance analysis (2 days ago)
+- [parttimenerd/intellij-profiler-plugin](https://github.com/parttimenerd/intellij-profiler-plugin) - IntelliJ plugin to view JFR profiler files and to profile using JFR (2 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (3 days ago)
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution. (4 days ago)
+- [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (4 days ago)
 
 #### 📫 How to reach me
 
