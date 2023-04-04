@@ -23,9 +23,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.6](https://github.com/netbirdio/netbird/releases/tag/v0.14.6), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.3.0](https://github.com/http4k/http4k/releases/tag/4.41.3.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 3 weeks ago) - Fly through your shell history. Great Scott!
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.14.6](https://github.com/netbirdio/netbird/releases/tag/v0.14.6), 3 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.3.0](https://github.com/http4k/http4k/releases/tag/4.41.3.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 4 weeks ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
 
@@ -42,16 +42,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite (today)
-- [frain-dev/convoy](https://github.com/frain-dev/convoy) - Open Source Webhooks Gateway; For both incoming &amp; outgoing events.  (3 days ago)
-- [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language) (4 days ago)
-- [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦 (4 days ago)
-- [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler) - Firefox Profiler — Web app for Firefox performance analysis (5 days ago)
-- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust! (5 days ago)
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (5 days ago)
-- [parttimenerd/firefox-profiler](https://github.com/parttimenerd/firefox-profiler) - Firefox Profiler — Web app for Firefox performance analysis (5 days ago)
-- [parttimenerd/intellij-profiler-plugin](https://github.com/parttimenerd/intellij-profiler-plugin) - IntelliJ plugin to view JFR profiler files and to profile using JFR (5 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (6 days ago)
+- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite (1 day ago)
+- [frain-dev/convoy](https://github.com/frain-dev/convoy) - Open Source Webhooks Gateway; For both incoming &amp; outgoing events.  (4 days ago)
+- [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language) (5 days ago)
+- [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦 (5 days ago)
+- [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler) - Firefox Profiler — Web app for Firefox performance analysis (6 days ago)
+- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust! (6 days ago)
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (6 days ago)
+- [parttimenerd/firefox-profiler](https://github.com/parttimenerd/firefox-profiler) - Firefox Profiler — Web app for Firefox performance analysis (6 days ago)
+- [parttimenerd/intellij-profiler-plugin](https://github.com/parttimenerd/intellij-profiler-plugin) - IntelliJ plugin to view JFR profiler files and to profile using JFR (6 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (1 week ago)
 
 #### 📫 How to reach me
 
