@@ -42,6 +42,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (today)
 - [apache/ignite](https://github.com/apache/ignite) - Apache Ignite (2 days ago)
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - Open Source Webhooks Gateway; For both incoming &amp; outgoing events.  (5 days ago)
 - [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language) (6 days ago)
@@ -51,7 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (1 week ago)
 - [parttimenerd/firefox-profiler](https://github.com/parttimenerd/firefox-profiler) - Firefox Profiler — Web app for Firefox performance analysis (1 week ago)
 - [parttimenerd/intellij-profiler-plugin](https://github.com/parttimenerd/intellij-profiler-plugin) - IntelliJ plugin to view JFR profiler files and to profile using JFR (1 week ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (1 week ago)
 
 #### 📫 How to reach me
 
