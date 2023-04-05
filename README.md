@@ -42,6 +42,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [fishermans/intellij-plugin-save-actions](https://github.com/fishermans/intellij-plugin-save-actions) - Supports configurable, Eclipse like, save actions, including &#34;organize imports&#34;, &#34;reformat code&#34; and &#34;rearrange code&#34;. (today)
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (today)
 - [apache/ignite](https://github.com/apache/ignite) - Apache Ignite (2 days ago)
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - Open Source Webhooks Gateway; For both incoming &amp; outgoing events.  (5 days ago)
@@ -51,7 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust! (1 week ago)
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (1 week ago)
 - [parttimenerd/firefox-profiler](https://github.com/parttimenerd/firefox-profiler) - Firefox Profiler — Web app for Firefox performance analysis (1 week ago)
-- [parttimenerd/intellij-profiler-plugin](https://github.com/parttimenerd/intellij-profiler-plugin) - IntelliJ plugin to view JFR profiler files and to profile using JFR (1 week ago)
 
 #### 📫 How to reach me
 
