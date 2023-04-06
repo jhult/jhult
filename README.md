@@ -23,9 +23,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.15.1](https://github.com/netbirdio/netbird/releases/tag/v0.15.1), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.3.0](https://github.com/http4k/http4k/releases/tag/4.41.3.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 4 weeks ago) - Fly through your shell history. Great Scott!
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.15.1](https://github.com/netbirdio/netbird/releases/tag/v0.15.1), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.3.0](https://github.com/http4k/http4k/releases/tag/4.41.3.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 1 month ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
 
@@ -42,12 +42,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [fishermans/intellij-plugin-save-actions](https://github.com/fishermans/intellij-plugin-save-actions) - Supports configurable, Eclipse like, save actions, including &#34;organize imports&#34;, &#34;reformat code&#34; and &#34;rearrange code&#34;. (today)
-- [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (today)
-- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite (2 days ago)
-- [frain-dev/convoy](https://github.com/frain-dev/convoy) - Open Source Webhooks Gateway; For both incoming &amp; outgoing events.  (5 days ago)
-- [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language) (6 days ago)
-- [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦 (6 days ago)
+- [fishermans/intellij-plugin-save-actions](https://github.com/fishermans/intellij-plugin-save-actions) - Supports configurable, Eclipse like, save actions, including &#34;organize imports&#34;, &#34;reformat code&#34; and &#34;rearrange code&#34;. (1 day ago)
+- [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (1 day ago)
+- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite (3 days ago)
+- [frain-dev/convoy](https://github.com/frain-dev/convoy) - Open Source Webhooks Gateway; For both incoming &amp; outgoing events.  (6 days ago)
+- [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language) (1 week ago)
+- [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦 (1 week ago)
 - [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler) - Firefox Profiler — Web app for Firefox performance analysis (1 week ago)
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust! (1 week ago)
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (1 week ago)
