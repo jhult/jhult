@@ -42,16 +42,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [rodhilton/jasome](https://github.com/rodhilton/jasome) - JaSoMe (Java Source Metrics) - Object Oriented Metrics analyzer for Java code (today)
+- [cqfn/jpeek](https://github.com/cqfn/jpeek) - Hosted and command-line calculator of cohesion metrics for Java code (today)
+- [mauricioaniche/ck](https://github.com/mauricioaniche/ck) - Code metrics for Java code by means of static analysis (today)
+- [uber/NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead (today)
 - [fishermans/intellij-plugin-save-actions](https://github.com/fishermans/intellij-plugin-save-actions) - Supports configurable, Eclipse like, save actions, including &#34;organize imports&#34;, &#34;reformat code&#34; and &#34;rearrange code&#34;. (3 days ago)
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (3 days ago)
 - [apache/ignite](https://github.com/apache/ignite) - Apache Ignite (5 days ago)
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - Open Source Webhooks Gateway; For both incoming &amp; outgoing events.  (1 week ago)
 - [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language) (1 week ago)
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦 (1 week ago)
-- [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler) - Firefox Profiler — Web app for Firefox performance analysis (1 week ago)
-- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust! (1 week ago)
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (1 week ago)
-- [parttimenerd/firefox-profiler](https://github.com/parttimenerd/firefox-profiler) - Firefox Profiler — Web app for Firefox performance analysis (1 week ago)
 
 #### 📫 How to reach me
 
