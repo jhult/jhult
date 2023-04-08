@@ -42,6 +42,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (today)
 - [cheukyin699/superdiff](https://github.com/cheukyin699/superdiff) - Find duplicate code blocks in files (today)
 - [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt) - A plugin for Kotlin compiler for compile-time reflection (today)
 - [JetBrains-Research/anti-copy-paster](https://github.com/JetBrains-Research/anti-copy-paster) - A plugin for IntelliJ IDEA for extracting code duplicates into a new method as soon as they are introduced. (today)
@@ -51,7 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [mauricioaniche/ck](https://github.com/mauricioaniche/ck) - Code metrics for Java code by means of static analysis (today)
 - [uber/NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead (today)
 - [fishermans/intellij-plugin-save-actions](https://github.com/fishermans/intellij-plugin-save-actions) - Supports configurable, Eclipse like, save actions, including &#34;organize imports&#34;, &#34;reformat code&#34; and &#34;rearrange code&#34;. (3 days ago)
-- [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (3 days ago)
 
 #### 📫 How to reach me
 
