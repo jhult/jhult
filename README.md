@@ -42,6 +42,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler. (today)
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (2 days ago)
 - [cheukyin699/superdiff](https://github.com/cheukyin699/superdiff) - Find duplicate code blocks in files (2 days ago)
 - [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt) - A plugin for Kotlin compiler for compile-time reflection (2 days ago)
@@ -51,7 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [cqfn/jpeek](https://github.com/cqfn/jpeek) - Hosted and command-line calculator of cohesion metrics for Java code (2 days ago)
 - [mauricioaniche/ck](https://github.com/mauricioaniche/ck) - Code metrics for Java code by means of static analysis (2 days ago)
 - [uber/NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead (2 days ago)
-- [fishermans/intellij-plugin-save-actions](https://github.com/fishermans/intellij-plugin-save-actions) - Supports configurable, Eclipse like, save actions, including &#34;organize imports&#34;, &#34;reformat code&#34; and &#34;rearrange code&#34;. (5 days ago)
 
 #### 📫 How to reach me
 
