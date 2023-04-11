@@ -18,13 +18,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (3 months ago)
 - [uptech/engineering](https://github.com/uptech/engineering) - The source for the Uptech Studio Engineering Space (4 months ago)
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (4 months ago)
-- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (5 months ago)
+- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (6 months ago)
 - [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) -  (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.4.0](https://github.com/http4k/http4k/releases/tag/4.41.4.0), today) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.15.2](https://github.com/netbirdio/netbird/releases/tag/v0.15.2), 4 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.4.0](https://github.com/http4k/http4k/releases/tag/4.41.4.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.15.2](https://github.com/netbirdio/netbird/releases/tag/v0.15.2), 5 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 1 month ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
@@ -42,16 +42,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler. (today)
-- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (2 days ago)
-- [cheukyin699/superdiff](https://github.com/cheukyin699/superdiff) - Find duplicate code blocks in files (2 days ago)
-- [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt) - A plugin for Kotlin compiler for compile-time reflection (2 days ago)
-- [JetBrains-Research/anti-copy-paster](https://github.com/JetBrains-Research/anti-copy-paster) - A plugin for IntelliJ IDEA for extracting code duplicates into a new method as soon as they are introduced. (2 days ago)
-- [aaschmid/gradle-cpd-plugin](https://github.com/aaschmid/gradle-cpd-plugin) - Gradle plugin to find duplicate code using PMDs copy/paste detection (= CPD). (2 days ago)
-- [rodhilton/jasome](https://github.com/rodhilton/jasome) - JaSoMe (Java Source Metrics) - Object Oriented Metrics analyzer for Java code (2 days ago)
-- [cqfn/jpeek](https://github.com/cqfn/jpeek) - Hosted and command-line calculator of cohesion metrics for Java code (2 days ago)
-- [mauricioaniche/ck](https://github.com/mauricioaniche/ck) - Code metrics for Java code by means of static analysis (2 days ago)
-- [uber/NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead (2 days ago)
+- [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler. (1 day ago)
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (3 days ago)
+- [cheukyin699/superdiff](https://github.com/cheukyin699/superdiff) - Find duplicate code blocks in files (3 days ago)
+- [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt) - A plugin for Kotlin compiler for compile-time reflection (3 days ago)
+- [JetBrains-Research/anti-copy-paster](https://github.com/JetBrains-Research/anti-copy-paster) - A plugin for IntelliJ IDEA for extracting code duplicates into a new method as soon as they are introduced. (3 days ago)
+- [aaschmid/gradle-cpd-plugin](https://github.com/aaschmid/gradle-cpd-plugin) - Gradle plugin to find duplicate code using PMDs copy/paste detection (= CPD). (3 days ago)
+- [rodhilton/jasome](https://github.com/rodhilton/jasome) - JaSoMe (Java Source Metrics) - Object Oriented Metrics analyzer for Java code (3 days ago)
+- [cqfn/jpeek](https://github.com/cqfn/jpeek) - Hosted and command-line calculator of cohesion metrics for Java code (3 days ago)
+- [mauricioaniche/ck](https://github.com/mauricioaniche/ck) - Code metrics for Java code by means of static analysis (3 days ago)
+- [uber/NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead (3 days ago)
 
 #### 📫 How to reach me
 
