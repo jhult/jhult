@@ -42,6 +42,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [sksamuel/aedile](https://github.com/sksamuel/aedile) - Kotlin Wrapper for Caffeine (today)
 - [apptainer/apptainer](https://github.com/apptainer/apptainer) - Apptainer: Application containers for Linux (1 day ago)
 - [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler. (2 days ago)
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (4 days ago)
@@ -51,7 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [aaschmid/gradle-cpd-plugin](https://github.com/aaschmid/gradle-cpd-plugin) - Gradle plugin to find duplicate code using PMDs copy/paste detection (= CPD). (4 days ago)
 - [rodhilton/jasome](https://github.com/rodhilton/jasome) - JaSoMe (Java Source Metrics) - Object Oriented Metrics analyzer for Java code (4 days ago)
 - [cqfn/jpeek](https://github.com/cqfn/jpeek) - Hosted and command-line calculator of cohesion metrics for Java code (4 days ago)
-- [mauricioaniche/ck](https://github.com/mauricioaniche/ck) - Code metrics for Java code by means of static analysis (4 days ago)
 
 #### 📫 How to reach me
 
