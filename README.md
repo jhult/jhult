@@ -23,8 +23,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.15.3](https://github.com/netbirdio/netbird/releases/tag/v0.15.3), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.4.0](https://github.com/http4k/http4k/releases/tag/4.41.4.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.15.3](https://github.com/netbirdio/netbird/releases/tag/v0.15.3), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.41.4.0](https://github.com/http4k/http4k/releases/tag/4.41.4.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 1 month ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
@@ -42,16 +42,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [sksamuel/aedile](https://github.com/sksamuel/aedile) - Kotlin Wrapper for Caffeine (1 day ago)
-- [apptainer/apptainer](https://github.com/apptainer/apptainer) - Apptainer: Application containers for Linux (2 days ago)
-- [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler. (3 days ago)
-- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (5 days ago)
-- [cheukyin699/superdiff](https://github.com/cheukyin699/superdiff) - Find duplicate code blocks in files (5 days ago)
-- [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt) - A plugin for Kotlin compiler for compile-time reflection (5 days ago)
-- [JetBrains-Research/anti-copy-paster](https://github.com/JetBrains-Research/anti-copy-paster) - A plugin for IntelliJ IDEA for extracting code duplicates into a new method as soon as they are introduced. (5 days ago)
-- [aaschmid/gradle-cpd-plugin](https://github.com/aaschmid/gradle-cpd-plugin) - Gradle plugin to find duplicate code using PMDs copy/paste detection (= CPD). (5 days ago)
-- [rodhilton/jasome](https://github.com/rodhilton/jasome) - JaSoMe (Java Source Metrics) - Object Oriented Metrics analyzer for Java code (5 days ago)
-- [cqfn/jpeek](https://github.com/cqfn/jpeek) - Hosted and command-line calculator of cohesion metrics for Java code (5 days ago)
+- [sksamuel/aedile](https://github.com/sksamuel/aedile) - Kotlin Wrapper for Caffeine (2 days ago)
+- [apptainer/apptainer](https://github.com/apptainer/apptainer) - Apptainer: Application containers for Linux (3 days ago)
+- [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler. (4 days ago)
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (6 days ago)
+- [cheukyin699/superdiff](https://github.com/cheukyin699/superdiff) - Find duplicate code blocks in files (6 days ago)
+- [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt) - A plugin for Kotlin compiler for compile-time reflection (6 days ago)
+- [JetBrains-Research/anti-copy-paster](https://github.com/JetBrains-Research/anti-copy-paster) - A plugin for IntelliJ IDEA for extracting code duplicates into a new method as soon as they are introduced. (6 days ago)
+- [aaschmid/gradle-cpd-plugin](https://github.com/aaschmid/gradle-cpd-plugin) - Gradle plugin to find duplicate code using PMDs copy/paste detection (= CPD). (6 days ago)
+- [rodhilton/jasome](https://github.com/rodhilton/jasome) - JaSoMe (Java Source Metrics) - Object Oriented Metrics analyzer for Java code (6 days ago)
+- [cqfn/jpeek](https://github.com/cqfn/jpeek) - Hosted and command-line calculator of cohesion metrics for Java code (6 days ago)
 
 #### 📫 How to reach me
 
