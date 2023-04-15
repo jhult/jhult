@@ -42,6 +42,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [bersler/OpenLogReplicator](https://github.com/bersler/OpenLogReplicator) - Open Source Oracle database CDC (today)
 - [vippsas/zeroeventhub](https://github.com/vippsas/zeroeventhub) -  (1 day ago)
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS (1 day ago)
 - [sksamuel/aedile](https://github.com/sksamuel/aedile) - Kotlin Wrapper for Caffeine (3 days ago)
@@ -51,7 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [cheukyin699/superdiff](https://github.com/cheukyin699/superdiff) - Find duplicate code blocks in files (1 week ago)
 - [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt) - A plugin for Kotlin compiler for compile-time reflection (1 week ago)
 - [JetBrains-Research/anti-copy-paster](https://github.com/JetBrains-Research/anti-copy-paster) - A plugin for IntelliJ IDEA for extracting code duplicates into a new method as soon as they are introduced. (1 week ago)
-- [aaschmid/gradle-cpd-plugin](https://github.com/aaschmid/gradle-cpd-plugin) - Gradle plugin to find duplicate code using PMDs copy/paste detection (= CPD). (1 week ago)
 
 #### 📫 How to reach me
 
