@@ -42,6 +42,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (today)
 - [bersler/OpenLogReplicator](https://github.com/bersler/OpenLogReplicator) - Open Source Oracle database CDC (1 day ago)
 - [vippsas/zeroeventhub](https://github.com/vippsas/zeroeventhub) -  (2 days ago)
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS (2 days ago)
@@ -51,7 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (1 week ago)
 - [cheukyin699/superdiff](https://github.com/cheukyin699/superdiff) - Find duplicate code blocks in files (1 week ago)
 - [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt) - A plugin for Kotlin compiler for compile-time reflection (1 week ago)
-- [JetBrains-Research/anti-copy-paster](https://github.com/JetBrains-Research/anti-copy-paster) - A plugin for IntelliJ IDEA for extracting code duplicates into a new method as soon as they are introduced. (1 week ago)
 
 #### 📫 How to reach me
 
