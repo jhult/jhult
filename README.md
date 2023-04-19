@@ -23,7 +23,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.16.0](https://github.com/netbirdio/netbird/releases/tag/v0.16.0), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.16.0](https://github.com/netbirdio/netbird/releases/tag/v0.16.0), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [http4k/http4k](https://github.com/http4k/http4k) ([4.41.4.0](https://github.com/http4k/http4k/releases/tag/4.41.4.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 1 month ago) - Fly through your shell history. Great Scott!
 
@@ -42,13 +42,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets. (1 day ago)
-- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached (1 day ago)
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (2 days ago)
-- [bersler/OpenLogReplicator](https://github.com/bersler/OpenLogReplicator) - Open Source Oracle database CDC (3 days ago)
-- [vippsas/zeroeventhub](https://github.com/vippsas/zeroeventhub) -  (4 days ago)
-- [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS (4 days ago)
-- [sksamuel/aedile](https://github.com/sksamuel/aedile) - Kotlin Wrapper for Caffeine (6 days ago)
+- [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets. (2 days ago)
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached (2 days ago)
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (3 days ago)
+- [bersler/OpenLogReplicator](https://github.com/bersler/OpenLogReplicator) - Open Source Oracle database CDC (4 days ago)
+- [vippsas/zeroeventhub](https://github.com/vippsas/zeroeventhub) -  (5 days ago)
+- [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS (5 days ago)
+- [sksamuel/aedile](https://github.com/sksamuel/aedile) - Kotlin Wrapper for Caffeine (1 week ago)
 - [apptainer/apptainer](https://github.com/apptainer/apptainer) - Apptainer: Application containers for Linux (1 week ago)
 - [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler. (1 week ago)
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (1 week ago)
