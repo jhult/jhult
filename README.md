@@ -42,16 +42,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [developeron29/P2JTrans](https://github.com/developeron29/P2JTrans) - A PL/SQL to Java translator to convert PL/SQL code to java using ANTLR v3.3 and StringTemplate. Contributions welcome (today)
+- [utPLSQL/utPLSQL-SQLDeveloper](https://github.com/utPLSQL/utPLSQL-SQLDeveloper) - Extension for running unit tests straight from SQL Developer (today)
+- [barsgroup/plsql-postgresql-converter](https://github.com/barsgroup/plsql-postgresql-converter) - Tool for automated conversion of Oracle PL/SQL procedural code to PostgreSQL PL/pgSQL (today)
+- [mortenbra/alexandria-plsql-utils](https://github.com/mortenbra/alexandria-plsql-utils) - Oracle PL/SQL Utility Library (today)
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets. (5 days ago)
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached (5 days ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (6 days ago)
 - [bersler/OpenLogReplicator](https://github.com/bersler/OpenLogReplicator) - Open Source Oracle database CDC (1 week ago)
 - [vippsas/zeroeventhub](https://github.com/vippsas/zeroeventhub) -  (1 week ago)
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS (1 week ago)
-- [sksamuel/aedile](https://github.com/sksamuel/aedile) - Kotlin Wrapper for Caffeine (1 week ago)
-- [apptainer/apptainer](https://github.com/apptainer/apptainer) - Apptainer: Application containers for Linux (1 week ago)
-- [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler. (1 week ago)
-- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (2 weeks ago)
 
 #### 📫 How to reach me
 
