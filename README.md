@@ -48,7 +48,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [mortenbra/alexandria-plsql-utils](https://github.com/mortenbra/alexandria-plsql-utils) - Oracle PL/SQL Utility Library (3 days ago)
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets. (1 week ago)
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached (1 week ago)
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Opengist is a self-hosted pastebin powered by Git, open-source alternative to Github Gist. (1 week ago)
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (1 week ago)
 - [bersler/OpenLogReplicator](https://github.com/bersler/OpenLogReplicator) - Open Source Oracle database CDC (1 week ago)
 - [vippsas/zeroeventhub](https://github.com/vippsas/zeroeventhub) -  (1 week ago)
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS (1 week ago)
