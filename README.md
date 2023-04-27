@@ -42,6 +42,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [voidburn/cron-expression-descriptor](https://github.com/voidburn/cron-expression-descriptor) - A Java library that converts cron expressions into human readable descriptions (today)
 - [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown. (today)
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas. (today)
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Google-searchable Slack alternative for Communities (today)
@@ -51,7 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [barsgroup/plsql-postgresql-converter](https://github.com/barsgroup/plsql-postgresql-converter) - Tool for automated conversion of Oracle PL/SQL procedural code to PostgreSQL PL/pgSQL (5 days ago)
 - [mortenbra/alexandria-plsql-utils](https://github.com/mortenbra/alexandria-plsql-utils) - Oracle PL/SQL Utility Library (5 days ago)
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets. (1 week ago)
-- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached (1 week ago)
 
 #### 📫 How to reach me
 
