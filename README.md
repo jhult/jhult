@@ -42,6 +42,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [bernaferrari/GradleKotlinConverter](https://github.com/bernaferrari/GradleKotlinConverter) - Convert from Groovy to Kotlin DSL for Gradle, focused on Android. (today)
 - [voidburn/cron-expression-descriptor](https://github.com/voidburn/cron-expression-descriptor) - A Java library that converts cron expressions into human readable descriptions (1 day ago)
 - [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown. (1 day ago)
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas. (1 day ago)
@@ -51,7 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [utPLSQL/utPLSQL-SQLDeveloper](https://github.com/utPLSQL/utPLSQL-SQLDeveloper) - Extension for running unit tests straight from SQL Developer (6 days ago)
 - [barsgroup/plsql-postgresql-converter](https://github.com/barsgroup/plsql-postgresql-converter) - Tool for automated conversion of Oracle PL/SQL procedural code to PostgreSQL PL/pgSQL (6 days ago)
 - [mortenbra/alexandria-plsql-utils](https://github.com/mortenbra/alexandria-plsql-utils) - Oracle PL/SQL Utility Library (6 days ago)
-- [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets. (1 week ago)
 
 #### 📫 How to reach me
 
