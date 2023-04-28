@@ -23,8 +23,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.17.0](https://github.com/netbirdio/netbird/releases/tag/v0.17.0), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.42.1.0](https://github.com/http4k/http4k/releases/tag/4.42.1.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.17.0](https://github.com/netbirdio/netbird/releases/tag/v0.17.0), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.42.1.0](https://github.com/http4k/http4k/releases/tag/4.42.1.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 1 month ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
@@ -42,15 +42,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [voidburn/cron-expression-descriptor](https://github.com/voidburn/cron-expression-descriptor) - A Java library that converts cron expressions into human readable descriptions (today)
-- [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown. (today)
-- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas. (today)
-- [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Google-searchable Slack alternative for Communities (today)
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects. (today)
-- [developeron29/P2JTrans](https://github.com/developeron29/P2JTrans) - A PL/SQL to Java translator to convert PL/SQL code to java using ANTLR v3.3 and StringTemplate. Contributions welcome (5 days ago)
-- [utPLSQL/utPLSQL-SQLDeveloper](https://github.com/utPLSQL/utPLSQL-SQLDeveloper) - Extension for running unit tests straight from SQL Developer (5 days ago)
-- [barsgroup/plsql-postgresql-converter](https://github.com/barsgroup/plsql-postgresql-converter) - Tool for automated conversion of Oracle PL/SQL procedural code to PostgreSQL PL/pgSQL (5 days ago)
-- [mortenbra/alexandria-plsql-utils](https://github.com/mortenbra/alexandria-plsql-utils) - Oracle PL/SQL Utility Library (5 days ago)
+- [voidburn/cron-expression-descriptor](https://github.com/voidburn/cron-expression-descriptor) - A Java library that converts cron expressions into human readable descriptions (1 day ago)
+- [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown. (1 day ago)
+- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas. (1 day ago)
+- [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Google-searchable Slack alternative for Communities (1 day ago)
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 day ago)
+- [developeron29/P2JTrans](https://github.com/developeron29/P2JTrans) - A PL/SQL to Java translator to convert PL/SQL code to java using ANTLR v3.3 and StringTemplate. Contributions welcome (6 days ago)
+- [utPLSQL/utPLSQL-SQLDeveloper](https://github.com/utPLSQL/utPLSQL-SQLDeveloper) - Extension for running unit tests straight from SQL Developer (6 days ago)
+- [barsgroup/plsql-postgresql-converter](https://github.com/barsgroup/plsql-postgresql-converter) - Tool for automated conversion of Oracle PL/SQL procedural code to PostgreSQL PL/pgSQL (6 days ago)
+- [mortenbra/alexandria-plsql-utils](https://github.com/mortenbra/alexandria-plsql-utils) - Oracle PL/SQL Utility Library (6 days ago)
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets. (1 week ago)
 
 #### 📫 How to reach me
