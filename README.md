@@ -42,6 +42,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (today)
+- [pyamsoft/tetherfi](https://github.com/pyamsoft/tetherfi) - TetherFi - Internet sharing without Root (today)
 - [dependency-check/dependency-check-gradle](https://github.com/dependency-check/dependency-check-gradle) - The dependency-check gradle plugin allows projects to monitor dependent libraries for known, published vulnerabilities. (1 day ago)
 - [bernaferrari/GradleKotlinConverter](https://github.com/bernaferrari/GradleKotlinConverter) - Convert from Groovy to Kotlin DSL for Gradle, focused on Android. (1 day ago)
 - [voidburn/cron-expression-descriptor](https://github.com/voidburn/cron-expression-descriptor) - A Java library that converts cron expressions into human readable descriptions (2 days ago)
@@ -50,8 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities (2 days ago)
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects. (2 days ago)
 - [developeron29/P2JTrans](https://github.com/developeron29/P2JTrans) - A PL/SQL to Java translator to convert PL/SQL code to java using ANTLR v3.3 and StringTemplate. Contributions welcome (1 week ago)
-- [utPLSQL/utPLSQL-SQLDeveloper](https://github.com/utPLSQL/utPLSQL-SQLDeveloper) - Extension for running unit tests straight from SQL Developer (1 week ago)
-- [barsgroup/plsql-postgresql-converter](https://github.com/barsgroup/plsql-postgresql-converter) - Tool for automated conversion of Oracle PL/SQL procedural code to PostgreSQL PL/pgSQL (1 week ago)
 
 #### 📫 How to reach me
 
