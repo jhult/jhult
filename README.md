@@ -42,6 +42,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud &amp; Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀 (today)
+- [innobead/kubefire](https://github.com/innobead/kubefire) - KubeFire 🔥, creates and manages Kubernetes Clusters using Firecracker microVMs (today)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (today)
 - [pyamsoft/tetherfi](https://github.com/pyamsoft/tetherfi) - TetherFi - Internet sharing without Root (today)
 - [dependency-check/dependency-check-gradle](https://github.com/dependency-check/dependency-check-gradle) - The dependency-check gradle plugin allows projects to monitor dependent libraries for known, published vulnerabilities. (1 day ago)
@@ -50,8 +52,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown. (2 days ago)
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas. (2 days ago)
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities (2 days ago)
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects. (2 days ago)
-- [developeron29/P2JTrans](https://github.com/developeron29/P2JTrans) - A PL/SQL to Java translator to convert PL/SQL code to java using ANTLR v3.3 and StringTemplate. Contributions welcome (1 week ago)
 
 #### 📫 How to reach me
 
