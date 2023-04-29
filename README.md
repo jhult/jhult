@@ -23,8 +23,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.17.0](https://github.com/netbirdio/netbird/releases/tag/v0.17.0), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.42.1.0](https://github.com/http4k/http4k/releases/tag/4.42.1.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.17.0](https://github.com/netbirdio/netbird/releases/tag/v0.17.0), 3 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.42.1.0](https://github.com/http4k/http4k/releases/tag/4.42.1.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 1 month ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
@@ -42,16 +42,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [dependency-check/dependency-check-gradle](https://github.com/dependency-check/dependency-check-gradle) - The dependency-check gradle plugin allows projects to monitor dependent libraries for known, published vulnerabilities. (today)
-- [bernaferrari/GradleKotlinConverter](https://github.com/bernaferrari/GradleKotlinConverter) - Convert from Groovy to Kotlin DSL for Gradle, focused on Android. (today)
-- [voidburn/cron-expression-descriptor](https://github.com/voidburn/cron-expression-descriptor) - A Java library that converts cron expressions into human readable descriptions (1 day ago)
-- [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown. (1 day ago)
-- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas. (1 day ago)
-- [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities (1 day ago)
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 day ago)
-- [developeron29/P2JTrans](https://github.com/developeron29/P2JTrans) - A PL/SQL to Java translator to convert PL/SQL code to java using ANTLR v3.3 and StringTemplate. Contributions welcome (6 days ago)
-- [utPLSQL/utPLSQL-SQLDeveloper](https://github.com/utPLSQL/utPLSQL-SQLDeveloper) - Extension for running unit tests straight from SQL Developer (6 days ago)
-- [barsgroup/plsql-postgresql-converter](https://github.com/barsgroup/plsql-postgresql-converter) - Tool for automated conversion of Oracle PL/SQL procedural code to PostgreSQL PL/pgSQL (6 days ago)
+- [dependency-check/dependency-check-gradle](https://github.com/dependency-check/dependency-check-gradle) - The dependency-check gradle plugin allows projects to monitor dependent libraries for known, published vulnerabilities. (1 day ago)
+- [bernaferrari/GradleKotlinConverter](https://github.com/bernaferrari/GradleKotlinConverter) - Convert from Groovy to Kotlin DSL for Gradle, focused on Android. (1 day ago)
+- [voidburn/cron-expression-descriptor](https://github.com/voidburn/cron-expression-descriptor) - A Java library that converts cron expressions into human readable descriptions (2 days ago)
+- [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown. (2 days ago)
+- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas. (2 days ago)
+- [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities (2 days ago)
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects. (2 days ago)
+- [developeron29/P2JTrans](https://github.com/developeron29/P2JTrans) - A PL/SQL to Java translator to convert PL/SQL code to java using ANTLR v3.3 and StringTemplate. Contributions welcome (1 week ago)
+- [utPLSQL/utPLSQL-SQLDeveloper](https://github.com/utPLSQL/utPLSQL-SQLDeveloper) - Extension for running unit tests straight from SQL Developer (1 week ago)
+- [barsgroup/plsql-postgresql-converter](https://github.com/barsgroup/plsql-postgresql-converter) - Tool for automated conversion of Oracle PL/SQL procedural code to PostgreSQL PL/pgSQL (1 week ago)
 
 #### 📫 How to reach me
 
