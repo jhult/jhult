@@ -12,6 +12,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
+- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) - Builds Dockerfile using the Docker client (with squashing! and secrets!) (2 days ago)
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (1 month ago)
 - [keephq/keep](https://github.com/keephq/keep) - Open source alerting management for software developers. (2 months ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (3 months ago)
@@ -25,6 +26,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.18.0](https://github.com/netbirdio/netbird/releases/tag/v0.18.0), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [http4k/http4k](https://github.com/http4k/http4k) ([4.42.1.0](https://github.com/http4k/http4k/releases/tag/4.42.1.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.4](https://github.com/openshift/imagebuilder/releases/tag/v1.2.4), 1 month ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 1 month ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
