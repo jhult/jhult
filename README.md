@@ -44,6 +44,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [chaoslabs-bg/icepanel-sequence-diagrams](https://github.com/chaoslabs-bg/icepanel-sequence-diagrams) - Convert IcePanel flows into mermaid diagrams (today)
+- [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ. (today)
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) - Builds Dockerfile using the Docker client (with squashing! and secrets!) (5 days ago)
 - [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud &amp; Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀 (5 days ago)
 - [innobead/kubefire](https://github.com/innobead/kubefire) - KubeFire 🔥, creates and manages Kubernetes Clusters using Firecracker microVMs (5 days ago)
@@ -52,8 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [dependency-check/dependency-check-gradle](https://github.com/dependency-check/dependency-check-gradle) - The dependency-check gradle plugin allows projects to monitor dependent libraries for known, published vulnerabilities. (6 days ago)
 - [bernaferrari/GradleKotlinConverter](https://github.com/bernaferrari/GradleKotlinConverter) - Convert from Groovy to Kotlin DSL for Gradle, focused on Android. (6 days ago)
 - [voidburn/cron-expression-descriptor](https://github.com/voidburn/cron-expression-descriptor) - A Java library that converts cron expressions into human readable descriptions (1 week ago)
-- [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown. (1 week ago)
-- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas. (1 week ago)
 
 #### 📫 How to reach me
 
