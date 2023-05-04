@@ -44,6 +44,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code. (today)
 - [oskardudycz/ArchitectureWeekly](https://github.com/oskardudycz/ArchitectureWeekly) - Architecture Weekly - links and resources to boost your knowledge and developer skills (today)
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams (today)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (today)
@@ -53,7 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud &amp; Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀 (5 days ago)
 - [innobead/kubefire](https://github.com/innobead/kubefire) - KubeFire 🔥, creates and manages Kubernetes Clusters using Firecracker microVMs (5 days ago)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (5 days ago)
-- [pyamsoft/tetherfi](https://github.com/pyamsoft/tetherfi) - TetherFi - Internet sharing without Root (5 days ago)
 
 #### 📫 How to reach me
 
