@@ -44,7 +44,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [nanmu42/tart](https://github.com/nanmu42/tart) - A Toy Gitlab CI Runner backed by Firecracker MicroVM | 基于Firecracker MicroVM的玩具Gitlab CI Runner (today)
+- [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (today)
+- [andorei/atop-plsql](https://github.com/andorei/atop-plsql) - PL/SQL utilities that make it easier to develop routine solutions in Oracle DBMS. (today)
+- [nanmu42/tart](https://github.com/nanmu42/tart) - A toy Gitlab CI Runner backed by Firecracker MicroVM | 基于Firecracker MicroVM的玩具Gitlab CI Runner (today)
 - [sqlitebrowser/dbhub.io](https://github.com/sqlitebrowser/dbhub.io) - A &#34;Cloud&#34; for SQLite databases.  Collaborative development for your data. 😊 (1 day ago)
 - [averemee-si/oracdc](https://github.com/averemee-si/oracdc) - Oracle database CDC (Change Data Capture) (1 day ago)
 - [JoelHz/MySQLWorkbenchPluginToSQLite](https://github.com/JoelHz/MySQLWorkbenchPluginToSQLite) - Plugin in python to convert in MySQLWorkbench from MySQL syntax to SQLite syntax #Python #MySQLWorkbench (3 days ago)
@@ -52,8 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code. (3 days ago)
 - [oskardudycz/ArchitectureWeekly](https://github.com/oskardudycz/ArchitectureWeekly) - Architecture Weekly - links and resources to boost your knowledge and developer skills (3 days ago)
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams (3 days ago)
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (3 days ago)
-- [chaoslabs-bg/icepanel-sequence-diagrams](https://github.com/chaoslabs-bg/icepanel-sequence-diagrams) - Convert IcePanel flows into mermaid diagrams (3 days ago)
 
 #### 📫 How to reach me
 
