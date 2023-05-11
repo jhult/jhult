@@ -19,12 +19,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (4 months ago)
 - [uptech/engineering](https://github.com/uptech/engineering) - The source for the Uptech Studio Engineering Space (5 months ago)
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (5 months ago)
-- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (6 months ago)
+- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (7 months ago)
 - [GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions) -  (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.43.0.0](https://github.com/http4k/http4k/releases/tag/4.43.0.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.43.0.0](https://github.com/http4k/http4k/releases/tag/4.43.0.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.19.0](https://github.com/netbirdio/netbird/releases/tag/v0.19.0), 1 week ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.4](https://github.com/openshift/imagebuilder/releases/tag/v1.2.4), 1 month ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 2 months ago) - Fly through your shell history. Great Scott!
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL cache that enhances the performance and scalability of your DB without any code changes. (1 day ago)
-- [sraoss/pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremental View Maintenance) implementation as a PostgreSQL extension (1 day ago)
-- [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html (2 days ago)
-- [PostHog/posthog-foss](https://github.com/PostHog/posthog-foss) - PostHog FOSS is a read-only mirror of PostHog, with all proprietary code removed. NOTE: This repo is synced automatically from the main PostHog repo. Please raise any issues and PRs there. (2 days ago)
-- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (2 days ago)
-- [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (3 days ago)
-- [andorei/atop-plsql](https://github.com/andorei/atop-plsql) - PL/SQL utilities that make it easier to develop routine solutions in Oracle DBMS. (3 days ago)
-- [nanmu42/tart](https://github.com/nanmu42/tart) - A toy Gitlab CI Runner backed by Firecracker MicroVM | 基于Firecracker MicroVM的玩具Gitlab CI Runner (3 days ago)
-- [sqlitebrowser/dbhub.io](https://github.com/sqlitebrowser/dbhub.io) - A &#34;Cloud&#34; for SQLite databases.  Collaborative development for your data. 😊 (4 days ago)
-- [averemee-si/oracdc](https://github.com/averemee-si/oracdc) - Oracle database CDC (Change Data Capture) (4 days ago)
+- [casbin/jcasbin](https://github.com/casbin/jcasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Java (today)
+- [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL cache that enhances the performance and scalability of your DB without any code changes. (2 days ago)
+- [sraoss/pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremental View Maintenance) implementation as a PostgreSQL extension (2 days ago)
+- [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html (3 days ago)
+- [PostHog/posthog-foss](https://github.com/PostHog/posthog-foss) - PostHog FOSS is a read-only mirror of PostHog, with all proprietary code removed. NOTE: This repo is synced automatically from the main PostHog repo. Please raise any issues and PRs there. (3 days ago)
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (3 days ago)
+- [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (4 days ago)
+- [andorei/atop-plsql](https://github.com/andorei/atop-plsql) - PL/SQL utilities that make it easier to develop routine solutions in Oracle DBMS. (4 days ago)
+- [nanmu42/tart](https://github.com/nanmu42/tart) - A toy Gitlab CI Runner backed by Firecracker MicroVM | 基于Firecracker MicroVM的玩具Gitlab CI Runner (4 days ago)
+- [sqlitebrowser/dbhub.io](https://github.com/sqlitebrowser/dbhub.io) - A &#34;Cloud&#34; for SQLite databases.  Collaborative development for your data. 😊 (5 days ago)
 
 #### 📫 How to reach me
 
