@@ -44,7 +44,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [colinpollock/seinfeld-scripts](https://github.com/colinpollock/seinfeld-scripts) -  (today)
+- [colinpollock/seinfeld-scripts](https://github.com/colinpollock/seinfeld-scripts) - Scripts for parsing Seinfeld scripts (today)
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies. (2 days ago)
 - [casbin/jcasbin](https://github.com/casbin/jcasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Java (2 days ago)
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL cache that enhances the performance and scalability of your DB without any code changes. (4 days ago)
