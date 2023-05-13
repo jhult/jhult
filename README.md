@@ -44,6 +44,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [colinpollock/seinfeld-scripts](https://github.com/colinpollock/seinfeld-scripts) -  (today)
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies. (2 days ago)
 - [casbin/jcasbin](https://github.com/casbin/jcasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Java (2 days ago)
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL cache that enhances the performance and scalability of your DB without any code changes. (4 days ago)
@@ -53,7 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (5 days ago)
 - [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (6 days ago)
 - [andorei/atop-plsql](https://github.com/andorei/atop-plsql) - PL/SQL utilities that make it easier to develop routine solutions in Oracle DBMS. (6 days ago)
-- [nanmu42/tart](https://github.com/nanmu42/tart) - A toy Gitlab CI Runner backed by Firecracker MicroVM | 基于Firecracker MicroVM的玩具Gitlab CI Runner (6 days ago)
 
 #### 📫 How to reach me
 
