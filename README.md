@@ -44,6 +44,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/ (today)
 - [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments (2 days ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (2 days ago)
 - [uberto/kondor-json](https://github.com/uberto/kondor-json) - A library to serialize/deserialize Json fast and safely without reflection or generators (2 days ago)
@@ -53,7 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [henrypp/simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer. (1 week ago)
 - [safing/spn](https://github.com/safing/spn) - Safing Privacy Network (1 week ago)
 - [colinpollock/seinfeld-scripts](https://github.com/colinpollock/seinfeld-scripts) - Scripts for parsing Seinfeld scripts (1 week ago)
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies. (1 week ago)
 
 #### 📫 How to reach me
 
