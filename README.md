@@ -44,6 +44,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [nats-io/k8s](https://github.com/nats-io/k8s) - NATS on Kubernetes with Helm Charts (today)
 - [yahoo/elide](https://github.com/yahoo/elide) - Elide is a Java library that lets you stand up a GraphQL/JSON-API web service with minimal effort. (today)
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/ (2 days ago)
 - [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments (4 days ago)
@@ -53,7 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (1 week ago)
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting (1 week ago)
 - [henrypp/simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer. (1 week ago)
-- [safing/spn](https://github.com/safing/spn) - Safing Privacy Network (1 week ago)
 
 #### 📫 How to reach me
 
