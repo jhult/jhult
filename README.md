@@ -44,6 +44,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [r3nor/mullvad-tailscale](https://github.com/r3nor/mullvad-tailscale) - Use Mullvad VPN along with Tailscale and/or Zerotier (today)
+- [nats-io/nats-box](https://github.com/nats-io/nats-box) - A container with NATS utilities (today)
 - [nats-io/k8s](https://github.com/nats-io/k8s) - NATS on Kubernetes with Helm Charts (today)
 - [yahoo/elide](https://github.com/yahoo/elide) - Elide is a Java library that lets you stand up a GraphQL/JSON-API web service with minimal effort. (today)
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/ (2 days ago)
@@ -52,8 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [uberto/kondor-json](https://github.com/uberto/kondor-json) - A library to serialize/deserialize Json fast and safely without reflection or generators (4 days ago)
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN &#43; Web-based Admin UI. (6 days ago)
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (1 week ago)
-- [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting (1 week ago)
-- [henrypp/simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer. (1 week ago)
 
 #### 📫 How to reach me
 
