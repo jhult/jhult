@@ -44,6 +44,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [microstream-one/microstream](https://github.com/microstream-one/microstream) - High-Performance Java-Native-Persistence. Store and load any Java Object Graph or Subgraphs partially, Relieved of Heavy-weight JPA. Microsecond Response Time. Ultra-High Throughput. Minimum of Latencies. Create Ultra-Fast In-Memory Database Applications &amp; Microservices. (today)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 day ago)
 - [r3nor/mullvad-tailscale](https://github.com/r3nor/mullvad-tailscale) - Use Mullvad VPN along with Tailscale and/or Zerotier (2 days ago)
 - [nats-io/nats-box](https://github.com/nats-io/nats-box) - A container with NATS utilities (2 days ago)
@@ -53,7 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments (6 days ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (6 days ago)
 - [uberto/kondor-json](https://github.com/uberto/kondor-json) - A library to serialize/deserialize Json fast and safely without reflection or generators (6 days ago)
-- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN &#43; Web-based Admin UI. (1 week ago)
 
 #### 📫 How to reach me
 
