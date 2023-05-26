@@ -12,7 +12,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (6 days ago)
+- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (1 week ago)
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) - Builds Dockerfile using the Docker client (with squashing! and secrets!) (3 weeks ago)
 - [keephq/keep](https://github.com/keephq/keep) - Open source alerting management for software developers. (3 months ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (4 months ago)
@@ -24,14 +24,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.20.4](https://github.com/netbirdio/netbird/releases/tag/v0.20.4), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.44.1.0](https://github.com/http4k/http4k/releases/tag/4.44.1.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.20.4](https://github.com/netbirdio/netbird/releases/tag/v0.20.4), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.44.1.0](https://github.com/http4k/http4k/releases/tag/4.44.1.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 1 week ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 2 months ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
 
-- [chore: upgrade Swagger UI version from 4.17.0 to 4.18.3](https://github.com/http4k/http4k/pull/903) on [http4k/http4k](https://github.com/http4k/http4k) (6 days ago)
+- [chore: upgrade Swagger UI version from 4.17.0 to 4.18.3](https://github.com/http4k/http4k/pull/903) on [http4k/http4k](https://github.com/http4k/http4k) (1 week ago)
 - [chore(docs): 2 small updates to README](https://github.com/openshift/imagebuilder/pull/253) on [openshift/imagebuilder](https://github.com/openshift/imagebuilder) (3 weeks ago)
 - [Misc SwaggerUI updates](https://github.com/http4k/http4k/pull/864) on [http4k/http4k](https://github.com/http4k/http4k) (2 months ago)
 - [Docs: What is a Provider - typo/grammar](https://github.com/keephq/keep/pull/44) on [keephq/keep](https://github.com/keephq/keep) (3 months ago)
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [microstream-one/microstream](https://github.com/microstream-one/microstream) - High-Performance Java-Native-Persistence. Store and load any Java Object Graph or Subgraphs partially, Relieved of Heavy-weight JPA. Microsecond Response Time. Ultra-High Throughput. Minimum of Latencies. Create Ultra-Fast In-Memory Database Applications &amp; Microservices. (today)
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 day ago)
-- [r3nor/mullvad-tailscale](https://github.com/r3nor/mullvad-tailscale) - Use Mullvad VPN along with Tailscale and/or Zerotier (2 days ago)
-- [nats-io/nats-box](https://github.com/nats-io/nats-box) - A container with NATS utilities (2 days ago)
-- [nats-io/k8s](https://github.com/nats-io/k8s) - NATS on Kubernetes with Helm Charts (2 days ago)
-- [yahoo/elide](https://github.com/yahoo/elide) - Elide is a Java library that lets you stand up a GraphQL/JSON-API web service with minimal effort. (2 days ago)
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/ (4 days ago)
-- [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments (6 days ago)
-- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (6 days ago)
-- [uberto/kondor-json](https://github.com/uberto/kondor-json) - A library to serialize/deserialize Json fast and safely without reflection or generators (6 days ago)
+- [microstream-one/microstream](https://github.com/microstream-one/microstream) - High-Performance Java-Native-Persistence. Store and load any Java Object Graph or Subgraphs partially, Relieved of Heavy-weight JPA. Microsecond Response Time. Ultra-High Throughput. Minimum of Latencies. Create Ultra-Fast In-Memory Database Applications &amp; Microservices. (1 day ago)
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (2 days ago)
+- [r3nor/mullvad-tailscale](https://github.com/r3nor/mullvad-tailscale) - Use Mullvad VPN along with Tailscale and/or Zerotier (3 days ago)
+- [nats-io/nats-box](https://github.com/nats-io/nats-box) - A container with NATS utilities (3 days ago)
+- [nats-io/k8s](https://github.com/nats-io/k8s) - NATS on Kubernetes with Helm Charts (3 days ago)
+- [yahoo/elide](https://github.com/yahoo/elide) - Elide is a Java library that lets you stand up a GraphQL/JSON-API web service with minimal effort. (3 days ago)
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/ (5 days ago)
+- [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments (1 week ago)
+- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (1 week ago)
+- [uberto/kondor-json](https://github.com/uberto/kondor-json) - A library to serialize/deserialize Json fast and safely without reflection or generators (1 week ago)
 
 #### 📫 How to reach me
 
