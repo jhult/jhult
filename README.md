@@ -44,6 +44,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [zendesk/maxwell](https://github.com/zendesk/maxwell) - Maxwell&#39;s daemon, a mysql-to-json kafka producer (today)
+- [subzerocloud/showcase](https://github.com/subzerocloud/showcase) - REST api for your database (PostgreSQL/Sqlite/ClickHouse/MySQL). (today)
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE. (today)
 - [bharadwajpro/m3u8-player](https://github.com/bharadwajpro/m3u8-player) - M3U8 Player in browser. Play any live stream m3u8 link with this website at https://bharadwajpro.github.io/m3u8-player (today)
 - [tuhinpal/hls-downloader](https://github.com/tuhinpal/hls-downloader) - Download HLS videos directly from your browser (today)
@@ -52,8 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (3 days ago)
 - [r3nor/mullvad-tailscale](https://github.com/r3nor/mullvad-tailscale) - Use Mullvad VPN along with Tailscale and/or Zerotier (4 days ago)
 - [nats-io/nats-box](https://github.com/nats-io/nats-box) - A container with NATS utilities (4 days ago)
-- [nats-io/k8s](https://github.com/nats-io/k8s) - NATS on Kubernetes with Helm Charts (4 days ago)
-- [yahoo/elide](https://github.com/yahoo/elide) - Elide is a Java library that lets you stand up a GraphQL/JSON-API web service with minimal effort. (4 days ago)
 
 #### 📫 How to reach me
 
