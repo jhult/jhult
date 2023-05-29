@@ -44,6 +44,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [liveviews/liveviews](https://github.com/liveviews/liveviews) - Phoenix LiveView workalikes for different languages and frameworks (today)
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story (1 day ago)
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media (2 days ago)
 - [zendesk/maxwell](https://github.com/zendesk/maxwell) - Maxwell&#39;s daemon, a mysql-to-json kafka producer (2 days ago)
@@ -53,7 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [tuhinpal/hls-downloader](https://github.com/tuhinpal/hls-downloader) - Download HLS videos directly from your browser (2 days ago)
 - [yavin-dev/framework](https://github.com/yavin-dev/framework) - A framework for rapidly building production quality analytics applications (2 days ago)
 - [microstream-one/microstream](https://github.com/microstream-one/microstream) - High-Performance Java-Native-Persistence. Store and load any Java Object Graph or Subgraphs partially, Relieved of Heavy-weight JPA. Microsecond Response Time. Ultra-High Throughput. Minimum of Latencies. Create Ultra-Fast In-Memory Database Applications &amp; Microservices. (4 days ago)
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (5 days ago)
 
 #### 📫 How to reach me
 
