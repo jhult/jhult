@@ -44,6 +44,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [reportmill/SnapKit](https://github.com/reportmill/SnapKit) - A Java UI toolkit (today)
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (today)
 - [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX &#43; JSX (1 day ago)
 - [liveviews/liveviews](https://github.com/liveviews/liveviews) - Phoenix LiveView workalikes for different languages and frameworks (2 days ago)
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story (3 days ago)
@@ -52,8 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [subzerocloud/showcase](https://github.com/subzerocloud/showcase) - REST api for your database (PostgreSQL/Sqlite/ClickHouse/MySQL). (4 days ago)
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE. (4 days ago)
 - [bharadwajpro/m3u8-player](https://github.com/bharadwajpro/m3u8-player) - M3U8 Player in browser. Play any live stream m3u8 link with this website at https://bharadwajpro.github.io/m3u8-player (4 days ago)
-- [tuhinpal/hls-downloader](https://github.com/tuhinpal/hls-downloader) - Download HLS videos directly from your browser (4 days ago)
-- [yavin-dev/framework](https://github.com/yavin-dev/framework) - A framework for rapidly building production quality analytics applications (4 days ago)
 
 #### 📫 How to reach me
 
