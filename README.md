@@ -12,7 +12,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (1 week ago)
+- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (2 weeks ago)
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) - Builds Dockerfile using the Docker client (with squashing! and secrets!) (1 month ago)
 - [keephq/keep](https://github.com/keephq/keep) - Open source alerting management for software developers. (3 months ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (4 months ago)
@@ -24,16 +24,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.20.8](https://github.com/netbirdio/netbird/releases/tag/v0.20.8), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.45.0.0](https://github.com/http4k/http4k/releases/tag/4.45.0.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.20.8](https://github.com/netbirdio/netbird/releases/tag/v0.20.8), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.45.0.0](https://github.com/http4k/http4k/releases/tag/4.45.0.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 2 weeks ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.0](https://github.com/cantino/mcfly/releases/tag/v0.8.0), 2 months ago) - Fly through your shell history. Great Scott!
 
 #### 🔨 My recent Pull Requests
 
-- [chore: upgrade Swagger UI version from 4.17.0 to 4.18.3](https://github.com/http4k/http4k/pull/903) on [http4k/http4k](https://github.com/http4k/http4k) (1 week ago)
+- [chore: upgrade Swagger UI version from 4.17.0 to 4.18.3](https://github.com/http4k/http4k/pull/903) on [http4k/http4k](https://github.com/http4k/http4k) (2 weeks ago)
 - [chore(docs): 2 small updates to README](https://github.com/openshift/imagebuilder/pull/253) on [openshift/imagebuilder](https://github.com/openshift/imagebuilder) (1 month ago)
-- [Misc SwaggerUI updates](https://github.com/http4k/http4k/pull/864) on [http4k/http4k](https://github.com/http4k/http4k) (2 months ago)
+- [Misc SwaggerUI updates](https://github.com/http4k/http4k/pull/864) on [http4k/http4k](https://github.com/http4k/http4k) (3 months ago)
 - [Docs: What is a Provider - typo/grammar](https://github.com/keephq/keep/pull/44) on [keephq/keep](https://github.com/keephq/keep) (3 months ago)
 - [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (4 months ago)
 - [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (4 months ago)
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [nats-io/jparse](https://github.com/nats-io/jparse) - Small, Fast, Compliant JSON parser that uses events parsing and index overlay (today)
-- [reportmill/SnapKit](https://github.com/reportmill/SnapKit) - A Java UI toolkit (1 day ago)
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (1 day ago)
-- [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX &#43; JSX (2 days ago)
-- [liveviews/liveviews](https://github.com/liveviews/liveviews) - Phoenix LiveView workalikes for different languages and frameworks (3 days ago)
-- [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story (4 days ago)
-- [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media (5 days ago)
-- [zendesk/maxwell](https://github.com/zendesk/maxwell) - Maxwell&#39;s daemon, a mysql-to-json kafka producer (5 days ago)
-- [subzerocloud/showcase](https://github.com/subzerocloud/showcase) - REST api for your database (PostgreSQL/Sqlite/ClickHouse/MySQL). (5 days ago)
-- [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE. (5 days ago)
+- [nats-io/jparse](https://github.com/nats-io/jparse) - Small, Fast, Compliant JSON parser that uses events parsing and index overlay (1 day ago)
+- [reportmill/SnapKit](https://github.com/reportmill/SnapKit) - A Java UI toolkit (2 days ago)
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (2 days ago)
+- [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX &#43; JSX (3 days ago)
+- [liveviews/liveviews](https://github.com/liveviews/liveviews) - Phoenix LiveView workalikes for different languages and frameworks (4 days ago)
+- [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story (5 days ago)
+- [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media (6 days ago)
+- [zendesk/maxwell](https://github.com/zendesk/maxwell) - Maxwell&#39;s daemon, a mysql-to-json kafka producer (6 days ago)
+- [subzerocloud/showcase](https://github.com/subzerocloud/showcase) - REST api for your database (PostgreSQL/Sqlite/ClickHouse/MySQL). (6 days ago)
+- [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE. (6 days ago)
 
 #### 📫 How to reach me
 
