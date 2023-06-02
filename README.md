@@ -44,6 +44,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [meltano/meltano](https://github.com/meltano/meltano) - Extract &amp; Load with joy — CLI &amp; version control for ELT without limitations. No more black box. Let your creativity flow. (today)
+- [palantir/gradle-consistent-versions](https://github.com/palantir/gradle-consistent-versions) - Compact, constraint-friendly lockfiles for your dependencies (today)
 - [nats-io/jparse](https://github.com/nats-io/jparse) - Small, Fast, Compliant JSON parser that uses events parsing and index overlay (1 day ago)
 - [reportmill/SnapKit](https://github.com/reportmill/SnapKit) - A Java UI toolkit (2 days ago)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (2 days ago)
@@ -52,8 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story (5 days ago)
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media (6 days ago)
 - [zendesk/maxwell](https://github.com/zendesk/maxwell) - Maxwell&#39;s daemon, a mysql-to-json kafka producer (6 days ago)
-- [subzerocloud/showcase](https://github.com/subzerocloud/showcase) - REST api for your database (PostgreSQL/Sqlite/ClickHouse/MySQL). (6 days ago)
-- [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE. (6 days ago)
 
 #### 📫 How to reach me
 
