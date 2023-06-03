@@ -44,6 +44,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Unobtrusive Javascript Framework for server-side applications (today)
 - [bertrandom/vandelayindustries-slack-server](https://github.com/bertrandom/vandelayindustries-slack-server) - Post gifs from Seinfeld to Slack (1 day ago)
 - [meltano/meltano](https://github.com/meltano/meltano) - Extract &amp; Load with joy — CLI &amp; version control for ELT without limitations. No more black box. Let your creativity flow. (1 day ago)
 - [palantir/gradle-consistent-versions](https://github.com/palantir/gradle-consistent-versions) - Compact, constraint-friendly lockfiles for your dependencies (1 day ago)
@@ -53,7 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX &#43; JSX (4 days ago)
 - [liveviews/liveviews](https://github.com/liveviews/liveviews) - Phoenix LiveView workalikes for different languages and frameworks (5 days ago)
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story (6 days ago)
-- [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media (1 week ago)
 
 #### 📫 How to reach me
 
