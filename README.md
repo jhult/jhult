@@ -44,6 +44,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon (today)
 - [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native (today)
 - [unpoly/unpoly](https://github.com/unpoly/unpoly) - Unobtrusive Javascript Framework for server-side applications (1 day ago)
 - [bertrandom/vandelayindustries-slack-server](https://github.com/bertrandom/vandelayindustries-slack-server) - Post gifs from Seinfeld to Slack (2 days ago)
@@ -53,7 +54,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [reportmill/SnapKit](https://github.com/reportmill/SnapKit) - A Java UI toolkit (4 days ago)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (4 days ago)
 - [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX &#43; JSX (5 days ago)
-- [liveviews/liveviews](https://github.com/liveviews/liveviews) - Phoenix LiveView workalikes for different languages and frameworks (6 days ago)
 
 #### 📫 How to reach me
 
