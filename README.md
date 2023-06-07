@@ -12,11 +12,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (2 days ago)
-- [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (2 days ago)
+- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (3 days ago)
+- [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (3 days ago)
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) - Builds Dockerfile using the Docker client (with squashing! and secrets!) (1 month ago)
 - [keephq/keep](https://github.com/keephq/keep) - Open source alerting management for software developers. (3 months ago)
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (4 months ago)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (5 months ago)
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (5 months ago)
 - [uptech/engineering](https://github.com/uptech/engineering) - The source for the Uptech Studio Engineering Space (6 months ago)
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (6 months ago)
@@ -25,36 +25,36 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.47.1.0](https://github.com/http4k/http4k/releases/tag/4.47.1.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.21.0](https://github.com/netbirdio/netbird/releases/tag/v0.21.0), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 3 days ago) - Fly through your shell history. Great Scott!
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.47.1.0](https://github.com/http4k/http4k/releases/tag/4.47.1.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.21.0](https://github.com/netbirdio/netbird/releases/tag/v0.21.0), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 4 days ago) - Fly through your shell history. Great Scott!
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 3 weeks ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 
 #### 🔨 My recent Pull Requests
 
-- [fix!: Status.from](https://github.com/http4k/http4k/pull/920) on [http4k/http4k](https://github.com/http4k/http4k) (1 day ago)
-- [feat: add Status lookup by code](https://github.com/http4k/http4k/pull/918) on [http4k/http4k](https://github.com/http4k/http4k) (3 days ago)
+- [fix!: Status.from](https://github.com/http4k/http4k/pull/920) on [http4k/http4k](https://github.com/http4k/http4k) (2 days ago)
+- [feat: add Status lookup by code](https://github.com/http4k/http4k/pull/918) on [http4k/http4k](https://github.com/http4k/http4k) (4 days ago)
 - [chore: upgrade Swagger UI version from 4.17.0 to 4.18.3](https://github.com/http4k/http4k/pull/903) on [http4k/http4k](https://github.com/http4k/http4k) (2 weeks ago)
 - [chore(docs): 2 small updates to README](https://github.com/openshift/imagebuilder/pull/253) on [openshift/imagebuilder](https://github.com/openshift/imagebuilder) (1 month ago)
 - [Misc SwaggerUI updates](https://github.com/http4k/http4k/pull/864) on [http4k/http4k](https://github.com/http4k/http4k) (3 months ago)
 - [Docs: What is a Provider - typo/grammar](https://github.com/keephq/keep/pull/44) on [keephq/keep](https://github.com/keephq/keep) (3 months ago)
 - [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (4 months ago)
-- [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (4 months ago)
-- [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (4 months ago)
+- [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (5 months ago)
+- [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (5 months ago)
 - [Add MIT license](https://github.com/hailwind/natwg/pull/1) on [hailwind/natwg](https://github.com/hailwind/natwg) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS (1 day ago)
-- [arrow-kt/arrow-meta](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin&#39;s Compiler (1 day ago)
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon (2 days ago)
-- [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native (2 days ago)
-- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Unobtrusive Javascript Framework for server-side applications (3 days ago)
-- [bertrandom/vandelayindustries-slack-server](https://github.com/bertrandom/vandelayindustries-slack-server) - Post gifs from Seinfeld to Slack (4 days ago)
-- [meltano/meltano](https://github.com/meltano/meltano) - Extract &amp; Load with joy — CLI &amp; version control for ELT without limitations. No more black box. Let your creativity flow. (4 days ago)
-- [palantir/gradle-consistent-versions](https://github.com/palantir/gradle-consistent-versions) - Compact, constraint-friendly lockfiles for your dependencies (4 days ago)
-- [nats-io/jparse](https://github.com/nats-io/jparse) - Small, Fast, Compliant JSON parser that uses events parsing and index overlay (5 days ago)
-- [reportmill/SnapKit](https://github.com/reportmill/SnapKit) - A Java UI toolkit (6 days ago)
+- [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS (2 days ago)
+- [arrow-kt/arrow-meta](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin&#39;s Compiler (2 days ago)
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon (3 days ago)
+- [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native (3 days ago)
+- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Unobtrusive Javascript Framework for server-side applications (4 days ago)
+- [bertrandom/vandelayindustries-slack-server](https://github.com/bertrandom/vandelayindustries-slack-server) - Post gifs from Seinfeld to Slack (5 days ago)
+- [meltano/meltano](https://github.com/meltano/meltano) - Extract &amp; Load with joy — CLI &amp; version control for ELT without limitations. No more black box. Let your creativity flow. (5 days ago)
+- [palantir/gradle-consistent-versions](https://github.com/palantir/gradle-consistent-versions) - Compact, constraint-friendly lockfiles for your dependencies (5 days ago)
+- [nats-io/jparse](https://github.com/nats-io/jparse) - Small, Fast, Compliant JSON parser that uses events parsing and index overlay (6 days ago)
+- [reportmill/SnapKit](https://github.com/reportmill/SnapKit) - A Java UI toolkit (1 week ago)
 
 #### 📫 How to reach me
 
