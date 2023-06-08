@@ -12,8 +12,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (3 days ago)
-- [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (3 days ago)
+- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (4 days ago)
+- [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (4 days ago)
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) - Builds Dockerfile using the Docker client (with squashing! and secrets!) (1 month ago)
 - [keephq/keep](https://github.com/keephq/keep) - Open source alerts management platform (3 months ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (5 months ago)
@@ -25,15 +25,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.21.1](https://github.com/netbirdio/netbird/releases/tag/v0.21.1), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([4.47.2.0](https://github.com/http4k/http4k/releases/tag/4.47.2.0), today) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 4 days ago) - Fly through your shell history. Great Scott!
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.21.1](https://github.com/netbirdio/netbird/releases/tag/v0.21.1), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([4.47.2.0](https://github.com/http4k/http4k/releases/tag/4.47.2.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 5 days ago) - Fly through your shell history. Great Scott!
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 3 weeks ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 
 #### 🔨 My recent Pull Requests
 
-- [fix!: Status.from](https://github.com/http4k/http4k/pull/920) on [http4k/http4k](https://github.com/http4k/http4k) (2 days ago)
-- [feat: add Status lookup by code](https://github.com/http4k/http4k/pull/918) on [http4k/http4k](https://github.com/http4k/http4k) (4 days ago)
+- [fix!: Status.from](https://github.com/http4k/http4k/pull/920) on [http4k/http4k](https://github.com/http4k/http4k) (3 days ago)
+- [feat: add Status lookup by code](https://github.com/http4k/http4k/pull/918) on [http4k/http4k](https://github.com/http4k/http4k) (5 days ago)
 - [chore: upgrade Swagger UI version from 4.17.0 to 4.18.3](https://github.com/http4k/http4k/pull/903) on [http4k/http4k](https://github.com/http4k/http4k) (2 weeks ago)
 - [chore(docs): 2 small updates to README](https://github.com/openshift/imagebuilder/pull/253) on [openshift/imagebuilder](https://github.com/openshift/imagebuilder) (1 month ago)
 - [Misc SwaggerUI updates](https://github.com/http4k/http4k/pull/864) on [http4k/http4k](https://github.com/http4k/http4k) (3 months ago)
@@ -45,15 +45,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS (2 days ago)
-- [arrow-kt/arrow-meta](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin&#39;s Compiler (2 days ago)
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon (3 days ago)
-- [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native (3 days ago)
-- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Unobtrusive Javascript Framework for server-side applications (4 days ago)
-- [bertrandom/vandelayindustries-slack-server](https://github.com/bertrandom/vandelayindustries-slack-server) - Post gifs from Seinfeld to Slack (5 days ago)
-- [meltano/meltano](https://github.com/meltano/meltano) - Extract &amp; Load with joy — CLI &amp; version control for ELT without limitations. No more black box. Let your creativity flow. (5 days ago)
-- [palantir/gradle-consistent-versions](https://github.com/palantir/gradle-consistent-versions) - Compact, constraint-friendly lockfiles for your dependencies (5 days ago)
-- [nats-io/jparse](https://github.com/nats-io/jparse) - Small, Fast, Compliant JSON parser that uses events parsing and index overlay (6 days ago)
+- [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS (3 days ago)
+- [arrow-kt/arrow-meta](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin&#39;s Compiler (3 days ago)
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon (4 days ago)
+- [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native (4 days ago)
+- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Unobtrusive Javascript Framework for server-side applications (5 days ago)
+- [bertrandom/vandelayindustries-slack-server](https://github.com/bertrandom/vandelayindustries-slack-server) - Post gifs from Seinfeld to Slack (6 days ago)
+- [meltano/meltano](https://github.com/meltano/meltano) - Extract &amp; Load with joy — CLI &amp; version control for ELT without limitations. No more black box. Let your creativity flow. (6 days ago)
+- [palantir/gradle-consistent-versions](https://github.com/palantir/gradle-consistent-versions) - Compact, constraint-friendly lockfiles for your dependencies (6 days ago)
+- [nats-io/jparse](https://github.com/nats-io/jparse) - Small, Fast, Compliant JSON parser that uses events parsing and index overlay (1 week ago)
 - [reportmill/SnapKit](https://github.com/reportmill/SnapKit) - A Java UI toolkit (1 week ago)
 
 #### 📫 How to reach me
