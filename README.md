@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform (today)
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (today)
 - [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS (3 days ago)
 - [arrow-kt/arrow-meta](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin&#39;s Compiler (3 days ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [bertrandom/vandelayindustries-slack-server](https://github.com/bertrandom/vandelayindustries-slack-server) - Post gifs from Seinfeld to Slack (6 days ago)
 - [meltano/meltano](https://github.com/meltano/meltano) - Extract &amp; Load with joy — CLI &amp; version control for ELT without limitations. No more black box. Let your creativity flow. (6 days ago)
 - [palantir/gradle-consistent-versions](https://github.com/palantir/gradle-consistent-versions) - Compact, constraint-friendly lockfiles for your dependencies (6 days ago)
-- [nats-io/jparse](https://github.com/nats-io/jparse) - Small, Fast, Compliant JSON parser that uses events parsing and index overlay (1 week ago)
 
 #### 📫 How to reach me
 
