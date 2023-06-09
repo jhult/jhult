@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts (today)
 - [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems (today)
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy (today)
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more. (1 day ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS (4 days ago)
 - [arrow-kt/arrow-meta](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin&#39;s Compiler (4 days ago)
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon (5 days ago)
-- [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native (5 days ago)
 
 #### 📫 How to reach me
 
