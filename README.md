@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement. (today)
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A &#34;Notion-style&#34; block-based extensible text editor built on top of Prosemirror and Tiptap. (1 day ago)
 - [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes (2 days ago)
 - [plynx-team/plynx](https://github.com/plynx-team/plynx) - PLynx is a domain agnostic platform for managing reproducible experiments and data-oriented workflows. (2 days ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems (1 week ago)
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy (1 week ago)
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more. (1 week ago)
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships. (1 week ago)
 
 #### 📫 How to reach me
 
