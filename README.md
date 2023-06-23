@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.1.1.1](https://github.com/http4k/http4k/releases/tag/5.1.1.1), today) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.21.6](https://github.com/netbirdio/netbird/releases/tag/v0.21.6), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.1.1.1](https://github.com/http4k/http4k/releases/tag/5.1.1.1), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.21.6](https://github.com/netbirdio/netbird/releases/tag/v0.21.6), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 2 weeks ago) - Fly through your shell history. Great Scott!
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 1 month ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 
@@ -45,15 +45,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement. (4 days ago)
-- [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A &#34;Notion-style&#34; block-based extensible text editor built on top of Prosemirror and Tiptap. (5 days ago)
-- [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes (6 days ago)
-- [plynx-team/plynx](https://github.com/plynx-team/plynx) - PLynx is a domain agnostic platform for managing reproducible experiments and data-oriented workflows. (6 days ago)
+- [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement. (5 days ago)
+- [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A &#34;Notion-style&#34; block-based extensible text editor built on top of Prosemirror and Tiptap. (6 days ago)
+- [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes (1 week ago)
+- [plynx-team/plynx](https://github.com/plynx-team/plynx) - PLynx is a domain agnostic platform for managing reproducible experiments and data-oriented workflows. (1 week ago)
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines (1 week ago)
 - [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of &#39;fdupes&#39;. (1 week ago)
-- [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts (1 week ago)
-- [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems (1 week ago)
-- [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy (1 week ago)
+- [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts (2 weeks ago)
+- [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems (2 weeks ago)
+- [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy (2 weeks ago)
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more. (2 weeks ago)
 
 #### 📫 How to reach me
