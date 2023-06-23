@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [frankiechapson/Call-Chains](https://github.com/frankiechapson/Call-Chains) - Oracle PL/SQL solutions to find table INSERT or UPDATE commands and their call trees (today)
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement. (5 days ago)
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A &#34;Notion-style&#34; block-based extensible text editor built on top of Prosemirror and Tiptap. (6 days ago)
 - [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes (1 week ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts (2 weeks ago)
 - [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems (2 weeks ago)
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy (2 weeks ago)
-- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more. (2 weeks ago)
 
 #### 📫 How to reach me
 
