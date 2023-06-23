@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [czar82/LazyJdbc](https://github.com/czar82/LazyJdbc) - A tool to easily call pl/sql function from Java using a jdbc connection (today)
 - [frankiechapson/Call-Chains](https://github.com/frankiechapson/Call-Chains) - Oracle PL/SQL solutions to find table INSERT or UPDATE commands and their call trees (today)
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement. (5 days ago)
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A &#34;Notion-style&#34; block-based extensible text editor built on top of Prosemirror and Tiptap. (6 days ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of &#39;fdupes&#39;. (1 week ago)
 - [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts (2 weeks ago)
 - [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems (2 weeks ago)
-- [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy (2 weeks ago)
 
 #### 📫 How to reach me
 
