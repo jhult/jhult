@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/ (today)
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) - List of known problematic browser extensions (1 day ago)
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers (1 day ago)
 - [picosh/pico](https://github.com/picosh/pico) - pico services - prose.sh, lists.sh, pastes.sh, imgs.sh, feeds.sh (1 day ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [supabase/gotrue](https://github.com/supabase/gotrue) - A JWT based API for managing users and issuing JWT tokens (3 days ago)
 - [czar82/LazyJdbc](https://github.com/czar82/LazyJdbc) - A tool to easily call pl/sql function from Java using a jdbc connection (3 days ago)
 - [frankiechapson/Call-Chains](https://github.com/frankiechapson/Call-Chains) - Oracle PL/SQL solutions to find table INSERT or UPDATE commands and their call trees (3 days ago)
-- [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement. (1 week ago)
 
 #### 📫 How to reach me
 
