@@ -25,14 +25,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.1.2.0](https://github.com/http4k/http4k/releases/tag/5.1.2.0), today) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.21.7](https://github.com/netbirdio/netbird/releases/tag/v0.21.7), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.1.2.0](https://github.com/http4k/http4k/releases/tag/5.1.2.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.21.7](https://github.com/netbirdio/netbird/releases/tag/v0.21.7), 3 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 3 weeks ago) - Fly through your shell history. Great Scott!
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 1 month ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 
 #### 🔨 My recent Pull Requests
 
-- [fix!: Status.from](https://github.com/http4k/http4k/pull/920) on [http4k/http4k](https://github.com/http4k/http4k) (2 weeks ago)
+- [fix!: Status.from](https://github.com/http4k/http4k/pull/920) on [http4k/http4k](https://github.com/http4k/http4k) (3 weeks ago)
 - [feat: add Status lookup by code](https://github.com/http4k/http4k/pull/918) on [http4k/http4k](https://github.com/http4k/http4k) (3 weeks ago)
 - [chore: upgrade Swagger UI version from 4.17.0 to 4.18.3](https://github.com/http4k/http4k/pull/903) on [http4k/http4k](https://github.com/http4k/http4k) (1 month ago)
 - [chore(docs): 2 small updates to README](https://github.com/openshift/imagebuilder/pull/253) on [openshift/imagebuilder](https://github.com/openshift/imagebuilder) (1 month ago)
@@ -45,15 +45,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) - List of known problematic browser extensions (today)
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers (today)
-- [picosh/pico](https://github.com/picosh/pico) - pico services - prose.sh, lists.sh, pastes.sh, imgs.sh, feeds.sh (today)
-- [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown - Free and Open Source Markdown Diary. Public Blogs and Private Notes. (today)
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind. (1 day ago)
-- [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets (1 day ago)
-- [supabase/gotrue](https://github.com/supabase/gotrue) - A JWT based API for managing users and issuing JWT tokens (2 days ago)
-- [czar82/LazyJdbc](https://github.com/czar82/LazyJdbc) - A tool to easily call pl/sql function from Java using a jdbc connection (2 days ago)
-- [frankiechapson/Call-Chains](https://github.com/frankiechapson/Call-Chains) - Oracle PL/SQL solutions to find table INSERT or UPDATE commands and their call trees (2 days ago)
+- [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) - List of known problematic browser extensions (1 day ago)
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers (1 day ago)
+- [picosh/pico](https://github.com/picosh/pico) - pico services - prose.sh, lists.sh, pastes.sh, imgs.sh, feeds.sh (1 day ago)
+- [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown - Free and Open Source Markdown Diary. Public Blogs and Private Notes. (1 day ago)
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind. (2 days ago)
+- [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets (2 days ago)
+- [supabase/gotrue](https://github.com/supabase/gotrue) - A JWT based API for managing users and issuing JWT tokens (3 days ago)
+- [czar82/LazyJdbc](https://github.com/czar82/LazyJdbc) - A tool to easily call pl/sql function from Java using a jdbc connection (3 days ago)
+- [frankiechapson/Call-Chains](https://github.com/frankiechapson/Call-Chains) - Oracle PL/SQL solutions to find table INSERT or UPDATE commands and their call trees (3 days ago)
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement. (1 week ago)
 
 #### 📫 How to reach me
