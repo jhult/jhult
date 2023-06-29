@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.2.0.0](https://github.com/http4k/http4k/releases/tag/5.2.0.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.21.7](https://github.com/netbirdio/netbird/releases/tag/v0.21.7), 5 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.2.0.0](https://github.com/http4k/http4k/releases/tag/5.2.0.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.21.7](https://github.com/netbirdio/netbird/releases/tag/v0.21.7), 6 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 3 weeks ago) - Fly through your shell history. Great Scott!
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 1 month ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [4350pChris/slack-vuesualizer](https://github.com/4350pChris/slack-vuesualizer) - Display your Slack export and search through messages! (today)
-- [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig (today)
-- [httptoolkit/browser-launcher](https://github.com/httptoolkit/browser-launcher) - Detect the browser versions available on your system, and launch them in an isolated profile for automation &amp; testing purposes. (1 day ago)
-- [komapper/komapper-examples](https://github.com/komapper/komapper-examples) -  (2 days ago)
-- [palant/chrome-extension-manifests-dataset](https://github.com/palant/chrome-extension-manifests-dataset) - Collection of manifest files for 10k Chrome extensions (2 days ago)
-- [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/ (2 days ago)
-- [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) - List of known problematic browser extensions (3 days ago)
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers (3 days ago)
-- [picosh/pico](https://github.com/picosh/pico) - pico services - prose.sh, lists.sh, pastes.sh, imgs.sh, feeds.sh (3 days ago)
-- [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown - Free and Open Source Markdown Diary. Public Blogs and Private Notes. (3 days ago)
+- [4350pChris/slack-vuesualizer](https://github.com/4350pChris/slack-vuesualizer) - Display your Slack export and search through messages! (1 day ago)
+- [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig (1 day ago)
+- [httptoolkit/browser-launcher](https://github.com/httptoolkit/browser-launcher) - Detect the browser versions available on your system, and launch them in an isolated profile for automation &amp; testing purposes. (2 days ago)
+- [komapper/komapper-examples](https://github.com/komapper/komapper-examples) -  (3 days ago)
+- [palant/chrome-extension-manifests-dataset](https://github.com/palant/chrome-extension-manifests-dataset) - Collection of manifest files for 10k Chrome extensions (3 days ago)
+- [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/ (3 days ago)
+- [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) - List of known problematic browser extensions (4 days ago)
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers (4 days ago)
+- [picosh/pico](https://github.com/picosh/pico) - pico services - prose.sh, lists.sh, pastes.sh, imgs.sh, feeds.sh (4 days ago)
+- [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown - Free and Open Source Markdown Diary. Public Blogs and Private Notes. (4 days ago)
 
 #### 📫 How to reach me
 
