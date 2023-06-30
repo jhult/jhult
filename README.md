@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [MrBukLau/filter-lists](https://github.com/MrBukLau/filter-lists) - Additional Filters for AdGuard on iOS and uBlock Origin on Google Chrome (today)
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (1 day ago)
 - [4350pChris/slack-vuesualizer](https://github.com/4350pChris/slack-vuesualizer) - Display your Slack export and search through messages! (2 days ago)
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig (2 days ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/ (4 days ago)
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) - List of known problematic browser extensions (5 days ago)
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers (5 days ago)
-- [picosh/pico](https://github.com/picosh/pico) - pico services - prose.sh, lists.sh, pastes.sh, imgs.sh, feeds.sh (5 days ago)
 
 #### 📫 How to reach me
 
