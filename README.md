@@ -45,6 +45,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests (today)
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification. (today)
 - [othiagosouto/bom-plugin](https://github.com/othiagosouto/bom-plugin) -  (today)
 - [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (1 day ago)
 - [spiffe/spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project (1 day ago)
@@ -53,8 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [4350pChris/slack-vuesualizer](https://github.com/4350pChris/slack-vuesualizer) - Display your Slack export and search through messages! (4 days ago)
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig (4 days ago)
 - [httptoolkit/browser-launcher](https://github.com/httptoolkit/browser-launcher) - Detect the browser versions available on your system, and launch them in an isolated profile for automation &amp; testing purposes. (5 days ago)
-- [komapper/komapper-examples](https://github.com/komapper/komapper-examples) -  (6 days ago)
-- [palant/chrome-extension-manifests-dataset](https://github.com/palant/chrome-extension-manifests-dataset) - Collection of manifest files for 10k Chrome extensions (6 days ago)
 
 #### 📫 How to reach me
 
