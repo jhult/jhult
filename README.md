@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [carlosbaraza/lostdock](https://github.com/carlosbaraza/lostdock) - CLI tool to manage an affordable VPS server and deploy multiple applications powered by `docker compose`. Other orchestration software solutions are too complex for the underserved small startup. Get started in 2 minutes. (today)
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities. (today)
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests (1 day ago)
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification. (1 day ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [MrBukLau/filter-lists](https://github.com/MrBukLau/filter-lists) - Additional Filters for AdGuard on iOS and uBlock Origin on Google Chrome (3 days ago)
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (4 days ago)
 - [4350pChris/slack-vuesualizer](https://github.com/4350pChris/slack-vuesualizer) - Display your Slack export and search through messages! (5 days ago)
-- [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig (5 days ago)
 
 #### 📫 How to reach me
 
