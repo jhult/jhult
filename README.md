@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/ (today)
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube (today)
 - [yewtudotbe/invidious-custom](https://github.com/yewtudotbe/invidious-custom) - Invidious with some git patches (mostly from existing PRs) (today)
 - [carlosbaraza/lostdock](https://github.com/carlosbaraza/lostdock) - CLI tool to manage an affordable VPS server and deploy multiple applications powered by `docker compose`. Other orchestration software solutions are too complex for the underserved small startup. Get started in 2 minutes. (2 days ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [othiagosouto/bom-plugin](https://github.com/othiagosouto/bom-plugin) -  (3 days ago)
 - [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (4 days ago)
 - [spiffe/spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project (4 days ago)
-- [MrBukLau/filter-lists](https://github.com/MrBukLau/filter-lists) - Additional Filters for AdGuard on iOS and uBlock Origin on Google Chrome (5 days ago)
 
 #### 📫 How to reach me
 
