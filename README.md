@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [znsio/specmatic](https://github.com/znsio/specmatic) - Turn your contracts into executable specifications. Contract Driven Development - Collaboratively Design &amp; Independently Deploy MicroServices &amp; MicroFrontends. (today)
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/ (1 day ago)
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube (1 day ago)
 - [yewtudotbe/invidious-custom](https://github.com/yewtudotbe/invidious-custom) - Invidious with some git patches (mostly from existing PRs) (1 day ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification. (4 days ago)
 - [othiagosouto/bom-plugin](https://github.com/othiagosouto/bom-plugin) -  (4 days ago)
 - [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (5 days ago)
-- [spiffe/spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project (5 days ago)
 
 #### 📫 How to reach me
 
