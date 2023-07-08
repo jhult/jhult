@@ -45,6 +45,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [thayakawa-gh/SlackLogViewer](https://github.com/thayakawa-gh/SlackLogViewer) - A viewer for json files exported from Slack workspaces. (today)
+- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. (today)
+- [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo. (today)
 - [znsio/specmatic](https://github.com/znsio/specmatic) - Turn your contracts into executable specifications. Contract Driven Development - Collaboratively Design &amp; Independently Deploy MicroServices &amp; MicroFrontends. (2 days ago)
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/ (3 days ago)
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube (3 days ago)
@@ -52,9 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [carlosbaraza/lostdock](https://github.com/carlosbaraza/lostdock) - CLI tool to manage an affordable VPS server and deploy multiple applications powered by `docker compose`. Other orchestration software solutions are too complex for the underserved small startup. Get started in 2 minutes. (5 days ago)
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities. (5 days ago)
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests (6 days ago)
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification. (6 days ago)
-- [othiagosouto/bom-plugin](https://github.com/othiagosouto/bom-plugin) -  (6 days ago)
-- [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (1 week ago)
 
 #### 📫 How to reach me
 
