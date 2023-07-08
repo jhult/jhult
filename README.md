@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [znsio/specmatic](https://github.com/znsio/specmatic) - Turn your contracts into executable specifications. Contract Driven Development - Collaboratively Design &amp; Independently Deploy MicroServices &amp; MicroFrontends. (1 day ago)
-- [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/ (2 days ago)
-- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube (2 days ago)
-- [yewtudotbe/invidious-custom](https://github.com/yewtudotbe/invidious-custom) - Invidious with some git patches (mostly from existing PRs) (2 days ago)
-- [carlosbaraza/lostdock](https://github.com/carlosbaraza/lostdock) - CLI tool to manage an affordable VPS server and deploy multiple applications powered by `docker compose`. Other orchestration software solutions are too complex for the underserved small startup. Get started in 2 minutes. (4 days ago)
-- [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities. (4 days ago)
-- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests (5 days ago)
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification. (5 days ago)
-- [othiagosouto/bom-plugin](https://github.com/othiagosouto/bom-plugin) -  (5 days ago)
-- [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (6 days ago)
+- [znsio/specmatic](https://github.com/znsio/specmatic) - Turn your contracts into executable specifications. Contract Driven Development - Collaboratively Design &amp; Independently Deploy MicroServices &amp; MicroFrontends. (2 days ago)
+- [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/ (3 days ago)
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube (3 days ago)
+- [yewtudotbe/invidious-custom](https://github.com/yewtudotbe/invidious-custom) - Invidious with some git patches (mostly from existing PRs) (3 days ago)
+- [carlosbaraza/lostdock](https://github.com/carlosbaraza/lostdock) - CLI tool to manage an affordable VPS server and deploy multiple applications powered by `docker compose`. Other orchestration software solutions are too complex for the underserved small startup. Get started in 2 minutes. (5 days ago)
+- [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities. (5 days ago)
+- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests (6 days ago)
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification. (6 days ago)
+- [othiagosouto/bom-plugin](https://github.com/othiagosouto/bom-plugin) -  (6 days ago)
+- [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (1 week ago)
 
 #### 📫 How to reach me
 
