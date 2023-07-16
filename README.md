@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [snaplet/copycat](https://github.com/snaplet/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output. (today)
 - [qwazer/scheme2ddl](https://github.com/qwazer/scheme2ddl) -  Command line util for export oracle schema to set of ddl scripts (today)
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases (today)
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier (today)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions. (today)
 - [UffizziCloud/uffizzi](https://github.com/UffizziCloud/uffizzi) - Ephemeral Environments for fast, scalable test infrastructure. Now supporting virtual Kubernetes clusters and Docker Compose cloud environments. (today)
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts. (today)
-- [gofabian/vertx-web-mount](https://github.com/gofabian/vertx-web-mount) - Mount your Vert.x web routes with JAX-RS annotations (3 days ago)
 
 #### 📫 How to reach me
 
