@@ -25,8 +25,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.21.10](https://github.com/netbirdio/netbird/releases/tag/v0.21.10), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.4.0.0](https://github.com/http4k/http4k/releases/tag/5.4.0.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.21.10](https://github.com/netbirdio/netbird/releases/tag/v0.21.10), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.4.0.0](https://github.com/http4k/http4k/releases/tag/5.4.0.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 1 month ago) - Fly through your shell history. Great Scott!
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 2 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [mcarleio/konvert](https://github.com/mcarleio/konvert) - This kotlin compiler plugin is using KSP API and generates kotlin code to map one class to another (today)
-- [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible. (2 days ago)
-- [snaplet/copycat](https://github.com/snaplet/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output. (6 days ago)
-- [qwazer/scheme2ddl](https://github.com/qwazer/scheme2ddl) -  Command line util for export oracle schema to set of ddl scripts (6 days ago)
-- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases (6 days ago)
-- [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier (6 days ago)
-- [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager (6 days ago)
-- [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface. (6 days ago)
-- [bytebase/plsql-parser](https://github.com/bytebase/plsql-parser) - The parser for Oracle 11g/12c PL/SQL. It is based on the [ANTLR4](https://github.com/antlr/antlr4) and use the grammar from [antlr4-grammars-plsql](https://github.com/antlr/grammars-v4/tree/master/sql/plsql). (6 days ago)
-- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions. (6 days ago)
+- [mcarleio/konvert](https://github.com/mcarleio/konvert) - This kotlin compiler plugin is using KSP API and generates kotlin code to map one class to another (1 day ago)
+- [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible. (3 days ago)
+- [snaplet/copycat](https://github.com/snaplet/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output. (1 week ago)
+- [qwazer/scheme2ddl](https://github.com/qwazer/scheme2ddl) -  Command line util for export oracle schema to set of ddl scripts (1 week ago)
+- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases (1 week ago)
+- [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier (1 week ago)
+- [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager (1 week ago)
+- [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface. (1 week ago)
+- [bytebase/plsql-parser](https://github.com/bytebase/plsql-parser) - The parser for Oracle 11g/12c PL/SQL. It is based on the [ANTLR4](https://github.com/antlr/antlr4) and use the grammar from [antlr4-grammars-plsql](https://github.com/antlr/grammars-v4/tree/master/sql/plsql). (1 week ago)
+- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions. (1 week ago)
 
 #### 📫 How to reach me
 
