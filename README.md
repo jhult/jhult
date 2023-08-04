@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit (today)
 - [USNavalResearchLaboratory/norm](https://github.com/USNavalResearchLaboratory/norm) - NACK-Oriented Reliable Multicast (NORM) implementation &amp; tools (RFCs 5740, 5401) (3 days ago)
 - [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport (3 days ago)
 - [AxonFramework/extension-kafka](https://github.com/AxonFramework/extension-kafka) - Axon Framework extension for Kafka integration to publish and handle Event messages. (1 week ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [mcarleio/konvert](https://github.com/mcarleio/konvert) - This kotlin compiler plugin is using KSP API and generates kotlin code to map one class to another (1 week ago)
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible. (2 weeks ago)
 - [snaplet/copycat](https://github.com/snaplet/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output. (2 weeks ago)
-- [qwazer/scheme2ddl](https://github.com/qwazer/scheme2ddl) -  Command line util for export oracle schema to set of ddl scripts (2 weeks ago)
 
 #### 📫 How to reach me
 
