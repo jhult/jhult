@@ -45,6 +45,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool (today)
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit (1 day ago)
 - [USNavalResearchLaboratory/norm](https://github.com/USNavalResearchLaboratory/norm) - NACK-Oriented Reliable Multicast (NORM) implementation &amp; tools (RFCs 5740, 5401) (4 days ago)
 - [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport (4 days ago)
@@ -54,7 +55,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (1 week ago)
 - [mcarleio/konvert](https://github.com/mcarleio/konvert) - This kotlin compiler plugin is using KSP API and generates kotlin code to map one class to another (2 weeks ago)
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible. (2 weeks ago)
-- [snaplet/copycat](https://github.com/snaplet/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output. (2 weeks ago)
 
 #### 📫 How to reach me
 
