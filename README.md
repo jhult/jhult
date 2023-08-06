@@ -32,6 +32,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [Make print output clearer](https://github.com/palant/malicious-extensions-list/pull/2) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (today)
+- [feat: add Brave Browser](https://github.com/palant/malicious-extensions-list/pull/1) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (today)
 - [chore(docs): update Excalidraw README.md](https://github.com/ddd-crew/bounded-context-canvas/pull/47) on [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) (3 weeks ago)
 - [fix!: Status.from](https://github.com/http4k/http4k/pull/920) on [http4k/http4k](https://github.com/http4k/http4k) (2 months ago)
 - [feat: add Status lookup by code](https://github.com/http4k/http4k/pull/918) on [http4k/http4k](https://github.com/http4k/http4k) (2 months ago)
@@ -40,8 +42,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Misc SwaggerUI updates](https://github.com/http4k/http4k/pull/864) on [http4k/http4k](https://github.com/http4k/http4k) (5 months ago)
 - [Docs: What is a Provider - typo/grammar](https://github.com/keephq/keep/pull/44) on [keephq/keep](https://github.com/keephq/keep) (5 months ago)
 - [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (6 months ago)
-- [Fix typo - &#34;netforwad&#34; -&gt; &#34;netforward&#34;](https://github.com/netbirdio/netbird/pull/647) on [netbirdio/netbird](https://github.com/netbirdio/netbird) (7 months ago)
-- [Add MIT license](https://github.com/heh-wiki/NAT_hole_punching/pull/3) on [heh-wiki/NAT_hole_punching](https://github.com/heh-wiki/NAT_hole_punching) (7 months ago)
 
 #### ⭐ Recent Stars
 
