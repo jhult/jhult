@@ -25,16 +25,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.22.4](https://github.com/netbirdio/netbird/releases/tag/v0.22.4), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.6.3.0](https://github.com/http4k/http4k/releases/tag/5.6.3.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 1 month ago) - List of known problematic browser extensions
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.22.4](https://github.com/netbirdio/netbird/releases/tag/v0.22.4), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.6.3.0](https://github.com/http4k/http4k/releases/tag/5.6.3.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 2 months ago) - List of known problematic browser extensions
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 2 months ago) - Fly through your shell history. Great Scott!
-- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 2 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
+- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 3 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 
 #### 🔨 My recent Pull Requests
 
-- [Make print output clearer](https://github.com/palant/malicious-extensions-list/pull/2) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (6 days ago)
-- [feat: add Brave Browser](https://github.com/palant/malicious-extensions-list/pull/1) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (6 days ago)
+- [Make print output clearer](https://github.com/palant/malicious-extensions-list/pull/2) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (1 week ago)
+- [feat: add Brave Browser](https://github.com/palant/malicious-extensions-list/pull/1) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (1 week ago)
 - [chore(docs): update Excalidraw README.md](https://github.com/ddd-crew/bounded-context-canvas/pull/47) on [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) (1 month ago)
 - [fix!: Status.from](https://github.com/http4k/http4k/pull/920) on [http4k/http4k](https://github.com/http4k/http4k) (2 months ago)
 - [feat: add Status lookup by code](https://github.com/http4k/http4k/pull/918) on [http4k/http4k](https://github.com/http4k/http4k) (2 months ago)
@@ -46,8 +46,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (2 days ago)
-- [activej/activej](https://github.com/activej/activej) - ActiveJ is an alternative Java platform built from the ground up. ActiveJ redefines core, web and high-load programming in Java, providing simplicity, maximum performance and scalability (5 days ago)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (3 days ago)
+- [activej/activej](https://github.com/activej/activej) - ActiveJ is an alternative Java platform built from the ground up. ActiveJ redefines core, web and high-load programming in Java, providing simplicity, maximum performance and scalability (6 days ago)
 - [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool (1 week ago)
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit (1 week ago)
 - [USNavalResearchLaboratory/norm](https://github.com/USNavalResearchLaboratory/norm) - NACK-Oriented Reliable Multicast (NORM) implementation &amp; tools (RFCs 5740, 5401) (1 week ago)
