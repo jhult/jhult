@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.6.5.0](https://github.com/http4k/http4k/releases/tag/5.6.5.0), today) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.22.4](https://github.com/netbirdio/netbird/releases/tag/v0.22.4), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.6.5.0](https://github.com/http4k/http4k/releases/tag/5.6.5.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.22.4](https://github.com/netbirdio/netbird/releases/tag/v0.22.4), 3 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 2 months ago) - List of known problematic browser extensions
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 2 months ago) - Fly through your shell history. Great Scott!
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 3 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
@@ -43,18 +43,18 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [chore: upgrade Swagger UI version from 4.17.0 to 4.18.3](https://github.com/http4k/http4k/pull/903) on [http4k/http4k](https://github.com/http4k/http4k) (2 months ago)
 - [chore(docs): 2 small updates to README](https://github.com/openshift/imagebuilder/pull/253) on [openshift/imagebuilder](https://github.com/openshift/imagebuilder) (3 months ago)
 - [Misc SwaggerUI updates](https://github.com/http4k/http4k/pull/864) on [http4k/http4k](https://github.com/http4k/http4k) (5 months ago)
-- [Docs: What is a Provider - typo/grammar](https://github.com/keephq/keep/pull/44) on [keephq/keep](https://github.com/keephq/keep) (5 months ago)
+- [Docs: What is a Provider - typo/grammar](https://github.com/keephq/keep/pull/44) on [keephq/keep](https://github.com/keephq/keep) (6 months ago)
 - [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (today)
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (4 days ago)
+- [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (1 day ago)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (5 days ago)
 - [activej/activej](https://github.com/activej/activej) - ActiveJ is an alternative Java platform built from the ground up. ActiveJ redefines core, web and high-load programming in Java, providing simplicity, maximum performance and scalability (1 week ago)
 - [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool (1 week ago)
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit (1 week ago)
-- [USNavalResearchLaboratory/norm](https://github.com/USNavalResearchLaboratory/norm) - NACK-Oriented Reliable Multicast (NORM) implementation &amp; tools (RFCs 5740, 5401) (1 week ago)
-- [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport (1 week ago)
+- [USNavalResearchLaboratory/norm](https://github.com/USNavalResearchLaboratory/norm) - NACK-Oriented Reliable Multicast (NORM) implementation &amp; tools (RFCs 5740, 5401) (2 weeks ago)
+- [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport (2 weeks ago)
 - [AxonFramework/extension-kafka](https://github.com/AxonFramework/extension-kafka) - Axon Framework extension for Kafka integration to publish and handle Event messages. (2 weeks ago)
 - [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) - Framework for Evolutionary Message-Driven Microservices on the JVM (2 weeks ago)
 - [nats-io/natscli](https://github.com/nats-io/natscli) - The NATS Command Line Interface (2 weeks ago)
