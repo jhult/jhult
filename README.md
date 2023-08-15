@@ -48,6 +48,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [batect/batect](https://github.com/batect/batect) - Build And Testing Environments as Code Tool (today)
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (1 day ago)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (5 days ago)
 - [activej/activej](https://github.com/activej/activej) - ActiveJ is an alternative Java platform built from the ground up. ActiveJ redefines core, web and high-load programming in Java, providing simplicity, maximum performance and scalability (1 week ago)
@@ -57,7 +58,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport (2 weeks ago)
 - [AxonFramework/extension-kafka](https://github.com/AxonFramework/extension-kafka) - Axon Framework extension for Kafka integration to publish and handle Event messages. (2 weeks ago)
 - [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) - Framework for Evolutionary Message-Driven Microservices on the JVM (2 weeks ago)
-- [nats-io/natscli](https://github.com/nats-io/natscli) - The NATS Command Line Interface (2 weeks ago)
 
 #### 📫 How to reach me
 
