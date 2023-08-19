@@ -35,6 +35,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [fix: typo for TracerBullet URL in README](https://github.com/http4k/http4k/pull/966) on [http4k/http4k](https://github.com/http4k/http4k) (today)
 - [Make print output clearer](https://github.com/palant/malicious-extensions-list/pull/2) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (1 week ago)
 - [feat: add Brave Browser](https://github.com/palant/malicious-extensions-list/pull/1) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (1 week ago)
 - [chore(docs): update Excalidraw README.md](https://github.com/ddd-crew/bounded-context-canvas/pull/47) on [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) (1 month ago)
@@ -44,7 +45,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [chore(docs): 2 small updates to README](https://github.com/openshift/imagebuilder/pull/253) on [openshift/imagebuilder](https://github.com/openshift/imagebuilder) (3 months ago)
 - [Misc SwaggerUI updates](https://github.com/http4k/http4k/pull/864) on [http4k/http4k](https://github.com/http4k/http4k) (5 months ago)
 - [Docs: What is a Provider - typo/grammar](https://github.com/keephq/keep/pull/44) on [keephq/keep](https://github.com/keephq/keep) (6 months ago)
-- [Fix brew install command](https://github.com/amebalabs/Esse/pull/18) on [amebalabs/Esse](https://github.com/amebalabs/Esse) (7 months ago)
 
 #### ⭐ Recent Stars
 
