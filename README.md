@@ -48,6 +48,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game (today)
 - [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation (2 days ago)
 - [jmstoolbox/jmstoolbox](https://github.com/jmstoolbox/jmstoolbox) - Free universal JMS client (3 days ago)
 - [batect/batect](https://github.com/batect/batect) - Build And Testing Environments as Code Tool (4 days ago)
@@ -57,7 +58,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool (2 weeks ago)
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit (2 weeks ago)
 - [USNavalResearchLaboratory/norm](https://github.com/USNavalResearchLaboratory/norm) - NACK-Oriented Reliable Multicast (NORM) implementation &amp; tools (RFCs 5740, 5401) (2 weeks ago)
-- [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport (2 weeks ago)
 
 #### 📫 How to reach me
 
