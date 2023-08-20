@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (today)
+- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (1 day ago)
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) - List of known problematic browser extensions (2 weeks ago)
 - [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts (1 month ago)
 - [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (2 months ago)
@@ -22,23 +22,23 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [keephq/keep](https://github.com/keephq/keep) - Open source alerts management platform (6 months ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (7 months ago)
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (7 months ago)
-- [uptech/engineering](https://github.com/uptech/engineering) - The source for the Uptech Studio Engineering Space (8 months ago)
+- [uptech/engineering](https://github.com/uptech/engineering) - The source for the Uptech Studio Engineering Space (9 months ago)
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.7.1.0](https://github.com/http4k/http4k/releases/tag/5.7.1.0), today) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.22.6](https://github.com/netbirdio/netbird/releases/tag/v0.22.6), 3 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.7.1.0](https://github.com/http4k/http4k/releases/tag/5.7.1.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.22.6](https://github.com/netbirdio/netbird/releases/tag/v0.22.6), 4 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 2 months ago) - List of known problematic browser extensions
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 2 months ago) - Fly through your shell history. Great Scott!
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 3 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 
 #### 🔨 My recent Pull Requests
 
-- [fix: typo in README - &#34;SLFJ4J&#34; -&gt; &#34;SLF4J&#34;](https://github.com/jboss-logging/slf4j-jboss-logging/pull/38) on [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) (today)
-- [fix: typo for TracerBullet URL in README](https://github.com/http4k/http4k/pull/966) on [http4k/http4k](https://github.com/http4k/http4k) (today)
-- [Make print output clearer](https://github.com/palant/malicious-extensions-list/pull/2) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (1 week ago)
-- [feat: add Brave Browser](https://github.com/palant/malicious-extensions-list/pull/1) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (1 week ago)
+- [fix: typo in README - &#34;SLFJ4J&#34; -&gt; &#34;SLF4J&#34;](https://github.com/jboss-logging/slf4j-jboss-logging/pull/38) on [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) (1 day ago)
+- [fix: typo for TracerBullet URL in README](https://github.com/http4k/http4k/pull/966) on [http4k/http4k](https://github.com/http4k/http4k) (1 day ago)
+- [Make print output clearer](https://github.com/palant/malicious-extensions-list/pull/2) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (2 weeks ago)
+- [feat: add Brave Browser](https://github.com/palant/malicious-extensions-list/pull/1) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (2 weeks ago)
 - [chore(docs): update Excalidraw README.md](https://github.com/ddd-crew/bounded-context-canvas/pull/47) on [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) (1 month ago)
 - [fix!: Status.from](https://github.com/http4k/http4k/pull/920) on [http4k/http4k](https://github.com/http4k/http4k) (2 months ago)
 - [feat: add Status lookup by code](https://github.com/http4k/http4k/pull/918) on [http4k/http4k](https://github.com/http4k/http4k) (2 months ago)
@@ -48,11 +48,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game (today)
-- [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation (2 days ago)
-- [jmstoolbox/jmstoolbox](https://github.com/jmstoolbox/jmstoolbox) - Free universal JMS client (3 days ago)
-- [batect/batect](https://github.com/batect/batect) - Build And Testing Environments as Code Tool (4 days ago)
-- [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (5 days ago)
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game (1 day ago)
+- [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation (3 days ago)
+- [jmstoolbox/jmstoolbox](https://github.com/jmstoolbox/jmstoolbox) - Free universal JMS client (4 days ago)
+- [batect/batect](https://github.com/batect/batect) - Build And Testing Environments as Code Tool (5 days ago)
+- [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (6 days ago)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (1 week ago)
 - [activej/activej](https://github.com/activej/activej) - ActiveJ is an alternative Java platform built from the ground up. ActiveJ redefines core, web and high-load programming in Java, providing simplicity, maximum performance and scalability (1 week ago)
 - [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool (2 weeks ago)
