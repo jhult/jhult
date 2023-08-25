@@ -49,6 +49,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer (today)
 - [oracle/graalpython](https://github.com/oracle/graalpython) - A Python 3 implementation built on GraalVM (5 days ago)
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game (6 days ago)
 - [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation (1 week ago)
@@ -58,7 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (2 weeks ago)
 - [activej/activej](https://github.com/activej/activej) - ActiveJ is an alternative Java platform built from the ground up. ActiveJ redefines core, web and high-load programming in Java, providing simplicity, maximum performance and scalability (2 weeks ago)
 - [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool (2 weeks ago)
-- [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit (3 weeks ago)
 
 #### 📫 How to reach me
 
