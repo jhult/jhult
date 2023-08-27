@@ -49,6 +49,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir (today)
+- [inngest/inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure. (today)
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer (2 days ago)
 - [oracle/graalpython](https://github.com/oracle/graalpython) - A Python 3 implementation built on GraalVM (1 week ago)
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game (1 week ago)
@@ -57,8 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [batect/batect](https://github.com/batect/batect) - Build And Testing Environments as Code Tool (1 week ago)
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... (1 week ago)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (2 weeks ago)
-- [activej/activej](https://github.com/activej/activej) - ActiveJ is an alternative Java platform built from the ground up. ActiveJ redefines core, web and high-load programming in Java, providing simplicity, maximum performance and scalability (2 weeks ago)
-- [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool (3 weeks ago)
 
 #### 📫 How to reach me
 
