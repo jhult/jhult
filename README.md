@@ -49,6 +49,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [macos-fuse-t/fuse-t](https://github.com/macos-fuse-t/fuse-t) -  (today)
+- [stillmatic/flagsheet](https://github.com/stillmatic/flagsheet) - Serve feature flags from Google Sheets (today)
 - [JetBrains/ideolog](https://github.com/JetBrains/ideolog) - Interactive viewer for &#39;.log&#39; files. (1 day ago)
 - [AykutSarac/jsoncrack-vscode](https://github.com/AykutSarac/jsoncrack-vscode) - VS Code extension of JSON Crack. Convert your JSON files into graphs with a single click and view them onto graphs. (1 day ago)
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. (2 days ago)
@@ -57,8 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [anthonycorletti/hotbox](https://github.com/anthonycorletti/hotbox) - 🚀 Run your code 📦 on Firecracker MicroVMs 🔥 in the cloud ☁️ (6 days ago)
 - [cneira/firecracker-task-driver](https://github.com/cneira/firecracker-task-driver) - nomad task driver that uses firecracker to start micro-vms (6 days ago)
 - [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd. (6 days ago)
-- [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities (1 week ago)
-- [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images (1 week ago)
 
 #### 📫 How to reach me
 
