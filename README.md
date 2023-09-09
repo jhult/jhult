@@ -49,6 +49,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification (today)
+- [openzipkin/brave](https://github.com/openzipkin/brave) - Java distributed tracing implementation compatible with Zipkin backend services. (today)
 - [Moosemorals/ManageSieveJ](https://github.com/Moosemorals/ManageSieveJ) - Manage Sieve protocol client library (in Java) (today)
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages. (today)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (2 days ago)
@@ -57,8 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [stillmatic/flagsheet](https://github.com/stillmatic/flagsheet) - Serve feature flags from Google Sheets (3 days ago)
 - [JetBrains/ideolog](https://github.com/JetBrains/ideolog) - Interactive viewer for &#39;.log&#39; files. (4 days ago)
 - [AykutSarac/jsoncrack-vscode](https://github.com/AykutSarac/jsoncrack-vscode) - VS Code extension of JSON Crack. Convert your JSON files into graphs with a single click and view them onto graphs. (4 days ago)
-- [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. (5 days ago)
-- [luajit-remake/luajit-remake](https://github.com/luajit-remake/luajit-remake) - An ongoing attempt to re-engineer LuaJIT from scratch (6 days ago)
 
 #### 📫 How to reach me
 
