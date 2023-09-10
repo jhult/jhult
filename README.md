@@ -49,6 +49,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [marivera/Soundflower](https://github.com/marivera/Soundflower) - Soundflower is a MacOS system extension that allows applications to pass audio to other applications. Soundflower is easy to use, it simply presents itself as an audio device, allowing any audio application to send and receive audio with no other support needed. (today)
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification (1 day ago)
 - [openzipkin/brave](https://github.com/openzipkin/brave) - Java distributed tracing implementation compatible with Zipkin backend services. (1 day ago)
 - [Moosemorals/ManageSieveJ](https://github.com/Moosemorals/ManageSieveJ) - Manage Sieve protocol client library (in Java) (1 day ago)
@@ -58,7 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [macos-fuse-t/fuse-t](https://github.com/macos-fuse-t/fuse-t) -  (4 days ago)
 - [stillmatic/flagsheet](https://github.com/stillmatic/flagsheet) - Serve feature flags from Google Sheets (4 days ago)
 - [JetBrains/ideolog](https://github.com/JetBrains/ideolog) - Interactive viewer for &#39;.log&#39; files. (5 days ago)
-- [AykutSarac/jsoncrack-vscode](https://github.com/AykutSarac/jsoncrack-vscode) - VS Code extension of JSON Crack. Convert your JSON files into graphs with a single click and view them onto graphs. (5 days ago)
 
 #### 📫 How to reach me
 
