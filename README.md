@@ -27,11 +27,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.1](https://github.com/netbirdio/netbird/releases/tag/v0.23.1), 3 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.8.0.0](https://github.com/http4k/http4k/releases/tag/5.8.0.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 2 months ago) - List of known problematic browser extensions
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.1](https://github.com/netbirdio/netbird/releases/tag/v0.23.1), 4 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.8.0.0](https://github.com/http4k/http4k/releases/tag/5.8.0.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 3 months ago) - List of known problematic browser extensions
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 3 months ago) - Fly through your shell history. Great Scott!
-- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 3 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
+- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 4 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 - [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) ([1.2.1.Final](https://github.com/jboss-logging/slf4j-jboss-logging/releases/tag/1.2.1.Final), 3 years ago) - SLF4J (1.7.x) Backend for JBoss Logging
 
 #### 🔨 My recent Pull Requests
@@ -49,16 +49,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [apache/incubator-paimon](https://github.com/apache/incubator-paimon) - Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics. (today)
-- [marivera/Soundflower](https://github.com/marivera/Soundflower) - Soundflower is a MacOS system extension that allows applications to pass audio to other applications. Soundflower is easy to use, it simply presents itself as an audio device, allowing any audio application to send and receive audio with no other support needed. (1 day ago)
-- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification (2 days ago)
-- [openzipkin/brave](https://github.com/openzipkin/brave) - Java distributed tracing implementation compatible with Zipkin backend services. (2 days ago)
-- [Moosemorals/ManageSieveJ](https://github.com/Moosemorals/ManageSieveJ) - Manage Sieve protocol client library (in Java) (2 days ago)
-- [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages. (2 days ago)
-- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (4 days ago)
-- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (4 days ago)
-- [macos-fuse-t/fuse-t](https://github.com/macos-fuse-t/fuse-t) -  (5 days ago)
-- [stillmatic/flagsheet](https://github.com/stillmatic/flagsheet) - Serve feature flags from Google Sheets (5 days ago)
+- [apache/incubator-paimon](https://github.com/apache/incubator-paimon) - Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics. (1 day ago)
+- [marivera/Soundflower](https://github.com/marivera/Soundflower) - Soundflower is a MacOS system extension that allows applications to pass audio to other applications. Soundflower is easy to use, it simply presents itself as an audio device, allowing any audio application to send and receive audio with no other support needed. (2 days ago)
+- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification (3 days ago)
+- [openzipkin/brave](https://github.com/openzipkin/brave) - Java distributed tracing implementation compatible with Zipkin backend services. (3 days ago)
+- [Moosemorals/ManageSieveJ](https://github.com/Moosemorals/ManageSieveJ) - Manage Sieve protocol client library (in Java) (3 days ago)
+- [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages. (3 days ago)
+- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (5 days ago)
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (5 days ago)
+- [macos-fuse-t/fuse-t](https://github.com/macos-fuse-t/fuse-t) -  (6 days ago)
+- [stillmatic/flagsheet](https://github.com/stillmatic/flagsheet) - Serve feature flags from Google Sheets (6 days ago)
 
 #### 📫 How to reach me
 
