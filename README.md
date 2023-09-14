@@ -49,6 +49,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web (today)
 - [apache/incubator-paimon](https://github.com/apache/incubator-paimon) - Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics. (3 days ago)
 - [marivera/Soundflower](https://github.com/marivera/Soundflower) - Soundflower is a MacOS system extension that allows applications to pass audio to other applications. Soundflower is easy to use, it simply presents itself as an audio device, allowing any audio application to send and receive audio with no other support needed. (4 days ago)
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification (5 days ago)
@@ -58,7 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (1 week ago)
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (1 week ago)
 - [macos-fuse-t/fuse-t](https://github.com/macos-fuse-t/fuse-t) -  (1 week ago)
-- [stillmatic/flagsheet](https://github.com/stillmatic/flagsheet) - Serve feature flags from Google Sheets (1 week ago)
 
 #### 📫 How to reach me
 
