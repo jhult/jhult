@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.1](https://github.com/netbirdio/netbird/releases/tag/v0.23.1), 6 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.1](https://github.com/netbirdio/netbird/releases/tag/v0.23.1), 1 week ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.8.0.0](https://github.com/http4k/http4k/releases/tag/5.8.0.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 3 months ago) - List of known problematic browser extensions
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 3 months ago) - Fly through your shell history. Great Scott!
@@ -49,13 +49,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web (today)
-- [apache/incubator-paimon](https://github.com/apache/incubator-paimon) - Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics. (3 days ago)
-- [marivera/Soundflower](https://github.com/marivera/Soundflower) - Soundflower is a MacOS system extension that allows applications to pass audio to other applications. Soundflower is easy to use, it simply presents itself as an audio device, allowing any audio application to send and receive audio with no other support needed. (4 days ago)
-- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification (5 days ago)
-- [openzipkin/brave](https://github.com/openzipkin/brave) - Java distributed tracing implementation compatible with Zipkin backend services. (5 days ago)
-- [Moosemorals/ManageSieveJ](https://github.com/Moosemorals/ManageSieveJ) - Manage Sieve protocol client library (in Java) (5 days ago)
-- [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages. (5 days ago)
+- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web (1 day ago)
+- [apache/incubator-paimon](https://github.com/apache/incubator-paimon) - Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics. (4 days ago)
+- [marivera/Soundflower](https://github.com/marivera/Soundflower) - Soundflower is a MacOS system extension that allows applications to pass audio to other applications. Soundflower is easy to use, it simply presents itself as an audio device, allowing any audio application to send and receive audio with no other support needed. (5 days ago)
+- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification (6 days ago)
+- [openzipkin/brave](https://github.com/openzipkin/brave) - Java distributed tracing implementation compatible with Zipkin backend services. (6 days ago)
+- [Moosemorals/ManageSieveJ](https://github.com/Moosemorals/ManageSieveJ) - Manage Sieve protocol client library (in Java) (6 days ago)
+- [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages. (6 days ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (1 week ago)
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (1 week ago)
 - [macos-fuse-t/fuse-t](https://github.com/macos-fuse-t/fuse-t) -  (1 week ago)
