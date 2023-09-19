@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.2](https://github.com/netbirdio/netbird/releases/tag/v0.23.2), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.8.1.0](https://github.com/http4k/http4k/releases/tag/5.8.1.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.1](https://github.com/netbirdio/netbird/releases/tag/v0.23.1), 1 week ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 3 months ago) - List of known problematic browser extensions
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 3 months ago) - Fly through your shell history. Great Scott!
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 4 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
