@@ -49,6 +49,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - Planning optimization made easy. The open source AI solver. (today)
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (1 day ago)
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework (1 day ago)
 - [siavash79/AOSPMods](https://github.com/siavash79/AOSPMods) - mixed Xposed&#43;Magisk module for customization of AOSP-based Android 12&#43; (1 day ago)
@@ -58,7 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [apache/calcite-avatica](https://github.com/apache/calcite-avatica) - Apache Calcite Avatica (2 days ago)
 - [diennea/herddb](https://github.com/diennea/herddb) - A JVM-embeddable Distributed Database (2 days ago)
 - [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - A big collection of useful questions to ask potential employers. (3 days ago)
-- [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython&#39;s Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before. (3 days ago)
 
 #### 📫 How to reach me
 
