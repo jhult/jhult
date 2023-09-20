@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.2](https://github.com/netbirdio/netbird/releases/tag/v0.23.2), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.8.1.0](https://github.com/http4k/http4k/releases/tag/5.8.1.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.2](https://github.com/netbirdio/netbird/releases/tag/v0.23.2), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.8.1.0](https://github.com/http4k/http4k/releases/tag/5.8.1.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 3 months ago) - List of known problematic browser extensions
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 3 months ago) - Fly through your shell history. Great Scott!
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 4 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
@@ -49,16 +49,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - Planning optimization made easy. The open source AI solver. (today)
-- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (1 day ago)
-- [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework (1 day ago)
-- [siavash79/AOSPMods](https://github.com/siavash79/AOSPMods) - mixed Xposed&#43;Magisk module for customization of AOSP-based Android 12&#43; (1 day ago)
-- [Androidacy/MagiskModuleManager](https://github.com/Androidacy/MagiskModuleManager) - Previously known as Fox&#39;s Magisk Module Manager (FoxMMM), this app helps users find, install &#34;Magisk Modules&#34; - powerful little zips/apps for your device that plug into the Magisk framework. (1 day ago)
-- [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features. (2 days ago)
-- [apache/calcite](https://github.com/apache/calcite) - Apache Calcite (2 days ago)
-- [apache/calcite-avatica](https://github.com/apache/calcite-avatica) - Apache Calcite Avatica (2 days ago)
-- [diennea/herddb](https://github.com/diennea/herddb) - A JVM-embeddable Distributed Database (2 days ago)
-- [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - A big collection of useful questions to ask potential employers. (3 days ago)
+- [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - Planning optimization made easy. The open source AI solver. (1 day ago)
+- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (2 days ago)
+- [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework (2 days ago)
+- [siavash79/AOSPMods](https://github.com/siavash79/AOSPMods) - mixed Xposed&#43;Magisk module for customization of AOSP-based Android 12&#43; (2 days ago)
+- [Androidacy/MagiskModuleManager](https://github.com/Androidacy/MagiskModuleManager) - Previously known as Fox&#39;s Magisk Module Manager (FoxMMM), this app helps users find, install &#34;Magisk Modules&#34; - powerful little zips/apps for your device that plug into the Magisk framework. (2 days ago)
+- [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features. (3 days ago)
+- [apache/calcite](https://github.com/apache/calcite) - Apache Calcite (3 days ago)
+- [apache/calcite-avatica](https://github.com/apache/calcite-avatica) - Apache Calcite Avatica (3 days ago)
+- [diennea/herddb](https://github.com/diennea/herddb) - A JVM-embeddable Distributed Database (3 days ago)
+- [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - A big collection of useful questions to ask potential employers. (4 days ago)
 
 #### 📫 How to reach me
 
