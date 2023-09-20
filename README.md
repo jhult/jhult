@@ -49,6 +49,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [haskell-oracle/oracle-simple](https://github.com/haskell-oracle/oracle-simple) - Modern bindings to Oracle odpic (today)
 - [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - Planning optimization made easy. The open source AI solver. (1 day ago)
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (2 days ago)
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework (2 days ago)
@@ -58,7 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [apache/calcite](https://github.com/apache/calcite) - Apache Calcite (3 days ago)
 - [apache/calcite-avatica](https://github.com/apache/calcite-avatica) - Apache Calcite Avatica (3 days ago)
 - [diennea/herddb](https://github.com/diennea/herddb) - A JVM-embeddable Distributed Database (3 days ago)
-- [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - A big collection of useful questions to ask potential employers. (4 days ago)
 
 #### 📫 How to reach me
 
