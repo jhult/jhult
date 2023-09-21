@@ -51,7 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (today)
 - [haskell-oracle/oracle-simple](https://github.com/haskell-oracle/oracle-simple) - Modern bindings to Oracle odpic (1 day ago)
-- [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - Planning optimization made easy. The open source AI solver. (2 days ago)
+- [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - Planning optimization made easy. The open source AI solver. The continuation of OptaPlanner by the OptaPlanner team.. (2 days ago)
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (3 days ago)
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework (3 days ago)
 - [siavash79/AOSPMods](https://github.com/siavash79/AOSPMods) - mixed Xposed&#43;Magisk module for customization of AOSP-based Android 12&#43; (3 days ago)
