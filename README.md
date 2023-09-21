@@ -49,6 +49,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [robertaboukhalil/jqkungfu](https://github.com/robertaboukhalil/jqkungfu) - A jq playground, written in WebAssembly (today)
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (today)
 - [haskell-oracle/oracle-simple](https://github.com/haskell-oracle/oracle-simple) - Modern bindings to Oracle odpic (1 day ago)
 - [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - Planning optimization made easy. The open source AI solver. The continuation of OptaPlanner by the OptaPlanner team.. (2 days ago)
@@ -58,7 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Androidacy/MagiskModuleManager](https://github.com/Androidacy/MagiskModuleManager) - Previously known as Fox&#39;s Magisk Module Manager (FoxMMM), this app helps users find, install &#34;Magisk Modules&#34; - powerful little zips/apps for your device that plug into the Magisk framework. (3 days ago)
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features. (4 days ago)
 - [apache/calcite](https://github.com/apache/calcite) - Apache Calcite (4 days ago)
-- [apache/calcite-avatica](https://github.com/apache/calcite-avatica) - Apache Calcite Avatica (4 days ago)
 
 #### 📫 How to reach me
 
