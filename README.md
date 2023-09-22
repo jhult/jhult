@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.2](https://github.com/netbirdio/netbird/releases/tag/v0.23.2), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.8.1.0](https://github.com/http4k/http4k/releases/tag/5.8.1.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.2](https://github.com/netbirdio/netbird/releases/tag/v0.23.2), 3 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.8.1.0](https://github.com/http4k/http4k/releases/tag/5.8.1.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 3 months ago) - List of known problematic browser extensions
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 3 months ago) - Fly through your shell history. Great Scott!
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 4 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
@@ -49,16 +49,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [firezone/natstat](https://github.com/firezone/natstat) - A simple tool to measure how NATs behave (today)
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting. (today)
-- [robertaboukhalil/jqkungfu](https://github.com/robertaboukhalil/jqkungfu) - A jq playground, written in WebAssembly (today)
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (today)
-- [haskell-oracle/oracle-simple](https://github.com/haskell-oracle/oracle-simple) - Modern bindings to Oracle odpic (1 day ago)
-- [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - Planning optimization made easy. The open source AI solver. The continuation of OptaPlanner by the OptaPlanner team.. (2 days ago)
-- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (3 days ago)
-- [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework (3 days ago)
-- [siavash79/AOSPMods](https://github.com/siavash79/AOSPMods) - mixed Xposed&#43;Magisk module for customization of AOSP-based Android 12&#43; (3 days ago)
-- [Androidacy/MagiskModuleManager](https://github.com/Androidacy/MagiskModuleManager) - Previously known as Fox&#39;s Magisk Module Manager (FoxMMM), this app helps users find, install &#34;Magisk Modules&#34; - powerful little zips/apps for your device that plug into the Magisk framework. (3 days ago)
+- [firezone/natstat](https://github.com/firezone/natstat) - A simple tool to measure how NATs behave (1 day ago)
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting. (1 day ago)
+- [robertaboukhalil/jqkungfu](https://github.com/robertaboukhalil/jqkungfu) - A jq playground, written in WebAssembly (1 day ago)
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (1 day ago)
+- [haskell-oracle/oracle-simple](https://github.com/haskell-oracle/oracle-simple) - Modern bindings to Oracle odpic (2 days ago)
+- [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - Planning optimization made easy. The open source AI solver. The continuation of OptaPlanner by the OptaPlanner team.. (3 days ago)
+- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (4 days ago)
+- [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework (4 days ago)
+- [siavash79/AOSPMods](https://github.com/siavash79/AOSPMods) - mixed Xposed&#43;Magisk module for customization of AOSP-based Android 12&#43; (4 days ago)
+- [Androidacy/MagiskModuleManager](https://github.com/Androidacy/MagiskModuleManager) - Previously known as Fox&#39;s Magisk Module Manager (FoxMMM), this app helps users find, install &#34;Magisk Modules&#34; - powerful little zips/apps for your device that plug into the Magisk framework. (4 days ago)
 
 #### 📫 How to reach me
 
