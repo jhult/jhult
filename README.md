@@ -49,6 +49,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework (today)
 - [firezone/natstat](https://github.com/firezone/natstat) - A simple tool to measure how NATs behave (1 day ago)
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting. (1 day ago)
 - [robertaboukhalil/jqkungfu](https://github.com/robertaboukhalil/jqkungfu) - A jq playground, written in WebAssembly (1 day ago)
@@ -58,7 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (4 days ago)
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework (4 days ago)
 - [siavash79/AOSPMods](https://github.com/siavash79/AOSPMods) - mixed Xposed&#43;Magisk module for customization of AOSP-based Android 12&#43; (4 days ago)
-- [Androidacy/MagiskModuleManager](https://github.com/Androidacy/MagiskModuleManager) - Previously known as Fox&#39;s Magisk Module Manager (FoxMMM), this app helps users find, install &#34;Magisk Modules&#34; - powerful little zips/apps for your device that plug into the Magisk framework. (4 days ago)
 
 #### 📫 How to reach me
 
