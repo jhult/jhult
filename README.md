@@ -49,6 +49,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (today)
 - [dctanner/htmljs-todo-example](https://github.com/dctanner/htmljs-todo-example) -  (1 day ago)
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required) (1 day ago)
 - [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework (1 day ago)
@@ -58,7 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (2 days ago)
 - [haskell-oracle/oracle-simple](https://github.com/haskell-oracle/oracle-simple) - Modern bindings to Oracle odpic (3 days ago)
 - [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - Planning optimization made easy. The open source AI solver. The continuation of OptaPlanner by the OptaPlanner team.. (4 days ago)
-- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (5 days ago)
 
 #### 📫 How to reach me
 
