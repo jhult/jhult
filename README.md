@@ -49,6 +49,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client. (today)
+- [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for grocy (today)
+- [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application. (today)
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process. (today)
 - [RikkaApps/Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android. (today)
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities. (today)
@@ -56,9 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [dctanner/htmljs-todo-example](https://github.com/dctanner/htmljs-todo-example) -  (1 day ago)
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required) (1 day ago)
 - [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework (1 day ago)
-- [firezone/natstat](https://github.com/firezone/natstat) - A simple tool to measure how NATs behave (2 days ago)
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting. (2 days ago)
-- [robertaboukhalil/jqkungfu](https://github.com/robertaboukhalil/jqkungfu) - A jq playground, written in WebAssembly (2 days ago)
 
 #### 📫 How to reach me
 
