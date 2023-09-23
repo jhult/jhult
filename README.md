@@ -36,6 +36,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [fix: allow Firebase Cloud Messaging](https://github.com/jerryn70/GoodbyeAds/pull/444) on [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) (today)
 - [fix: typo in README - &#34;SLFJ4J&#34; -&gt; &#34;SLF4J&#34;](https://github.com/jboss-logging/slf4j-jboss-logging/pull/38) on [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) (1 month ago)
 - [fix: typo for TracerBullet URL in README](https://github.com/http4k/http4k/pull/966) on [http4k/http4k](https://github.com/http4k/http4k) (1 month ago)
 - [Make print output clearer](https://github.com/palant/malicious-extensions-list/pull/2) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (1 month ago)
@@ -45,10 +46,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [feat: add Status lookup by code](https://github.com/http4k/http4k/pull/918) on [http4k/http4k](https://github.com/http4k/http4k) (3 months ago)
 - [chore: upgrade Swagger UI version from 4.17.0 to 4.18.3](https://github.com/http4k/http4k/pull/903) on [http4k/http4k](https://github.com/http4k/http4k) (4 months ago)
 - [chore(docs): 2 small updates to README](https://github.com/openshift/imagebuilder/pull/253) on [openshift/imagebuilder](https://github.com/openshift/imagebuilder) (4 months ago)
-- [Misc SwaggerUI updates](https://github.com/http4k/http4k/pull/864) on [http4k/http4k](https://github.com/http4k/http4k) (6 months ago)
 
 #### ⭐ Recent Stars
 
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities. (today)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (today)
 - [dctanner/htmljs-todo-example](https://github.com/dctanner/htmljs-todo-example) -  (1 day ago)
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required) (1 day ago)
@@ -58,7 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [robertaboukhalil/jqkungfu](https://github.com/robertaboukhalil/jqkungfu) - A jq playground, written in WebAssembly (2 days ago)
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (2 days ago)
 - [haskell-oracle/oracle-simple](https://github.com/haskell-oracle/oracle-simple) - Modern bindings to Oracle odpic (3 days ago)
-- [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - Planning optimization made easy. The open source AI solver. The continuation of OptaPlanner by the OptaPlanner team.. (4 days ago)
 
 #### 📫 How to reach me
 
