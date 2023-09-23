@@ -49,6 +49,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process. (today)
+- [RikkaApps/Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android. (today)
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities. (today)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (today)
 - [dctanner/htmljs-todo-example](https://github.com/dctanner/htmljs-todo-example) -  (1 day ago)
@@ -57,8 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [firezone/natstat](https://github.com/firezone/natstat) - A simple tool to measure how NATs behave (2 days ago)
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting. (2 days ago)
 - [robertaboukhalil/jqkungfu](https://github.com/robertaboukhalil/jqkungfu) - A jq playground, written in WebAssembly (2 days ago)
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (2 days ago)
-- [haskell-oracle/oracle-simple](https://github.com/haskell-oracle/oracle-simple) - Modern bindings to Oracle odpic (3 days ago)
 
 #### 📫 How to reach me
 
