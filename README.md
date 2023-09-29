@@ -49,6 +49,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [hitchdev/hitchstory](https://github.com/hitchdev/hitchstory) - Type-safe YAML integration tests. Tests that write your docs. Tests that rewrite themselves. (today)
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel (today)
 - [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet (today)
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover. (1 day ago)
@@ -58,7 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (1 day ago)
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti (3 days ago)
 - [xdev-software/intellij-plugin-save-actions](https://github.com/xdev-software/intellij-plugin-save-actions) - Supports configurable, Eclipse like, save actions, including &#34;organize imports&#34;, &#34;reformat code&#34; and &#34;rearrange code&#34;.  (3 days ago)
-- [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set. (6 days ago)
 
 #### 📫 How to reach me
 
