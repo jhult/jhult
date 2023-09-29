@@ -49,6 +49,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel (today)
 - [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet (today)
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover. (1 day ago)
 - [MobSF/mobsfscan](https://github.com/MobSF/mobsfscan) - mobsfscan is a static analysis tool that can find insecure code patterns in your Android and iOS source code. Supports Java, Kotlin, Swift, and Objective C Code. mobsfscan uses MobSF static analysis rules and is powered by semgrep and libsast  pattern matcher. (1 day ago)
@@ -58,7 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti (3 days ago)
 - [xdev-software/intellij-plugin-save-actions](https://github.com/xdev-software/intellij-plugin-save-actions) - Supports configurable, Eclipse like, save actions, including &#34;organize imports&#34;, &#34;reformat code&#34; and &#34;rearrange code&#34;.  (3 days ago)
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set. (6 days ago)
-- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client. (6 days ago)
 
 #### 📫 How to reach me
 
