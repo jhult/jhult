@@ -27,11 +27,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.6](https://github.com/netbirdio/netbird/releases/tag/v0.23.6), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.8.2.0](https://github.com/http4k/http4k/releases/tag/5.8.2.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.6](https://github.com/netbirdio/netbird/releases/tag/v0.23.6), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.8.2.0](https://github.com/http4k/http4k/releases/tag/5.8.2.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 3 months ago) - 
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 3 months ago) - List of known problematic browser extensions
-- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 3 months ago) - Fly through your shell history. Great Scott!
+- [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 4 months ago) - Fly through your shell history. Great Scott!
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 4 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 - [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) ([1.2.1.Final](https://github.com/jboss-logging/slf4j-jboss-logging/releases/tag/1.2.1.Final), 3 years ago) - SLF4J (1.7.x) Backend for JBoss Logging
 
@@ -44,22 +44,22 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [feat: add Brave Browser](https://github.com/palant/malicious-extensions-list/pull/1) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (1 month ago)
 - [chore(docs): update Excalidraw README.md](https://github.com/ddd-crew/bounded-context-canvas/pull/47) on [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) (2 months ago)
 - [fix!: Status.from](https://github.com/http4k/http4k/pull/920) on [http4k/http4k](https://github.com/http4k/http4k) (3 months ago)
-- [feat: add Status lookup by code](https://github.com/http4k/http4k/pull/918) on [http4k/http4k](https://github.com/http4k/http4k) (3 months ago)
+- [feat: add Status lookup by code](https://github.com/http4k/http4k/pull/918) on [http4k/http4k](https://github.com/http4k/http4k) (4 months ago)
 - [chore: upgrade Swagger UI version from 4.17.0 to 4.18.3](https://github.com/http4k/http4k/pull/903) on [http4k/http4k](https://github.com/http4k/http4k) (4 months ago)
 - [chore(docs): 2 small updates to README](https://github.com/openshift/imagebuilder/pull/253) on [openshift/imagebuilder](https://github.com/openshift/imagebuilder) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (today)
-- [hitchdev/hitchstory](https://github.com/hitchdev/hitchstory) - Type-safe YAML integration tests. Tests that write your docs. Tests that rewrite themselves. (1 day ago)
-- [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel (1 day ago)
-- [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet (1 day ago)
-- [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover. (2 days ago)
-- [MobSF/mobsfscan](https://github.com/MobSF/mobsfscan) - mobsfscan is a static analysis tool that can find insecure code patterns in your Android and iOS source code. Supports Java, Kotlin, Swift, and Objective C Code. mobsfscan uses MobSF static analysis rules and is powered by semgrep and libsast  pattern matcher. (2 days ago)
-- [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover) -  (2 days ago)
-- [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx (2 days ago)
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (2 days ago)
-- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti (4 days ago)
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (1 day ago)
+- [hitchdev/hitchstory](https://github.com/hitchdev/hitchstory) - Type-safe YAML integration tests. Tests that write your docs. Tests that rewrite themselves. (2 days ago)
+- [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel (2 days ago)
+- [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet (2 days ago)
+- [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover. (3 days ago)
+- [MobSF/mobsfscan](https://github.com/MobSF/mobsfscan) - mobsfscan is a static analysis tool that can find insecure code patterns in your Android and iOS source code. Supports Java, Kotlin, Swift, and Objective C Code. mobsfscan uses MobSF static analysis rules and is powered by semgrep and libsast  pattern matcher. (3 days ago)
+- [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover) -  (3 days ago)
+- [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx (3 days ago)
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (3 days ago)
+- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti (5 days ago)
 
 #### 📫 How to reach me
 
