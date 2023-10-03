@@ -50,6 +50,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (today)
 - [alexandrehtrb/Pororoca](https://github.com/alexandrehtrb/Pororoca) - A HTTP inspection tool with support for HTTP/2 and HTTP/3. Alternative to Postman. (1 day ago)
 - [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform API Client built using Flutter which can help you easily create &amp; customize your API requests, visually inspect responses and generate Dart code on the go. (1 day ago)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (1 day ago)
@@ -59,7 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel (4 days ago)
 - [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet (4 days ago)
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover. (5 days ago)
-- [MobSF/mobsfscan](https://github.com/MobSF/mobsfscan) - mobsfscan is a static analysis tool that can find insecure code patterns in your Android and iOS source code. Supports Java, Kotlin, Swift, and Objective C Code. mobsfscan uses MobSF static analysis rules and is powered by semgrep and libsast  pattern matcher. (5 days ago)
 
 #### 📫 How to reach me
 
