@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [GTFOArgs/GTFOArgs.github.io](https://github.com/GTFOArgs/GTFOArgs.github.io) - GTFOArgs is a curated list of programs and their associated arguments that can be exploited to gain privileged access or execute arbitrary commands, using argument injection. (today)
+- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems (today)
+- [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before (today)
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (1 day ago)
 - [alexandrehtrb/Pororoca](https://github.com/alexandrehtrb/Pororoca) - A HTTP inspection tool with support for HTTP/2 and HTTP/3. Alternative to Postman. (2 days ago)
-- [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform API Client built using Flutter which can help you easily create &amp; customize your API requests, visually inspect responses and generate Dart code on the go. (2 days ago)
+- [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform API Client built using Flutter which can help you easily create &amp; customize your API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia. (2 days ago)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (2 days ago)
 - [stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients) - List of awesome API clients. Postman and Insomnia alternatives (2 days ago)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (4 days ago)
 - [hitchdev/hitchstory](https://github.com/hitchdev/hitchstory) - Type-safe YAML integration tests. Tests that write your docs. Tests that rewrite themselves. (5 days ago)
-- [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel (5 days ago)
-- [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet (5 days ago)
-- [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover. (6 days ago)
 
 #### 📫 How to reach me
 
