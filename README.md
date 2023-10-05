@@ -50,6 +50,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository (today)
+- [snort3/snort3](https://github.com/snort3/snort3) - Snort&#43;&#43; (today)
+- [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife (today)
 - [VirtuslabRnD/pulumi-kotlin](https://github.com/VirtuslabRnD/pulumi-kotlin) - Experimental support for Kotlin language in Pulumi (today)
 - [liquibase/liquibase-data](https://github.com/liquibase/liquibase-data) -  (today)
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language. (today)
@@ -57,9 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning &amp; inference! (1 day ago)
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform. (1 day ago)
 - [GTFOArgs/GTFOArgs.github.io](https://github.com/GTFOArgs/GTFOArgs.github.io) - GTFOArgs is a curated list of programs and their associated arguments that can be exploited to gain privileged access or execute arbitrary commands, using argument injection. (1 day ago)
-- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems (1 day ago)
-- [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before (1 day ago)
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (2 days ago)
 
 #### 📫 How to reach me
 
