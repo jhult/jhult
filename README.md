@@ -50,6 +50,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language. (today)
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath (1 day ago)
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning &amp; inference! (1 day ago)
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform. (1 day ago)
@@ -59,7 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (2 days ago)
 - [alexandrehtrb/Pororoca](https://github.com/alexandrehtrb/Pororoca) - A HTTP inspection tool with support for HTTP/2 and HTTP/3. Alternative to Postman. (3 days ago)
 - [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform API Client built using Flutter which can help you easily create &amp; customize your API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia. (3 days ago)
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (3 days ago)
 
 #### 📫 How to reach me
 
