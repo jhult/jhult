@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) -  (1 week ago)
+- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) -  (2 weeks ago)
 - [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) - SLF4J (1.7.x) Backend for JBoss Logging (1 month ago)
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (1 month ago)
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) - List of known problematic browser extensions (2 months ago)
@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.7](https://github.com/netbirdio/netbird/releases/tag/v0.23.7), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.8.3.0](https://github.com/http4k/http4k/releases/tag/5.8.3.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.7](https://github.com/netbirdio/netbird/releases/tag/v0.23.7), 3 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.8.3.0](https://github.com/http4k/http4k/releases/tag/5.8.3.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 3 months ago) - 
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 3 months ago) - List of known problematic browser extensions
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 4 months ago) - Fly through your shell history. Great Scott!
@@ -37,7 +37,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [fix: allow Firebase Cloud Messaging](https://github.com/jerryn70/GoodbyeAds/pull/444) on [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) (1 week ago)
+- [fix: allow Firebase Cloud Messaging](https://github.com/jerryn70/GoodbyeAds/pull/444) on [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) (2 weeks ago)
 - [fix: typo in README - &#34;SLFJ4J&#34; -&gt; &#34;SLF4J&#34;](https://github.com/jboss-logging/slf4j-jboss-logging/pull/38) on [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) (1 month ago)
 - [fix: typo for TracerBullet URL in README](https://github.com/http4k/http4k/pull/966) on [http4k/http4k](https://github.com/http4k/http4k) (1 month ago)
 - [Make print output clearer](https://github.com/palant/malicious-extensions-list/pull/2) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (2 months ago)
@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (today)
-- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (today)
-- [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository (1 day ago)
-- [snort3/snort3](https://github.com/snort3/snort3) - Snort&#43;&#43; (1 day ago)
-- [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife (1 day ago)
-- [VirtuslabRnD/pulumi-kotlin](https://github.com/VirtuslabRnD/pulumi-kotlin) - Experimental support for Kotlin language in Pulumi (1 day ago)
-- [liquibase/liquibase-data](https://github.com/liquibase/liquibase-data) -  (1 day ago)
-- [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language. (1 day ago)
-- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath (2 days ago)
-- [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning &amp; inference! (2 days ago)
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (1 day ago)
+- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (1 day ago)
+- [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository (2 days ago)
+- [snort3/snort3](https://github.com/snort3/snort3) - Snort&#43;&#43; (2 days ago)
+- [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife (2 days ago)
+- [VirtuslabRnD/pulumi-kotlin](https://github.com/VirtuslabRnD/pulumi-kotlin) - Experimental support for Kotlin language in Pulumi (2 days ago)
+- [liquibase/liquibase-data](https://github.com/liquibase/liquibase-data) -  (2 days ago)
+- [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language. (2 days ago)
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath (3 days ago)
+- [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning &amp; inference! (3 days ago)
 
 #### 📫 How to reach me
 
