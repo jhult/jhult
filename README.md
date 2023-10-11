@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Escape-Technologies/awesome-graphql-security](https://github.com/Escape-Technologies/awesome-graphql-security) - A curated list of awesome GraphQL Security frameworks, libraries, software and resources (today)
+- [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman &amp; Insomnia. (today)
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (today)
+- [Escape-Technologies/goctopus](https://github.com/Escape-Technologies/goctopus) - Blazing fast GraphQL discovery &amp; fingerprinting toolbox. (today)
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API (1 day ago)
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations (1 day ago)
 - [macOScontainers/rund](https://github.com/macOScontainers/rund) - OCI Container Runtime for macOS (1 day ago)
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes. (1 day ago)
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook. (1 day ago)
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app. (1 day ago)
-- [nyfix/OZ](https://github.com/nyfix/OZ) - OpenMAMA/ZeroMQ bridge (1 day ago)
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (5 days ago)
-- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (5 days ago)
-- [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository (6 days ago)
 
 #### 📫 How to reach me
 
