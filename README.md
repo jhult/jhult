@@ -50,6 +50,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-17 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities. (today)
+- [mozsearch/mozsearch](https://github.com/mozsearch/mozsearch) - Mozilla code search website. (Please file bugs in bugzilla at https://mzl.la/2YtXmoN) (today)
 - [kohlschutter/jdk.compiler.standalone](https://github.com/kohlschutter/jdk.compiler.standalone) - Standalone jdk.compiler / JDK javac Compiler Framework &#43; Compiler Tree API (today)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF (today)
 - [Escape-Technologies/graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist) - The only GraphQL wordlist you&#39;ll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas. (today)
@@ -58,8 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman &amp; Insomnia. (today)
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (today)
 - [Escape-Technologies/goctopus](https://github.com/Escape-Technologies/goctopus) - Blazing fast GraphQL discovery &amp; fingerprinting toolbox. (today)
-- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API (1 day ago)
-- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations (1 day ago)
 
 #### 📫 How to reach me
 
