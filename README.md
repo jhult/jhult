@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.8](https://github.com/netbirdio/netbird/releases/tag/v0.23.8), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.8.4.0](https://github.com/http4k/http4k/releases/tag/5.8.4.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.8](https://github.com/netbirdio/netbird/releases/tag/v0.23.8), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.8.4.0](https://github.com/http4k/http4k/releases/tag/5.8.4.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 3 months ago) - 
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 3 months ago) - List of known problematic browser extensions
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 4 months ago) - Fly through your shell history. Great Scott!
@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API (today)
-- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations (today)
-- [macOScontainers/rund](https://github.com/macOScontainers/rund) - OCI Container Runtime for macOS (today)
-- [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes. (today)
-- [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook. (today)
-- [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app. (today)
-- [nyfix/OZ](https://github.com/nyfix/OZ) - OpenMAMA/ZeroMQ bridge (today)
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (4 days ago)
-- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (4 days ago)
-- [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository (5 days ago)
+- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API (1 day ago)
+- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations (1 day ago)
+- [macOScontainers/rund](https://github.com/macOScontainers/rund) - OCI Container Runtime for macOS (1 day ago)
+- [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes. (1 day ago)
+- [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook. (1 day ago)
+- [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app. (1 day ago)
+- [nyfix/OZ](https://github.com/nyfix/OZ) - OpenMAMA/ZeroMQ bridge (1 day ago)
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (5 days ago)
+- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (5 days ago)
+- [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository (6 days ago)
 
 #### 📫 How to reach me
 
