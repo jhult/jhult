@@ -50,6 +50,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Escape-Technologies/ClairvoyanceNext](https://github.com/Escape-Technologies/ClairvoyanceNext) - Obtain GraphQL API Schema even if the introspection is not enabled (today)
 - [sigoden/argc](https://github.com/sigoden/argc) - An elegant command-line options, arguments and sub-commands parser for bash. (1 day ago)
 - [doyensec/inql](https://github.com/doyensec/inql) - InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration. (1 day ago)
 - [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-17 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities. (1 day ago)
@@ -59,7 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Escape-Technologies/graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist) - The only GraphQL wordlist you&#39;ll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas. (1 day ago)
 - [Escape-Technologies/graphql-security-academy](https://github.com/Escape-Technologies/graphql-security-academy) - 🔒 A free, open-source platform dedicated to understand and secure GraphQL applications — all directly in your browser! (1 day ago)
 - [Escape-Technologies/awesome-graphql-security](https://github.com/Escape-Technologies/awesome-graphql-security) - A curated list of awesome GraphQL Security frameworks, libraries, software and resources (1 day ago)
-- [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman &amp; Insomnia. (1 day ago)
 
 #### 📫 How to reach me
 
