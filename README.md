@@ -50,6 +50,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [psanford/wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang). (today)
 - [Escape-Technologies/ClairvoyanceNext](https://github.com/Escape-Technologies/ClairvoyanceNext) - Obtain GraphQL API Schema even if the introspection is not enabled (today)
 - [sigoden/argc](https://github.com/sigoden/argc) - An elegant command-line options, arguments and sub-commands parser for bash. (1 day ago)
 - [doyensec/inql](https://github.com/doyensec/inql) - InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration. (1 day ago)
@@ -59,7 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF (1 day ago)
 - [Escape-Technologies/graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist) - The only GraphQL wordlist you&#39;ll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas. (1 day ago)
 - [Escape-Technologies/graphql-security-academy](https://github.com/Escape-Technologies/graphql-security-academy) - 🔒 A free, open-source platform dedicated to understand and secure GraphQL applications — all directly in your browser! (1 day ago)
-- [Escape-Technologies/awesome-graphql-security](https://github.com/Escape-Technologies/awesome-graphql-security) - A curated list of awesome GraphQL Security frameworks, libraries, software and resources (1 day ago)
 
 #### 📫 How to reach me
 
