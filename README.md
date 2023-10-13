@@ -21,14 +21,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts (3 months ago)
 - [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (4 months ago)
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) - Builds Dockerfile using the Docker client (with squashing! and secrets!) (5 months ago)
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (7 months ago)
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (8 months ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (9 months ago)
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking. (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.9](https://github.com/netbirdio/netbird/releases/tag/v0.23.9), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.8.4.0](https://github.com/http4k/http4k/releases/tag/5.8.4.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.23.9](https://github.com/netbirdio/netbird/releases/tag/v0.23.9), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.8.4.0](https://github.com/http4k/http4k/releases/tag/5.8.4.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 3 months ago) - 
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 4 months ago) - List of known problematic browser extensions
 - [cantino/mcfly](https://github.com/cantino/mcfly) ([v0.8.1](https://github.com/cantino/mcfly/releases/tag/v0.8.1), 4 months ago) - Fly through your shell history. Great Scott!
@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [psanford/wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang). (today)
-- [Escape-Technologies/ClairvoyanceNext](https://github.com/Escape-Technologies/ClairvoyanceNext) - Obtain GraphQL API Schema even if the introspection is not enabled (today)
-- [sigoden/argc](https://github.com/sigoden/argc) - An elegant command-line options, arguments and sub-commands parser for bash. (1 day ago)
-- [doyensec/inql](https://github.com/doyensec/inql) - InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration. (1 day ago)
-- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-17 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities. (1 day ago)
-- [mozsearch/mozsearch](https://github.com/mozsearch/mozsearch) - Mozilla code search website. (Please file bugs in bugzilla at https://mzl.la/2YtXmoN) (1 day ago)
-- [kohlschutter/jdk.compiler.standalone](https://github.com/kohlschutter/jdk.compiler.standalone) - Standalone jdk.compiler / JDK javac Compiler Framework &#43; Compiler Tree API (1 day ago)
-- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF (1 day ago)
-- [Escape-Technologies/graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist) - The only GraphQL wordlist you&#39;ll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas. (1 day ago)
-- [Escape-Technologies/graphql-security-academy](https://github.com/Escape-Technologies/graphql-security-academy) - 🔒 A free, open-source platform dedicated to understand and secure GraphQL applications — all directly in your browser! (1 day ago)
+- [psanford/wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang). (1 day ago)
+- [Escape-Technologies/ClairvoyanceNext](https://github.com/Escape-Technologies/ClairvoyanceNext) - Obtain GraphQL API Schema even if the introspection is not enabled (1 day ago)
+- [sigoden/argc](https://github.com/sigoden/argc) - An elegant command-line options, arguments and sub-commands parser for bash. (2 days ago)
+- [doyensec/inql](https://github.com/doyensec/inql) - InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration. (2 days ago)
+- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-17 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities. (2 days ago)
+- [mozsearch/mozsearch](https://github.com/mozsearch/mozsearch) - Mozilla code search website. (Please file bugs in bugzilla at https://mzl.la/2YtXmoN) (2 days ago)
+- [kohlschutter/jdk.compiler.standalone](https://github.com/kohlschutter/jdk.compiler.standalone) - Standalone jdk.compiler / JDK javac Compiler Framework &#43; Compiler Tree API (2 days ago)
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF (2 days ago)
+- [Escape-Technologies/graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist) - The only GraphQL wordlist you&#39;ll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas. (2 days ago)
+- [Escape-Technologies/graphql-security-academy](https://github.com/Escape-Technologies/graphql-security-academy) - 🔒 A free, open-source platform dedicated to understand and secure GraphQL applications — all directly in your browser! (2 days ago)
 
 #### 📫 How to reach me
 
