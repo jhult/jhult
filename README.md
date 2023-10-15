@@ -49,6 +49,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [scastiel/book-pr](https://github.com/scastiel/book-pr) - A book where I listed all the advice I gave to and received from developers over the past few years about pull requests and code review. (today)
+- [karlicoss/dron](https://github.com/karlicoss/dron) - What if cron and systemd had a baby? (today)
 - [brainless/gitplay](https://github.com/brainless/gitplay) - Play a git repository&#39;s commit log to understand how the project (its files/folders) developed or evolved over time. Desktop app built with Rust and SolidJS. Coming to browsers soon! (1 day ago)
 - [psanford/wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang). (3 days ago)
 - [Escape-Technologies/ClairvoyanceNext](https://github.com/Escape-Technologies/ClairvoyanceNext) - Obtain GraphQL API Schema even if the introspection is not enabled (3 days ago)
@@ -57,8 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-17 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities. (4 days ago)
 - [mozsearch/mozsearch](https://github.com/mozsearch/mozsearch) - Mozilla code search website. (Please file bugs in bugzilla at https://mzl.la/2YtXmoN) (4 days ago)
 - [kohlschutter/jdk.compiler.standalone](https://github.com/kohlschutter/jdk.compiler.standalone) - Standalone jdk.compiler / JDK javac Compiler Framework &#43; Compiler Tree API (4 days ago)
-- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF (4 days ago)
-- [Escape-Technologies/graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist) - The only GraphQL wordlist you&#39;ll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas. (4 days ago)
 
 #### 📫 How to reach me
 
