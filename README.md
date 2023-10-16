@@ -54,7 +54,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server &amp; client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) (today)
 - [scastiel/book-pr](https://github.com/scastiel/book-pr) - A book where I listed all the advice I gave to and received from developers over the past few years about pull requests and code review. (1 day ago)
 - [karlicoss/dron](https://github.com/karlicoss/dron) - What if cron and systemd had a baby? (1 day ago)
-- [brainless/gitplay](https://github.com/brainless/gitplay) - Play a git repository&#39;s commit log to understand how the project (its files/folders) developed or evolved over time. Desktop app built with Rust and SolidJS. Coming to browsers soon! (2 days ago)
+- [brainless/gitplay](https://github.com/brainless/gitplay) - Learn how a software project (using git) evolved over time from its commit log. Its like YouTube for a git project. Desktop app built with Rust and SolidJS. *very early stage* of development (2 days ago)
 - [psanford/wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang). (4 days ago)
 - [Escape-Technologies/ClairvoyanceNext](https://github.com/Escape-Technologies/ClairvoyanceNext) - Obtain GraphQL API Schema even if the introspection is not enabled (4 days ago)
 - [sigoden/argc](https://github.com/sigoden/argc) - An elegant command-line options, arguments and sub-commands parser for bash. (5 days ago)
