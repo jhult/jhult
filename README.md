@@ -15,8 +15,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 👷 Check out what I'm currently working on
 
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) -  (3 weeks ago)
-- [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) - SLF4J (1.7.x) Backend for JBoss Logging (1 month ago)
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (1 month ago)
+- [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) - SLF4J (1.7.x) Backend for JBoss Logging (1 month ago)
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) - List of known problematic browser extensions (2 months ago)
 - [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts (3 months ago)
 - [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (4 months ago)
