@@ -49,6 +49,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [acaloiaro/neoq](https://github.com/acaloiaro/neoq) - Queue-agnostic background job library for Go, with a pleasant API and powerful features. (today)
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading. (today)
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server &amp; client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) (today)
 - [scastiel/book-pr](https://github.com/scastiel/book-pr) - A book where I listed all the advice I gave to and received from developers over the past few years about pull requests and code review. (1 day ago)
 - [karlicoss/dron](https://github.com/karlicoss/dron) - What if cron and systemd had a baby? (1 day ago)
@@ -57,8 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Escape-Technologies/ClairvoyanceNext](https://github.com/Escape-Technologies/ClairvoyanceNext) - Obtain GraphQL API Schema even if the introspection is not enabled (4 days ago)
 - [sigoden/argc](https://github.com/sigoden/argc) - An elegant command-line options, arguments and sub-commands parser for bash. (5 days ago)
 - [doyensec/inql](https://github.com/doyensec/inql) - InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration. (5 days ago)
-- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-17 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities. (5 days ago)
-- [mozsearch/mozsearch](https://github.com/mozsearch/mozsearch) - Mozilla code search website. (Please file bugs in bugzilla at https://mzl.la/2YtXmoN) (5 days ago)
 
 #### 📫 How to reach me
 
