@@ -54,7 +54,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [acaloiaro/neoq](https://github.com/acaloiaro/neoq) - Queue-agnostic background job library for Go, with a pleasant API and powerful features. (4 days ago)
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading. (4 days ago)
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server &amp; client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) (4 days ago)
-- [scastiel/book-pr](https://github.com/scastiel/book-pr) - A book where I listed all the advice I gave to and received from developers over the past few years about pull requests and code review. (5 days ago)
+- [scastiel/book-pr](https://github.com/scastiel/book-pr) - Pull Requests and Code Review: a book where I listed all the advice I gave to and received from developers over the past few years about pull requests and code review. (5 days ago)
 - [karlicoss/dron](https://github.com/karlicoss/dron) - What if cron and systemd had a baby? (5 days ago)
 - [brainless/gitplay](https://github.com/brainless/gitplay) - Learn how a software project (using git) evolved over time from its commit log. Its like YouTube for a git project. Desktop app built with Rust and SolidJS. *very early stage* of development (6 days ago)
 - [psanford/wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang). (1 week ago)
