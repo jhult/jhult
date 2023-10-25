@@ -49,6 +49,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [BurntSushi/walkdir](https://github.com/BurntSushi/walkdir) - Rust library for walking directories recursively. (today)
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects. (today)
+- [RJVB/afsctool](https://github.com/RJVB/afsctool) - This is a version of &#34;brkirch&#34;&#39;s afsctool utility that allows end-users to leverage HFS&#43; compression. (today)
 - [nearform/temporal_tables](https://github.com/nearform/temporal_tables) - Postgresql temporal_tables extension in PL/pgSQL, without the need for external c extension. (1 day ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (1 day ago)
 - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API (1 day ago)
@@ -56,9 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text. (3 days ago)
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust (4 days ago)
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (4 days ago)
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md. (4 days ago)
-- [Alex313031/Thorium-MacOS](https://github.com/Alex313031/Thorium-MacOS) - Thorium builds for MacOS (arm64 and x64). (4 days ago)
-- [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - Rust implementation of Magic Wormhole, with new features and enhancements (1 week ago)
 
 #### 📫 How to reach me
 
