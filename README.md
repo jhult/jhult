@@ -49,6 +49,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (today)
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (1 day ago)
 - [TryItOnline/tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters. (1 day ago)
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Make a backup of your private and public slack messages, threads, files, and users locally. (3 days ago)
@@ -58,7 +59,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [eugene-khyst/postgresql-event-sourcing](https://github.com/eugene-khyst/postgresql-event-sourcing) - A reference implementation of an event-sourced system that uses PostgreSQL as an event store built with Spring Boot. Fork the repository and use it as a template for your projects. Or clone the repository and run end-to-end tests to see how everything works together. (6 days ago)
 - [message-db/message-db](https://github.com/message-db/message-db) - Microservice native message and event store for Postgres (6 days ago)
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free &amp; Open Source Alternative to DocuSign (1 week ago)
-- [opentimestamps/opentimestamps-client](https://github.com/opentimestamps/opentimestamps-client) - OpenTimestamps client (1 week ago)
 
 #### 📫 How to reach me
 
