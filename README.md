@@ -36,6 +36,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [Fix emoji-failfast](https://github.com/rusq/slackdump/pull/246) on [rusq/slackdump](https://github.com/rusq/slackdump) (today)
 - [fix: allow Firebase Cloud Messaging](https://github.com/jerryn70/GoodbyeAds/pull/444) on [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) (1 month ago)
 - [fix: typo in README - &#34;SLFJ4J&#34; -&gt; &#34;SLF4J&#34;](https://github.com/jboss-logging/slf4j-jboss-logging/pull/38) on [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) (2 months ago)
 - [fix: typo for TracerBullet URL in README](https://github.com/http4k/http4k/pull/966) on [http4k/http4k](https://github.com/http4k/http4k) (2 months ago)
@@ -45,7 +46,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [fix!: Status.from](https://github.com/http4k/http4k/pull/920) on [http4k/http4k](https://github.com/http4k/http4k) (5 months ago)
 - [feat: add Status lookup by code](https://github.com/http4k/http4k/pull/918) on [http4k/http4k](https://github.com/http4k/http4k) (5 months ago)
 - [chore: upgrade Swagger UI version from 4.17.0 to 4.18.3](https://github.com/http4k/http4k/pull/903) on [http4k/http4k](https://github.com/http4k/http4k) (5 months ago)
-- [chore(docs): 2 small updates to README](https://github.com/openshift/imagebuilder/pull/253) on [openshift/imagebuilder](https://github.com/openshift/imagebuilder) (6 months ago)
 
 #### ⭐ Recent Stars
 
