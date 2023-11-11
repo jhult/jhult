@@ -50,6 +50,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [lyft/confidant](https://github.com/lyft/confidant) - Confidant: your secret keeper. https://lyft.github.io/confidant (today)
 - [jbangdev/jbang](https://github.com/jbangdev/jbang) - Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease. (today)
 - [deliberative/crypto](https://github.com/deliberative/crypto) - Cryptographic operations in WASM, C, Typescript for Nodejs and the browser. (1 day ago)
 - [LoupVaillant/Monocypher](https://github.com/LoupVaillant/Monocypher) - An easy to use, easy to deploy crypto library (1 day ago)
@@ -59,7 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (2 days ago)
 - [hfaran/slack-export-viewer](https://github.com/hfaran/slack-export-viewer) - A Slack Export archive viewer that allows you to easily view and share your Slack team&#39;s export (2 days ago)
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments (3 days ago)
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (5 days ago)
 
 #### 📫 How to reach me
 
