@@ -50,6 +50,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper (today)
+- [mautrix/imessage](https://github.com/mautrix/imessage) - A Matrix-iMessage puppeting bridge (today)
 - [JohnCrickett/SystemDesign](https://github.com/JohnCrickett/SystemDesign) - Useful resources on distributed system design. (today)
 - [prantlf/v-newchanges](https://github.com/prantlf/v-newchanges) - Creates or updates the changelog file from commit messages formatted according to Conventional Commits. (2 days ago)
 - [dmgbuild/dmgbuild](https://github.com/dmgbuild/dmgbuild) -  (2 days ago)
@@ -58,8 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System (2 days ago)
 - [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers. (2 days ago)
 - [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) - Helping allocate resources to secure the critical open source projects we all depend on. (2 days ago)
-- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript (3 days ago)
-- [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory (3 days ago)
 
 #### 📫 How to reach me
 
