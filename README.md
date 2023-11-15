@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language. (today)
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code &amp; data workflows with interactive Elixir notebooks (today)
+- [membraneframework/membrane_core](https://github.com/membraneframework/membrane_core) - The core of the Membrane Framework, advanced multimedia processing framework (today)
+- [jellyfish-dev/jellyfish](https://github.com/jellyfish-dev/jellyfish) - General purpose media server. Supports WebRTC, HLS, RTSP. (today)
+- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog is news and podcast for developers. This is our open source platform. (today)
+- [jeremyjh/dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects. (today)
 - [barsoom/ex-remit](https://github.com/barsoom/ex-remit) - A self-hosted web app for commit-by-commit code review, written using Phoenix LiveView. (today)
 - [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper (today)
 - [mautrix/imessage](https://github.com/mautrix/imessage) - A Matrix-iMessage puppeting bridge (today)
 - [JohnCrickett/SystemDesign](https://github.com/JohnCrickett/SystemDesign) - Useful resources on distributed system design. (today)
-- [prantlf/v-newchanges](https://github.com/prantlf/v-newchanges) - Creates or updates the changelog file from commit messages formatted according to Conventional Commits. (2 days ago)
-- [dmgbuild/dmgbuild](https://github.com/dmgbuild/dmgbuild) -  (2 days ago)
-- [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (2 days ago)
-- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent. (2 days ago)
-- [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System (2 days ago)
-- [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers. (2 days ago)
 
 #### 📫 How to reach me
 
