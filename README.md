@@ -50,6 +50,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems! (today)
+- [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) - A frontend-independent IDE &#34;smartness&#34; server for Elixir. Implements the &#34;Language Server Protocol&#34; standard and provides debugger support via the &#34;Debug Adapter Protocol&#34; (today)
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language. (today)
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code &amp; data workflows with interactive Elixir notebooks (today)
 - [membraneframework/membrane_core](https://github.com/membraneframework/membrane_core) - The core of the Membrane Framework, advanced multimedia processing framework (today)
@@ -58,8 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [jeremyjh/dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects. (today)
 - [barsoom/ex-remit](https://github.com/barsoom/ex-remit) - A self-hosted web app for commit-by-commit code review, written using Phoenix LiveView. (today)
 - [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper (today)
-- [mautrix/imessage](https://github.com/mautrix/imessage) - A Matrix-iMessage puppeting bridge (today)
-- [JohnCrickett/SystemDesign](https://github.com/JohnCrickett/SystemDesign) - Useful resources on distributed system design. (today)
 
 #### 📫 How to reach me
 
