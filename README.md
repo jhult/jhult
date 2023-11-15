@@ -50,6 +50,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [barsoom/ex-remit](https://github.com/barsoom/ex-remit) - A self-hosted web app for commit-by-commit code review, written using Phoenix LiveView. (today)
 - [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper (today)
 - [mautrix/imessage](https://github.com/mautrix/imessage) - A Matrix-iMessage puppeting bridge (today)
 - [JohnCrickett/SystemDesign](https://github.com/JohnCrickett/SystemDesign) - Useful resources on distributed system design. (today)
@@ -59,7 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent. (2 days ago)
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System (2 days ago)
 - [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers. (2 days ago)
-- [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) - Helping allocate resources to secure the critical open source projects we all depend on. (2 days ago)
 
 #### 📫 How to reach me
 
