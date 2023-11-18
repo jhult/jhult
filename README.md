@@ -50,6 +50,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it (today)
+- [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui) - Draw a mockup and generate html for it (today)
 - [getsentry/fsl.software](https://github.com/getsentry/fsl.software) - Functional Source License (FSL) (today)
 - [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is an open, source-available software licensing and distribution API built with Ruby on Rails. For developers, by developers. (today)
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems! (3 days ago)
@@ -58,8 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code &amp; data workflows with interactive Elixir notebooks (3 days ago)
 - [membraneframework/membrane_core](https://github.com/membraneframework/membrane_core) - The core of the Membrane Framework, advanced multimedia processing framework (3 days ago)
 - [jellyfish-dev/jellyfish](https://github.com/jellyfish-dev/jellyfish) - General purpose media server. Supports WebRTC, HLS, RTSP. (3 days ago)
-- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog is news and podcast for developers. This is our open source platform. (3 days ago)
-- [jeremyjh/dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects. (3 days ago)
 
 #### 📫 How to reach me
 
