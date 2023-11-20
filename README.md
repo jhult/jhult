@@ -55,7 +55,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia (2 days ago)
 - [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) - :books: A collection of useful resources for building RESTful HTTP&#43;JSON APIs. (2 days ago)
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it (2 days ago)
-- [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a mockup and generate html for it (2 days ago)
+- [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real (2 days ago)
 - [getsentry/fsl.software](https://github.com/getsentry/fsl.software) - Functional Source License (FSL) (2 days ago)
 - [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is an open, source-available software licensing and distribution API built with Ruby on Rails. For developers, by developers. (2 days ago)
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems! (5 days ago)
