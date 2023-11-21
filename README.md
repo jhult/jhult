@@ -50,6 +50,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (today)
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (today)
 - [warmuuh/milkman](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench (3 days ago)
 - [getezy/ezy](https://github.com/getezy/ezy) - 🔥 GUI client for gRPC/gRPC-Web (3 days ago)
@@ -59,7 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real (3 days ago)
 - [getsentry/fsl.software](https://github.com/getsentry/fsl.software) - Functional Source License (FSL) (3 days ago)
 - [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is an open, source-available software licensing and distribution API built with Ruby on Rails. For developers, by developers. (3 days ago)
-- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems! (6 days ago)
 
 #### 📫 How to reach me
 
