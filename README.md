@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.10.3.0](https://github.com/http4k/http4k/releases/tag/5.10.3.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.10.3.0](https://github.com/http4k/http4k/releases/tag/5.10.3.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.4.5](https://github.com/rusq/slackdump/releases/tag/v2.4.5), 1 week ago) - Make a backup of your private and public slack messages, threads, files, and users locally.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.24.2](https://github.com/netbirdio/netbird/releases/tag/v0.24.2), 3 weeks ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 4 months ago) - 
@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [warmuuh/milkman](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench (2 days ago)
-- [getezy/ezy](https://github.com/getezy/ezy) - 🔥 GUI client for gRPC/gRPC-Web (2 days ago)
-- [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia (2 days ago)
-- [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) - :books: A collection of useful resources for building RESTful HTTP&#43;JSON APIs. (2 days ago)
-- [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it (2 days ago)
-- [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real (2 days ago)
-- [getsentry/fsl.software](https://github.com/getsentry/fsl.software) - Functional Source License (FSL) (2 days ago)
-- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is an open, source-available software licensing and distribution API built with Ruby on Rails. For developers, by developers. (2 days ago)
-- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems! (5 days ago)
-- [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) - A frontend-independent IDE &#34;smartness&#34; server for Elixir. Implements the &#34;Language Server Protocol&#34; standard and provides debugger support via the &#34;Debug Adapter Protocol&#34; (5 days ago)
+- [warmuuh/milkman](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench (3 days ago)
+- [getezy/ezy](https://github.com/getezy/ezy) - 🔥 GUI client for gRPC/gRPC-Web (3 days ago)
+- [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia (3 days ago)
+- [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) - :books: A collection of useful resources for building RESTful HTTP&#43;JSON APIs. (3 days ago)
+- [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it (3 days ago)
+- [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real (3 days ago)
+- [getsentry/fsl.software](https://github.com/getsentry/fsl.software) - Functional Source License (FSL) (3 days ago)
+- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is an open, source-available software licensing and distribution API built with Ruby on Rails. For developers, by developers. (3 days ago)
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems! (6 days ago)
+- [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) - A frontend-independent IDE &#34;smartness&#34; server for Elixir. Implements the &#34;Language Server Protocol&#34; standard and provides debugger support via the &#34;Debug Adapter Protocol&#34; (6 days ago)
 
 #### 📫 How to reach me
 
