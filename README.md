@@ -50,6 +50,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals (today)
 - [kagisearch/kagi-docs](https://github.com/kagisearch/kagi-docs) - Documentation for products made by Kagi Inc (2 days ago)
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc. (3 days ago)
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style. (3 days ago)
@@ -59,7 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader (3 days ago)
 - [dewitt/opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results. (3 days ago)
 - [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services (3 days ago)
-- [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS. (3 days ago)
 
 #### 📫 How to reach me
 
