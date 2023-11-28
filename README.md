@@ -50,6 +50,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [tschuehly/spring-view-component](https://github.com/tschuehly/spring-view-component) - A Library to create Server Side UI Components with Spring (today)
+- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (today)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 day ago)
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code. (2 days ago)
 - [ThomasJockin/readexpro](https://github.com/ThomasJockin/readexpro) - Readex Pro is the world-script expansion of Lexend. Lexend is a variable font empirically shown to significantly improve reading-proficiency. (3 days ago)
@@ -58,8 +60,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc. (6 days ago)
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style. (6 days ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible (6 days ago)
-- [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub (6 days ago)
-- [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services. (6 days ago)
 
 #### 📫 How to reach me
 
