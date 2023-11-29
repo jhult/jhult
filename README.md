@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.24.3](https://github.com/netbirdio/netbird/releases/tag/v0.24.3), 4 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.10.4.0](https://github.com/http4k/http4k/releases/tag/5.10.4.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.24.3](https://github.com/netbirdio/netbird/releases/tag/v0.24.3), 5 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.10.4.0](https://github.com/http4k/http4k/releases/tag/5.10.4.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.4.5](https://github.com/rusq/slackdump/releases/tag/v2.4.5), 2 weeks ago) - Make a backup of your private and public slack messages, threads, files, and users locally.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 5 months ago) - 
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 5 months ago) - List of known problematic browser extensions
@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [tschuehly/spring-view-component](https://github.com/tschuehly/spring-view-component) - A Library to create Server Side UI Components with Spring (today)
-- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (today)
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 day ago)
-- [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code. (2 days ago)
-- [ThomasJockin/readexpro](https://github.com/ThomasJockin/readexpro) - Readex Pro is the world-script expansion of Lexend. Lexend is a variable font empirically shown to significantly improve reading-proficiency. (3 days ago)
-- [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals (3 days ago)
-- [kagisearch/kagi-docs](https://github.com/kagisearch/kagi-docs) - Documentation for products made by Kagi Inc (5 days ago)
-- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc. (6 days ago)
-- [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style. (6 days ago)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible (6 days ago)
+- [tschuehly/spring-view-component](https://github.com/tschuehly/spring-view-component) - A Library to create Server Side UI Components with Spring (1 day ago)
+- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (1 day ago)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (2 days ago)
+- [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code. (3 days ago)
+- [ThomasJockin/readexpro](https://github.com/ThomasJockin/readexpro) - Readex Pro is the world-script expansion of Lexend. Lexend is a variable font empirically shown to significantly improve reading-proficiency. (4 days ago)
+- [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals (4 days ago)
+- [kagisearch/kagi-docs](https://github.com/kagisearch/kagi-docs) - Documentation for products made by Kagi Inc (6 days ago)
+- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc. (1 week ago)
+- [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style. (1 week ago)
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible (1 week ago)
 
 #### 📫 How to reach me
 
