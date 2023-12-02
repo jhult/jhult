@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.4.6](https://github.com/rusq/slackdump/releases/tag/v2.4.6), 2 days ago) - Make a backup of your private and public slack messages, threads, files, and users locally.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.4.6](https://github.com/rusq/slackdump/releases/tag/v2.4.6), 3 days ago) - Make a backup of your private and public slack messages, threads, files, and users locally.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.24.3](https://github.com/netbirdio/netbird/releases/tag/v0.24.3), 1 week ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.10.4.0](https://github.com/http4k/http4k/releases/tag/5.10.4.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 5 months ago) - 
@@ -46,18 +46,18 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Make print output clearer](https://github.com/palant/malicious-extensions-list/pull/2) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (3 months ago)
 - [feat: add Brave Browser](https://github.com/palant/malicious-extensions-list/pull/1) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (3 months ago)
 - [chore(docs): update Excalidraw README.md](https://github.com/ddd-crew/bounded-context-canvas/pull/47) on [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) (4 months ago)
-- [fix!: Status.from](https://github.com/http4k/http4k/pull/920) on [http4k/http4k](https://github.com/http4k/http4k) (5 months ago)
+- [fix!: Status.from](https://github.com/http4k/http4k/pull/920) on [http4k/http4k](https://github.com/http4k/http4k) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [unloggedio/intellij-java-plugin](https://github.com/unloggedio/intellij-java-plugin) - IntelliJ plugin with java language support (today)
-- [unloggedio/unlogged-sdk](https://github.com/unloggedio/unlogged-sdk) - Unlogged SDK for recording code execution (today)
-- [tschuehly/spring-view-component](https://github.com/tschuehly/spring-view-component) - A Library to create Server Side UI Components with Spring (3 days ago)
-- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (3 days ago)
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (4 days ago)
-- [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code. (5 days ago)
-- [ThomasJockin/readexpro](https://github.com/ThomasJockin/readexpro) - Readex Pro is the world-script expansion of Lexend. Lexend is a variable font empirically shown to significantly improve reading-proficiency. (6 days ago)
-- [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals (6 days ago)
+- [unloggedio/intellij-java-plugin](https://github.com/unloggedio/intellij-java-plugin) - IntelliJ plugin with java language support (1 day ago)
+- [unloggedio/unlogged-sdk](https://github.com/unloggedio/unlogged-sdk) - Unlogged SDK for recording code execution (1 day ago)
+- [tschuehly/spring-view-component](https://github.com/tschuehly/spring-view-component) - A Library to create Server Side UI Components with Spring (4 days ago)
+- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (4 days ago)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (5 days ago)
+- [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code. (6 days ago)
+- [ThomasJockin/readexpro](https://github.com/ThomasJockin/readexpro) - Readex Pro is the world-script expansion of Lexend. Lexend is a variable font empirically shown to significantly improve reading-proficiency. (1 week ago)
+- [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals (1 week ago)
 - [kagisearch/kagi-docs](https://github.com/kagisearch/kagi-docs) - Documentation for products made by Kagi Inc (1 week ago)
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc. (1 week ago)
 
