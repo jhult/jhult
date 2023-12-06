@@ -51,6 +51,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [portive/wysimark](https://github.com/portive/wysimark) - The Wysiwyg Editor for Markdown: 100% CommonMark &#43; GFM with Uploads and Image Resizing (today)
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML. (today)
+- [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors &amp; (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web &amp; more (today)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (1 day ago)
 - [ProCode-Software/BiblePuzzle](https://github.com/ProCode-Software/BiblePuzzle) - A typing game on Bible verses. It&#39;s just like Typing.com but using Bible verses. (1 day ago)
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (2 days ago)
@@ -58,9 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [unloggedio/intellij-java-plugin](https://github.com/unloggedio/intellij-java-plugin) - IntelliJ plugin with java language support (5 days ago)
 - [unloggedio/unlogged-sdk](https://github.com/unloggedio/unlogged-sdk) - Unlogged SDK for recording code execution (5 days ago)
 - [tschuehly/spring-view-component](https://github.com/tschuehly/spring-view-component) - A Library to create Server Side UI Components with Spring (1 week ago)
-- [casid/jte](https://github.com/casid/jte) - Secure and speedy templates for Java and Kotlin. (1 week ago)
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 week ago)
-- [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code. (1 week ago)
 
 #### 📫 How to reach me
 
