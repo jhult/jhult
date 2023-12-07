@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [ozum/concat-md](https://github.com/ozum/concat-md) - CLI and API to concatenate markdown files and modify as necessary. (today)
+- [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development (today)
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API (today)
+- [commenthol/md-fileserver](https://github.com/commenthol/md-fileserver) - Locally view markdown files in a browser. (today)
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (today)
+- [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown (today)
 - [portive/wysimark](https://github.com/portive/wysimark) - The Wysiwyg Editor for Markdown: 100% CommonMark &#43; GFM with Uploads and Image Resizing (1 day ago)
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML. (1 day ago)
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors &amp; (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web &amp; more (1 day ago)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (2 days ago)
-- [ProCode-Software/BiblePuzzle](https://github.com/ProCode-Software/BiblePuzzle) - A typing game on Bible verses. It&#39;s just like Typing.com but using Bible verses. (2 days ago)
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (3 days ago)
-- [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request. (4 days ago)
-- [unloggedio/intellij-java-plugin](https://github.com/unloggedio/intellij-java-plugin) - IntelliJ plugin with java language support (6 days ago)
-- [unloggedio/unlogged-sdk](https://github.com/unloggedio/unlogged-sdk) - Unlogged SDK for recording code execution (6 days ago)
-- [tschuehly/spring-view-component](https://github.com/tschuehly/spring-view-component) - A Library to create Server Side UI Components with Spring (1 week ago)
 
 #### 📫 How to reach me
 
