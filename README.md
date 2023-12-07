@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (today)
 - [ozum/concat-md](https://github.com/ozum/concat-md) - CLI and API to concatenate markdown files and modify as necessary. (today)
 - [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development (today)
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API (today)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [portive/wysimark](https://github.com/portive/wysimark) - The Wysiwyg Editor for Markdown: 100% CommonMark &#43; GFM with Uploads and Image Resizing (1 day ago)
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML. (1 day ago)
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors &amp; (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web &amp; more (1 day ago)
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (2 days ago)
 
 #### 📫 How to reach me
 
