@@ -14,23 +14,23 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (1 day ago)
+- [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (2 days ago)
 - [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (3 weeks ago)
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Make a backup of your private and public slack messages, threads, files, and users locally. (4 weeks ago)
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) -  (2 months ago)
 - [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) - SLF4J (1.7.x) Backend for JBoss Logging (3 months ago)
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (3 months ago)
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) - List of known problematic browser extensions (4 months ago)
-- [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts (4 months ago)
+- [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts (5 months ago)
 - [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (6 months ago)
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) - Builds Dockerfile using the Docker client (with squashing! and secrets!) (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.3.26](https://github.com/vaadin/flow/releases/tag/23.3.26), today) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.10.5.0](https://github.com/http4k/http4k/releases/tag/5.10.5.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.3.26](https://github.com/vaadin/flow/releases/tag/23.3.26), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.10.5.0](https://github.com/http4k/http4k/releases/tag/5.10.5.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.4.6](https://github.com/rusq/slackdump/releases/tag/v2.4.6), 1 week ago) - Make a backup of your private and public slack messages, threads, files, and users locally.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.24.3](https://github.com/netbirdio/netbird/releases/tag/v0.24.3), 1 week ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.24.3](https://github.com/netbirdio/netbird/releases/tag/v0.24.3), 2 weeks ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 5 months ago) - 
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 5 months ago) - List of known problematic browser extensions
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 6 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
@@ -38,8 +38,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (1 day ago)
-- [fix: warning in TaskRunDevBundleBuild when README exists (#18210)](https://github.com/vaadin/flow/pull/18226) on [vaadin/flow](https://github.com/vaadin/flow) (1 day ago)
+- [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (2 days ago)
+- [fix: warning in TaskRunDevBundleBuild when README exists (#18210)](https://github.com/vaadin/flow/pull/18226) on [vaadin/flow](https://github.com/vaadin/flow) (2 days ago)
 - [chore(docs): update docs regarding contributing](https://github.com/cloudgraphdev/cli/pull/120) on [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) (3 weeks ago)
 - [Remove Cloudgraph](https://github.com/kunovsky/paid-open-source-projects/pull/6) on [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) (3 weeks ago)
 - [Fix emoji-failfast](https://github.com/rusq/slackdump/pull/246) on [rusq/slackdump](https://github.com/rusq/slackdump) (4 weeks ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (today)
-- [ozum/concat-md](https://github.com/ozum/concat-md) - CLI and API to concatenate markdown files and modify as necessary. (today)
-- [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development (today)
-- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API (today)
-- [commenthol/md-fileserver](https://github.com/commenthol/md-fileserver) - Locally view markdown files in a browser. (today)
-- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (today)
-- [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown (today)
-- [portive/wysimark](https://github.com/portive/wysimark) - The Wysiwyg Editor for Markdown: 100% CommonMark &#43; GFM with Uploads and Image Resizing (1 day ago)
-- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML. (1 day ago)
-- [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors &amp; (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web &amp; more (1 day ago)
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (1 day ago)
+- [ozum/concat-md](https://github.com/ozum/concat-md) - CLI and API to concatenate markdown files and modify as necessary. (1 day ago)
+- [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development (1 day ago)
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API (1 day ago)
+- [commenthol/md-fileserver](https://github.com/commenthol/md-fileserver) - Locally view markdown files in a browser. (1 day ago)
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (1 day ago)
+- [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown (1 day ago)
+- [portive/wysimark](https://github.com/portive/wysimark) - The Wysiwyg Editor for Markdown: 100% CommonMark &#43; GFM with Uploads and Image Resizing (2 days ago)
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML. (2 days ago)
+- [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors &amp; (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web &amp; more (2 days ago)
 
 #### 📫 How to reach me
 
