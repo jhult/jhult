@@ -38,6 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (today)
 - [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (3 days ago)
 - [fix: warning in TaskRunDevBundleBuild when README exists (#18210)](https://github.com/vaadin/flow/pull/18226) on [vaadin/flow](https://github.com/vaadin/flow) (3 days ago)
 - [chore(docs): update docs regarding contributing](https://github.com/cloudgraphdev/cli/pull/120) on [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) (3 weeks ago)
@@ -47,7 +48,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [fix: typo in README - &#34;SLFJ4J&#34; -&gt; &#34;SLF4J&#34;](https://github.com/jboss-logging/slf4j-jboss-logging/pull/38) on [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) (3 months ago)
 - [fix: typo for TracerBullet URL in README](https://github.com/http4k/http4k/pull/966) on [http4k/http4k](https://github.com/http4k/http4k) (3 months ago)
 - [Make print output clearer](https://github.com/palant/malicious-extensions-list/pull/2) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (4 months ago)
-- [feat: add Brave Browser](https://github.com/palant/malicious-extensions-list/pull/1) on [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) (4 months ago)
 
 #### ⭐ Recent Stars
 
