@@ -51,6 +51,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line (today)
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It&#39;s 2023 and PySimpleGUI is actively developed &amp; supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325&#43; Demo programs &amp; Cookbook for rapid start. Extensive docs (1 day ago)
 - [csala/mdformat-simple-breaks](https://github.com/csala/mdformat-simple-breaks) - mdformat plugin to render thematic breaks using three dashes (1 day ago)
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer &amp; language server for Python (1 day ago)
@@ -60,7 +61,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Glowstudent777/YouVersion-API](https://github.com/Glowstudent777/YouVersion-API) - Express Rest API for getting verses and such from YouVersion. (2 days ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (2 days ago)
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (3 days ago)
-- [ozum/concat-md](https://github.com/ozum/concat-md) - CLI and API to concatenate markdown files and modify as necessary. (3 days ago)
 
 #### 📫 How to reach me
 
