@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (3 days ago)
-- [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (3 weeks ago)
+- [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (4 days ago)
+- [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (4 weeks ago)
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Make a backup of your private and public slack messages, threads, files, and users locally. (1 month ago)
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) -  (2 months ago)
 - [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) - SLF4J (1.7.x) Backend for JBoss Logging (3 months ago)
@@ -27,9 +27,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.24.4](https://github.com/netbirdio/netbird/releases/tag/v0.24.4), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.3.26](https://github.com/vaadin/flow/releases/tag/23.3.26), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.10.5.0](https://github.com/http4k/http4k/releases/tag/5.10.5.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.24.4](https://github.com/netbirdio/netbird/releases/tag/v0.24.4), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.3.26](https://github.com/vaadin/flow/releases/tag/23.3.26), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.10.5.0](https://github.com/http4k/http4k/releases/tag/5.10.5.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.4.6](https://github.com/rusq/slackdump/releases/tag/v2.4.6), 1 week ago) - Make a backup of your private and public slack messages, threads, files, and users locally.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 5 months ago) - 
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 5 months ago) - List of known problematic browser extensions
@@ -38,10 +38,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (today)
-- [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (today)
-- [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (3 days ago)
-- [fix: warning in TaskRunDevBundleBuild when README exists (#18210)](https://github.com/vaadin/flow/pull/18226) on [vaadin/flow](https://github.com/vaadin/flow) (3 days ago)
+- [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (1 day ago)
+- [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (1 day ago)
+- [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (4 days ago)
+- [fix: warning in TaskRunDevBundleBuild when README exists (#18210)](https://github.com/vaadin/flow/pull/18226) on [vaadin/flow](https://github.com/vaadin/flow) (4 days ago)
 - [chore(docs): update docs regarding contributing](https://github.com/cloudgraphdev/cli/pull/120) on [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) (3 weeks ago)
 - [Remove Cloudgraph](https://github.com/kunovsky/paid-open-source-projects/pull/6) on [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) (3 weeks ago)
 - [Fix emoji-failfast](https://github.com/rusq/slackdump/pull/246) on [rusq/slackdump](https://github.com/rusq/slackdump) (1 month ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It&#39;s 2023 and PySimpleGUI is actively developed &amp; supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325&#43; Demo programs &amp; Cookbook for rapid start. Extensive docs (today)
-- [csala/mdformat-simple-breaks](https://github.com/csala/mdformat-simple-breaks) - mdformat plugin to render thematic breaks using three dashes (today)
-- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer &amp; language server for Python (today)
-- [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix (today)
-- [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners) - Save $$$ and make GitHub Actions go brrr with third-party runners (today)
-- [WarpBuilds/warpbuild-agent](https://github.com/WarpBuilds/warpbuild-agent) - Application for runner lifecycle management (today)
-- [Glowstudent777/YouVersion-API](https://github.com/Glowstudent777/YouVersion-API) - Express Rest API for getting verses and such from YouVersion. (1 day ago)
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (1 day ago)
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (2 days ago)
-- [ozum/concat-md](https://github.com/ozum/concat-md) - CLI and API to concatenate markdown files and modify as necessary. (2 days ago)
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It&#39;s 2023 and PySimpleGUI is actively developed &amp; supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325&#43; Demo programs &amp; Cookbook for rapid start. Extensive docs (1 day ago)
+- [csala/mdformat-simple-breaks](https://github.com/csala/mdformat-simple-breaks) - mdformat plugin to render thematic breaks using three dashes (1 day ago)
+- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer &amp; language server for Python (1 day ago)
+- [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix (1 day ago)
+- [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners) - Save $$$ and make GitHub Actions go brrr with third-party runners (1 day ago)
+- [WarpBuilds/warpbuild-agent](https://github.com/WarpBuilds/warpbuild-agent) - Application for runner lifecycle management (1 day ago)
+- [Glowstudent777/YouVersion-API](https://github.com/Glowstudent777/YouVersion-API) - Express Rest API for getting verses and such from YouVersion. (2 days ago)
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (2 days ago)
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (3 days ago)
+- [ozum/concat-md](https://github.com/ozum/concat-md) - CLI and API to concatenate markdown files and modify as necessary. (3 days ago)
 
 #### 📫 How to reach me
 
