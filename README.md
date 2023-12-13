@@ -52,6 +52,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (today)
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly (3 days ago)
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/ (3 days ago)
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line (3 days ago)
@@ -61,7 +62,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix (4 days ago)
 - [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners) - Save $$$ and make GitHub Actions go brrr with third-party runners (4 days ago)
 - [WarpBuilds/warpbuild-agent](https://github.com/WarpBuilds/warpbuild-agent) - Application for runner lifecycle management (4 days ago)
-- [Glowstudent777/YouVersion-API](https://github.com/Glowstudent777/YouVersion-API) - Express Rest API for getting verses and such from YouVersion. (5 days ago)
 
 #### 📫 How to reach me
 
