@@ -52,6 +52,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [SMUsamaShah/LookupChatGPT](https://github.com/SMUsamaShah/LookupChatGPT) - A chrome extension which looks up selected text via ChatGPT using your custom prompts (today)
+- [losfair/supernova](https://github.com/losfair/supernova) - A control plane for the Nebula overlay networking system. (today)
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose (today)
 - [mihemihe/myADMonitor](https://github.com/mihemihe/myADMonitor) - myADMonitor is an open-source Active Directory changes tracking tool (today)
 - [BenderV/ada](https://github.com/BenderV/ada) - Accelerate your data analysis with AI. (today)
@@ -60,8 +62,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [simonrob/email-oauth2-proxy](https://github.com/simonrob/email-oauth2-proxy) - An IMAP/POP/SMTP proxy that transparently adds OAuth 2.0 authentication for email clients that don&#39;t support this method. (today)
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers (today)
 - [iansinnott/full-text-tabs-forever](https://github.com/iansinnott/full-text-tabs-forever) - Full text search all your browsing history (today)
-- [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests. (1 day ago)
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 day ago)
 
 #### 📫 How to reach me
 
