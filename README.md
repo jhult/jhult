@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (2 days ago)
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (4 days ago)
+- [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (3 days ago)
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (5 days ago)
 - [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (1 month ago)
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Make a backup of your private and public slack messages, threads, files, and users locally. (1 month ago)
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) -  (2 months ago)
@@ -27,9 +27,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.10.7.0](https://github.com/http4k/http4k/releases/tag/5.10.7.0), today) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.0](https://github.com/vaadin/flow/releases/tag/24.3.0), today) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.24.4](https://github.com/netbirdio/netbird/releases/tag/v0.24.4), 5 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.10.7.0](https://github.com/http4k/http4k/releases/tag/5.10.7.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.0](https://github.com/vaadin/flow/releases/tag/24.3.0), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.24.4](https://github.com/netbirdio/netbird/releases/tag/v0.24.4), 6 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 2 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.4.6](https://github.com/rusq/slackdump/releases/tag/v2.4.6), 2 weeks ago) - Make a backup of your private and public slack messages, threads, files, and users locally.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 5 months ago) - 
@@ -39,8 +39,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (4 days ago)
-- [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (4 days ago)
+- [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (5 days ago)
+- [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (5 days ago)
 - [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (1 week ago)
 - [fix: warning in TaskRunDevBundleBuild when README exists (#18210)](https://github.com/vaadin/flow/pull/18226) on [vaadin/flow](https://github.com/vaadin/flow) (1 week ago)
 - [chore(docs): update docs regarding contributing](https://github.com/cloudgraphdev/cli/pull/120) on [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) (1 month ago)
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests. (today)
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (today)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly (3 days ago)
-- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/ (3 days ago)
-- [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line (3 days ago)
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It&#39;s 2023 and PySimpleGUI is actively developed &amp; supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325&#43; Demo programs &amp; Cookbook for rapid start. Extensive docs (4 days ago)
-- [csala/mdformat-simple-breaks](https://github.com/csala/mdformat-simple-breaks) - mdformat plugin to render thematic breaks using three dashes (4 days ago)
-- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer &amp; language server for Python (4 days ago)
-- [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix (4 days ago)
-- [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners) - Save $$$ and make GitHub Actions go brrr with third-party runners (4 days ago)
+- [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests. (1 day ago)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 day ago)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly (4 days ago)
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/ (4 days ago)
+- [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line (4 days ago)
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It&#39;s 2023 and PySimpleGUI is actively developed &amp; supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325&#43; Demo programs &amp; Cookbook for rapid start. Extensive docs (5 days ago)
+- [csala/mdformat-simple-breaks](https://github.com/csala/mdformat-simple-breaks) - mdformat plugin to render thematic breaks using three dashes (5 days ago)
+- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer &amp; language server for Python (5 days ago)
+- [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix (5 days ago)
+- [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners) - Save $$$ and make GitHub Actions go brrr with third-party runners (5 days ago)
 
 #### 📫 How to reach me
 
