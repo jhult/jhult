@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (3 days ago)
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (5 days ago)
+- [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (4 days ago)
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (6 days ago)
 - [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (1 month ago)
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Make a backup of your private and public slack messages, threads, files, and users locally. (1 month ago)
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) -  (2 months ago)
@@ -27,9 +27,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.10.7.0](https://github.com/http4k/http4k/releases/tag/5.10.7.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.0](https://github.com/vaadin/flow/releases/tag/24.3.0), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.24.4](https://github.com/netbirdio/netbird/releases/tag/v0.24.4), 6 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.10.7.0](https://github.com/http4k/http4k/releases/tag/5.10.7.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.0](https://github.com/vaadin/flow/releases/tag/24.3.0), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.24.4](https://github.com/netbirdio/netbird/releases/tag/v0.24.4), 1 week ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 2 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.4.6](https://github.com/rusq/slackdump/releases/tag/v2.4.6), 2 weeks ago) - Make a backup of your private and public slack messages, threads, files, and users locally.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 5 months ago) - 
@@ -39,8 +39,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (5 days ago)
-- [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (5 days ago)
+- [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (6 days ago)
+- [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (6 days ago)
 - [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (1 week ago)
 - [fix: warning in TaskRunDevBundleBuild when README exists (#18210)](https://github.com/vaadin/flow/pull/18226) on [vaadin/flow](https://github.com/vaadin/flow) (1 week ago)
 - [chore(docs): update docs regarding contributing](https://github.com/cloudgraphdev/cli/pull/120) on [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) (1 month ago)
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform. (today)
-- [SMUsamaShah/LookupChatGPT](https://github.com/SMUsamaShah/LookupChatGPT) - A chrome extension which looks up selected text via ChatGPT using your custom prompts (today)
-- [losfair/supernova](https://github.com/losfair/supernova) - A control plane for the Nebula overlay networking system. (today)
-- [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose (today)
-- [mihemihe/myADMonitor](https://github.com/mihemihe/myADMonitor) - myADMonitor is an open-source Active Directory changes tracking tool (today)
-- [BenderV/ada](https://github.com/BenderV/ada) - Accelerate your data analysis with AI. (today)
-- [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases (today)
-- [vinc/littlewing](https://github.com/vinc/littlewing) - Chess engine written in Rust ♛ (today)
-- [simonrob/email-oauth2-proxy](https://github.com/simonrob/email-oauth2-proxy) - An IMAP/POP/SMTP proxy that transparently adds OAuth 2.0 authentication for email clients that don&#39;t support this method. (today)
-- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers (today)
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform. (1 day ago)
+- [SMUsamaShah/LookupChatGPT](https://github.com/SMUsamaShah/LookupChatGPT) - A chrome extension which looks up selected text via ChatGPT using your custom prompts (1 day ago)
+- [losfair/supernova](https://github.com/losfair/supernova) - A control plane for the Nebula overlay networking system. (1 day ago)
+- [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose (1 day ago)
+- [mihemihe/myADMonitor](https://github.com/mihemihe/myADMonitor) - myADMonitor is an open-source Active Directory changes tracking tool (1 day ago)
+- [BenderV/ada](https://github.com/BenderV/ada) - Accelerate your data analysis with AI. (1 day ago)
+- [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases (1 day ago)
+- [vinc/littlewing](https://github.com/vinc/littlewing) - Chess engine written in Rust ♛ (1 day ago)
+- [simonrob/email-oauth2-proxy](https://github.com/simonrob/email-oauth2-proxy) - An IMAP/POP/SMTP proxy that transparently adds OAuth 2.0 authentication for email clients that don&#39;t support this method. (1 day ago)
+- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers (1 day ago)
 
 #### 📫 How to reach me
 
