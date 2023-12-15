@@ -52,6 +52,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (today)
+- [Olshansk/interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview (today)
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform. (1 day ago)
 - [SMUsamaShah/LookupChatGPT](https://github.com/SMUsamaShah/LookupChatGPT) - A chrome extension which looks up selected text via ChatGPT using your custom prompts (1 day ago)
 - [losfair/supernova](https://github.com/losfair/supernova) - A control plane for the Nebula overlay networking system. (1 day ago)
@@ -60,8 +62,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [BenderV/ada](https://github.com/BenderV/ada) - Accelerate your data analysis with AI. (1 day ago)
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases (1 day ago)
 - [vinc/littlewing](https://github.com/vinc/littlewing) - Chess engine written in Rust ♛ (1 day ago)
-- [simonrob/email-oauth2-proxy](https://github.com/simonrob/email-oauth2-proxy) - An IMAP/POP/SMTP proxy that transparently adds OAuth 2.0 authentication for email clients that don&#39;t support this method. (1 day ago)
-- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers (1 day ago)
 
 #### 📫 How to reach me
 
