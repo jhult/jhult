@@ -52,6 +52,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [dybdeskarphet/privacy-redirector](https://github.com/dybdeskarphet/privacy-redirector) - 🔀 Redirect social media platforms to their privacy respecting frontends (today)
 - [grafana/beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of HTTP and HTTPS services (today)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (today)
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (1 day ago)
@@ -61,7 +62,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [losfair/supernova](https://github.com/losfair/supernova) - A control plane for the Nebula overlay networking system. (2 days ago)
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose (2 days ago)
 - [mihemihe/myADMonitor](https://github.com/mihemihe/myADMonitor) - myADMonitor is an open-source Active Directory changes tracking tool (2 days ago)
-- [BenderV/ada](https://github.com/BenderV/ada) - Accelerate your data analysis with AI. (2 days ago)
 
 #### 📫 How to reach me
 
