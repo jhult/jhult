@@ -52,6 +52,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [thomasleplus/java-sql-inspector](https://github.com/thomasleplus/java-sql-inspector) - Utility to test Java code for SQL injection vulnerabilities. (today)
+- [oceanbase/odc](https://github.com/oceanbase/odc) - An open-source, enterprise-grade database tool for collaborative development (today)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM (today)
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3 (today)
 - [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java (today)
@@ -60,8 +62,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [dybdeskarphet/privacy-redirector](https://github.com/dybdeskarphet/privacy-redirector) - 🔀 Redirect social media platforms to their privacy respecting frontends (2 days ago)
 - [grafana/beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of HTTP and HTTPS services (2 days ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 days ago)
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (3 days ago)
-- [Olshansk/interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview (3 days ago)
 
 #### 📫 How to reach me
 
