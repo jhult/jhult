@@ -52,6 +52,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [codeforamerica/form-flow](https://github.com/codeforamerica/form-flow) - A Java library placed in a Spring Boot app to generate form flows. (today)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes (today)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (today)
 - [sandbox-quantum/sandwich](https://github.com/sandbox-quantum/sandwich) - Sandwich is a multi-platform, multi-language, open-source library that provides a simple unified API for developers to use (multiple) cryptographic libraries in their applications. (1 day ago)
 - [thomasleplus/java-sql-inspector](https://github.com/thomasleplus/java-sql-inspector) - Utility to test Java code for SQL injection vulnerabilities. (1 day ago)
@@ -60,8 +62,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3 (1 day ago)
 - [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java (1 day ago)
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (2 days ago)
-- [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit &amp; Tailwind CSS. (3 days ago)
-- [dybdeskarphet/privacy-redirector](https://github.com/dybdeskarphet/privacy-redirector) - 🔀 Redirect social media platforms to their privacy respecting frontends (3 days ago)
 
 #### 📫 How to reach me
 
