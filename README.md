@@ -14,6 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
+- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (1 day ago)
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (1 week ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (1 week ago)
 - [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (1 month ago)
@@ -23,7 +24,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (4 months ago)
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) - List of known problematic browser extensions (4 months ago)
 - [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts (5 months ago)
-- [http4k/http4k-by-example](https://github.com/http4k/http4k-by-example) - Complete TDD&#39;d example http4k application showcasing a lot of the http4k features for building apps (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -32,6 +32,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [vaadin/flow](https://github.com/vaadin/flow) ([24.3.1](https://github.com/vaadin/flow/releases/tag/24.3.1), 6 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 3 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.4.6](https://github.com/rusq/slackdump/releases/tag/v2.4.6), 3 weeks ago) - Make a backup of your private and public slack messages, threads, files, and users locally.
+- [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.0](https://github.com/kotest/kotest/releases/tag/v5.8.0), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 5 months ago) - 
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 6 months ago) - List of known problematic browser extensions
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 7 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
@@ -39,6 +40,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [docs: fix EnabledCondition example (interface, not class)](https://github.com/kotest/kotest/pull/3810) on [kotest/kotest](https://github.com/kotest/kotest) (today)
 - [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (1 week ago)
 - [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (1 week ago)
 - [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (2 weeks ago)
@@ -48,7 +50,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Fix emoji-failfast](https://github.com/rusq/slackdump/pull/246) on [rusq/slackdump](https://github.com/rusq/slackdump) (1 month ago)
 - [fix: allow Firebase Cloud Messaging](https://github.com/jerryn70/GoodbyeAds/pull/444) on [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) (2 months ago)
 - [fix: typo in README - &#34;SLFJ4J&#34; -&gt; &#34;SLF4J&#34;](https://github.com/jboss-logging/slf4j-jboss-logging/pull/38) on [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) (4 months ago)
-- [fix: typo for TracerBullet URL in README](https://github.com/http4k/http4k/pull/966) on [http4k/http4k](https://github.com/http4k/http4k) (4 months ago)
 
 #### ⭐ Recent Stars
 
