@@ -14,12 +14,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (1 day ago)
+- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (2 days ago)
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (1 week ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (1 week ago)
 - [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (1 month ago)
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Make a backup of your private and public slack messages, threads, files, and users locally. (1 month ago)
-- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) -  (2 months ago)
+- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) -  (3 months ago)
 - [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) - SLF4J (1.7.x) Backend for JBoss Logging (4 months ago)
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (4 months ago)
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) - List of known problematic browser extensions (4 months ago)
@@ -27,20 +27,20 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.25.1](https://github.com/netbirdio/netbird/releases/tag/v0.25.1), 1 day ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.11.1.0](https://github.com/http4k/http4k/releases/tag/5.11.1.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.1](https://github.com/vaadin/flow/releases/tag/24.3.1), 6 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha1](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha1), today) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.25.2](https://github.com/netbirdio/netbird/releases/tag/v0.25.2), today) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.4.7](https://github.com/rusq/slackdump/releases/tag/v2.4.7), today) - Make a backup of your private and public slack messages, threads, files, and users locally.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.11.1.0](https://github.com/http4k/http4k/releases/tag/5.11.1.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 3 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.4.6](https://github.com/rusq/slackdump/releases/tag/v2.4.6), 3 weeks ago) - Make a backup of your private and public slack messages, threads, files, and users locally.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.0](https://github.com/kotest/kotest/releases/tag/v5.8.0), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
-- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 5 months ago) - 
+- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 6 months ago) - 
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 6 months ago) - List of known problematic browser extensions
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 7 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 - [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) ([1.2.1.Final](https://github.com/jboss-logging/slf4j-jboss-logging/releases/tag/1.2.1.Final), 3 years ago) - SLF4J (1.7.x) Backend for JBoss Logging
 
 #### 🔨 My recent Pull Requests
 
-- [docs: fix EnabledCondition example (interface, not class)](https://github.com/kotest/kotest/pull/3810) on [kotest/kotest](https://github.com/kotest/kotest) (today)
+- [docs: fix EnabledCondition example (interface, not class)](https://github.com/kotest/kotest/pull/3810) on [kotest/kotest](https://github.com/kotest/kotest) (1 day ago)
 - [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (1 week ago)
 - [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (1 week ago)
 - [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (2 weeks ago)
@@ -48,21 +48,21 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [chore(docs): update docs regarding contributing](https://github.com/cloudgraphdev/cli/pull/120) on [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) (1 month ago)
 - [Remove Cloudgraph](https://github.com/kunovsky/paid-open-source-projects/pull/6) on [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) (1 month ago)
 - [Fix emoji-failfast](https://github.com/rusq/slackdump/pull/246) on [rusq/slackdump](https://github.com/rusq/slackdump) (1 month ago)
-- [fix: allow Firebase Cloud Messaging](https://github.com/jerryn70/GoodbyeAds/pull/444) on [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) (2 months ago)
+- [fix: allow Firebase Cloud Messaging](https://github.com/jerryn70/GoodbyeAds/pull/444) on [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) (3 months ago)
 - [fix: typo in README - &#34;SLFJ4J&#34; -&gt; &#34;SLF4J&#34;](https://github.com/jboss-logging/slf4j-jboss-logging/pull/38) on [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (2 days ago)
-- [infiniticio/infinitic](https://github.com/infiniticio/infinitic) - Infinitic is a general-purpose framework to build distributed apps - in particular on top of Apache Pulsar. It shines particularly by making complex orchestration simple. It can be used to reliably orchestrate microservices, manage distributed transactions, operates data pipelines, builds user-facing automation, etc.  (2 days ago)
-- [reposense/RepoSense](https://github.com/reposense/RepoSense) - Contribution analysis tool for Git repositories (2 days ago)
-- [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java (2 days ago)
-- [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop &amp; Web. (2 days ago)
-- [AleoHQ/leo](https://github.com/AleoHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications (2 days ago)
-- [codeforamerica/form-flow](https://github.com/codeforamerica/form-flow) - A Java library placed in a Spring Boot app to generate form flows. (2 days ago)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes (2 days ago)
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 days ago)
-- [sandbox-quantum/sandwich](https://github.com/sandbox-quantum/sandwich) - Sandwich is a multi-platform, multi-language, open-source library that provides a simple unified API for developers to use (multiple) cryptographic libraries in their applications. (3 days ago)
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (today)
+- [sksamuel/scrimage](https://github.com/sksamuel/scrimage) - JVM - Java, Kotlin, Scala image processing library (1 day ago)
+- [sksamuel/hoplite](https://github.com/sksamuel/hoplite) - A boilerplate-free Kotlin config library for loading configuration files as data classes (1 day ago)
+- [InstallGuides/mac-install-guide](https://github.com/InstallGuides/mac-install-guide) - Installation guides for the Mac (1 day ago)
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (3 days ago)
+- [infiniticio/infinitic](https://github.com/infiniticio/infinitic) - Infinitic is a general-purpose framework to build distributed apps - in particular on top of Apache Pulsar. It shines particularly by making complex orchestration simple. It can be used to reliably orchestrate microservices, manage distributed transactions, operates data pipelines, builds user-facing automation, etc.  (3 days ago)
+- [reposense/RepoSense](https://github.com/reposense/RepoSense) - Contribution analysis tool for Git repositories (3 days ago)
+- [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java (3 days ago)
+- [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop &amp; Web. (3 days ago)
+- [AleoHQ/leo](https://github.com/AleoHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications (3 days ago)
 
 #### 📫 How to reach me
 
