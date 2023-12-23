@@ -53,6 +53,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [gregsadetsky/tps](https://github.com/gregsadetsky/tps) -  (today)
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (today)
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers (1 day ago)
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality. (1 day ago)
@@ -62,7 +63,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [InstallGuides/mac-install-guide](https://github.com/InstallGuides/mac-install-guide) - Installation guides for the Mac (2 days ago)
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (4 days ago)
 - [infiniticio/infinitic](https://github.com/infiniticio/infinitic) - Infinitic is a general-purpose framework to build distributed apps - in particular on top of Apache Pulsar. It shines particularly by making complex orchestration simple. It can be used to reliably orchestrate microservices, manage distributed transactions, operates data pipelines, builds user-facing automation, etc.  (4 days ago)
-- [reposense/RepoSense](https://github.com/reposense/RepoSense) - Contribution analysis tool for Git repositories (4 days ago)
 
 #### 📫 How to reach me
 
