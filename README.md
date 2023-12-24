@@ -53,6 +53,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [statebacked/smply](https://github.com/statebacked/smply) - CLI for the StateBacked.dev XState backend as a service (today)
 - [gregsadetsky/tps](https://github.com/gregsadetsky/tps) -  (1 day ago)
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (1 day ago)
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers (2 days ago)
@@ -62,7 +63,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [sksamuel/hoplite](https://github.com/sksamuel/hoplite) - A boilerplate-free Kotlin config library for loading configuration files as data classes (3 days ago)
 - [InstallGuides/mac-install-guide](https://github.com/InstallGuides/mac-install-guide) - Installation guides for the Mac (3 days ago)
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (5 days ago)
-- [infiniticio/infinitic](https://github.com/infiniticio/infinitic) - Infinitic is a general-purpose framework to build distributed apps - in particular on top of Apache Pulsar. It shines particularly by making complex orchestration simple. It can be used to reliably orchestrate microservices, manage distributed transactions, operates data pipelines, builds user-facing automation, etc.  (5 days ago)
 
 #### 📫 How to reach me
 
