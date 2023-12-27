@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (6 days ago)
+- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (1 week ago)
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (2 weeks ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (2 weeks ago)
 - [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (1 month ago)
@@ -27,11 +27,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha1](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha1), 4 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.25.2](https://github.com/netbirdio/netbird/releases/tag/v0.25.2), 4 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.4.7](https://github.com/rusq/slackdump/releases/tag/v2.4.7), 4 days ago) - Make a backup of your private and public slack messages, threads, files, and users locally.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.11.1.0](https://github.com/http4k/http4k/releases/tag/5.11.1.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 3 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha1](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha1), 5 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.25.2](https://github.com/netbirdio/netbird/releases/tag/v0.25.2), 5 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.4.7](https://github.com/rusq/slackdump/releases/tag/v2.4.7), 5 days ago) - Make a backup of your private and public slack messages, threads, files, and users locally.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.11.1.0](https://github.com/http4k/http4k/releases/tag/5.11.1.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 4 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.0](https://github.com/kotest/kotest/releases/tag/v5.8.0), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 6 months ago) - 
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 6 months ago) - List of known problematic browser extensions
@@ -40,11 +40,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [docs: fix EnabledCondition example (interface, not class)](https://github.com/kotest/kotest/pull/3810) on [kotest/kotest](https://github.com/kotest/kotest) (5 days ago)
+- [docs: fix EnabledCondition example (interface, not class)](https://github.com/kotest/kotest/pull/3810) on [kotest/kotest](https://github.com/kotest/kotest) (6 days ago)
 - [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (2 weeks ago)
 - [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (2 weeks ago)
-- [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (2 weeks ago)
-- [fix: warning in TaskRunDevBundleBuild when README exists (#18210)](https://github.com/vaadin/flow/pull/18226) on [vaadin/flow](https://github.com/vaadin/flow) (2 weeks ago)
+- [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (3 weeks ago)
+- [fix: warning in TaskRunDevBundleBuild when README exists (#18210)](https://github.com/vaadin/flow/pull/18226) on [vaadin/flow](https://github.com/vaadin/flow) (3 weeks ago)
 - [chore(docs): update docs regarding contributing](https://github.com/cloudgraphdev/cli/pull/120) on [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) (1 month ago)
 - [Remove Cloudgraph](https://github.com/kunovsky/paid-open-source-projects/pull/6) on [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) (1 month ago)
 - [Fix emoji-failfast](https://github.com/rusq/slackdump/pull/246) on [rusq/slackdump](https://github.com/rusq/slackdump) (1 month ago)
@@ -53,16 +53,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [gnat/css-scope-inline](https://github.com/gnat/css-scope-inline) - 🌘 Scope your inline style tags in pure vanilla CSS! Only 16 lines. No build. No dependencies. (2 days ago)
-- [statebacked/smply](https://github.com/statebacked/smply) - CLI for the StateBacked.dev XState backend as a service (2 days ago)
-- [gregsadetsky/tps](https://github.com/gregsadetsky/tps) -  (3 days ago)
-- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (3 days ago)
-- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers (4 days ago)
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality. (4 days ago)
-- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (4 days ago)
-- [sksamuel/scrimage](https://github.com/sksamuel/scrimage) - JVM - Java, Kotlin, Scala image processing library (5 days ago)
-- [sksamuel/hoplite](https://github.com/sksamuel/hoplite) - A boilerplate-free Kotlin config library for loading configuration files as data classes (5 days ago)
-- [InstallGuides/mac-install-guide](https://github.com/InstallGuides/mac-install-guide) - Installation guides for the Mac (5 days ago)
+- [gnat/css-scope-inline](https://github.com/gnat/css-scope-inline) - 🌘 Scope your inline style tags in pure vanilla CSS! Only 16 lines. No build. No dependencies. (3 days ago)
+- [statebacked/smply](https://github.com/statebacked/smply) - CLI for the StateBacked.dev XState backend as a service (3 days ago)
+- [gregsadetsky/tps](https://github.com/gregsadetsky/tps) -  (4 days ago)
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (4 days ago)
+- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers (5 days ago)
+- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality. (5 days ago)
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (5 days ago)
+- [sksamuel/scrimage](https://github.com/sksamuel/scrimage) - JVM - Java, Kotlin, Scala image processing library (6 days ago)
+- [sksamuel/hoplite](https://github.com/sksamuel/hoplite) - A boilerplate-free Kotlin config library for loading configuration files as data classes (6 days ago)
+- [InstallGuides/mac-install-guide](https://github.com/InstallGuides/mac-install-guide) - Installation guides for the Mac (6 days ago)
 
 #### 📫 How to reach me
 
