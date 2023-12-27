@@ -53,6 +53,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more (today)
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (today)
 - [gnat/css-scope-inline](https://github.com/gnat/css-scope-inline) - 🌘 Scope your inline style tags in pure vanilla CSS! Only 16 lines. No build. No dependencies. (3 days ago)
 - [statebacked/smply](https://github.com/statebacked/smply) - CLI for the StateBacked.dev XState backend as a service (3 days ago)
 - [gregsadetsky/tps](https://github.com/gregsadetsky/tps) -  (4 days ago)
@@ -61,8 +63,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality. (5 days ago)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (5 days ago)
 - [sksamuel/scrimage](https://github.com/sksamuel/scrimage) - JVM - Java, Kotlin, Scala image processing library (6 days ago)
-- [sksamuel/hoplite](https://github.com/sksamuel/hoplite) - A boilerplate-free Kotlin config library for loading configuration files as data classes (6 days ago)
-- [InstallGuides/mac-install-guide](https://github.com/InstallGuides/mac-install-guide) - Installation guides for the Mac (6 days ago)
 
 #### 📫 How to reach me
 
