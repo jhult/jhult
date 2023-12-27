@@ -53,6 +53,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (today)
 - [mahmoud/calver](https://github.com/mahmoud/calver) - 📅 The web&#39;s go-to resource for Calendar Versioning info. (today)
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more (today)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (today)
@@ -62,7 +63,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (4 days ago)
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers (5 days ago)
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality. (5 days ago)
-- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (5 days ago)
 
 #### 📫 How to reach me
 
