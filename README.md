@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (1 week ago)
+- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (2 weeks ago)
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (3 weeks ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (3 weeks ago)
 - [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (1 month ago)
@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.0-beta](https://github.com/rusq/slackdump/releases/tag/v2.5.0-beta), 3 days ago) - Make a backup of your private and public slack messages, threads, files, and users locally.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.12.0.0](https://github.com/http4k/http4k/releases/tag/5.12.0.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.0-beta](https://github.com/rusq/slackdump/releases/tag/v2.5.0-beta), 4 days ago) - Make a backup of your private and public slack messages, threads, files, and users locally.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.12.0.0](https://github.com/http4k/http4k/releases/tag/5.12.0.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha1](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha1), 1 week ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.25.2](https://github.com/netbirdio/netbird/releases/tag/v0.25.2), 1 week ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -43,8 +43,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [docs: fix EnabledCondition example (interface, not class)](https://github.com/kotest/kotest/pull/3810) on [kotest/kotest](https://github.com/kotest/kotest) (1 week ago)
 - [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (3 weeks ago)
 - [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (3 weeks ago)
-- [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (3 weeks ago)
-- [fix: warning in TaskRunDevBundleBuild when README exists (#18210)](https://github.com/vaadin/flow/pull/18226) on [vaadin/flow](https://github.com/vaadin/flow) (3 weeks ago)
+- [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (4 weeks ago)
+- [fix: warning in TaskRunDevBundleBuild when README exists (#18210)](https://github.com/vaadin/flow/pull/18226) on [vaadin/flow](https://github.com/vaadin/flow) (4 weeks ago)
 - [chore(docs): update docs regarding contributing](https://github.com/cloudgraphdev/cli/pull/120) on [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) (1 month ago)
 - [Remove Cloudgraph](https://github.com/kunovsky/paid-open-source-projects/pull/6) on [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) (1 month ago)
 - [Fix emoji-failfast](https://github.com/rusq/slackdump/pull/246) on [rusq/slackdump](https://github.com/rusq/slackdump) (1 month ago)
@@ -53,16 +53,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [aaronjensen/software-development](https://github.com/aaronjensen/software-development) - Notes and articles on software development. All content is original. Most of the content reflects the way that our current software team operates. (1 day ago)
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email management tools to reach inbox zero fast. (3 days ago)
-- [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog (3 days ago)
-- [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (4 days ago)
-- [for-GET/know-your-http-well](https://github.com/for-GET/know-your-http-well) - HTTP headers, media-types, methods, relations and status codes, all summarized and linking to their specification. (4 days ago)
-- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api. (5 days ago)
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (5 days ago)
-- [pilotmoon/Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser) - Per-device scrolling prefs on macOS. (6 days ago)
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (6 days ago)
-- [mahmoud/calver](https://github.com/mahmoud/calver) - 📅 The web&#39;s go-to resource for Calendar Versioning info. (6 days ago)
+- [aaronjensen/software-development](https://github.com/aaronjensen/software-development) - Notes and articles on software development. All content is original. Most of the content reflects the way that our current software team operates. (2 days ago)
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email management tools to reach inbox zero fast. (4 days ago)
+- [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog (4 days ago)
+- [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (5 days ago)
+- [for-GET/know-your-http-well](https://github.com/for-GET/know-your-http-well) - HTTP headers, media-types, methods, relations and status codes, all summarized and linking to their specification. (5 days ago)
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api. (6 days ago)
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (6 days ago)
+- [pilotmoon/Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser) - Per-device scrolling prefs on macOS. (1 week ago)
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (1 week ago)
+- [mahmoud/calver](https://github.com/mahmoud/calver) - 📅 The web&#39;s go-to resource for Calendar Versioning info. (1 week ago)
 
 #### 📫 How to reach me
 
