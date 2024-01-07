@@ -23,13 +23,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) - SLF4J (1.7.x) Backend for JBoss Logging (4 months ago)
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (4 months ago)
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) - List of known problematic browser extensions (5 months ago)
-- [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts (5 months ago)
+- [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.12.1.0](https://github.com/http4k/http4k/releases/tag/5.12.1.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.1](https://github.com/rusq/slackdump/releases/tag/v2.5.1), 1 day ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.25.3](https://github.com/netbirdio/netbird/releases/tag/v0.25.3), 2 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.12.1.0](https://github.com/http4k/http4k/releases/tag/5.12.1.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.1](https://github.com/rusq/slackdump/releases/tag/v2.5.1), 2 days ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.25.3](https://github.com/netbirdio/netbird/releases/tag/v0.25.3), 3 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha1](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha1), 2 weeks ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.0](https://github.com/kotest/kotest/releases/tag/v5.8.0), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
@@ -53,14 +53,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built in top of Puppeteer. (1 day ago)
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (2 days ago)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more. (2 days ago)
-- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser (2 days ago)
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (2 days ago)
-- [taybenlor/runno](https://github.com/taybenlor/runno) - Browser-based runtime for programming languages and WASI binaries. (2 days ago)
-- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter (2 days ago)
-- [aaronjensen/software-development](https://github.com/aaronjensen/software-development) - Notes and articles on software development. All content is original. Most of the content reflects the way that our current software team operates. (5 days ago)
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built in top of Puppeteer. (2 days ago)
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (3 days ago)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more. (3 days ago)
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser (3 days ago)
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (3 days ago)
+- [taybenlor/runno](https://github.com/taybenlor/runno) - Browser-based runtime for programming languages and WASI binaries. (3 days ago)
+- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter (3 days ago)
+- [aaronjensen/software-development](https://github.com/aaronjensen/software-development) - Notes and articles on software development. All content is original. Most of the content reflects the way that our current software team operates. (6 days ago)
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email management tools to reach inbox zero fast. (1 week ago)
 - [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog (1 week ago)
 
