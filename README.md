@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (2 weeks ago)
-- [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (4 weeks ago)
+- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (3 weeks ago)
+- [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (1 month ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (1 month ago)
 - [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (1 month ago)
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges. (2 months ago)
@@ -27,15 +27,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.2](https://github.com/rusq/slackdump/releases/tag/v2.5.2), 1 day ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.12.1.0](https://github.com/http4k/http4k/releases/tag/5.12.1.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) ([v0.25.3](https://github.com/netbirdio/netbird/releases/tag/v0.25.3), 5 days ago) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.2](https://github.com/rusq/slackdump/releases/tag/v2.5.2), 2 days ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.12.1.0](https://github.com/http4k/http4k/releases/tag/5.12.1.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha1](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha1), 2 weeks ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.0](https://github.com/kotest/kotest/releases/tag/v5.8.0), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 6 months ago) - 
-- [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 6 months ago) - List of known problematic browser extensions
-- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 7 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
+- [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 7 months ago) - List of known problematic browser extensions
+- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 8 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 - [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) ([1.2.1.Final](https://github.com/jboss-logging/slf4j-jboss-logging/releases/tag/1.2.1.Final), 3 years ago) - SLF4J (1.7.x) Backend for JBoss Logging
 
 #### 🔨 My recent Pull Requests
@@ -53,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust (1 day ago)
-- [LNshuti/usgov-contracts-rag](https://github.com/LNshuti/usgov-contracts-rag) - Use Text to SQL to analyze US Government contract data (1 day ago)
-- [AI-ANK/Na2SQL](https://github.com/AI-ANK/Na2SQL) - Welcome to the Natural Language to SQL demo project using LlamaIndex! This application is designed to demonstrate the innovative use of Large Language Models (LLMs) in translating natural language queries into SQL queries, and fetching meaningful insights from a database. (1 day ago)
-- [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don&#39;t waste your time with compliance. FastForward automatically skips annoying link shorteners. (1 day ago)
-- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (2 days ago)
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (2 days ago)
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built in top of Puppeteer. (4 days ago)
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (5 days ago)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more. (5 days ago)
-- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser (5 days ago)
+- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust (2 days ago)
+- [LNshuti/usgov-contracts-rag](https://github.com/LNshuti/usgov-contracts-rag) - Use Text to SQL to analyze US Government contract data (2 days ago)
+- [AI-ANK/Na2SQL](https://github.com/AI-ANK/Na2SQL) - Welcome to the Natural Language to SQL demo project using LlamaIndex! This application is designed to demonstrate the innovative use of Large Language Models (LLMs) in translating natural language queries into SQL queries, and fetching meaningful insights from a database. (2 days ago)
+- [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don&#39;t waste your time with compliance. FastForward automatically skips annoying link shorteners. (2 days ago)
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (3 days ago)
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (3 days ago)
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built in top of Puppeteer. (5 days ago)
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (6 days ago)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more. (6 days ago)
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser (6 days ago)
 
 #### 📫 How to reach me
 
