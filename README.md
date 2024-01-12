@@ -27,9 +27,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.2](https://github.com/rusq/slackdump/releases/tag/v2.5.2), 3 days ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.12.1.0](https://github.com/http4k/http4k/releases/tag/5.12.1.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha1](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha1), 2 weeks ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.3](https://github.com/vaadin/flow/releases/tag/24.3.3), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.2](https://github.com/rusq/slackdump/releases/tag/v2.5.2), 4 days ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.12.1.0](https://github.com/http4k/http4k/releases/tag/5.12.1.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.0](https://github.com/kotest/kotest/releases/tag/v5.8.0), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 6 months ago) - 
@@ -44,24 +44,24 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (1 month ago)
 - [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (1 month ago)
 - [fix: warning in TaskRunDevBundleBuild when README exists (#18210)](https://github.com/vaadin/flow/pull/18226) on [vaadin/flow](https://github.com/vaadin/flow) (1 month ago)
-- [chore(docs): update docs regarding contributing](https://github.com/cloudgraphdev/cli/pull/120) on [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) (1 month ago)
-- [Remove Cloudgraph](https://github.com/kunovsky/paid-open-source-projects/pull/6) on [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) (1 month ago)
+- [chore(docs): update docs regarding contributing](https://github.com/cloudgraphdev/cli/pull/120) on [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) (2 months ago)
+- [Remove Cloudgraph](https://github.com/kunovsky/paid-open-source-projects/pull/6) on [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) (2 months ago)
 - [Fix emoji-failfast](https://github.com/rusq/slackdump/pull/246) on [rusq/slackdump](https://github.com/rusq/slackdump) (2 months ago)
 - [fix: allow Firebase Cloud Messaging](https://github.com/jerryn70/GoodbyeAds/pull/444) on [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) (3 months ago)
 - [fix: typo in README - &#34;SLFJ4J&#34; -&gt; &#34;SLF4J&#34;](https://github.com/jboss-logging/slf4j-jboss-logging/pull/38) on [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust (3 days ago)
-- [LNshuti/usgov-contracts-rag](https://github.com/LNshuti/usgov-contracts-rag) - Use Text to SQL to analyze US Government contract data (3 days ago)
-- [AI-ANK/Na2SQL](https://github.com/AI-ANK/Na2SQL) - Welcome to the Natural Language to SQL demo project using LlamaIndex! This application is designed to demonstrate the innovative use of Large Language Models (LLMs) in translating natural language queries into SQL queries, and fetching meaningful insights from a database. (3 days ago)
-- [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don&#39;t waste your time with compliance. FastForward automatically skips annoying link shorteners. (3 days ago)
-- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (4 days ago)
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (4 days ago)
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built in top of Puppeteer. (6 days ago)
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (1 week ago)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more. (1 week ago)
-- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser (1 week ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
+- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files (1 day ago)
+- [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO (1 day ago)
+- [28klotlucas2/Mario64webgl](https://github.com/28klotlucas2/Mario64webgl) - A WebGL port of Super Mario 64. (1 day ago)
+- [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. (1 day ago)
+- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust (4 days ago)
+- [LNshuti/usgov-contracts-rag](https://github.com/LNshuti/usgov-contracts-rag) - Use Text to SQL to analyze US Government contract data (4 days ago)
+- [AI-ANK/Na2SQL](https://github.com/AI-ANK/Na2SQL) - Welcome to the Natural Language to SQL demo project using LlamaIndex! This application is designed to demonstrate the innovative use of Large Language Models (LLMs) in translating natural language queries into SQL queries, and fetching meaningful insights from a database. (4 days ago)
+- [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don&#39;t waste your time with compliance. FastForward automatically skips annoying link shorteners. (4 days ago)
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (5 days ago)
 
 #### 📫 How to reach me
 
