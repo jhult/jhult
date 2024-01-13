@@ -27,9 +27,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.3](https://github.com/vaadin/flow/releases/tag/24.3.3), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.2](https://github.com/rusq/slackdump/releases/tag/v2.5.2), 4 days ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.12.1.0](https://github.com/http4k/http4k/releases/tag/5.12.1.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.12.2.1](https://github.com/http4k/http4k/releases/tag/5.12.2.1), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.3](https://github.com/vaadin/flow/releases/tag/24.3.3), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.2](https://github.com/rusq/slackdump/releases/tag/v2.5.2), 5 days ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.0](https://github.com/kotest/kotest/releases/tag/v5.8.0), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 6 months ago) - 
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files (1 day ago)
-- [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO (1 day ago)
-- [28klotlucas2/Mario64webgl](https://github.com/28klotlucas2/Mario64webgl) - A WebGL port of Super Mario 64. (1 day ago)
-- [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. (1 day ago)
-- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust (4 days ago)
-- [LNshuti/usgov-contracts-rag](https://github.com/LNshuti/usgov-contracts-rag) - Use Text to SQL to analyze US Government contract data (4 days ago)
-- [AI-ANK/Na2SQL](https://github.com/AI-ANK/Na2SQL) - Welcome to the Natural Language to SQL demo project using LlamaIndex! This application is designed to demonstrate the innovative use of Large Language Models (LLMs) in translating natural language queries into SQL queries, and fetching meaningful insights from a database. (4 days ago)
-- [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don&#39;t waste your time with compliance. FastForward automatically skips annoying link shorteners. (4 days ago)
-- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (5 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
+- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files (2 days ago)
+- [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO (2 days ago)
+- [28klotlucas2/Mario64webgl](https://github.com/28klotlucas2/Mario64webgl) - A WebGL port of Super Mario 64. (2 days ago)
+- [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. (2 days ago)
+- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust (5 days ago)
+- [LNshuti/usgov-contracts-rag](https://github.com/LNshuti/usgov-contracts-rag) - Use Text to SQL to analyze US Government contract data (5 days ago)
+- [AI-ANK/Na2SQL](https://github.com/AI-ANK/Na2SQL) - Welcome to the Natural Language to SQL demo project using LlamaIndex! This application is designed to demonstrate the innovative use of Large Language Models (LLMs) in translating natural language queries into SQL queries, and fetching meaningful insights from a database. (5 days ago)
+- [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don&#39;t waste your time with compliance. FastForward automatically skips annoying link shorteners. (5 days ago)
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (6 days ago)
 
 #### 📫 How to reach me
 
