@@ -27,9 +27,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.3](https://github.com/rusq/slackdump/releases/tag/v2.5.3), 1 day ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.0.0](https://github.com/http4k/http4k/releases/tag/5.13.0.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.3](https://github.com/vaadin/flow/releases/tag/24.3.3), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.3](https://github.com/rusq/slackdump/releases/tag/v2.5.3), 2 days ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.0.0](https://github.com/http4k/http4k/releases/tag/5.13.0.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.3](https://github.com/vaadin/flow/releases/tag/24.3.3), 4 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.0](https://github.com/kotest/kotest/releases/tag/v5.8.0), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.2](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.2), 6 months ago) - 
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  (1 day ago)
-- [SeaWorld-Parks-and-Entertainment/TarPit](https://github.com/SeaWorld-Parks-and-Entertainment/TarPit) -  (1 day ago)
-- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source. (1 day ago)
-- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android. (1 day ago)
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy (1 day ago)
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices (1 day ago)
-- [cabol/nebulex](https://github.com/cabol/nebulex) - In-memory and distributed caching toolkit for Elixir. (1 day ago)
-- [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. (1 day ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files (3 days ago)
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 day ago)
+- [ethbak/connexion-for-linkedin](https://github.com/ethbak/connexion-for-linkedin) - A free tool used to search for LinkedIn profiles with filters and to automate sending connection requests. (1 day ago)
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  (2 days ago)
+- [SeaWorld-Parks-and-Entertainment/TarPit](https://github.com/SeaWorld-Parks-and-Entertainment/TarPit) -  (2 days ago)
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source. (2 days ago)
+- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android. (2 days ago)
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy (2 days ago)
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices (2 days ago)
+- [cabol/nebulex](https://github.com/cabol/nebulex) - In-memory and distributed caching toolkit for Elixir. (2 days ago)
+- [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. (2 days ago)
 
 #### 📫 How to reach me
 
