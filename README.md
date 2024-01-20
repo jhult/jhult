@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.2.0](https://github.com/http4k/http4k/releases/tag/5.13.2.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.3](https://github.com/rusq/slackdump/releases/tag/v2.5.3), 6 days ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.2.0](https://github.com/http4k/http4k/releases/tag/5.13.2.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.3](https://github.com/rusq/slackdump/releases/tag/v2.5.3), 1 week ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [vaadin/flow](https://github.com/vaadin/flow) ([24.3.3](https://github.com/vaadin/flow/releases/tag/24.3.3), 1 week ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.0](https://github.com/kotest/kotest/releases/tag/v5.8.0), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
@@ -39,7 +39,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [docs: fix EnabledCondition example (interface, not class)](https://github.com/kotest/kotest/pull/3810) on [kotest/kotest](https://github.com/kotest/kotest) (4 weeks ago)
+- [docs: fix EnabledCondition example (interface, not class)](https://github.com/kotest/kotest/pull/3810) on [kotest/kotest](https://github.com/kotest/kotest) (1 month ago)
 - [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (1 month ago)
 - [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (1 month ago)
 - [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (1 month ago)
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite. (1 day ago)
-- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don&#39;t have a broken hiring process (2 days ago)
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (2 days ago)
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (2 days ago)
-- [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform (3 days ago)
-- [holepunchto/hypercore](https://github.com/holepunchto/hypercore) - Hypercore is a secure, distributed append-only log. (4 days ago)
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (4 days ago)
-- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (4 days ago)
-- [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API (4 days ago)
-- [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language (4 days ago)
+- [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite. (2 days ago)
+- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don&#39;t have a broken hiring process (3 days ago)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (3 days ago)
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (3 days ago)
+- [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform (4 days ago)
+- [holepunchto/hypercore](https://github.com/holepunchto/hypercore) - Hypercore is a secure, distributed append-only log. (5 days ago)
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (5 days ago)
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (5 days ago)
+- [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API (5 days ago)
+- [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language (5 days ago)
 
 #### 📫 How to reach me
 
