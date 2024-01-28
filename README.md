@@ -27,11 +27,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha3](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha3), 4 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 6 days ago) - 
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha3](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha3), 5 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 1 week ago) - 
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.13.2.0](https://github.com/http4k/http4k/releases/tag/5.13.2.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.3](https://github.com/rusq/slackdump/releases/tag/v2.5.3), 2 weeks ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 2 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.0](https://github.com/kotest/kotest/releases/tag/v5.8.0), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 7 months ago) - List of known problematic browser extensions
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 8 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Chrome extension that generates API specs for any app or website (1 day ago)
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface. (1 day ago)
-- [simonw/ospeak](https://github.com/simonw/ospeak) - CLI tool for running text through OpenAI Text to speech (1 day ago)
-- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line (1 day ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally. (2 days ago)
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. (2 days ago)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 days ago)
-- [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka (2 days ago)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (2 days ago)
-- [PolicyEngine/policyengine-us](https://github.com/PolicyEngine/policyengine-us) - The PolicyEngine US Python package contains a rules engine of the US tax-benefit system, and microdata generation for microsimulation analysis. (2 days ago)
+- [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (1 day ago)
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (1 day ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
+- [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang &amp; Preact. (1 day ago)
+- [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json (1 day ago)
+- [tanaikech/ggsrun](https://github.com/tanaikech/ggsrun) - This is a CLI tool to execute Google Apps Script (GAS) at own terminal on local PC. Also this CLI tool can be used for managing files in Google Drive for OAuth2 and Service Account. (1 day ago)
+- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Chrome extension that generates API specs for any app or website (2 days ago)
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface. (2 days ago)
+- [simonw/ospeak](https://github.com/simonw/ospeak) - CLI tool for running text through OpenAI Text to speech (2 days ago)
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line (2 days ago)
 
 #### 📫 How to reach me
 
