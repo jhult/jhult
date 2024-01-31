@@ -27,9 +27,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([2.10.3](https://github.com/vaadin/flow/releases/tag/2.10.3), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha4](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha4), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 1 week ago) - 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.2.0](https://github.com/http4k/http4k/releases/tag/5.13.2.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.2.0](https://github.com/http4k/http4k/releases/tag/5.13.2.0), 2 weeks ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.3](https://github.com/rusq/slackdump/releases/tag/v2.5.3), 2 weeks ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 2 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.0](https://github.com/kotest/kotest/releases/tag/v5.8.0), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [janhq/nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI.  OpenAI-compatible API (1 day ago)
-- [autonomi-ai/nos](https://github.com/autonomi-ai/nos) - ⚡️ Nitro boost your AI infrastructure. (1 day ago)
-- [picosh/pgit](https://github.com/picosh/pgit) - static site generator for git repos (2 days ago)
-- [covode/bible-fetch](https://github.com/covode/bible-fetch) - Command-line tool for fetching Bible passages from biblegateway.com (2 days ago)
-- [stacked-git/stgit](https://github.com/stacked-git/stgit) - Stacked Git (2 days ago)
-- [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (3 days ago)
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (3 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 days ago)
-- [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang &amp; Preact. (3 days ago)
-- [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json (3 days ago)
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, and managed Postgres services in public alpha. (1 day ago)
+- [SukkaW/dashflare](https://github.com/SukkaW/dashflare) - An unofficial Cloudflare dashboard built on top of Cloudflare API. (1 day ago)
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily (1 day ago)
+- [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog. (1 day ago)
+- [janhq/nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI.  OpenAI-compatible API (2 days ago)
+- [autonomi-ai/nos](https://github.com/autonomi-ai/nos) - ⚡️ Nitro boost your AI infrastructure. (2 days ago)
+- [picosh/pgit](https://github.com/picosh/pgit) - static site generator for git repos (3 days ago)
+- [covode/bible-fetch](https://github.com/covode/bible-fetch) - Command-line tool for fetching Bible passages from biblegateway.com (3 days ago)
+- [stacked-git/stgit](https://github.com/stacked-git/stgit) - Stacked Git (3 days ago)
+- [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (4 days ago)
 
 #### 📫 How to reach me
 
