@@ -16,9 +16,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (1 month ago)
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (1 month ago)
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (1 month ago)
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (2 months ago)
 - [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (2 months ago)
-- [rusq/slackdump](https://github.com/rusq/slackdump) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges. (2 months ago)
+- [rusq/slackdump](https://github.com/rusq/slackdump) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges. (3 months ago)
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) -  (4 months ago)
 - [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) - SLF4J (1.7.x) Backend for JBoss Logging (5 months ago)
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (5 months ago)
@@ -27,41 +27,41 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha5](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha5), 4 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.4.0](https://github.com/http4k/http4k/releases/tag/5.13.4.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.6](https://github.com/openshift/imagebuilder/releases/tag/v1.2.6), 1 day ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.2.8](https://github.com/vaadin/flow/releases/tag/24.2.8), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 2 weeks ago) - 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.2.0](https://github.com/http4k/http4k/releases/tag/5.13.2.0), 2 weeks ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.3](https://github.com/rusq/slackdump/releases/tag/v2.5.3), 3 weeks ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.36](https://github.com/rust-lang/mdBook/releases/tag/v0.4.36), 2 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.0](https://github.com/kotest/kotest/releases/tag/v5.8.0), 3 months ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 7 months ago) - List of known problematic browser extensions
-- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.5](https://github.com/openshift/imagebuilder/releases/tag/v1.2.5), 8 months ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 - [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) ([1.2.1.Final](https://github.com/jboss-logging/slf4j-jboss-logging/releases/tag/1.2.1.Final), 3 years ago) - SLF4J (1.7.x) Backend for JBoss Logging
 
 #### 🔨 My recent Pull Requests
 
 - [docs: fix EnabledCondition example (interface, not class)](https://github.com/kotest/kotest/pull/3810) on [kotest/kotest](https://github.com/kotest/kotest) (1 month ago)
-- [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (1 month ago)
-- [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (1 month ago)
+- [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (2 months ago)
+- [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (2 months ago)
 - [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (2 months ago)
 - [fix: warning in TaskRunDevBundleBuild when README exists (#18210)](https://github.com/vaadin/flow/pull/18226) on [vaadin/flow](https://github.com/vaadin/flow) (2 months ago)
 - [chore(docs): update docs regarding contributing](https://github.com/cloudgraphdev/cli/pull/120) on [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) (2 months ago)
 - [Remove Cloudgraph](https://github.com/kunovsky/paid-open-source-projects/pull/6) on [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) (2 months ago)
-- [Fix emoji-failfast](https://github.com/rusq/slackdump/pull/246) on [rusq/slackdump](https://github.com/rusq/slackdump) (2 months ago)
+- [Fix emoji-failfast](https://github.com/rusq/slackdump/pull/246) on [rusq/slackdump](https://github.com/rusq/slackdump) (3 months ago)
 - [fix: allow Firebase Cloud Messaging](https://github.com/jerryn70/GoodbyeAds/pull/444) on [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) (4 months ago)
 - [fix: typo in README - &#34;SLFJ4J&#34; -&gt; &#34;SLF4J&#34;](https://github.com/jboss-logging/slf4j-jboss-logging/pull/38) on [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [porech/roborock-oucher](https://github.com/porech/roborock-oucher) - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream &#34;Ouch!&#34; (or everything else) everytime it bumps into something. (1 day ago)
-- [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator. (1 day ago)
-- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time (1 day ago)
-- [addyosmani/critical](https://github.com/addyosmani/critical) - Extract &amp; Inline Critical-path CSS in HTML pages (1 day ago)
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (1 day ago)
-- [alexkates/supajournal](https://github.com/alexkates/supajournal) - A journaling app powered by Supabase and OpenAI (1 day ago)
-- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone |  Conversational Multi Step Form  (3 days ago)
-- [turbot/steampipe-plugin-github](https://github.com/turbot/steampipe-plugin-github) - Use SQL to instantly query repositories, users, gists and more from GitHub. Open source CLI. No DB required. (3 days ago)
-- [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain. (3 days ago)
-- [pgpkg/pgpkg](https://github.com/pgpkg/pgpkg) - Simplify Postgresql stored procedure development. (4 days ago)
+- [rstudio/blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown (1 day ago)
+- [rstudio/rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R (1 day ago)
+- [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R (1 day ago)
+- [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating natural language math expressions (1 day ago)
+- [porech/roborock-oucher](https://github.com/porech/roborock-oucher) - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream &#34;Ouch!&#34; (or everything else) everytime it bumps into something. (2 days ago)
+- [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator. (2 days ago)
+- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time (2 days ago)
+- [addyosmani/critical](https://github.com/addyosmani/critical) - Extract &amp; Inline Critical-path CSS in HTML pages (2 days ago)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (2 days ago)
+- [alexkates/supajournal](https://github.com/alexkates/supajournal) - A journaling app powered by Supabase and OpenAI (2 days ago)
 
 #### 📫 How to reach me
 
