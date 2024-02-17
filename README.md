@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.7.0](https://github.com/http4k/http4k/releases/tag/5.13.7.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha7](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha7), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha8](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha8), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.7.0](https://github.com/http4k/http4k/releases/tag/5.13.7.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.4](https://github.com/rusq/slackdump/releases/tag/v2.5.4), 1 week ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.37](https://github.com/rust-lang/mdBook/releases/tag/v0.4.37), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.6](https://github.com/openshift/imagebuilder/releases/tag/v1.2.6), 1 week ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
@@ -39,7 +39,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Fix: add missing MPL-2.0 license file](https://github.com/Granola-Team/mina-block-explorer/pull/233) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (6 days ago)
+- [Fix: add missing MPL-2.0 license file](https://github.com/Granola-Team/mina-block-explorer/pull/233) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [docs: fix EnabledCondition example (interface, not class)](https://github.com/kotest/kotest/pull/3810) on [kotest/kotest](https://github.com/kotest/kotest) (1 month ago)
 - [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (2 months ago)
 - [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (2 months ago)
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [matttt/slidecross](https://github.com/matttt/slidecross) - A game which combines the concept of a Rubik&#39;s Cube with a crossword (today)
-- [surprisetalk/licensure](https://github.com/surprisetalk/licensure) - Scripts to watch software licenses change. (1 day ago)
-- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (1 day ago)
-- [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR. (1 day ago)
-- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages (1 day ago)
-- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project&#39;s commit messages and metadata. (1 day ago)
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. (3 days ago)
-- [knobiknows/all-the-bufo](https://github.com/knobiknows/all-the-bufo) - All the bufo emojis you could possibly ask for (3 days ago)
-- [nathanielw/party-ify](https://github.com/nathanielw/party-ify) - Website that turns any image into party-parrot style animated GIF (3 days ago)
-- [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (3 days ago)
+- [jclusso/d53.co](https://github.com/jclusso/d53.co) - A simple DNS lookup tool (1 day ago)
+- [hintjens/socialarchitecture](https://github.com/hintjens/socialarchitecture) - A primer on on-line community building (1 day ago)
+- [matttt/slidecross](https://github.com/matttt/slidecross) - A game which combines the concept of a Rubik&#39;s Cube with a crossword (1 day ago)
+- [surprisetalk/licensure](https://github.com/surprisetalk/licensure) - Scripts to watch software licenses change. (2 days ago)
+- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (2 days ago)
+- [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR. (2 days ago)
+- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages (2 days ago)
+- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project&#39;s commit messages and metadata. (2 days ago)
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. (4 days ago)
+- [knobiknows/all-the-bufo](https://github.com/knobiknows/all-the-bufo) - All the bufo emojis you could possibly ask for (4 days ago)
 
 #### 📫 How to reach me
 
