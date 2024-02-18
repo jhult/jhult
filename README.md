@@ -15,7 +15,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 👷 Check out what I'm currently working on
 
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
-- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (1 month ago)
+- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (2 months ago)
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (2 months ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (2 months ago)
 - [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (3 months ago)
@@ -27,12 +27,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha8](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha8), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.7.0](https://github.com/http4k/http4k/releases/tag/5.13.7.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha8](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha8), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.7.0](https://github.com/http4k/http4k/releases/tag/5.13.7.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.4](https://github.com/rusq/slackdump/releases/tag/v2.5.4), 1 week ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.37](https://github.com/rust-lang/mdBook/releases/tag/v0.4.37), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.6](https://github.com/openshift/imagebuilder/releases/tag/v1.2.6), 1 week ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
-- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 3 weeks ago) - 
+- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 4 weeks ago) - 
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.0](https://github.com/kotest/kotest/releases/tag/v5.8.0), 3 months ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 8 months ago) - List of known problematic browser extensions
 - [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) ([1.2.1.Final](https://github.com/jboss-logging/slf4j-jboss-logging/releases/tag/1.2.1.Final), 3 years ago) - SLF4J (1.7.x) Backend for JBoss Logging
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [jclusso/d53.co](https://github.com/jclusso/d53.co) - A simple DNS lookup tool (1 day ago)
-- [hintjens/socialarchitecture](https://github.com/hintjens/socialarchitecture) - A primer on on-line community building (1 day ago)
-- [matttt/slidecross](https://github.com/matttt/slidecross) - A game which combines the concept of a Rubik&#39;s Cube with a crossword (1 day ago)
-- [surprisetalk/licensure](https://github.com/surprisetalk/licensure) - Scripts to watch software licenses change. (2 days ago)
-- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (2 days ago)
-- [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR. (2 days ago)
-- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages (2 days ago)
-- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project&#39;s commit messages and metadata. (2 days ago)
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. (4 days ago)
-- [knobiknows/all-the-bufo](https://github.com/knobiknows/all-the-bufo) - All the bufo emojis you could possibly ask for (4 days ago)
+- [indygreg/apple-platform-rs](https://github.com/indygreg/apple-platform-rs) - Rust crates supporting Apple platform development (1 day ago)
+- [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux) (1 day ago)
+- [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Compile binaries for macOS on Linux (1 day ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 day ago)
+- [jclusso/d53.co](https://github.com/jclusso/d53.co) - A simple DNS lookup tool (2 days ago)
+- [hintjens/socialarchitecture](https://github.com/hintjens/socialarchitecture) - A primer on on-line community building (2 days ago)
+- [matttt/slidecross](https://github.com/matttt/slidecross) - A game which combines the concept of a Rubik&#39;s Cube with a crossword (2 days ago)
+- [surprisetalk/licensure](https://github.com/surprisetalk/licensure) - Scripts to watch software licenses change. (3 days ago)
+- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (3 days ago)
+- [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR. (3 days ago)
 
 #### 📫 How to reach me
 
