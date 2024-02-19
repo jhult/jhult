@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha8](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha8), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.7.0](https://github.com/http4k/http4k/releases/tag/5.13.7.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha8](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha8), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.7.0](https://github.com/http4k/http4k/releases/tag/5.13.7.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.4](https://github.com/rusq/slackdump/releases/tag/v2.5.4), 1 week ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.37](https://github.com/rust-lang/mdBook/releases/tag/v0.4.37), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.6](https://github.com/openshift/imagebuilder/releases/tag/v1.2.6), 1 week ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
@@ -40,7 +40,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 🔨 My recent Pull Requests
 
 - [Fix: add missing MPL-2.0 license file](https://github.com/Granola-Team/mina-block-explorer/pull/233) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
-- [docs: fix EnabledCondition example (interface, not class)](https://github.com/kotest/kotest/pull/3810) on [kotest/kotest](https://github.com/kotest/kotest) (1 month ago)
+- [docs: fix EnabledCondition example (interface, not class)](https://github.com/kotest/kotest/pull/3810) on [kotest/kotest](https://github.com/kotest/kotest) (2 months ago)
 - [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (2 months ago)
 - [docs: add plugins mdformat-pyproject and mdformat-simple-breaks](https://github.com/executablebooks/mdformat/pull/418) on [executablebooks/mdformat](https://github.com/executablebooks/mdformat) (2 months ago)
 - [docs: fix broken contributing link](https://github.com/vaadin/flow/pull/18236) on [vaadin/flow](https://github.com/vaadin/flow) (2 months ago)
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [indygreg/apple-platform-rs](https://github.com/indygreg/apple-platform-rs) - Rust crates supporting Apple platform development (1 day ago)
-- [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux) (1 day ago)
-- [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Compile binaries for macOS on Linux (1 day ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 day ago)
-- [jclusso/d53.co](https://github.com/jclusso/d53.co) - A simple DNS lookup tool (2 days ago)
-- [hintjens/socialarchitecture](https://github.com/hintjens/socialarchitecture) - A primer on on-line community building (2 days ago)
-- [matttt/slidecross](https://github.com/matttt/slidecross) - A game which combines the concept of a Rubik&#39;s Cube with a crossword (2 days ago)
-- [surprisetalk/licensure](https://github.com/surprisetalk/licensure) - Scripts to watch software licenses change. (3 days ago)
-- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (3 days ago)
-- [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR. (3 days ago)
+- [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right (1 day ago)
+- [indygreg/apple-platform-rs](https://github.com/indygreg/apple-platform-rs) - Rust crates supporting Apple platform development (2 days ago)
+- [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux) (2 days ago)
+- [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Compile binaries for macOS on Linux (2 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 days ago)
+- [jclusso/d53.co](https://github.com/jclusso/d53.co) - A simple DNS lookup tool (3 days ago)
+- [hintjens/socialarchitecture](https://github.com/hintjens/socialarchitecture) - A primer on on-line community building (3 days ago)
+- [matttt/slidecross](https://github.com/matttt/slidecross) - A game which combines the concept of a Rubik&#39;s Cube with a crossword (3 days ago)
+- [surprisetalk/licensure](https://github.com/surprisetalk/licensure) - Scripts to watch software licenses change. (4 days ago)
+- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (4 days ago)
 
 #### 📫 How to reach me
 
