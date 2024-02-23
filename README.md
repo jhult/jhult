@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 weeks ago)
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (2 months ago)
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (2 months ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (2 months ago)
@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha9](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha9), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha10](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha10), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.13.7.0](https://github.com/http4k/http4k/releases/tag/5.13.7.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.4](https://github.com/rusq/slackdump/releases/tag/v2.5.4), 2 weeks ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.37](https://github.com/rust-lang/mdBook/releases/tag/v0.4.37), 2 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go (1 day ago)
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line (1 day ago)
-- [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line. (1 day ago)
-- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. (1 day ago)
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs. (1 day ago)
-- [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem (2 days ago)
-- [z-shell/zsh-zoxide](https://github.com/z-shell/zsh-zoxide) - ⚙️ The ajeetdsouza/zoxide init for Zsh (3 days ago)
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (3 days ago)
-- [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml (3 days ago)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (3 days ago)
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go (2 days ago)
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line (2 days ago)
+- [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line. (2 days ago)
+- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. (2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs. (2 days ago)
+- [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem (3 days ago)
+- [z-shell/zsh-zoxide](https://github.com/z-shell/zsh-zoxide) - ⚙️ The ajeetdsouza/zoxide init for Zsh (4 days ago)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (4 days ago)
+- [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml (4 days ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (4 days ago)
 
 #### 📫 How to reach me
 
