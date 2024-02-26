@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.8.0](https://github.com/http4k/http4k/releases/tag/5.13.8.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha10](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha10), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.8.0](https://github.com/http4k/http4k/releases/tag/5.13.8.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha10](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha10), 4 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.4](https://github.com/rusq/slackdump/releases/tag/v2.5.4), 2 weeks ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.37](https://github.com/rust-lang/mdBook/releases/tag/v0.4.37), 2 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.6](https://github.com/openshift/imagebuilder/releases/tag/v1.2.6), 2 weeks ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-designed version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
-- [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules. (2 days ago)
-- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries (2 days ago)
-- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go (4 days ago)
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line (4 days ago)
-- [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line. (4 days ago)
-- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. (4 days ago)
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs. (4 days ago)
-- [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem (5 days ago)
-- [z-shell/zsh-zoxide](https://github.com/z-shell/zsh-zoxide) - ⚙️ The ajeetdsouza/zoxide init for Zsh (6 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-designed version of the software collectively called the &#34;Mina archive node.&#34; (3 days ago)
+- [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules. (3 days ago)
+- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries (3 days ago)
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go (5 days ago)
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line (5 days ago)
+- [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line. (5 days ago)
+- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. (5 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs. (5 days ago)
+- [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem (6 days ago)
+- [z-shell/zsh-zoxide](https://github.com/z-shell/zsh-zoxide) - ⚙️ The ajeetdsouza/zoxide init for Zsh (1 week ago)
 
 #### 📫 How to reach me
 
