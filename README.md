@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-designed version of the software collectively called the &#34;Mina archive node.&#34; (3 days ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 weeks ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-designed version of the software collectively called the &#34;Mina archive node.&#34; (4 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (3 weeks ago)
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (2 months ago)
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (2 months ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (2 months ago)
@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha12](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha12), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.8.0](https://github.com/http4k/http4k/releases/tag/5.13.8.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha13](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha13), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.13.8.0](https://github.com/http4k/http4k/releases/tag/5.13.8.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.4](https://github.com/rusq/slackdump/releases/tag/v2.5.4), 3 weeks ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.37](https://github.com/rust-lang/mdBook/releases/tag/v0.4.37), 3 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.6](https://github.com/openshift/imagebuilder/releases/tag/v1.2.6), 3 weeks ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
@@ -39,10 +39,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Fix copyright - Granola-Team/mina-indexer#516](https://github.com/Granola-Team/mina-indexer/pull/517) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
-- [Add rustfmt for imports_granularity = &#34;Crate&#34;](https://github.com/Granola-Team/mina-indexer/pull/510) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
-- [Remove proof so serde_json::from_slice(&amp;bytes) works](https://github.com/Granola-Team/mina-indexer/pull/508) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
-- [Remove mina-rs dependency](https://github.com/Granola-Team/mina-indexer/pull/507) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
+- [Fix copyright - Granola-Team/mina-indexer#516](https://github.com/Granola-Team/mina-indexer/pull/517) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
+- [Add rustfmt for imports_granularity = &#34;Crate&#34;](https://github.com/Granola-Team/mina-indexer/pull/510) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 days ago)
+- [Remove proof so serde_json::from_slice(&amp;bytes) works](https://github.com/Granola-Team/mina-indexer/pull/508) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 days ago)
+- [Remove mina-rs dependency](https://github.com/Granola-Team/mina-indexer/pull/507) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 days ago)
 - [Fix: add missing MPL-2.0 license file](https://github.com/Granola-Team/mina-block-explorer/pull/233) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
 - [docs: fix EnabledCondition example (interface, not class)](https://github.com/kotest/kotest/pull/3810) on [kotest/kotest](https://github.com/kotest/kotest) (2 months ago)
 - [Remove warning check for theme directory as ./src/theme](https://github.com/rust-lang/mdBook/pull/2263) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (2 months ago)
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [olton/minataur2](https://github.com/olton/minataur2) - The Fastest block explorer for Mina Blockchain v2.x (1 day ago)
-- [Granola-Team/iggy](https://github.com/Granola-Team/iggy) - Block utility for Mina Indexer (1 day ago)
-- [o1-labs/proof-systems](https://github.com/o1-labs/proof-systems) - The proof systems used by Mina (1 day ago)
-- [EasyMina/minaData](https://github.com/EasyMina/minaData) - MinaData streamlines transaction data retrieval on the Mina blockchain by directly accessing the native GraphQL interfaces of the Node, facilitating rapid UI deployment. (1 day ago)
-- [nerdvibe/awesome-mina](https://github.com/nerdvibe/awesome-mina) - 😎 A curated list of awesome software and links for Mina Protocol (1 day ago)
-- [palladians/minaverse](https://github.com/palladians/minaverse) - 🌐 Mina Protocol explorer (1 day ago)
-- [a6b8/badgeTable](https://github.com/a6b8/badgeTable) - Badge Table Generator simplifies the creation of summary tables by integrating shields.io badges, generating complex Markdown code with ease for an informative visual overview. (1 day ago)
-- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer (2 days ago)
-- [EmbarkStudios/cargo-about](https://github.com/EmbarkStudios/cargo-about) - 📜 Cargo plugin to generate list of all licenses for a crate 🦀 (2 days ago)
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-designed version of the software collectively called the &#34;Mina archive node.&#34; (6 days ago)
+- [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps&#39; volumes and record system audio. (1 day ago)
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance. (1 day ago)
+- [olton/minataur2](https://github.com/olton/minataur2) - The Fastest block explorer for Mina Blockchain v2.x (2 days ago)
+- [Granola-Team/iggy](https://github.com/Granola-Team/iggy) - Block utility for Mina Indexer (2 days ago)
+- [o1-labs/proof-systems](https://github.com/o1-labs/proof-systems) - The proof systems used by Mina (2 days ago)
+- [EasyMina/minaData](https://github.com/EasyMina/minaData) - MinaData streamlines transaction data retrieval on the Mina blockchain by directly accessing the native GraphQL interfaces of the Node, facilitating rapid UI deployment. (2 days ago)
+- [nerdvibe/awesome-mina](https://github.com/nerdvibe/awesome-mina) - 😎 A curated list of awesome software and links for Mina Protocol (2 days ago)
+- [palladians/minaverse](https://github.com/palladians/minaverse) - 🌐 Mina Protocol explorer (2 days ago)
+- [a6b8/badgeTable](https://github.com/a6b8/badgeTable) - Badge Table Generator simplifies the creation of summary tables by integrating shields.io badges, generating complex Markdown code with ease for an informative visual overview. (2 days ago)
+- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer (3 days ago)
 
 #### 📫 How to reach me
 
