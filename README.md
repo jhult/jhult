@@ -27,10 +27,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha23](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha23), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.14.1.0](https://github.com/http4k/http4k/releases/tag/5.14.1.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.6](https://github.com/rusq/slackdump/releases/tag/v2.5.6), 1 day ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha23](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha23), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.14.1.0](https://github.com/http4k/http4k/releases/tag/5.14.1.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.1](https://github.com/kotest/kotest/releases/tag/v5.8.1), 1 week ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.5](https://github.com/rusq/slackdump/releases/tag/v2.5.5), 1 week ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.37](https://github.com/rust-lang/mdBook/releases/tag/v0.4.37), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.6](https://github.com/openshift/imagebuilder/releases/tag/v1.2.6), 1 month ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 2 months ago) - 
@@ -47,21 +47,21 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Rename LINCENSE to LICENSE](https://github.com/aurowallet/mina-provider/pull/8) on [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) (2 weeks ago)
 - [Add rustfmt.toml for formatting (imports, comments, newline style)](https://github.com/Granola-Team/mina-block-explorer/pull/286) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
 - [Use Apache 2.0 license instead of MPLv2](https://github.com/Granola-Team/mina-block-explorer/pull/284) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
-- [Use Apache 2.0 license instead of MPLv2 ](https://github.com/Granola-Team/mina-indexer/pull/523) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
+- [Use Apache 2.0 license instead of MPLv2 ](https://github.com/Granola-Team/mina-indexer/pull/523) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [Fix copyright - Granola-Team/mina-indexer#516](https://github.com/Granola-Team/mina-indexer/pull/517) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [jmgilman/earthly-nix](https://github.com/jmgilman/earthly-nix) - An Earthfile for installing and using Nix development shells (today)
-- [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust. (today)
-- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (1 day ago)
-- [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands. (1 day ago)
-- [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs) - DEFLATE, gzip, and zlib bindings for Rust (1 day ago)
-- [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust. (2 days ago)
-- [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums (2 days ago)
-- [dtolnay/quote](https://github.com/dtolnay/quote) - Rust quasi-quoting (2 days ago)
-- [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust. (2 days ago)
-- [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly (3 days ago)
+- [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager. (today)
+- [sourcegraph/scip](https://github.com/sourcegraph/scip) - SCIP Code Intelligence Protocol (1 day ago)
+- [jmgilman/earthly-nix](https://github.com/jmgilman/earthly-nix) - An Earthfile for installing and using Nix development shells (1 day ago)
+- [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust. (1 day ago)
+- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (2 days ago)
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands. (2 days ago)
+- [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs) - DEFLATE, gzip, and zlib bindings for Rust (2 days ago)
+- [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust. (3 days ago)
+- [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums (3 days ago)
+- [dtolnay/quote](https://github.com/dtolnay/quote) - Rust quasi-quoting (3 days ago)
 
 #### 📫 How to reach me
 
