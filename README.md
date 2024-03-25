@@ -27,10 +27,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.7](https://github.com/rusq/slackdump/releases/tag/v2.5.7), 1 day ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha23](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha23), 4 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.7](https://github.com/rusq/slackdump/releases/tag/v2.5.7), 2 days ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha23](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha23), 5 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.14.1.0](https://github.com/http4k/http4k/releases/tag/5.14.1.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.1](https://github.com/kotest/kotest/releases/tag/v5.8.1), 1 week ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
+- [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.1](https://github.com/kotest/kotest/releases/tag/v5.8.1), 2 weeks ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.37](https://github.com/rust-lang/mdBook/releases/tag/v0.4.37), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.6](https://github.com/openshift/imagebuilder/releases/tag/v1.2.6), 1 month ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 2 months ago) - 
@@ -39,10 +39,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/tacogips/async-graphql-reverse/pull/30) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (2 days ago)
+- [Add MIT license](https://github.com/tacogips/async-graphql-reverse/pull/30) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (3 days ago)
 - [Ensure rustfmt works in all environments](https://github.com/Granola-Team/mina-indexer/pull/600) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [Use bail!(...) instead of Err(anyhow!(...))](https://github.com/Granola-Team/mina-indexer/pull/585) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
-- [feat: upgrade Rust from 1.75 to 1.76](https://github.com/Granola-Team/mina-indexer/pull/584) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
+- [feat: upgrade Rust from 1.75 to 1.76](https://github.com/Granola-Team/mina-indexer/pull/584) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [Upgrade `watchexec` and `async-priority-channel`](https://github.com/Granola-Team/mina-indexer/pull/552) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [Fix rustfmt in nix, remove duplicate clippy command, format files](https://github.com/Granola-Team/mina-indexer/pull/540) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [Rename LINCENSE to LICENSE](https://github.com/aurowallet/mina-provider/pull/8) on [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) (2 weeks ago)
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [onetxpunch/snarkyscan-frontend](https://github.com/onetxpunch/snarkyscan-frontend) -  (1 day ago)
-- [jkmartindale/gql-sdl](https://github.com/jkmartindale/gql-sdl) - CLI tool to download the GraphQL schema (as GraphQL SDL or JSON) from a given API with introspection enabled (1 day ago)
-- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter. (1 day ago)
-- [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (2 days ago)
-- [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust (2 days ago)
-- [theonedev/tod](https://github.com/theonedev/tod) - A command line tool working with OneDev (2 days ago)
-- [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager. (2 days ago)
-- [sourcegraph/scip](https://github.com/sourcegraph/scip) - SCIP Code Intelligence Protocol (3 days ago)
-- [jmgilman/earthly-nix](https://github.com/jmgilman/earthly-nix) - An Earthfile for installing and using Nix development shells (3 days ago)
-- [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust. (3 days ago)
+- [wirequery/wirequery](https://github.com/wirequery/wirequery) - WireQuery is a full-stack session replay tool. Using WireQuery, you can see how a user experiences an issue through a video-like frontend recording. Combined with an overview of the network calls to the backend (including network calls further upstream and their actual payload), you get a holistic overview of how an issue came into existence. (1 day ago)
+- [onetxpunch/snarkyscan-frontend](https://github.com/onetxpunch/snarkyscan-frontend) -  (2 days ago)
+- [jkmartindale/gql-sdl](https://github.com/jkmartindale/gql-sdl) - CLI tool to download the GraphQL schema (as GraphQL SDL or JSON) from a given API with introspection enabled (2 days ago)
+- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter. (2 days ago)
+- [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (3 days ago)
+- [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust (3 days ago)
+- [theonedev/tod](https://github.com/theonedev/tod) - A command line tool working with OneDev (3 days ago)
+- [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager. (3 days ago)
+- [sourcegraph/scip](https://github.com/sourcegraph/scip) - SCIP Code Intelligence Protocol (4 days ago)
+- [jmgilman/earthly-nix](https://github.com/jmgilman/earthly-nix) - An Earthfile for installing and using Nix development shells (4 days ago)
 
 #### 📫 How to reach me
 
