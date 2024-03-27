@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 week ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (3 weeks ago)
 - [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (3 weeks ago)
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (3 months ago)
@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha24](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha24), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.7](https://github.com/rusq/slackdump/releases/tag/v2.5.7), 3 days ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.8](https://github.com/vaadin/flow/releases/tag/24.3.8), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.7](https://github.com/rusq/slackdump/releases/tag/v2.5.7), 4 days ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.14.1.0](https://github.com/http4k/http4k/releases/tag/5.14.1.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.1](https://github.com/kotest/kotest/releases/tag/v5.8.1), 2 weeks ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.37](https://github.com/rust-lang/mdBook/releases/tag/v0.4.37), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -39,29 +39,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/tacogips/async-graphql-reverse/pull/30) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (4 days ago)
-- [Ensure rustfmt works in all environments](https://github.com/Granola-Team/mina-indexer/pull/600) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
+- [feat: add CLI option for Unix domain socket path and organize shutdown](https://github.com/Granola-Team/mina-indexer/pull/672) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
+- [refactor: remove GitHub Action to publish OCI (Docker) image](https://github.com/Granola-Team/mina-indexer/pull/671) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
+- [Add MIT license](https://github.com/tacogips/async-graphql-reverse/pull/30) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (5 days ago)
+- [Ensure rustfmt works in all environments](https://github.com/Granola-Team/mina-indexer/pull/600) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [Use bail!(...) instead of Err(anyhow!(...))](https://github.com/Granola-Team/mina-indexer/pull/585) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [feat: upgrade Rust from 1.75 to 1.76](https://github.com/Granola-Team/mina-indexer/pull/584) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [Upgrade `watchexec` and `async-priority-channel`](https://github.com/Granola-Team/mina-indexer/pull/552) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
-- [Fix rustfmt in nix, remove duplicate clippy command, format files](https://github.com/Granola-Team/mina-indexer/pull/540) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
-- [Rename LINCENSE to LICENSE](https://github.com/aurowallet/mina-provider/pull/8) on [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) (2 weeks ago)
+- [Fix rustfmt in nix, remove duplicate clippy command, format files](https://github.com/Granola-Team/mina-indexer/pull/540) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
+- [Rename LINCENSE to LICENSE](https://github.com/aurowallet/mina-provider/pull/8) on [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) (3 weeks ago)
 - [Add rustfmt.toml for formatting (imports, comments, newline style)](https://github.com/Granola-Team/mina-block-explorer/pull/286) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 weeks ago)
-- [Use Apache 2.0 license instead of MPLv2](https://github.com/Granola-Team/mina-block-explorer/pull/284) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 weeks ago)
-- [Use Apache 2.0 license instead of MPLv2 ](https://github.com/Granola-Team/mina-indexer/pull/523) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (1 day ago)
-- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (1 day ago)
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers &amp; the open source ecosystem. (1 day ago)
-- [wirequery/wirequery](https://github.com/wirequery/wirequery) - WireQuery is a full-stack session replay tool. Using WireQuery, you can see how a user experiences an issue through a video-like frontend recording. Combined with an overview of the network calls to the backend (including network calls further upstream and their actual payload), you get a holistic overview of how an issue came into existence. (2 days ago)
-- [onetxpunch/snarkyscan-frontend](https://github.com/onetxpunch/snarkyscan-frontend) -  (3 days ago)
-- [jkmartindale/gql-sdl](https://github.com/jkmartindale/gql-sdl) - CLI tool to download the GraphQL schema (as GraphQL SDL or JSON) from a given API with introspection enabled (3 days ago)
-- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter. (3 days ago)
-- [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (4 days ago)
-- [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust (4 days ago)
-- [theonedev/tod](https://github.com/theonedev/tod) - A command line tool working with OneDev (4 days ago)
+- [Byron/prodash](https://github.com/Byron/prodash) - report progress of concurrent applications and display it in various ways (1 day ago)
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (2 days ago)
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (2 days ago)
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers &amp; the open source ecosystem. (2 days ago)
+- [wirequery/wirequery](https://github.com/wirequery/wirequery) - WireQuery is a full-stack session replay tool. Using WireQuery, you can see how a user experiences an issue through a video-like frontend recording. Combined with an overview of the network calls to the backend (including network calls further upstream and their actual payload), you get a holistic overview of how an issue came into existence. (3 days ago)
+- [onetxpunch/snarkyscan-frontend](https://github.com/onetxpunch/snarkyscan-frontend) -  (4 days ago)
+- [jkmartindale/gql-sdl](https://github.com/jkmartindale/gql-sdl) - CLI tool to download the GraphQL schema (as GraphQL SDL or JSON) from a given API with introspection enabled (4 days ago)
+- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter. (4 days ago)
+- [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (5 days ago)
+- [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust (5 days ago)
 
 #### 📫 How to reach me
 
