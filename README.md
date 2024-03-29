@@ -14,7 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (1 day ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (3 weeks ago)
 - [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (3 weeks ago)
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (3 months ago)
@@ -23,14 +24,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (4 months ago)
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges. (4 months ago)
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) -  (6 months ago)
-- [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services. (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.7](https://github.com/openshift/imagebuilder/releases/tag/v1.2.7), 1 day ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha25](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha25), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.14.4.0](https://github.com/http4k/http4k/releases/tag/5.14.4.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.7](https://github.com/rusq/slackdump/releases/tag/v2.5.7), 5 days ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.7](https://github.com/openshift/imagebuilder/releases/tag/v1.2.7), 2 days ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha25](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha25), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.14.4.0](https://github.com/http4k/http4k/releases/tag/5.14.4.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.7](https://github.com/rusq/slackdump/releases/tag/v2.5.7), 6 days ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.1](https://github.com/kotest/kotest/releases/tag/v5.8.1), 2 weeks ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.37](https://github.com/rust-lang/mdBook/releases/tag/v0.4.37), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 2 months ago) - 
@@ -39,29 +39,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Improvement: refine CLI commands, arguments, and communication with server documentation ](https://github.com/Granola-Team/mina-indexer/pull/681) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
-- [feat: add CLI option for Unix domain socket path and organize shutdown](https://github.com/Granola-Team/mina-indexer/pull/672) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
-- [refactor: remove GitHub Action to publish OCI (Docker) image](https://github.com/Granola-Team/mina-indexer/pull/671) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
-- [Add MIT license](https://github.com/tacogips/async-graphql-reverse/pull/30) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (6 days ago)
+- [Add Bruno](https://github.com/chentsulin/awesome-graphql/pull/751) on [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) (1 day ago)
+- [Improvement: refine CLI commands, arguments, and communication with server documentation ](https://github.com/Granola-Team/mina-indexer/pull/681) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
+- [feat: add CLI option for Unix domain socket path and organize shutdown](https://github.com/Granola-Team/mina-indexer/pull/672) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
+- [refactor: remove GitHub Action to publish OCI (Docker) image](https://github.com/Granola-Team/mina-indexer/pull/671) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
+- [Add MIT license](https://github.com/tacogips/async-graphql-reverse/pull/30) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (1 week ago)
 - [Ensure rustfmt works in all environments](https://github.com/Granola-Team/mina-indexer/pull/600) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [Use bail!(...) instead of Err(anyhow!(...))](https://github.com/Granola-Team/mina-indexer/pull/585) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [feat: upgrade Rust from 1.75 to 1.76](https://github.com/Granola-Team/mina-indexer/pull/584) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [Upgrade `watchexec` and `async-priority-channel`](https://github.com/Granola-Team/mina-indexer/pull/552) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [Fix rustfmt in nix, remove duplicate clippy command, format files](https://github.com/Granola-Team/mina-indexer/pull/540) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
-- [Rename LINCENSE to LICENSE](https://github.com/aurowallet/mina-provider/pull/8) on [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [vanphandinh/mina-graphql-proxy](https://github.com/vanphandinh/mina-graphql-proxy) -  (1 day ago)
-- [palladians/pallad](https://github.com/palladians/pallad) - 🦋 Progressive Mina Protocol Wallet (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [Byron/prodash](https://github.com/Byron/prodash) - report progress of concurrent applications and display it in various ways (2 days ago)
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (3 days ago)
-- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (3 days ago)
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers &amp; the open source ecosystem. (3 days ago)
-- [wirequery/wirequery](https://github.com/wirequery/wirequery) - WireQuery is a full-stack session replay tool. Using WireQuery, you can see how a user experiences an issue through a video-like frontend recording. Combined with an overview of the network calls to the backend (including network calls further upstream and their actual payload), you get a holistic overview of how an issue came into existence. (4 days ago)
-- [onetxpunch/snarkyscan-frontend](https://github.com/onetxpunch/snarkyscan-frontend) -  (5 days ago)
-- [jkmartindale/gql-sdl](https://github.com/jkmartindale/gql-sdl) - CLI tool to download the GraphQL schema (as GraphQL SDL or JSON) from a given API with introspection enabled (5 days ago)
+- [rust-cli/human-panic](https://github.com/rust-cli/human-panic) - 😱 Panic messages for humans. (today)
+- [k1LoW/runn](https://github.com/k1LoW/runn) - runn is a package/tool for running operations following a scenario. (today)
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (today)
+- [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions (today)
+- [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript (1 day ago)
+- [riok/Kreya](https://github.com/riok/Kreya) - Kreya is a GUI client for gRPC and REST APIs with innovative features for environments, authorizations and more. (1 day ago)
+- [wbaldoumas/graphql-to-karate](https://github.com/wbaldoumas/graphql-to-karate) - Automagically generate Karate API tests from your GraphQL schemas. Useful for test-driven development, change validation in CI/CD, and more. (1 day ago)
+- [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers (1 day ago)
+- [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman (1 day ago)
+- [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters. (1 day ago)
 
 #### 📫 How to reach me
 
