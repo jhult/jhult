@@ -14,11 +14,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
-- [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (5 days ago)
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (6 days ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (4 weeks ago)
-- [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (4 weeks ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
+- [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (6 days ago)
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (1 week ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 month ago)
+- [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (1 month ago)
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (3 months ago)
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (3 months ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (3 months ago)
@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha26](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha26), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.7](https://github.com/openshift/imagebuilder/releases/tag/v1.2.7), 1 week ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha25](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha25), 1 week ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.14.4.0](https://github.com/http4k/http4k/releases/tag/5.14.4.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.7](https://github.com/rusq/slackdump/releases/tag/v2.5.7), 1 week ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.1](https://github.com/kotest/kotest/releases/tag/v5.8.1), 3 weeks ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
@@ -39,8 +39,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [fix: if path is supplied to transactions state-hash CLI, write to path](https://github.com/Granola-Team/mina-indexer/pull/727) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
-- [Add Bruno](https://github.com/chentsulin/awesome-graphql/pull/751) on [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) (6 days ago)
+- [fix: if path is supplied to transactions state-hash CLI, write to path](https://github.com/Granola-Team/mina-indexer/pull/727) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
+- [Add Bruno](https://github.com/chentsulin/awesome-graphql/pull/751) on [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) (1 week ago)
 - [Improvement: refine CLI commands, arguments, and communication with server documentation ](https://github.com/Granola-Team/mina-indexer/pull/681) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [feat: add CLI option for Unix domain socket path and organize shutdown](https://github.com/Granola-Team/mina-indexer/pull/672) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [refactor: remove GitHub Action to publish OCI (Docker) image](https://github.com/Granola-Team/mina-indexer/pull/671) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
@@ -48,20 +48,20 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Ensure rustfmt works in all environments](https://github.com/Granola-Team/mina-indexer/pull/600) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [Use bail!(...) instead of Err(anyhow!(...))](https://github.com/Granola-Team/mina-indexer/pull/585) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [feat: upgrade Rust from 1.75 to 1.76](https://github.com/Granola-Team/mina-indexer/pull/584) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
-- [Upgrade `watchexec` and `async-priority-channel`](https://github.com/Granola-Team/mina-indexer/pull/552) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
+- [Upgrade `watchexec` and `async-priority-channel`](https://github.com/Granola-Team/mina-indexer/pull/552) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (1 day ago)
-- [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents (2 days ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 days ago)
-- [zoncoen/scenarigo](https://github.com/zoncoen/scenarigo) - An end-to-end scenario testing tool for HTTP/gRPC server. (3 days ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (4 days ago)
-- [candiddev/rot](https://github.com/candiddev/rot) - Future proof secrets management (4 days ago)
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) -  Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions (4 days ago)
-- [davesheldon/nap](https://github.com/davesheldon/nap) - Nap is a command-line tool that utilizes YAML files to test APIs. (5 days ago)
-- [jonhoo/async-bincode](https://github.com/jonhoo/async-bincode) - Asynchronous access to a bincode-encoded item stream. (5 days ago)
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (5 days ago)
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams (1 day ago)
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks (1 day ago)
+- [o1-labs/Archive-Node-API](https://github.com/o1-labs/Archive-Node-API) - This is a GraphQL server that is built with the intention of exposing information from Mina&#39;s Archive Node (1 day ago)
+- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (2 days ago)
+- [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents (3 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (4 days ago)
+- [zoncoen/scenarigo](https://github.com/zoncoen/scenarigo) - An end-to-end scenario testing tool for HTTP/gRPC server. (4 days ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (5 days ago)
+- [candiddev/rot](https://github.com/candiddev/rot) - Future proof secrets management (5 days ago)
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) -  Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions (5 days ago)
 
 #### 📫 How to reach me
 
