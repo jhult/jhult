@@ -14,22 +14,22 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (5 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (6 days ago)
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (1 week ago)
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (1 week ago)
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (2 weeks ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 month ago)
 - [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (1 month ago)
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (3 months ago)
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (4 months ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (4 months ago)
 - [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute  (5 months ago)
-- [rusq/slackdump](https://github.com/rusq/slackdump) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges. (5 months ago)
+- [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges. (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 3 days ago) - Make a backup or export of your private and public Slack messages, threads, files, and users locally without admin privileges.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha26](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha26), 1 week ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.7](https://github.com/openshift/imagebuilder/releases/tag/v1.2.7), 2 weeks ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
+- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.8](https://github.com/openshift/imagebuilder/releases/tag/v1.2.8), 1 day ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha27](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha27), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 4 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.14.4.0](https://github.com/http4k/http4k/releases/tag/5.14.4.0), 2 weeks ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.1](https://github.com/kotest/kotest/releases/tag/v5.8.1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.37](https://github.com/rust-lang/mdBook/releases/tag/v0.4.37), 2 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -39,29 +39,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Feat: GraphQL - transactions&#43;](https://github.com/Granola-Team/mina-indexer/pull/769) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
-- [Chore: version upgrades](https://github.com/tacogips/async-graphql-reverse/pull/33) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (1 day ago)
-- [Chore: a few misc refactors](https://github.com/tacogips/async-graphql-reverse/pull/32) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (1 day ago)
-- [feat: avoid unnecessary boxing of Vec&lt;T&gt; as it is already on the heap](https://github.com/tacogips/async-graphql-reverse/pull/31) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (1 day ago)
-- [Enhancement: store date_time in SignedCommandWithData and add functions to better store/retrieve transactions](https://github.com/Granola-Team/mina-indexer/pull/744) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (5 days ago)
+- [Add Apache License 2.0](https://github.com/novafacing/getters2/pull/3) on [novafacing/getters2](https://github.com/novafacing/getters2) (1 day ago)
+- [Feat: GraphQL - transactions](https://github.com/Granola-Team/mina-indexer/pull/769) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
+- [Chore: version upgrades](https://github.com/tacogips/async-graphql-reverse/pull/33) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (2 days ago)
+- [Chore: a few misc refactors](https://github.com/tacogips/async-graphql-reverse/pull/32) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (2 days ago)
+- [feat: avoid unnecessary boxing of Vec&lt;T&gt; as it is already on the heap](https://github.com/tacogips/async-graphql-reverse/pull/31) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (2 days ago)
+- [Enhancement: store date_time in SignedCommandWithData and add functions to better store/retrieve transactions](https://github.com/Granola-Team/mina-indexer/pull/744) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (6 days ago)
 - [fix: if path is supplied to transactions state-hash CLI, write to path](https://github.com/Granola-Team/mina-indexer/pull/727) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
-- [Add Bruno](https://github.com/chentsulin/awesome-graphql/pull/751) on [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) (1 week ago)
+- [Add Bruno](https://github.com/chentsulin/awesome-graphql/pull/751) on [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) (2 weeks ago)
 - [Improvement: refine CLI commands, arguments, and communication with server documentation ](https://github.com/Granola-Team/mina-indexer/pull/681) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [feat: add CLI option for Unix domain socket path and organize shutdown](https://github.com/Granola-Team/mina-indexer/pull/672) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
-- [refactor: remove GitHub Action to publish OCI (Docker) image](https://github.com/Granola-Team/mina-indexer/pull/671) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot&#39;s core logic for creating update PR&#39;s. (1 day ago)
-- [mgrachev/update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI applications written in Rust 🦀 (1 day ago)
-- [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html) (2 days ago)
-- [exercism/java](https://github.com/exercism/java) - Exercism exercises in Java. (2 days ago)
-- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (4 days ago)
-- [olton/mina-node-monitor](https://github.com/olton/mina-node-monitor) - Mina Monitor is an extended graphical version of the mina client status command with additional indicators. This is a client-server application for visual monitoring of the validator node and alerts and restart (if need) when the node has a problem. (5 days ago)
-- [o1-labs/docs2](https://github.com/o1-labs/docs2) - Docs website for the Mina Protocol. (5 days ago)
-- [Granola-Team/mina-on-chain-voting](https://github.com/Granola-Team/mina-on-chain-voting) - Mina On-Chain Voting (5 days ago)
-- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams (1 week ago)
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks (1 week ago)
+- [tsiemens/ChromeTabDeduper](https://github.com/tsiemens/ChromeTabDeduper) - A Chome extension for deduplicating tabs (today)
+- [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦 (1 day ago)
+- [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance. (1 day ago)
+- [novafacing/getters2](https://github.com/novafacing/getters2) - The best getters derive macro in town. Supports Enums too! (1 day ago)
+- [sokomishalov/lombok-rs](https://github.com/sokomishalov/lombok-rs) - Lombok port for Rust (1 day ago)
+- [PFAhard/getters](https://github.com/PFAhard/getters) -  (1 day ago)
+- [pas2rust/darth-rust](https://github.com/pas2rust/darth-rust) - DarthRust is a Rust macro library that enhances developer productivity by automating the creation of methods for structure manipulation. It offers an easy-to-use API with features like getters, setters, JSON conversion, regex validation, and range checks. It’s user-friendly, requiring only the addition of crates and a derive attribute. (1 day ago)
+- [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly (1 day ago)
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot&#39;s core logic for creating update PR&#39;s. (2 days ago)
+- [mgrachev/update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI applications written in Rust 🦀 (2 days ago)
 
 #### 📫 How to reach me
 
