@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (3 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (2 weeks ago)
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (2 weeks ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 month ago)
@@ -27,9 +27,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.15.0.0](https://github.com/http4k/http4k/releases/tag/5.15.0.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.8](https://github.com/openshift/imagebuilder/releases/tag/v1.2.8), 5 days ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha27](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha27), 5 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha28](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha28), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.15.0.0](https://github.com/http4k/http4k/releases/tag/5.15.0.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.8](https://github.com/openshift/imagebuilder/releases/tag/v1.2.8), 6 days ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 1 week ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.1](https://github.com/kotest/kotest/releases/tag/v5.8.1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.37](https://github.com/rust-lang/mdBook/releases/tag/v0.4.37), 2 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -39,29 +39,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [chore: dedupe regression test server start code](https://github.com/Granola-Team/mina-indexer/pull/779) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
-- [Add Apache License 2.0](https://github.com/novafacing/getters2/pull/3) on [novafacing/getters2](https://github.com/novafacing/getters2) (5 days ago)
-- [Feat: GraphQL - transactions](https://github.com/Granola-Team/mina-indexer/pull/769) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (6 days ago)
-- [Chore: version upgrades](https://github.com/tacogips/async-graphql-reverse/pull/33) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (6 days ago)
-- [Chore: a few misc refactors](https://github.com/tacogips/async-graphql-reverse/pull/32) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (6 days ago)
-- [feat: avoid unnecessary boxing of Vec&lt;T&gt; as it is already on the heap](https://github.com/tacogips/async-graphql-reverse/pull/31) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (6 days ago)
+- [chore: dedupe regression test server start code](https://github.com/Granola-Team/mina-indexer/pull/779) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 days ago)
+- [Add Apache License 2.0](https://github.com/novafacing/getters2/pull/3) on [novafacing/getters2](https://github.com/novafacing/getters2) (6 days ago)
+- [Feat: GraphQL - transactions](https://github.com/Granola-Team/mina-indexer/pull/769) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
+- [Chore: version upgrades](https://github.com/tacogips/async-graphql-reverse/pull/33) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (1 week ago)
+- [Chore: a few misc refactors](https://github.com/tacogips/async-graphql-reverse/pull/32) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (1 week ago)
+- [feat: avoid unnecessary boxing of Vec&lt;T&gt; as it is already on the heap](https://github.com/tacogips/async-graphql-reverse/pull/31) on [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) (1 week ago)
 - [Enhancement: store date_time in SignedCommandWithData and add functions to better store/retrieve transactions](https://github.com/Granola-Team/mina-indexer/pull/744) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
-- [fix: if path is supplied to transactions state-hash CLI, write to path](https://github.com/Granola-Team/mina-indexer/pull/727) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
+- [fix: if path is supplied to transactions state-hash CLI, write to path](https://github.com/Granola-Team/mina-indexer/pull/727) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [Add Bruno](https://github.com/chentsulin/awesome-graphql/pull/751) on [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) (2 weeks ago)
 - [Improvement: refine CLI commands, arguments, and communication with server documentation ](https://github.com/Granola-Team/mina-indexer/pull/681) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [Skyscanner/turbolift](https://github.com/Skyscanner/turbolift) - A simple tool to help apply changes across many GitHub repositories simultaneously (2 days ago)
-- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. (3 days ago)
-- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust (3 days ago)
-- [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust (3 days ago)
-- [systeminit/si](https://github.com/systeminit/si) - The System Initiative software (3 days ago)
-- [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything. (3 days ago)
-- [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts. (3 days ago)
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (3 days ago)
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 6 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight (4 days ago)
-- [bluewhalesystems/sold](https://github.com/bluewhalesystems/sold) - The sold linker (4 days ago)
+- [dtolnay/remain](https://github.com/dtolnay/remain) - Compile-time checks that an enum or match is written in sorted order (today)
+- [zkvalidator/mina-graphql-rs](https://github.com/zkvalidator/mina-graphql-rs) -  (1 day ago)
+- [Skyscanner/turbolift](https://github.com/Skyscanner/turbolift) - A simple tool to help apply changes across many GitHub repositories simultaneously (3 days ago)
+- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. (4 days ago)
+- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust (4 days ago)
+- [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust (4 days ago)
+- [systeminit/si](https://github.com/systeminit/si) - The System Initiative software (4 days ago)
+- [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything. (4 days ago)
+- [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts. (4 days ago)
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (4 days ago)
 
 #### 📫 How to reach me
 
