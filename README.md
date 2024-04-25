@@ -14,9 +14,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (3 weeks ago)
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (3 weeks ago)
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (4 weeks ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 month ago)
 - [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (1 month ago)
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (4 months ago)
@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.16.2.0](https://github.com/http4k/http4k/releases/tag/5.16.2.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.9](https://github.com/vaadin/flow/releases/tag/24.3.9), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha31](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha31), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.16.2.0](https://github.com/http4k/http4k/releases/tag/5.16.2.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.9](https://github.com/openshift/imagebuilder/releases/tag/v1.2.9), 1 week ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 2 weeks ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.1](https://github.com/kotest/kotest/releases/tag/v5.8.1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
@@ -39,8 +39,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Add additional hurl tests](https://github.com/Granola-Team/mina-indexer/pull/800) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
-- [fix: transactions GraphQL limit handling](https://github.com/Granola-Team/mina-indexer/pull/791) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (5 days ago)
+- [Add additional hurl tests](https://github.com/Granola-Team/mina-indexer/pull/800) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
+- [fix: transactions GraphQL limit handling](https://github.com/Granola-Team/mina-indexer/pull/791) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (6 days ago)
 - [fix: fast transaction queries with limited supported sorters](https://github.com/Granola-Team/mina-indexer/pull/787) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [ feat: add GraphQL - transaction](https://github.com/Granola-Team/mina-indexer/pull/786) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [chore: dedupe regression test server start code](https://github.com/Granola-Team/mina-indexer/pull/779) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project (today)
-- [facebook/mysql-5.6](https://github.com/facebook/mysql-5.6) - Facebook&#39;s branch of the Oracle MySQL database. This includes MyRocks. (1 day ago)
-- [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified (2 days ago)
-- [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust (5 days ago)
-- [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency. (6 days ago)
-- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (6 days ago)
-- [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library (6 days ago)
-- [nats-io/nats.rs](https://github.com/nats-io/nats.rs) - Rust client for NATS, the cloud native messaging system. (6 days ago)
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly. (1 week ago)
-- [bruth/rita](https://github.com/bruth/rita) - Toolkit for event-centric and reactive patterns leveraging https://nats.io. (1 week ago)
+- [zigcc/zig-cookbook](https://github.com/zigcc/zig-cookbook) - Simple Zig programs that demonstrate good practices to accomplish common programming tasks. (1 day ago)
+- [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker (1 day ago)
+- [the-lean-crate/criner](https://github.com/the-lean-crate/criner) - A tool to mine crates.io and produce static websites (1 day ago)
+- [rksm/cargo-add-dynamic](https://github.com/rksm/cargo-add-dynamic) - cargo-add command to make dependencies into dylibs (1 day ago)
+- [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project (1 day ago)
+- [facebook/mysql-5.6](https://github.com/facebook/mysql-5.6) - Facebook&#39;s branch of the Oracle MySQL database. This includes MyRocks. (2 days ago)
+- [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified (3 days ago)
+- [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust (6 days ago)
+- [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency. (1 week ago)
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (1 week ago)
 
 #### 📫 How to reach me
 
