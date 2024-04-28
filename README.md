@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
-- [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (4 weeks ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
+- [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (1 month ago)
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (1 month ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 month ago)
 - [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (1 month ago)
@@ -27,10 +27,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.17.0.0](https://github.com/http4k/http4k/releases/tag/5.17.0.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha32](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha32), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.17.0.0](https://github.com/http4k/http4k/releases/tag/5.17.0.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.alpha32](https://github.com/vaadin/flow/releases/tag/24.4.0.alpha32), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [openshift/imagebuilder](https://github.com/openshift/imagebuilder) ([v1.2.9](https://github.com/openshift/imagebuilder/releases/tag/v1.2.9), 1 week ago) - Builds Dockerfile using the Docker client (with squashing! and secrets!)
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 2 weeks ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 3 weeks ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.1](https://github.com/kotest/kotest/releases/tag/v5.8.1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.37](https://github.com/rust-lang/mdBook/releases/tag/v0.4.37), 2 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 3 months ago) - 
@@ -39,10 +39,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [feat(GraphQL): add timing to Stakes query](https://github.com/Granola-Team/mina-indexer/pull/814) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
-- [fix: rustfmt version determination in Just](https://github.com/Granola-Team/mina-indexer/pull/812) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
-- [fix(GraphQL): Txn - return None (null) if proper query input is missing](https://github.com/Granola-Team/mina-indexer/pull/810) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
-- [Add additional hurl tests](https://github.com/Granola-Team/mina-indexer/pull/800) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 days ago)
+- [feat(GraphQL): add timing to Stakes query](https://github.com/Granola-Team/mina-indexer/pull/814) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
+- [fix: rustfmt version determination in Just](https://github.com/Granola-Team/mina-indexer/pull/812) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
+- [fix(GraphQL): Txn - return None (null) if proper query input is missing](https://github.com/Granola-Team/mina-indexer/pull/810) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
+- [Add additional hurl tests](https://github.com/Granola-Team/mina-indexer/pull/800) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (5 days ago)
 - [fix: transactions GraphQL limit handling](https://github.com/Granola-Team/mina-indexer/pull/791) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [fix: fast transaction queries with limited supported sorters](https://github.com/Granola-Team/mina-indexer/pull/787) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [ feat: add GraphQL - transaction](https://github.com/Granola-Team/mina-indexer/pull/786) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
@@ -52,16 +52,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle &amp; ship your Rust WASM application to the web. (2 days ago)
-- [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos) - A collection of awesome libraries in the Leptos ecosystem. (2 days ago)
-- [Synphonyte/leptos-struct-table](https://github.com/Synphonyte/leptos-struct-table) - Easily create Leptos table components from structs (2 days ago)
-- [Shopify/graphql-design-tutorial](https://github.com/Shopify/graphql-design-tutorial) -  (2 days ago)
-- [zigcc/zig-cookbook](https://github.com/zigcc/zig-cookbook) - Simple Zig programs that demonstrate good practices to accomplish common programming tasks. (3 days ago)
-- [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker (3 days ago)
-- [the-lean-crate/criner](https://github.com/the-lean-crate/criner) - A tool to mine crates.io and produce static websites (3 days ago)
-- [rksm/cargo-add-dynamic](https://github.com/rksm/cargo-add-dynamic) - cargo-add command to make dependencies into dylibs (3 days ago)
-- [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project (3 days ago)
-- [facebook/mysql-5.6](https://github.com/facebook/mysql-5.6) - Facebook&#39;s branch of the Oracle MySQL database. This includes MyRocks. (4 days ago)
+- [token2/authy-migration](https://github.com/token2/authy-migration) - Migrating from Authy to Token2 hardware tokens or alternative TOTP Apps, including WinAuth or Raivo OTP (1 day ago)
+- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle &amp; ship your Rust WASM application to the web. (3 days ago)
+- [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos) - A collection of awesome libraries in the Leptos ecosystem. (3 days ago)
+- [Synphonyte/leptos-struct-table](https://github.com/Synphonyte/leptos-struct-table) - Easily create Leptos table components from structs (3 days ago)
+- [Shopify/graphql-design-tutorial](https://github.com/Shopify/graphql-design-tutorial) -  (3 days ago)
+- [zigcc/zig-cookbook](https://github.com/zigcc/zig-cookbook) - Simple Zig programs that demonstrate good practices to accomplish common programming tasks. (4 days ago)
+- [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker (4 days ago)
+- [the-lean-crate/criner](https://github.com/the-lean-crate/criner) - A tool to mine crates.io and produce static websites (4 days ago)
+- [rksm/cargo-add-dynamic](https://github.com/rksm/cargo-add-dynamic) - cargo-add command to make dependencies into dylibs (4 days ago)
+- [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project (4 days ago)
 
 #### 📫 How to reach me
 
