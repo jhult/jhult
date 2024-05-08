@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (6 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (1 week ago)
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (1 month ago)
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (1 month ago)
@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.10](https://github.com/vaadin/flow/releases/tag/24.3.10), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.10](https://github.com/vaadin/flow/releases/tag/24.3.10), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.18.2.0](https://github.com/http4k/http4k/releases/tag/5.18.2.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 1 month ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.8.1](https://github.com/kotest/kotest/releases/tag/v5.8.1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
@@ -38,29 +38,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [feat: use network from db](https://github.com/Granola-Team/mina-indexer/pull/841) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
 - [Improvement(GraphQL): clean up Blocks/Transactions](https://github.com/Granola-Team/mina-indexer/pull/826) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [feat(GraphQL): add timing to Stakes query](https://github.com/Granola-Team/mina-indexer/pull/814) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [fix: rustfmt version determination in Just](https://github.com/Granola-Team/mina-indexer/pull/812) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [fix(GraphQL): Txn - return None (null) if proper query input is missing](https://github.com/Granola-Team/mina-indexer/pull/810) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [Add additional hurl tests](https://github.com/Granola-Team/mina-indexer/pull/800) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [fix: transactions GraphQL limit handling](https://github.com/Granola-Team/mina-indexer/pull/791) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
-- [fix: fast transaction queries with limited supported sorters](https://github.com/Granola-Team/mina-indexer/pull/787) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
+- [fix: fast transaction queries with limited supported sorters](https://github.com/Granola-Team/mina-indexer/pull/787) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [ feat: add GraphQL - transaction](https://github.com/Granola-Team/mina-indexer/pull/786) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [chore: dedupe regression test server start code](https://github.com/Granola-Team/mina-indexer/pull/779) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
-- [Add Apache License 2.0](https://github.com/novafacing/getters2/pull/3) on [novafacing/getters2](https://github.com/novafacing/getters2) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [buildkite/agent](https://github.com/buildkite/agent) - The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network (1 day ago)
-- [jonhoo/stream-cancel](https://github.com/jonhoo/stream-cancel) - A Rust library for interrupting asynchronous streams. (1 day ago)
-- [Finomnis/tokio-graceful-shutdown](https://github.com/Finomnis/tokio-graceful-shutdown) - Provides utility functions to perform a graceful shutdown on tokio-rs based services (1 day ago)
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (3 days ago)
-- [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line (3 days ago)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (3 days ago)
-- [jsonata-js/jsonata](https://github.com/jsonata-js/jsonata) - JSONata query and transformation language - http://jsonata.org (4 days ago)
-- [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources (4 days ago)
-- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (5 days ago)
-- [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview (6 days ago)
+- [MinaFoundation/Core-Grants](https://github.com/MinaFoundation/Core-Grants) -  (1 day ago)
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜  (1 day ago)
+- [buildkite/agent](https://github.com/buildkite/agent) - The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network (2 days ago)
+- [jonhoo/stream-cancel](https://github.com/jonhoo/stream-cancel) - A Rust library for interrupting asynchronous streams. (2 days ago)
+- [Finomnis/tokio-graceful-shutdown](https://github.com/Finomnis/tokio-graceful-shutdown) - Provides utility functions to perform a graceful shutdown on tokio-rs based services (2 days ago)
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (4 days ago)
+- [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line (4 days ago)
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (4 days ago)
+- [jsonata-js/jsonata](https://github.com/jsonata-js/jsonata) - JSONata query and transformation language - http://jsonata.org (5 days ago)
+- [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources (5 days ago)
 
 #### 📫 How to reach me
 
