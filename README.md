@@ -14,9 +14,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 day ago)
-- [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (3 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
+- [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (4 days ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (2 weeks ago)
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (1 month ago)
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (1 month ago)
@@ -27,9 +27,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.19.0.0](https://github.com/http4k/http4k/releases/tag/5.19.0.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.0](https://github.com/kotest/kotest/releases/tag/v5.9.0), 5 days ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.beta2](https://github.com/vaadin/flow/releases/tag/24.4.0.beta2), 6 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.20.0.0](https://github.com/http4k/http4k/releases/tag/5.20.0.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.beta3](https://github.com/vaadin/flow/releases/tag/24.4.0.beta3), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.0](https://github.com/kotest/kotest/releases/tag/v5.9.0), 6 days ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 1 month ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.37](https://github.com/rust-lang/mdBook/releases/tag/v0.4.37), 3 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 3 months ago) - 
@@ -38,29 +38,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Problem: OSSEC RFC link broken](https://github.com/zeromq/rfc/pull/198) on [zeromq/rfc](https://github.com/zeromq/rfc) (2 days ago)
-- [Update verbiage from &#34;Showing latest x...&#34; to &#34;x most recent...&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/617) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 days ago)
-- [Standardize URLs](https://github.com/Granola-Team/mina-block-explorer/pull/614) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 days ago)
-- [Point &#34;Addresses&#34; menu to `/addresses/accounts`](https://github.com/Granola-Team/mina-block-explorer/pull/612) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 days ago)
-- [Update header](https://github.com/Granola-Team/mina-block-explorer/pull/607) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (4 days ago)
-- [feat: add MIT LICENSE](https://github.com/jmgilman/earthly-nix/pull/1) on [jmgilman/earthly-nix](https://github.com/jmgilman/earthly-nix) (6 days ago)
+- [fix(staking): stake amount use total delegated instead of balance](https://github.com/Granola-Team/mina-block-explorer/pull/626) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 day ago)
+- [Problem: OSSEC RFC link broken](https://github.com/zeromq/rfc/pull/198) on [zeromq/rfc](https://github.com/zeromq/rfc) (3 days ago)
+- [Update verbiage from &#34;Showing latest x...&#34; to &#34;x most recent...&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/617) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (4 days ago)
+- [Standardize URLs](https://github.com/Granola-Team/mina-block-explorer/pull/614) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (4 days ago)
+- [Point &#34;Addresses&#34; menu to `/addresses/accounts`](https://github.com/Granola-Team/mina-block-explorer/pull/612) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (4 days ago)
+- [Update header](https://github.com/Granola-Team/mina-block-explorer/pull/607) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (5 days ago)
+- [feat: add MIT LICENSE](https://github.com/jmgilman/earthly-nix/pull/1) on [jmgilman/earthly-nix](https://github.com/jmgilman/earthly-nix) (1 week ago)
 - [feat: use network from db](https://github.com/Granola-Team/mina-indexer/pull/841) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [Improvement(GraphQL): clean up Blocks/Transactions](https://github.com/Granola-Team/mina-indexer/pull/826) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [feat(GraphQL): add timing to Stakes query](https://github.com/Granola-Team/mina-indexer/pull/814) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
-- [fix: rustfmt version determination in Just](https://github.com/Granola-Team/mina-indexer/pull/812) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development (today)
-- [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions (1 day ago)
-- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (1 day ago)
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. (2 days ago)
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (2 days ago)
-- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language &amp; Versatile interactive shell (2 days ago)
-- [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb (2 days ago)
-- [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (2 days ago)
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. (5 days ago)
-- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust. (6 days ago)
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development (1 day ago)
+- [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions (2 days ago)
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (2 days ago)
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. (3 days ago)
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (3 days ago)
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language &amp; Versatile interactive shell (3 days ago)
+- [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb (3 days ago)
+- [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (3 days ago)
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. (6 days ago)
+- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust. (1 week ago)
 
 #### 📫 How to reach me
 
