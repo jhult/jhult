@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (5 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 day ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (1 week ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (3 weeks ago)
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (1 month ago)
@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 4 days ago) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.3.31](https://github.com/vaadin/flow/releases/tag/23.3.31), 5 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.beta4](https://github.com/vaadin/flow/releases/tag/24.4.0.beta4), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 5 days ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.20.0.0](https://github.com/http4k/http4k/releases/tag/5.20.0.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.0](https://github.com/kotest/kotest/releases/tag/v5.9.0), 1 week ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 1 month ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
@@ -38,29 +38,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Dedupe summary page code block](https://github.com/Granola-Team/mina-block-explorer/pull/637) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (5 days ago)
-- [Update summary model with staking ledger hash for page header](https://github.com/Granola-Team/mina-block-explorer/pull/635) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (5 days ago)
-- [Show `0` instead of `0 MINA` ](https://github.com/Granola-Team/mina-block-explorer/pull/630) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (6 days ago)
+- [Remove `Ledger Hash` column on (next) Staking Ledgers and move hash to header](https://github.com/Granola-Team/mina-block-explorer/pull/652) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 day ago)
+- [Dedupe summary page code block](https://github.com/Granola-Team/mina-block-explorer/pull/637) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (6 days ago)
+- [Update summary model with staking ledger hash for page header](https://github.com/Granola-Team/mina-block-explorer/pull/635) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (6 days ago)
+- [Show `0` instead of `0 MINA` ](https://github.com/Granola-Team/mina-block-explorer/pull/630) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [fix(staking): stake amount use total delegated instead of balance](https://github.com/Granola-Team/mina-block-explorer/pull/626) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [Problem: OSSEC RFC link broken](https://github.com/zeromq/rfc/pull/198) on [zeromq/rfc](https://github.com/zeromq/rfc) (1 week ago)
 - [Update verbiage from &#34;Showing latest x...&#34; to &#34;x most recent...&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/617) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [Standardize URLs](https://github.com/Granola-Team/mina-block-explorer/pull/614) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [Point &#34;Addresses&#34; menu to `/addresses/accounts`](https://github.com/Granola-Team/mina-block-explorer/pull/612) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [Update header](https://github.com/Granola-Team/mina-block-explorer/pull/607) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
-- [feat: add MIT LICENSE](https://github.com/jmgilman/earthly-nix/pull/1) on [jmgilman/earthly-nix](https://github.com/jmgilman/earthly-nix) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms. (1 day ago)
-- [Cuprate/cuprate](https://github.com/Cuprate/cuprate) - Cuprate, an upcoming experimental, modern &amp; secure monero node. Written in Rust (4 days ago)
-- [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust (4 days ago)
-- [vashpan/xcode-dev-cleaner](https://github.com/vashpan/xcode-dev-cleaner) - If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you! (4 days ago)
-- [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a toolkit for creating modular data visualization applications. (5 days ago)
-- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡ (5 days ago)
-- [booksbyus/zguide](https://github.com/booksbyus/zguide) - Learning and Using ØMQ (5 days ago)
-- [quarylabs/sqruff](https://github.com/quarylabs/sqruff) - A compact, high-speed SQL linter, engineered with Rust efficiency. (5 days ago)
-- [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers (6 days ago)
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer. (6 days ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 day ago)
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms. (2 days ago)
+- [Cuprate/cuprate](https://github.com/Cuprate/cuprate) - Cuprate, an upcoming experimental, modern &amp; secure monero node. Written in Rust (5 days ago)
+- [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust (5 days ago)
+- [vashpan/xcode-dev-cleaner](https://github.com/vashpan/xcode-dev-cleaner) - If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you! (5 days ago)
+- [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a toolkit for creating modular data visualization applications. (6 days ago)
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡ (6 days ago)
+- [booksbyus/zguide](https://github.com/booksbyus/zguide) - Learning and Using ØMQ (6 days ago)
+- [quarylabs/sqruff](https://github.com/quarylabs/sqruff) - A compact, high-speed SQL linter, engineered with Rust efficiency. (6 days ago)
+- [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers (1 week ago)
 
 #### 📫 How to reach me
 
