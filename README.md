@@ -14,11 +14,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (3 days ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (4 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 day ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (4 days ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (2 weeks ago)
-- [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (4 weeks ago)
-- [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (1 month ago)
+- [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (1 month ago)
+- [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (2 months ago)
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (2 months ago)
 - [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (2 months ago)
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (5 months ago)
@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.21.0.0](https://github.com/http4k/http4k/releases/tag/5.21.0.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.beta5](https://github.com/vaadin/flow/releases/tag/24.4.0.beta5), 5 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.21.0.0](https://github.com/http4k/http4k/releases/tag/5.21.0.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.beta5](https://github.com/vaadin/flow/releases/tag/24.4.0.beta5), 6 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.0](https://github.com/kotest/kotest/releases/tag/v5.9.0), 2 weeks ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 1 month ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
@@ -38,25 +38,25 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Update `canonical` selector border](https://github.com/Granola-Team/mina-block-explorer/pull/675) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (4 days ago)
-- [Use SVG for favicon](https://github.com/Granola-Team/mina-block-explorer/pull/674) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (4 days ago)
-- [Add `.cargo/config.toml` to fix `clipboard` `Navigator` error](https://github.com/Granola-Team/mina-block-explorer/pull/672) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (4 days ago)
-- [Remove `Ledger Hash` column on (next) Staking Ledgers and move hash to header](https://github.com/Granola-Team/mina-block-explorer/pull/652) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (6 days ago)
+- [feat: CD to Cloudflare Pages](https://github.com/Granola-Team/mina-block-explorer/pull/695) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 day ago)
+- [Update `canonical` selector border](https://github.com/Granola-Team/mina-block-explorer/pull/675) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (5 days ago)
+- [Use SVG for favicon](https://github.com/Granola-Team/mina-block-explorer/pull/674) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (5 days ago)
+- [Add `.cargo/config.toml` to fix `clipboard` `Navigator` error](https://github.com/Granola-Team/mina-block-explorer/pull/672) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (5 days ago)
+- [Remove `Ledger Hash` column on (next) Staking Ledgers and move hash to header](https://github.com/Granola-Team/mina-block-explorer/pull/652) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [Dedupe summary page code block](https://github.com/Granola-Team/mina-block-explorer/pull/637) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [Update summary model with staking ledger hash for page header](https://github.com/Granola-Team/mina-block-explorer/pull/635) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [Show `0` instead of `0 MINA` ](https://github.com/Granola-Team/mina-block-explorer/pull/630) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
-- [fix(staking): stake amount use total delegated instead of balance](https://github.com/Granola-Team/mina-block-explorer/pull/626) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
+- [fix(staking): stake amount use total delegated instead of balance](https://github.com/Granola-Team/mina-block-explorer/pull/626) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
 - [Problem: OSSEC RFC link broken](https://github.com/zeromq/rfc/pull/198) on [zeromq/rfc](https://github.com/zeromq/rfc) (2 weeks ago)
-- [Update verbiage from &#34;Showing latest x...&#34; to &#34;x most recent...&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/617) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [getcord/spr](https://github.com/getcord/spr) - Submit pull requests for individual, amendable, rebaseable commits to GitHub (2 days ago)
-- [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects. (3 days ago)
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly (4 days ago)
-- [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - Twiggy🌱 is a code size profiler (4 days ago)
-- [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application (4 days ago)
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (6 days ago)
+- [getcord/spr](https://github.com/getcord/spr) - Submit pull requests for individual, amendable, rebaseable commits to GitHub (3 days ago)
+- [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects. (4 days ago)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly (5 days ago)
+- [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - Twiggy🌱 is a code size profiler (5 days ago)
+- [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application (5 days ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms. (1 week ago)
 - [Cuprate/cuprate](https://github.com/Cuprate/cuprate) - Cuprate, an upcoming experimental, modern &amp; secure monero node. Written in Rust (1 week ago)
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust (1 week ago)
