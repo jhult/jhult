@@ -14,9 +14,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (3 days ago)
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 week ago)
-- [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (2 weeks ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (4 days ago)
+- [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (3 weeks ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (1 month ago)
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (2 months ago)
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (2 months ago)
@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.21.1.0](https://github.com/http4k/http4k/releases/tag/5.21.1.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.beta5](https://github.com/vaadin/flow/releases/tag/24.4.0.beta5), 1 week ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([2.10.5](https://github.com/vaadin/flow/releases/tag/2.10.5), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.21.1.0](https://github.com/http4k/http4k/releases/tag/5.21.1.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 2 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.0](https://github.com/kotest/kotest/releases/tag/v5.9.0), 3 weeks ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 1 month ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
@@ -38,10 +38,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [fix(CORS): set response header `Access-Control-Allow-Origin: *`](https://github.com/Granola-Team/mina-indexer/pull/980) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
-- [fix(CD): actually deploy to Prod](https://github.com/Granola-Team/mina-block-explorer/pull/711) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 days ago)
-- [fix(CD): ensure we deploy to Prod](https://github.com/Granola-Team/mina-block-explorer/pull/709) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 days ago)
-- [feat: CD to Cloudflare Pages](https://github.com/Granola-Team/mina-block-explorer/pull/695) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (4 days ago)
+- [fix(CORS): set response header `Access-Control-Allow-Origin: *`](https://github.com/Granola-Team/mina-indexer/pull/980) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
+- [fix(CD): actually deploy to Prod](https://github.com/Granola-Team/mina-block-explorer/pull/711) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (4 days ago)
+- [fix(CD): ensure we deploy to Prod](https://github.com/Granola-Team/mina-block-explorer/pull/709) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (4 days ago)
+- [feat: CD to Cloudflare Pages](https://github.com/Granola-Team/mina-block-explorer/pull/695) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (5 days ago)
 - [Update `canonical` selector border](https://github.com/Granola-Team/mina-block-explorer/pull/675) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [Use SVG for favicon](https://github.com/Granola-Team/mina-block-explorer/pull/674) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [Add `.cargo/config.toml` to fix `clipboard` `Navigator` error](https://github.com/Granola-Team/mina-block-explorer/pull/672) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (1 day ago)
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (1 day ago)
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install (2 days ago)
-- [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3) (2 days ago)
-- [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server). (2 days ago)
-- [pbu88/diffy](https://github.com/pbu88/diffy) - Share diff output in the browser with https://diffy.org (2 days ago)
-- [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech &amp; services (2 days ago)
-- [getcord/spr](https://github.com/getcord/spr) - Submit pull requests for individual, amendable, rebaseable commits to GitHub (6 days ago)
-- [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects. (1 week ago)
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly (1 week ago)
+- [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources (1 day ago)
+- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules. (1 day ago)
+- [losuler/hacker-news-userstyle](https://github.com/losuler/hacker-news-userstyle) - A modern light &amp; dark Hacker News userstyle. (1 day ago)
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (2 days ago)
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (2 days ago)
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install (3 days ago)
+- [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3) (3 days ago)
+- [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server). (3 days ago)
+- [pbu88/diffy](https://github.com/pbu88/diffy) - Share diff output in the browser with https://diffy.org (3 days ago)
+- [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech &amp; services (3 days ago)
 
 #### 📫 How to reach me
 
