@@ -15,7 +15,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 👷 Check out what I'm currently working on
 
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 week ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 weeks ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (1 month ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (1 month ago)
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (2 months ago)
@@ -27,9 +27,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.23.0.0](https://github.com/http4k/http4k/releases/tag/5.23.0.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha2](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha2), 4 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 5 days ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.rc2](https://github.com/vaadin/flow/releases/tag/24.4.0.rc2), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.23.0.0](https://github.com/http4k/http4k/releases/tag/5.23.0.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 6 days ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 3 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 2 months ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 4 months ago) - 
@@ -40,27 +40,27 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 - [fix(memo): don&#39;t panic on memo decoding](https://github.com/Granola-Team/mina-indexer/pull/1022) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [fix(CORS): set response header `Access-Control-Allow-Origin: *`](https://github.com/Granola-Team/mina-indexer/pull/980) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
-- [fix(CD): actually deploy to Prod](https://github.com/Granola-Team/mina-block-explorer/pull/711) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
-- [fix(CD): ensure we deploy to Prod](https://github.com/Granola-Team/mina-block-explorer/pull/709) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
+- [fix(CD): actually deploy to Prod](https://github.com/Granola-Team/mina-block-explorer/pull/711) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
+- [fix(CD): ensure we deploy to Prod](https://github.com/Granola-Team/mina-block-explorer/pull/709) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
 - [feat: CD to Cloudflare Pages](https://github.com/Granola-Team/mina-block-explorer/pull/695) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
 - [Update `canonical` selector border](https://github.com/Granola-Team/mina-block-explorer/pull/675) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
 - [Use SVG for favicon](https://github.com/Granola-Team/mina-block-explorer/pull/674) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
 - [Add `.cargo/config.toml` to fix `clipboard` `Navigator` error](https://github.com/Granola-Team/mina-block-explorer/pull/672) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
-- [Remove `Ledger Hash` column on (next) Staking Ledgers and move hash to header](https://github.com/Granola-Team/mina-block-explorer/pull/652) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
+- [Remove `Ledger Hash` column on (next) Staking Ledgers and move hash to header](https://github.com/Granola-Team/mina-block-explorer/pull/652) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 weeks ago)
 - [Dedupe summary page code block](https://github.com/Granola-Team/mina-block-explorer/pull/637) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Make your typing more enjoyable - Each keystroke echoes a pleasant sound. (2 days ago)
-- [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist&#39;s web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns (2 days ago)
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (2 days ago)
-- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts. (2 days ago)
-- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use (2 days ago)
-- [luke-clifton/shh](https://github.com/luke-clifton/shh) - Simple shell like scripting from Haskell (4 days ago)
-- [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps. (4 days ago)
-- [tynanbe/rad](https://github.com/tynanbe/rad) - ✨ Run tasks in Gleam! (4 days ago)
-- [gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam) - 💯 A collection of Gleam libraries, projects, and resources (4 days ago)
-- [wojtekmach/req](https://github.com/wojtekmach/req) - Req is a batteries-included HTTP client for Elixir. (4 days ago)
+- [LGUG2Z/unsubscan](https://github.com/LGUG2Z/unsubscan) - A tool to help you find unsubscribe links in your emails (1 day ago)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (1 day ago)
+- [ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Make your typing more enjoyable - Each keystroke echoes a pleasant sound. (3 days ago)
+- [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist&#39;s web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns (3 days ago)
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (3 days ago)
+- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts. (3 days ago)
+- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use (3 days ago)
+- [luke-clifton/shh](https://github.com/luke-clifton/shh) - Simple shell like scripting from Haskell (5 days ago)
+- [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps. (5 days ago)
+- [tynanbe/rad](https://github.com/tynanbe/rad) - ✨ Run tasks in Gleam! (5 days ago)
 
 #### 📫 How to reach me
 
