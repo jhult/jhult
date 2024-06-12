@@ -27,9 +27,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0.rc2](https://github.com/vaadin/flow/releases/tag/24.4.0.rc2), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.23.0.0](https://github.com/http4k/http4k/releases/tag/5.23.0.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 6 days ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.0](https://github.com/vaadin/flow/releases/tag/24.4.0), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.23.0.0](https://github.com/http4k/http4k/releases/tag/5.23.0.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 1 week ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 3 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 2 months ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 4 months ago) - 
@@ -39,7 +39,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 🔨 My recent Pull Requests
 
 - [fix(memo): don&#39;t panic on memo decoding](https://github.com/Granola-Team/mina-indexer/pull/1022) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
-- [fix(CORS): set response header `Access-Control-Allow-Origin: *`](https://github.com/Granola-Team/mina-indexer/pull/980) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
+- [fix(CORS): set response header `Access-Control-Allow-Origin: *`](https://github.com/Granola-Team/mina-indexer/pull/980) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [fix(CD): actually deploy to Prod](https://github.com/Granola-Team/mina-block-explorer/pull/711) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
 - [fix(CD): ensure we deploy to Prod](https://github.com/Granola-Team/mina-block-explorer/pull/709) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
 - [feat: CD to Cloudflare Pages](https://github.com/Granola-Team/mina-block-explorer/pull/695) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [LGUG2Z/unsubscan](https://github.com/LGUG2Z/unsubscan) - A tool to help you find unsubscribe links in your emails (1 day ago)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (1 day ago)
-- [ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Make your typing more enjoyable - Each keystroke echoes a pleasant sound. (3 days ago)
-- [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist&#39;s web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns (3 days ago)
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (3 days ago)
-- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts. (3 days ago)
-- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use (3 days ago)
-- [luke-clifton/shh](https://github.com/luke-clifton/shh) - Simple shell like scripting from Haskell (5 days ago)
-- [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps. (5 days ago)
-- [tynanbe/rad](https://github.com/tynanbe/rad) - ✨ Run tasks in Gleam! (5 days ago)
+- [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things (1 day ago)
+- [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history! (1 day ago)
+- [LGUG2Z/unsubscan](https://github.com/LGUG2Z/unsubscan) - A tool to help you find unsubscribe links in your emails (2 days ago)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (2 days ago)
+- [ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Make your typing more enjoyable - Each keystroke echoes a pleasant sound. (4 days ago)
+- [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist&#39;s web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns (4 days ago)
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (4 days ago)
+- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts. (4 days ago)
+- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use (4 days ago)
+- [luke-clifton/shh](https://github.com/luke-clifton/shh) - Simple shell like scripting from Haskell (6 days ago)
 
 #### 📫 How to reach me
 
