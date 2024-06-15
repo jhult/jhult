@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 day ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 days ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (1 month ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (1 month ago)
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (2 months ago)
@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.1](https://github.com/vaadin/flow/releases/tag/24.4.1), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.23.0.0](https://github.com/http4k/http4k/releases/tag/5.23.0.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.1](https://github.com/vaadin/flow/releases/tag/24.4.1), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.23.0.0](https://github.com/http4k/http4k/releases/tag/5.23.0.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 1 week ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 4 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 2 months ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
@@ -38,29 +38,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [feat: early access banner in header](https://github.com/Granola-Team/mina-block-explorer/pull/843) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 day ago)
-- [chore: use short git commit hash](https://github.com/Granola-Team/mina-block-explorer/pull/842) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 day ago)
-- [chore: add .envrc to gitignore](https://github.com/Granola-Team/mina-block-explorer/pull/841) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 day ago)
-- [chore: add .envrc to gitignore](https://github.com/Granola-Team/mina-indexer/pull/1141) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
-- [fix: &#34;Total Currency&#34; -&gt; &#34;Total MINA&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/836) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 day ago)
-- [fix: increase hurl timeouts from 500 to 750](https://github.com/Granola-Team/mina-indexer/pull/1135) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
-- [fix: limit from i64 -&gt; u16](https://github.com/Granola-Team/mina-block-explorer/pull/835) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 day ago)
-- [fix: update pnpm lockfile format](https://github.com/Granola-Team/mina-block-explorer/pull/834) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 day ago)
-- [feat(test)!: make hurl tests run in parallel](https://github.com/Granola-Team/mina-indexer/pull/1115) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
-- [fix(memo): don&#39;t panic on memo decoding](https://github.com/Granola-Team/mina-indexer/pull/1022) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
+- [fix(gql): adjust Vec creation to avoid over allocation](https://github.com/Granola-Team/mina-indexer/pull/1156) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
+- [feat: early access banner in header](https://github.com/Granola-Team/mina-block-explorer/pull/843) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 days ago)
+- [chore: use short git commit hash](https://github.com/Granola-Team/mina-block-explorer/pull/842) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 days ago)
+- [chore: add .envrc to gitignore](https://github.com/Granola-Team/mina-block-explorer/pull/841) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 days ago)
+- [chore: add .envrc to gitignore](https://github.com/Granola-Team/mina-indexer/pull/1141) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
+- [fix: &#34;Total Currency&#34; -&gt; &#34;Total MINA&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/836) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 days ago)
+- [fix: increase hurl timeouts from 500 to 750](https://github.com/Granola-Team/mina-indexer/pull/1135) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
+- [fix: limit from i64 -&gt; u16](https://github.com/Granola-Team/mina-block-explorer/pull/835) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 days ago)
+- [fix: update pnpm lockfile format](https://github.com/Granola-Team/mina-block-explorer/pull/834) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 days ago)
+- [feat(test)!: make hurl tests run in parallel](https://github.com/Granola-Team/mina-indexer/pull/1115) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 day ago)
-- [oracle/dtrace-utils](https://github.com/oracle/dtrace-utils) - DTrace-utils contains the DTrace port to Linux (1 day ago)
-- [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates (1 day ago)
-- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development. (1 day ago)
-- [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things (3 days ago)
-- [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history! (3 days ago)
-- [LGUG2Z/unsubscan](https://github.com/LGUG2Z/unsubscan) - A tool to help you find unsubscribe links in your emails (4 days ago)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (4 days ago)
-- [ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Make your typing more enjoyable - Each keystroke echoes a pleasant sound. (6 days ago)
-- [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist&#39;s web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns (6 days ago)
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend (1 day ago)
+- [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) - A memory visualizer in Rust (ptrace &#43; userfaultfd) (1 day ago)
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (2 days ago)
+- [oracle/dtrace-utils](https://github.com/oracle/dtrace-utils) - DTrace-utils contains the DTrace port to Linux (2 days ago)
+- [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates (2 days ago)
+- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development. (2 days ago)
+- [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things (4 days ago)
+- [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history! (4 days ago)
+- [LGUG2Z/unsubscan](https://github.com/LGUG2Z/unsubscan) - A tool to help you find unsubscribe links in your emails (5 days ago)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (5 days ago)
 
 #### 📫 How to reach me
 
