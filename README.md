@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (6 days ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (6 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 week ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (1 month ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (1 month ago)
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (2 months ago)
@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.2](https://github.com/vaadin/flow/releases/tag/24.4.2), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.4.2](https://github.com/vaadin/flow/releases/tag/24.4.2), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.23.0.0](https://github.com/http4k/http4k/releases/tag/5.23.0.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 2 weeks ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -38,29 +38,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [fix: repo URL](https://github.com/dpc/redb-bincode/pull/1) on [dpc/redb-bincode](https://github.com/dpc/redb-bincode) (1 day ago)
-- [fix(gql): adjust Vec creation to avoid over allocation](https://github.com/Granola-Team/mina-indexer/pull/1156) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (5 days ago)
-- [feat: early access banner in header](https://github.com/Granola-Team/mina-block-explorer/pull/843) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (6 days ago)
-- [chore: use short git commit hash](https://github.com/Granola-Team/mina-block-explorer/pull/842) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (6 days ago)
-- [chore: add .envrc to gitignore](https://github.com/Granola-Team/mina-block-explorer/pull/841) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (6 days ago)
-- [chore: add .envrc to gitignore](https://github.com/Granola-Team/mina-indexer/pull/1141) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (6 days ago)
-- [fix: &#34;Total Currency&#34; -&gt; &#34;Total MINA&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/836) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (6 days ago)
-- [fix: increase hurl timeouts from 500 to 750](https://github.com/Granola-Team/mina-indexer/pull/1135) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (6 days ago)
-- [fix: limit from i64 -&gt; u16](https://github.com/Granola-Team/mina-block-explorer/pull/835) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (6 days ago)
-- [fix: update pnpm lockfile format](https://github.com/Granola-Team/mina-block-explorer/pull/834) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (6 days ago)
+- [fix: repo URL](https://github.com/dpc/redb-bincode/pull/1) on [dpc/redb-bincode](https://github.com/dpc/redb-bincode) (2 days ago)
+- [fix(gql): adjust Vec creation to avoid over allocation](https://github.com/Granola-Team/mina-indexer/pull/1156) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (6 days ago)
+- [feat: early access banner in header](https://github.com/Granola-Team/mina-block-explorer/pull/843) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
+- [chore: use short git commit hash](https://github.com/Granola-Team/mina-block-explorer/pull/842) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
+- [chore: add .envrc to gitignore](https://github.com/Granola-Team/mina-block-explorer/pull/841) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
+- [chore: add .envrc to gitignore](https://github.com/Granola-Team/mina-indexer/pull/1141) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
+- [fix: &#34;Total Currency&#34; -&gt; &#34;Total MINA&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/836) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
+- [fix: increase hurl timeouts from 500 to 750](https://github.com/Granola-Team/mina-indexer/pull/1135) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
+- [fix: limit from i64 -&gt; u16](https://github.com/Granola-Team/mina-block-explorer/pull/835) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
+- [fix: update pnpm lockfile format](https://github.com/Granola-Team/mina-block-explorer/pull/834) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [playwright-community/cy2pw](https://github.com/playwright-community/cy2pw) -  (today)
-- [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark) - Benchmarks for rust serialization frameworks (1 day ago)
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (1 day ago)
-- [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations} (2 days ago)
-- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF) (2 days ago)
-- [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps (2 days ago)
-- [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust&#39;s mid-level intermediate representation (2 days ago)
-- [UninvitedActivity/UninvitedActivity](https://github.com/UninvitedActivity/UninvitedActivity) - An attempt at creating some kind of auto-updating IP address blocklist (3 days ago)
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend (5 days ago)
-- [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) - A memory visualizer in Rust (ptrace &#43; userfaultfd) (5 days ago)
+- [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future (today)
+- [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) - WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Microsoft Azure, AWS, and Google Cloud). (1 day ago)
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings. (1 day ago)
+- [playwright-community/eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for Playwright (1 day ago)
+- [playwright-community/cy2pw](https://github.com/playwright-community/cy2pw) -  (1 day ago)
+- [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark) - Benchmarks for rust serialization frameworks (2 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (2 days ago)
+- [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations} (3 days ago)
+- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF) (3 days ago)
+- [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps (3 days ago)
 
 #### 📫 How to reach me
 
