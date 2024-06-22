@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha4](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha4), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha4](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha4), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.23.0.0](https://github.com/http4k/http4k/releases/tag/5.23.0.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 2 weeks ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -38,7 +38,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [fix: repo URL](https://github.com/dpc/redb-bincode/pull/1) on [dpc/redb-bincode](https://github.com/dpc/redb-bincode) (3 days ago)
+- [fix: repo URL](https://github.com/dpc/redb-bincode/pull/1) on [dpc/redb-bincode](https://github.com/dpc/redb-bincode) (4 days ago)
 - [fix(gql): adjust Vec creation to avoid over allocation](https://github.com/Granola-Team/mina-indexer/pull/1156) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [feat: early access banner in header](https://github.com/Granola-Team/mina-block-explorer/pull/843) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [chore: use short git commit hash](https://github.com/Granola-Team/mina-block-explorer/pull/842) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [alibaba/git-repo-go](https://github.com/alibaba/git-repo-go) - git-repo is a command-line tool for centralized workflow, can work with Gerrit, AGit-Flow compatible servers. It is written in Golang, and it can be installed easily without further dependency. It provides an easy-to-use solution for multiple repositories which is introduced by Android repo first, and it can also work with a single repository. (1 day ago)
-- [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future (1 day ago)
-- [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) - WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Microsoft Azure, AWS, and Google Cloud). (2 days ago)
-- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings. (2 days ago)
-- [playwright-community/eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for Playwright (2 days ago)
-- [playwright-community/cy2pw](https://github.com/playwright-community/cy2pw) -  (2 days ago)
-- [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark) - Benchmarks for rust serialization frameworks (3 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (3 days ago)
-- [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations} (4 days ago)
-- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF) (4 days ago)
+- [alibaba/git-repo-go](https://github.com/alibaba/git-repo-go) - git-repo is a command-line tool for centralized workflow, can work with Gerrit, AGit-Flow compatible servers. It is written in Golang, and it can be installed easily without further dependency. It provides an easy-to-use solution for multiple repositories which is introduced by Android repo first, and it can also work with a single repository. (2 days ago)
+- [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future (2 days ago)
+- [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) - WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Microsoft Azure, AWS, and Google Cloud). (3 days ago)
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings. (3 days ago)
+- [playwright-community/eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for Playwright (3 days ago)
+- [playwright-community/cy2pw](https://github.com/playwright-community/cy2pw) -  (3 days ago)
+- [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark) - Benchmarks for rust serialization frameworks (4 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (4 days ago)
+- [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations} (5 days ago)
+- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF) (5 days ago)
 
 #### 📫 How to reach me
 
