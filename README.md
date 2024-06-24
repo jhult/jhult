@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha4](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha4), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha4](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha4), 4 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.23.0.0](https://github.com/http4k/http4k/releases/tag/5.23.0.0), 2 weeks ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 2 weeks ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -38,7 +38,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [fix: repo URL](https://github.com/dpc/redb-bincode/pull/1) on [dpc/redb-bincode](https://github.com/dpc/redb-bincode) (5 days ago)
+- [feat: gracefully shutdown](https://github.com/Granola-Team/mina-indexer/pull/1210) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
+- [fix: repo URL](https://github.com/dpc/redb-bincode/pull/1) on [dpc/redb-bincode](https://github.com/dpc/redb-bincode) (6 days ago)
 - [fix(gql): adjust Vec creation to avoid over allocation](https://github.com/Granola-Team/mina-indexer/pull/1156) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [feat: early access banner in header](https://github.com/Granola-Team/mina-block-explorer/pull/843) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [chore: use short git commit hash](https://github.com/Granola-Team/mina-block-explorer/pull/842) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
@@ -47,20 +48,19 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [fix: &#34;Total Currency&#34; -&gt; &#34;Total MINA&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/836) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [fix: increase hurl timeouts from 500 to 750](https://github.com/Granola-Team/mina-indexer/pull/1135) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [fix: limit from i64 -&gt; u16](https://github.com/Granola-Team/mina-block-explorer/pull/835) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
-- [fix: update pnpm lockfile format](https://github.com/Granola-Team/mina-block-explorer/pull/834) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [alibaba/git-repo-go](https://github.com/alibaba/git-repo-go) - git-repo is a command-line tool for centralized workflow, can work with Gerrit, AGit-Flow compatible servers. It is written in Golang, and it can be installed easily without further dependency. It provides an easy-to-use solution for multiple repositories which is introduced by Android repo first, and it can also work with a single repository. (3 days ago)
-- [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future (3 days ago)
-- [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) - WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Microsoft Azure, AWS, and Google Cloud). (4 days ago)
-- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings. (4 days ago)
-- [playwright-community/eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for Playwright (4 days ago)
-- [playwright-community/cy2pw](https://github.com/playwright-community/cy2pw) -  (4 days ago)
-- [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark) - Benchmarks for rust serialization frameworks (5 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (5 days ago)
-- [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations} (6 days ago)
-- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF) (6 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (today)
+- [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way (today)
+- [fluentci-io/fluentci-engine](https://github.com/fluentci-io/fluentci-engine) - Programmable CI/CD engine without Containers, written in Rust, built on top of Wasm and Nix ❄️ (today)
+- [alibaba/git-repo-go](https://github.com/alibaba/git-repo-go) - git-repo is a command-line tool for centralized workflow, can work with Gerrit, AGit-Flow compatible servers. It is written in Golang, and it can be installed easily without further dependency. It provides an easy-to-use solution for multiple repositories which is introduced by Android repo first, and it can also work with a single repository. (4 days ago)
+- [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future (4 days ago)
+- [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) - WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Microsoft Azure, AWS, and Google Cloud). (5 days ago)
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings. (5 days ago)
+- [playwright-community/eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for Playwright (5 days ago)
+- [playwright-community/cy2pw](https://github.com/playwright-community/cy2pw) -  (5 days ago)
+- [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark) - Benchmarks for rust serialization frameworks (6 days ago)
 
 #### 📫 How to reach me
 
