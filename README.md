@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 weeks ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (1 month ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (2 months ago)
@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.24.0.0](https://github.com/http4k/http4k/releases/tag/5.24.0.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.24.0.0](https://github.com/http4k/http4k/releases/tag/5.24.0.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha4](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha4), 1 week ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 3 weeks ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -38,10 +38,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [feat: beta ribbon](https://github.com/Granola-Team/mina-block-explorer/pull/914) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 days ago)
-- [feat: gracefully shutdown](https://github.com/Granola-Team/mina-indexer/pull/1210) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 days ago)
+- [feat: beta ribbon](https://github.com/Granola-Team/mina-block-explorer/pull/914) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 days ago)
+- [feat: gracefully shutdown](https://github.com/Granola-Team/mina-indexer/pull/1210) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (5 days ago)
 - [fix: repo URL](https://github.com/dpc/redb-bincode/pull/1) on [dpc/redb-bincode](https://github.com/dpc/redb-bincode) (1 week ago)
-- [fix(gql): adjust Vec creation to avoid over allocation](https://github.com/Granola-Team/mina-indexer/pull/1156) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
+- [fix(gql): adjust Vec creation to avoid over allocation](https://github.com/Granola-Team/mina-indexer/pull/1156) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [feat: early access banner in header](https://github.com/Granola-Team/mina-block-explorer/pull/843) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
 - [chore: use short git commit hash](https://github.com/Granola-Team/mina-block-explorer/pull/842) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
 - [chore: add .envrc to gitignore](https://github.com/Granola-Team/mina-block-explorer/pull/841) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [sourcefrog/cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - :zombie: Inject bugs and see if your tests catch them! (1 day ago)
-- [redpanda-data/benthos](https://github.com/redpanda-data/benthos) -  (2 days ago)
-- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust (2 days ago)
-- [o1-labs/mina-lightweight-explorer](https://github.com/o1-labs/mina-lightweight-explorer) - Lightweight Mina Explorer (2 days ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 days ago)
-- [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way (3 days ago)
-- [fluentci-io/fluentci-engine](https://github.com/fluentci-io/fluentci-engine) - Programmable CI/CD engine without Containers, written in Rust, built on top of Wasm and Nix ❄️ (3 days ago)
+- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (1 day ago)
+- [sourcefrog/cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - :zombie: Inject bugs and see if your tests catch them! (2 days ago)
+- [redpanda-data/benthos](https://github.com/redpanda-data/benthos) -  (3 days ago)
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust (3 days ago)
+- [o1-labs/mina-lightweight-explorer](https://github.com/o1-labs/mina-lightweight-explorer) - Lightweight Mina Explorer (3 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (4 days ago)
+- [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way (4 days ago)
+- [fluentci-io/fluentci-engine](https://github.com/fluentci-io/fluentci-engine) - Programmable CI/CD engine without Containers, written in Rust, built on top of Wasm and Nix ❄️ (4 days ago)
 - [alibaba/git-repo-go](https://github.com/alibaba/git-repo-go) - git-repo is a command-line tool for centralized workflow, can work with Gerrit, AGit-Flow compatible servers. It is written in Golang, and it can be installed easily without further dependency. It provides an easy-to-use solution for multiple repositories which is introduced by Android repo first, and it can also work with a single repository. (1 week ago)
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future (1 week ago)
-- [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) - WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Microsoft Azure, AWS, and Google Cloud). (1 week ago)
 
 #### 📫 How to reach me
 
