@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.13](https://github.com/vaadin/flow/releases/tag/24.3.13), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.25.0.0](https://github.com/http4k/http4k/releases/tag/5.25.0.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.13](https://github.com/vaadin/flow/releases/tag/24.3.13), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.25.0.0](https://github.com/http4k/http4k/releases/tag/5.25.0.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 3 months ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
@@ -38,29 +38,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [chore(ops): add `.rb` extension to Ruby files](https://github.com/Granola-Team/mina-indexer/pull/1280) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
-- [chore(Ruby): add standardrb and format Ruby code](https://github.com/Granola-Team/mina-indexer/pull/1274) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
-- [chore: add MIT license](https://github.com/dino-/scripts/pull/22) on [dino-/scripts](https://github.com/dino-/scripts) (4 days ago)
-- [chore: turn off database compression](https://github.com/Granola-Team/mina-indexer/pull/1249) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (5 days ago)
+- [fix(snapshot): buffer file writing of snapshot file; remove gzip](https://github.com/Granola-Team/mina-indexer/pull/1285) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
+- [chore(ops): add `.rb` extension to Ruby files](https://github.com/Granola-Team/mina-indexer/pull/1280) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
+- [chore(Ruby): add standardrb and format Ruby code](https://github.com/Granola-Team/mina-indexer/pull/1274) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
+- [chore: add MIT license](https://github.com/dino-/scripts/pull/22) on [dino-/scripts](https://github.com/dino-/scripts) (5 days ago)
+- [chore: turn off database compression](https://github.com/Granola-Team/mina-indexer/pull/1249) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (6 days ago)
 - [feat: flush/compress database after ingestion](https://github.com/Granola-Team/mina-indexer/pull/1245) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [fix(snapshot): include INDEXER_VERSION file](https://github.com/Granola-Team/mina-indexer/pull/1242) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [chore: add additional logging around snapshot creation and disable snapshot compression](https://github.com/Granola-Team/mina-indexer/pull/1240) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [feat: implement pwait function](https://github.com/Granola-Team/mina-indexer/pull/1239) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [feat: gracefully shutdown](https://github.com/Granola-Team/mina-indexer/pull/1237) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
-- [feat: write running PID to file; prevent new instance if PID is running ](https://github.com/Granola-Team/mina-indexer/pull/1231) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter (1 day ago)
-- [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack. (2 days ago)
-- [standardrb/standard](https://github.com/standardrb/standard) - Ruby&#39;s bikeshed-proof linter and formatter 🚲 (2 days ago)
-- [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide. (2 days ago)
-- [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System (2 days ago)
-- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The power of Webflow for your React app (2 days ago)
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (2 days ago)
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (4 days ago)
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (4 days ago)
-- [mertd/topclean](https://github.com/mertd/topclean) - Free up disk space with one command and zero config. Inspired by topgrade and BleachBit. (5 days ago)
+- [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust (1 day ago)
+- [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter (2 days ago)
+- [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack. (3 days ago)
+- [standardrb/standard](https://github.com/standardrb/standard) - Ruby&#39;s bikeshed-proof linter and formatter 🚲 (3 days ago)
+- [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide. (3 days ago)
+- [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System (3 days ago)
+- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The power of Webflow for your React app (3 days ago)
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (3 days ago)
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (5 days ago)
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (5 days ago)
 
 #### 📫 How to reach me
 
