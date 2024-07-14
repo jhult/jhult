@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (3 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (4 days ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 weeks ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (2 months ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (2 months ago)
@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.13](https://github.com/vaadin/flow/releases/tag/24.3.13), 5 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.25.0.0](https://github.com/http4k/http4k/releases/tag/5.25.0.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.13](https://github.com/vaadin/flow/releases/tag/24.3.13), 6 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.25.0.0](https://github.com/http4k/http4k/releases/tag/5.25.0.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.8](https://github.com/rusq/slackdump/releases/tag/v2.5.8), 3 months ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
@@ -38,9 +38,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [fix(snapshot): buffer file writing of snapshot file; remove gzip](https://github.com/Granola-Team/mina-indexer/pull/1285) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
-- [chore(ops): add `.rb` extension to Ruby files](https://github.com/Granola-Team/mina-indexer/pull/1280) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 days ago)
-- [chore(Ruby): add standardrb and format Ruby code](https://github.com/Granola-Team/mina-indexer/pull/1274) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 days ago)
+- [fix(snapshot): buffer file writing of snapshot file; remove gzip](https://github.com/Granola-Team/mina-indexer/pull/1285) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 days ago)
+- [chore(ops): add `.rb` extension to Ruby files](https://github.com/Granola-Team/mina-indexer/pull/1280) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (5 days ago)
+- [chore(Ruby): add standardrb and format Ruby code](https://github.com/Granola-Team/mina-indexer/pull/1274) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (5 days ago)
 - [chore: add MIT license](https://github.com/dino-/scripts/pull/22) on [dino-/scripts](https://github.com/dino-/scripts) (1 week ago)
 - [chore: turn off database compression](https://github.com/Granola-Team/mina-indexer/pull/1249) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [feat: flush/compress database after ingestion](https://github.com/Granola-Team/mina-indexer/pull/1245) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
@@ -51,16 +51,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer. (2 days ago)
-- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (2 days ago)
-- [getmanfred/mac](https://github.com/getmanfred/mac) - Manfred Awesomic CV (2 days ago)
-- [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust (3 days ago)
-- [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter (4 days ago)
-- [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack. (5 days ago)
-- [standardrb/standard](https://github.com/standardrb/standard) - Ruby&#39;s bikeshed-proof linter and formatter 🚲 (5 days ago)
-- [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide. (5 days ago)
-- [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System (5 days ago)
-- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. (5 days ago)
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line. (1 day ago)
+- [sukima/GitFixUm](https://github.com/sukima/GitFixUm) - On undoing, fixing, or removing commits or mistakes in git (1 day ago)
+- [maragudk/goqite](https://github.com/maragudk/goqite) - Go queue library built on SQLite and inspired by AWS SQS. (1 day ago)
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 day ago)
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 day ago)
+- [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.  (1 day ago)
+- [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer. (3 days ago)
+- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (3 days ago)
+- [getmanfred/mac](https://github.com/getmanfred/mac) - Manfred Awesomic CV (3 days ago)
+- [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust (4 days ago)
 
 #### 📫 How to reach me
 
