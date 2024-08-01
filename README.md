@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 week ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 weeks ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 weeks ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (2 months ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (3 months ago)
@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha8](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha8), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.9](https://github.com/rusq/slackdump/releases/tag/v2.5.9), 6 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha8](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha8), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.9](https://github.com/rusq/slackdump/releases/tag/v2.5.9), 1 week ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.26.0.0](https://github.com/http4k/http4k/releases/tag/5.26.0.0), 2 weeks ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 2 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -47,20 +47,20 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [chore: add MIT license](https://github.com/dino-/scripts/pull/22) on [dino-/scripts](https://github.com/dino-/scripts) (3 weeks ago)
 - [chore: turn off database compression](https://github.com/Granola-Team/mina-indexer/pull/1249) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [feat: flush/compress database after ingestion](https://github.com/Granola-Team/mina-indexer/pull/1245) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 weeks ago)
-- [fix(snapshot): include INDEXER_VERSION file](https://github.com/Granola-Team/mina-indexer/pull/1242) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 weeks ago)
+- [fix(snapshot): include INDEXER_VERSION file](https://github.com/Granola-Team/mina-indexer/pull/1242) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [Leftium/weather-sense](https://github.com/Leftium/weather-sense) -  (1 day ago)
-- [pantsbuild/scie-pants](https://github.com/pantsbuild/scie-pants) - Protects your Pants from the elements. (3 days ago)
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal (4 days ago)
-- [yudhasubki/blockqueue](https://github.com/yudhasubki/blockqueue) - BlockQueue is a open source and cost-effective Job Queue with a pub/sub mechanism utilizing SQLite and NutsDB. Support LibSQL by Turso and PostgreSQL (6 days ago)
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust (1 day ago)
+- [jodigiordano/gg](https://github.com/jodigiordano/gg) - The software architecture simulator (1 day ago)
+- [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What&#39;s in your data? Extract schema, statistics and entities from datasets (1 day ago)
+- [Leftium/weather-sense](https://github.com/Leftium/weather-sense) -  (2 days ago)
+- [pantsbuild/scie-pants](https://github.com/pantsbuild/scie-pants) - Protects your Pants from the elements. (4 days ago)
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal (5 days ago)
+- [yudhasubki/blockqueue](https://github.com/yudhasubki/blockqueue) - BlockQueue is a open source and cost-effective Job Queue with a pub/sub mechanism utilizing SQLite and NutsDB. Support LibSQL by Turso and PostgreSQL (1 week ago)
 - [cncf/clowarden](https://github.com/cncf/clowarden) - CLOWarden is a tool that manages access to resources across multiple services (1 week ago)
 - [deco-cx/deco](https://github.com/deco-cx/deco) - Git-based Visual CMS for Deno, &lt;/&gt; htmx and Tailwind apps. Deploy on any Deno-compatible host. (1 week ago)
 - [facebookincubator/reindeer](https://github.com/facebookincubator/reindeer) - Reindeer is a tool to transform Rust Cargo dependencies into generated Buck build rules (1 week ago)
-- [facebookincubator/Glean](https://github.com/facebookincubator/Glean) - System for collecting, deriving and working with facts about source code. (1 week ago)
-- [facebookexperimental/hermit](https://github.com/facebookexperimental/hermit) - Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior. This can be used for various applications, including replay-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis. (1 week ago)
-- [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.  (1 week ago)
 
 #### 📫 How to reach me
 
