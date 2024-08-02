@@ -20,14 +20,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (3 months ago)
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (4 months ago)
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (4 months ago)
-- [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (4 months ago)
+- [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (5 months ago)
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (7 months ago)
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (7 months ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha8](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha8), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha8](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha8), 4 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.9](https://github.com/rusq/slackdump/releases/tag/v2.5.9), 1 week ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [http4k/http4k](https://github.com/http4k/http4k) ([5.26.0.0](https://github.com/http4k/http4k/releases/tag/5.26.0.0), 2 weeks ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
@@ -45,18 +45,18 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [chore(ops): add `.rb` extension to Ruby files](https://github.com/Granola-Team/mina-indexer/pull/1280) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [chore(Ruby): add standardrb and format Ruby code](https://github.com/Granola-Team/mina-indexer/pull/1274) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [chore: add MIT license](https://github.com/dino-/scripts/pull/22) on [dino-/scripts](https://github.com/dino-/scripts) (3 weeks ago)
-- [chore: turn off database compression](https://github.com/Granola-Team/mina-indexer/pull/1249) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
-- [feat: flush/compress database after ingestion](https://github.com/Granola-Team/mina-indexer/pull/1245) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 weeks ago)
+- [chore: turn off database compression](https://github.com/Granola-Team/mina-indexer/pull/1249) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 weeks ago)
+- [feat: flush/compress database after ingestion](https://github.com/Granola-Team/mina-indexer/pull/1245) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [fix(snapshot): include INDEXER_VERSION file](https://github.com/Granola-Team/mina-indexer/pull/1242) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust (1 day ago)
-- [jodigiordano/gg](https://github.com/jodigiordano/gg) - The software architecture simulator (1 day ago)
-- [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What&#39;s in your data? Extract schema, statistics and entities from datasets (1 day ago)
-- [Leftium/weather-sense](https://github.com/Leftium/weather-sense) -  (2 days ago)
-- [pantsbuild/scie-pants](https://github.com/pantsbuild/scie-pants) - Protects your Pants from the elements. (4 days ago)
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal (5 days ago)
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust (2 days ago)
+- [jodigiordano/gg](https://github.com/jodigiordano/gg) - The software architecture simulator (2 days ago)
+- [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What&#39;s in your data? Extract schema, statistics and entities from datasets (2 days ago)
+- [Leftium/weather-sense](https://github.com/Leftium/weather-sense) -  (3 days ago)
+- [pantsbuild/scie-pants](https://github.com/pantsbuild/scie-pants) - Protects your Pants from the elements. (5 days ago)
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal (6 days ago)
 - [yudhasubki/blockqueue](https://github.com/yudhasubki/blockqueue) - BlockQueue is a open source and cost-effective Job Queue with a pub/sub mechanism utilizing SQLite and NutsDB. Support LibSQL by Turso and PostgreSQL (1 week ago)
 - [cncf/clowarden](https://github.com/cncf/clowarden) - CLOWarden is a tool that manages access to resources across multiple services (1 week ago)
 - [deco-cx/deco](https://github.com/deco-cx/deco) - Git-based Visual CMS for Deno, &lt;/&gt; htmx and Tailwind apps. Deploy on any Deno-compatible host. (1 week ago)
