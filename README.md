@@ -22,18 +22,17 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (4 months ago)
 - [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (5 months ago)
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing (7 months ago)
-- [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (7 months ago)
+- [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (8 months ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([2.11.0.beta1](https://github.com/vaadin/flow/releases/tag/2.11.0.beta1), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.26.1.0](https://github.com/http4k/http4k/releases/tag/5.26.1.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([2.11.0.beta1](https://github.com/vaadin/flow/releases/tag/2.11.0.beta1), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.26.1.0](https://github.com/http4k/http4k/releases/tag/5.26.1.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.9](https://github.com/rusq/slackdump/releases/tag/v2.5.9), 1 week ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 2 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 6 months ago) - 
-- [palant/malicious-extensions-list](https://github.com/palant/malicious-extensions-list) ([v1.0.1](https://github.com/palant/malicious-extensions-list/releases/tag/v1.0.1), 1 year ago) - List of known problematic browser extensions
 - [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) ([1.2.1.Final](https://github.com/jboss-logging/slf4j-jboss-logging/releases/tag/1.2.1.Final), 3 years ago) - SLF4J (1.7.x) Backend for JBoss Logging
 
 #### 🔨 My recent Pull Requests
@@ -41,7 +40,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [fix(test): fix CLI shutdown](https://github.com/Granola-Team/mina-indexer/pull/1299) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [feat: add (simple) load test to tier2 testing](https://github.com/Granola-Team/mina-indexer/pull/1296) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [feat: use dedicated Nonce type Instead of u32](https://github.com/Granola-Team/mina-indexer/pull/1294) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
-- [fix(snapshot): buffer file writing of snapshot file; remove gzip](https://github.com/Granola-Team/mina-indexer/pull/1285) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
+- [fix(snapshot): buffer file writing of snapshot file; remove gzip](https://github.com/Granola-Team/mina-indexer/pull/1285) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 weeks ago)
 - [chore(ops): add `.rb` extension to Ruby files](https://github.com/Granola-Team/mina-indexer/pull/1280) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 weeks ago)
 - [chore(Ruby): add standardrb and format Ruby code](https://github.com/Granola-Team/mina-indexer/pull/1274) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 weeks ago)
 - [chore: add MIT license](https://github.com/dino-/scripts/pull/22) on [dino-/scripts](https://github.com/dino-/scripts) (1 month ago)
@@ -51,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (1 day ago)
-- [yaoyuannnn/gerritlab](https://github.com/yaoyuannnn/gerritlab) - GerritLab: Gerrit-style code review for GitLab projects. (2 days ago)
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust (2 days ago)
-- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience (2 days ago)
-- [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents. (4 days ago)
-- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines (4 days ago)
-- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere! (4 days ago)
-- [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks (4 days ago)
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust (6 days ago)
-- [jodigiordano/gg](https://github.com/jodigiordano/gg) - The software architecture simulator (6 days ago)
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about (1 day ago)
+- [dagmawibabi/ScholArxiv](https://github.com/dagmawibabi/ScholArxiv) - ScholArxiv is an open-source aesthetic and minimal app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository. (1 day ago)
+- [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies (1 day ago)
+- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (1 day ago)
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (2 days ago)
+- [yaoyuannnn/gerritlab](https://github.com/yaoyuannnn/gerritlab) - GerritLab: Gerrit-style code review for GitLab projects. (3 days ago)
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust (3 days ago)
+- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience (3 days ago)
+- [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents. (5 days ago)
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines (5 days ago)
 
 #### 📫 How to reach me
 
