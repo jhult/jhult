@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.5.3](https://github.com/vaadin/flow/releases/tag/23.5.3), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.26.1.0](https://github.com/http4k/http4k/releases/tag/5.26.1.0), 6 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([23.5.3](https://github.com/vaadin/flow/releases/tag/23.5.3), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.26.1.0](https://github.com/http4k/http4k/releases/tag/5.26.1.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.9](https://github.com/rusq/slackdump/releases/tag/v2.5.9), 2 weeks ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 2 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -37,7 +37,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add MIT LICENSE](https://github.com/Dhghomon/edgedb_rust_client_examples/pull/1) on [Dhghomon/edgedb_rust_client_examples](https://github.com/Dhghomon/edgedb_rust_client_examples) (1 day ago)
+- [feat: add MIT LICENSE](https://github.com/Dhghomon/edgedb_rust_client_examples/pull/1) on [Dhghomon/edgedb_rust_client_examples](https://github.com/Dhghomon/edgedb_rust_client_examples) (2 days ago)
 - [fix(test): fix CLI shutdown](https://github.com/Granola-Team/mina-indexer/pull/1299) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [feat: add (simple) load test to tier2 testing](https://github.com/Granola-Team/mina-indexer/pull/1296) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [feat: use dedicated Nonce type Instead of u32](https://github.com/Granola-Team/mina-indexer/pull/1294) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
@@ -50,15 +50,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io (1 day ago)
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about (3 days ago)
-- [dagmawibabi/ScholArxiv](https://github.com/dagmawibabi/ScholArxiv) - ScholArxiv is an open-source aesthetic and minimal app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository. (3 days ago)
-- [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies (3 days ago)
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (3 days ago)
-- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (4 days ago)
-- [yaoyuannnn/gerritlab](https://github.com/yaoyuannnn/gerritlab) - GerritLab: Gerrit-style code review for GitLab projects. (5 days ago)
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust (5 days ago)
-- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience (5 days ago)
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io (2 days ago)
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about (4 days ago)
+- [dagmawibabi/ScholArxiv](https://github.com/dagmawibabi/ScholArxiv) - ScholArxiv is an open-source aesthetic and minimal app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository. (4 days ago)
+- [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies (4 days ago)
+- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (4 days ago)
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (5 days ago)
+- [yaoyuannnn/gerritlab](https://github.com/yaoyuannnn/gerritlab) - GerritLab: Gerrit-style code review for GitLab projects. (6 days ago)
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust (6 days ago)
+- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience (6 days ago)
 - [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents. (1 week ago)
 
 #### 📫 How to reach me
