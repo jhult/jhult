@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.27.0.0](https://github.com/http4k/http4k/releases/tag/5.27.0.0), 2 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [vaadin/flow](https://github.com/vaadin/flow) ([23.5.3](https://github.com/vaadin/flow/releases/tag/23.5.3), 5 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha9](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha9), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.27.0.0](https://github.com/http4k/http4k/releases/tag/5.27.0.0), 3 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.9](https://github.com/rusq/slackdump/releases/tag/v2.5.9), 2 weeks ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 2 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -37,29 +37,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add MIT LICENSE](https://github.com/Dhghomon/edgedb_rust_client_examples/pull/1) on [Dhghomon/edgedb_rust_client_examples](https://github.com/Dhghomon/edgedb_rust_client_examples) (5 days ago)
+- [fix: undefined method `exists?&#39; for class File](https://github.com/FusionAuth/homebrew-fusionauth/pull/10) on [FusionAuth/homebrew-fusionauth](https://github.com/FusionAuth/homebrew-fusionauth) (1 day ago)
+- [feat: add MIT LICENSE](https://github.com/Dhghomon/edgedb_rust_client_examples/pull/1) on [Dhghomon/edgedb_rust_client_examples](https://github.com/Dhghomon/edgedb_rust_client_examples) (6 days ago)
 - [fix(test): fix CLI shutdown](https://github.com/Granola-Team/mina-indexer/pull/1299) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 weeks ago)
-- [feat: add (simple) load test to tier2 testing](https://github.com/Granola-Team/mina-indexer/pull/1296) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 weeks ago)
-- [feat: use dedicated Nonce type Instead of u32](https://github.com/Granola-Team/mina-indexer/pull/1294) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 weeks ago)
+- [feat: add (simple) load test to tier2 testing](https://github.com/Granola-Team/mina-indexer/pull/1296) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
+- [feat: use dedicated Nonce type Instead of u32](https://github.com/Granola-Team/mina-indexer/pull/1294) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [fix(snapshot): buffer file writing of snapshot file; remove gzip](https://github.com/Granola-Team/mina-indexer/pull/1285) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [chore(ops): add `.rb` extension to Ruby files](https://github.com/Granola-Team/mina-indexer/pull/1280) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [chore(Ruby): add standardrb and format Ruby code](https://github.com/Granola-Team/mina-indexer/pull/1274) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [chore: add MIT license](https://github.com/dino-/scripts/pull/22) on [dino-/scripts](https://github.com/dino-/scripts) (1 month ago)
 - [chore: turn off database compression](https://github.com/Granola-Team/mina-indexer/pull/1249) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
-- [feat: flush/compress database after ingestion](https://github.com/Granola-Team/mina-indexer/pull/1245) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [edgedb/easy-edgedb](https://github.com/edgedb/easy-edgedb) - An illustrated textbook designed to be a one-stop shop for learning EdgeDB (2 days ago)
-- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope (2 days ago)
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io (5 days ago)
+- [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif (today)
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (today)
+- [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you&#39;ll find 🚀 (today)
+- [iosifache/gitportfolio](https://github.com/iosifache/gitportfolio) - Opinionated template engine analysing your GitHub profile and repositories (useful for profile READMEs) (today)
+- [edgedb/easy-edgedb](https://github.com/edgedb/easy-edgedb) - An illustrated textbook designed to be a one-stop shop for learning EdgeDB (3 days ago)
+- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope (3 days ago)
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io (6 days ago)
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about (1 week ago)
 - [dagmawibabi/ScholArxiv](https://github.com/dagmawibabi/ScholArxiv) - ScholArxiv is an open-source aesthetic and minimal app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository. (1 week ago)
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies (1 week ago)
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (1 week ago)
-- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (1 week ago)
-- [yaoyuannnn/gerritlab](https://github.com/yaoyuannnn/gerritlab) - GerritLab: Gerrit-style code review for GitLab projects. (1 week ago)
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust (1 week ago)
 
 #### 📫 How to reach me
 
