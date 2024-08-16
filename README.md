@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (1 day ago)
+- [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (2 days ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (4 weeks ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 month ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (3 months ago)
@@ -22,14 +22,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (4 months ago)
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (4 months ago)
 - [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (5 months ago)
-- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests. (7 months ago)
+- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests. (8 months ago)
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;. (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha9](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha9), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.27.0.0](https://github.com/http4k/http4k/releases/tag/5.27.0.0), 4 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.9](https://github.com/rusq/slackdump/releases/tag/v2.5.9), 3 weeks ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.10](https://github.com/rusq/slackdump/releases/tag/v2.5.10), 1 day ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha9](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha9), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.27.0.0](https://github.com/http4k/http4k/releases/tag/5.27.0.0), 5 days ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 3 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 6 months ago) - 
@@ -37,7 +37,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [fix: undefined method `exists?&#39; for class File](https://github.com/FusionAuth/homebrew-fusionauth/pull/10) on [FusionAuth/homebrew-fusionauth](https://github.com/FusionAuth/homebrew-fusionauth) (2 days ago)
+- [fix: undefined method `exists?&#39; for class File](https://github.com/FusionAuth/homebrew-fusionauth/pull/10) on [FusionAuth/homebrew-fusionauth](https://github.com/FusionAuth/homebrew-fusionauth) (3 days ago)
 - [feat: add MIT LICENSE](https://github.com/Dhghomon/edgedb_rust_client_examples/pull/1) on [Dhghomon/edgedb_rust_client_examples](https://github.com/Dhghomon/edgedb_rust_client_examples) (1 week ago)
 - [fix(test): fix CLI shutdown](https://github.com/Granola-Team/mina-indexer/pull/1299) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [feat: add (simple) load test to tier2 testing](https://github.com/Granola-Team/mina-indexer/pull/1296) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [BurntSushi/quickcheck](https://github.com/BurntSushi/quickcheck) - Automated property based testing for Rust (with shrinking). (1 day ago)
-- [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif (1 day ago)
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (1 day ago)
-- [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you&#39;ll find 🚀 (1 day ago)
-- [iosifache/gitportfolio](https://github.com/iosifache/gitportfolio) - Opinionated template engine analysing your GitHub profile and repositories (useful for profile READMEs) (1 day ago)
-- [edgedb/easy-edgedb](https://github.com/edgedb/easy-edgedb) - An illustrated textbook designed to be a one-stop shop for learning EdgeDB (4 days ago)
-- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope (4 days ago)
+- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler (1 day ago)
+- [BurntSushi/quickcheck](https://github.com/BurntSushi/quickcheck) - Automated property based testing for Rust (with shrinking). (2 days ago)
+- [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif (2 days ago)
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (2 days ago)
+- [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you&#39;ll find 🚀 (2 days ago)
+- [iosifache/gitportfolio](https://github.com/iosifache/gitportfolio) - Opinionated template engine analysing your GitHub profile and repositories (useful for profile READMEs) (2 days ago)
+- [edgedb/easy-edgedb](https://github.com/edgedb/easy-edgedb) - An illustrated textbook designed to be a one-stop shop for learning EdgeDB (5 days ago)
+- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope (5 days ago)
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io (1 week ago)
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about (1 week ago)
-- [dagmawibabi/ScholArxiv](https://github.com/dagmawibabi/ScholArxiv) - ScholArxiv is an open-source aesthetic and minimal app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository. (1 week ago)
 
 #### 📫 How to reach me
 
