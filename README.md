@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (5 days ago)
+- [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (6 days ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 month ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 month ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (3 months ago)
@@ -27,9 +27,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.10](https://github.com/rusq/slackdump/releases/tag/v2.5.10), 4 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha9](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha9), 6 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.27.0.0](https://github.com/http4k/http4k/releases/tag/5.27.0.0), 1 week ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [http4k/http4k](https://github.com/http4k/http4k) ([5.28.0.0](https://github.com/http4k/http4k/releases/tag/5.28.0.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha10](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha10), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.10](https://github.com/rusq/slackdump/releases/tag/v2.5.10), 5 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 3 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 7 months ago) - 
@@ -37,7 +37,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [fix: undefined method `exists?&#39; for class File](https://github.com/FusionAuth/homebrew-fusionauth/pull/10) on [FusionAuth/homebrew-fusionauth](https://github.com/FusionAuth/homebrew-fusionauth) (6 days ago)
+- [fix: undefined method `exists?&#39; for class File](https://github.com/FusionAuth/homebrew-fusionauth/pull/10) on [FusionAuth/homebrew-fusionauth](https://github.com/FusionAuth/homebrew-fusionauth) (1 week ago)
 - [feat: add MIT LICENSE](https://github.com/Dhghomon/edgedb_rust_client_examples/pull/1) on [Dhghomon/edgedb_rust_client_examples](https://github.com/Dhghomon/edgedb_rust_client_examples) (1 week ago)
 - [fix(test): fix CLI shutdown](https://github.com/Granola-Team/mina-indexer/pull/1299) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [feat: add (simple) load test to tier2 testing](https://github.com/Granola-Team/mina-indexer/pull/1296) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
@@ -50,16 +50,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [nielash/rclone-genfilters](https://github.com/nielash/rclone-genfilters) - an interactive, automatic filter generator for rclone. (1 day ago)
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 day ago)
-- [buttondown/shovel](https://github.com/buttondown/shovel) - A free tool for learning about a domain&#39;s DNS (1 day ago)
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease. (2 days ago)
-- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (2 days ago)
-- [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux (2 days ago)
-- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple&#39;s AirDrop. Fork of Snapdrop. (2 days ago)
-- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line. (2 days ago)
-- [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux (3 days ago)
-- [cmyr/cargo-instruments](https://github.com/cmyr/cargo-instruments) - A cargo plugin to generate Xcode Instruments trace files (3 days ago)
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. (today)
+- [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (today)
+- [naver/scavenger](https://github.com/naver/scavenger) - A runtime dead code analysis tool (1 day ago)
+- [nielash/rclone-genfilters](https://github.com/nielash/rclone-genfilters) - an interactive, automatic filter generator for rclone. (2 days ago)
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (2 days ago)
+- [buttondown/shovel](https://github.com/buttondown/shovel) - A free tool for learning about a domain&#39;s DNS (2 days ago)
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease. (3 days ago)
+- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (3 days ago)
+- [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux (3 days ago)
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple&#39;s AirDrop. Fork of Snapdrop. (3 days ago)
 
 #### 📫 How to reach me
 
