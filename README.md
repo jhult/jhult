@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (6 days ago)
+- [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (1 week ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 month ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 month ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (3 months ago)
@@ -27,13 +27,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [http4k/http4k](https://github.com/http4k/http4k) ([5.28.0.0](https://github.com/http4k/http4k/releases/tag/5.28.0.0), 1 day ago) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha10](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha10), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.10](https://github.com/rusq/slackdump/releases/tag/v2.5.10), 5 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha10](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha10), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.10](https://github.com/rusq/slackdump/releases/tag/v2.5.10), 6 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 3 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 7 months ago) - 
-- [jboss-logging/slf4j-jboss-logging](https://github.com/jboss-logging/slf4j-jboss-logging) ([1.2.1.Final](https://github.com/jboss-logging/slf4j-jboss-logging/releases/tag/1.2.1.Final), 3 years ago) - SLF4J (1.7.x) Backend for JBoss Logging
 
 #### 🔨 My recent Pull Requests
 
@@ -50,16 +48,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. (today)
-- [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (today)
-- [naver/scavenger](https://github.com/naver/scavenger) - A runtime dead code analysis tool (1 day ago)
-- [nielash/rclone-genfilters](https://github.com/nielash/rclone-genfilters) - an interactive, automatic filter generator for rclone. (2 days ago)
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (2 days ago)
-- [buttondown/shovel](https://github.com/buttondown/shovel) - A free tool for learning about a domain&#39;s DNS (2 days ago)
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease. (3 days ago)
-- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (3 days ago)
-- [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux (3 days ago)
-- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple&#39;s AirDrop. Fork of Snapdrop. (3 days ago)
+- [edgedb/edgedb-rust](https://github.com/edgedb/edgedb-rust) - The official Rust binding for EdgeDB (1 day ago)
+- [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub &amp; GitHub Enterprise (1 day ago)
+- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (1 day ago)
+- [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications (1 day ago)
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. (1 day ago)
+- [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (1 day ago)
+- [naver/scavenger](https://github.com/naver/scavenger) - A runtime dead code analysis tool (2 days ago)
+- [nielash/rclone-genfilters](https://github.com/nielash/rclone-genfilters) - an interactive, automatic filter generator for rclone. (3 days ago)
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (3 days ago)
+- [buttondown/shovel](https://github.com/buttondown/shovel) - A free tool for learning about a domain&#39;s DNS (3 days ago)
 
 #### 📫 How to reach me
 
