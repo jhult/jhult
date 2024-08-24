@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha10](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha10), 4 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha10](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha10), 5 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.10](https://github.com/rusq/slackdump/releases/tag/v2.5.10), 1 week ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 3 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -48,16 +48,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 day ago)
-- [edgedb/edgedb-rust](https://github.com/edgedb/edgedb-rust) - The official Rust binding for EdgeDB (3 days ago)
-- [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub &amp; GitHub Enterprise (3 days ago)
-- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (3 days ago)
-- [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications (3 days ago)
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. (3 days ago)
-- [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (3 days ago)
-- [naver/scavenger](https://github.com/naver/scavenger) - A runtime dead code analysis tool (4 days ago)
-- [nielash/rclone-genfilters](https://github.com/nielash/rclone-genfilters) - an interactive, automatic filter generator for rclone. (5 days ago)
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (5 days ago)
+- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database (1 day ago)
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (2 days ago)
+- [edgedb/edgedb-rust](https://github.com/edgedb/edgedb-rust) - The official Rust binding for EdgeDB (4 days ago)
+- [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub &amp; GitHub Enterprise (4 days ago)
+- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (4 days ago)
+- [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications (4 days ago)
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. (4 days ago)
+- [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (4 days ago)
+- [naver/scavenger](https://github.com/naver/scavenger) - A runtime dead code analysis tool (5 days ago)
+- [nielash/rclone-genfilters](https://github.com/nielash/rclone-genfilters) - an interactive, automatic filter generator for rclone. (6 days ago)
 
 #### 📫 How to reach me
 
