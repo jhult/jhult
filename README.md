@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha14](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha14), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.11](https://github.com/rusq/slackdump/releases/tag/v2.5.11), 1 day ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha14](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha14), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.11](https://github.com/rusq/slackdump/releases/tag/v2.5.11), 2 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 3 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) ([v4.3](https://github.com/jerryn70/GoodbyeAds/releases/tag/v4.3), 7 months ago) - 
@@ -36,7 +36,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 🔨 My recent Pull Requests
 
 - [fix: undefined method `exists?&#39; for class File](https://github.com/FusionAuth/homebrew-fusionauth/pull/10) on [FusionAuth/homebrew-fusionauth](https://github.com/FusionAuth/homebrew-fusionauth) (2 weeks ago)
-- [feat: add MIT LICENSE](https://github.com/Dhghomon/edgedb_rust_client_examples/pull/1) on [Dhghomon/edgedb_rust_client_examples](https://github.com/Dhghomon/edgedb_rust_client_examples) (2 weeks ago)
+- [feat: add MIT LICENSE](https://github.com/Dhghomon/edgedb_rust_client_examples/pull/1) on [Dhghomon/edgedb_rust_client_examples](https://github.com/Dhghomon/edgedb_rust_client_examples) (3 weeks ago)
 - [fix(test): fix CLI shutdown](https://github.com/Granola-Team/mina-indexer/pull/1299) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [feat: add (simple) load test to tier2 testing](https://github.com/Granola-Team/mina-indexer/pull/1296) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [feat: use dedicated Nonce type Instead of u32](https://github.com/Granola-Team/mina-indexer/pull/1294) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
@@ -48,16 +48,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better! (1 day ago)
-- [drewdeponte/alt](https://github.com/drewdeponte/alt) - Command line tool to find alternate files (1 day ago)
-- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database (5 days ago)
-- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (6 days ago)
+- [cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things. (1 day ago)
+- [plibither8/refined-hacker-news](https://github.com/plibither8/refined-hacker-news) - ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better (1 day ago)
+- [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better! (2 days ago)
+- [drewdeponte/alt](https://github.com/drewdeponte/alt) - Command line tool to find alternate files (2 days ago)
+- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database (6 days ago)
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 week ago)
 - [edgedb/edgedb-rust](https://github.com/edgedb/edgedb-rust) - The official Rust binding for EdgeDB (1 week ago)
 - [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub &amp; GitHub Enterprise (1 week ago)
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (1 week ago)
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications (1 week ago)
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. (1 week ago)
-- [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (1 week ago)
 
 #### 📫 How to reach me
 
