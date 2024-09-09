@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha18](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha18), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha18](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha18), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.11](https://github.com/rusq/slackdump/releases/tag/v2.5.11), 1 week ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 3 months ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 3 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -35,7 +35,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [fix: typo - preform -&gt; perform](https://github.com/edgedb/edgedb-java/pull/36) on [edgedb/edgedb-java](https://github.com/edgedb/edgedb-java) (1 day ago)
+- [fix: typo - preform -&gt; perform](https://github.com/edgedb/edgedb-java/pull/36) on [edgedb/edgedb-java](https://github.com/edgedb/edgedb-java) (2 days ago)
 - [fix: undefined method `exists?&#39; for class File](https://github.com/FusionAuth/homebrew-fusionauth/pull/10) on [FusionAuth/homebrew-fusionauth](https://github.com/FusionAuth/homebrew-fusionauth) (3 weeks ago)
 - [feat: add MIT LICENSE](https://github.com/Dhghomon/edgedb_rust_client_examples/pull/1) on [Dhghomon/edgedb_rust_client_examples](https://github.com/Dhghomon/edgedb_rust_client_examples) (1 month ago)
 - [fix(test): fix CLI shutdown](https://github.com/Granola-Team/mina-indexer/pull/1299) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
@@ -48,16 +48,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [JetBrains-Research/pubtrends](https://github.com/JetBrains-Research/pubtrends) - Scientific literature explorer. Runs a Pubmed or Semantic Scholar search and allows user to explore high-level structure of result papers (today)
-- [uutils/findutils](https://github.com/uutils/findutils) - Rust implementation of findutils (2 days ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (3 days ago)
-- [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes (3 days ago)
-- [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG) (4 days ago)
-- [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD. (5 days ago)
-- [jrz/container-shell](https://github.com/jrz/container-shell) - Starts and attaches a sandboxed shell using docker with access to the current or project directory (5 days ago)
-- [SINTEF/sourcegraph](https://github.com/SINTEF/sourcegraph) - Code Intelligence Platform (6 days ago)
-- [classvsoftware/under-new-management](https://github.com/classvsoftware/under-new-management) - Detect when your installed extensions have changed owners. (6 days ago)
-- [chdsbd/kodiak](https://github.com/chdsbd/kodiak) - 🔮 A bot to automatically update and merge GitHub PRs (6 days ago)
+- [igdmapps/igdm](https://github.com/igdmapps/igdm) - Desktop application for Instagram DMs (1 day ago)
+- [JetBrains-Research/pubtrends](https://github.com/JetBrains-Research/pubtrends) - Scientific literature explorer. Runs a Pubmed or Semantic Scholar search and allows user to explore high-level structure of result papers (1 day ago)
+- [uutils/findutils](https://github.com/uutils/findutils) - Rust implementation of findutils (3 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (4 days ago)
+- [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes (4 days ago)
+- [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG) (5 days ago)
+- [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD. (6 days ago)
+- [jrz/container-shell](https://github.com/jrz/container-shell) - Starts and attaches a sandboxed shell using docker with access to the current or project directory (6 days ago)
+- [SINTEF/sourcegraph](https://github.com/SINTEF/sourcegraph) - Code Intelligence Platform (1 week ago)
+- [classvsoftware/under-new-management](https://github.com/classvsoftware/under-new-management) - Detect when your installed extensions have changed owners. (1 week ago)
 
 #### 📫 How to reach me
 
