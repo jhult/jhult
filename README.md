@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 week ago)
-- [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (3 weeks ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
+- [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (4 weeks ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 month ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (4 months ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (4 months ago)
@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha18](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha18), 4 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.alpha18](https://github.com/vaadin/flow/releases/tag/24.5.0.alpha18), 5 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.11](https://github.com/rusq/slackdump/releases/tag/v2.5.11), 2 weeks ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 3 months ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 3 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -35,7 +35,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [fix: typo - preform -&gt; perform](https://github.com/edgedb/edgedb-java/pull/36) on [edgedb/edgedb-java](https://github.com/edgedb/edgedb-java) (3 days ago)
+- [fix: typo - preform -&gt; perform](https://github.com/edgedb/edgedb-java/pull/36) on [edgedb/edgedb-java](https://github.com/edgedb/edgedb-java) (4 days ago)
 - [fix: undefined method `exists?&#39; for class File](https://github.com/FusionAuth/homebrew-fusionauth/pull/10) on [FusionAuth/homebrew-fusionauth](https://github.com/FusionAuth/homebrew-fusionauth) (4 weeks ago)
 - [feat: add MIT LICENSE](https://github.com/Dhghomon/edgedb_rust_client_examples/pull/1) on [Dhghomon/edgedb_rust_client_examples](https://github.com/Dhghomon/edgedb_rust_client_examples) (1 month ago)
 - [fix(test): fix CLI shutdown](https://github.com/Granola-Team/mina-indexer/pull/1299) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
@@ -48,16 +48,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust! (1 day ago)
-- [igdmapps/igdm](https://github.com/igdmapps/igdm) - Desktop application for Instagram DMs (2 days ago)
-- [JetBrains-Research/pubtrends](https://github.com/JetBrains-Research/pubtrends) - Scientific literature explorer. Runs a Pubmed or Semantic Scholar search and allows user to explore high-level structure of result papers (2 days ago)
-- [uutils/findutils](https://github.com/uutils/findutils) - Rust implementation of findutils (4 days ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (5 days ago)
-- [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes (5 days ago)
-- [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG) (6 days ago)
-- [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD. (1 week ago)
-- [jrz/container-shell](https://github.com/jrz/container-shell) - Starts and attaches a sandboxed shell using docker with access to the current or project directory (1 week ago)
-- [SINTEF/sourcegraph](https://github.com/SINTEF/sourcegraph) - Code Intelligence Platform (1 week ago)
+- [chaijs/chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework. (today)
+- [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team. (today)
+- [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Modern Commerce with Next.js and Stripe as the backend. (1 day ago)
+- [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust! (2 days ago)
+- [igdmapps/igdm](https://github.com/igdmapps/igdm) - Desktop application for Instagram DMs (3 days ago)
+- [JetBrains-Research/pubtrends](https://github.com/JetBrains-Research/pubtrends) - Scientific literature explorer. Runs a Pubmed or Semantic Scholar search and allows user to explore high-level structure of result papers (3 days ago)
+- [uutils/findutils](https://github.com/uutils/findutils) - Rust implementation of findutils (5 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (6 days ago)
+- [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes (6 days ago)
+- [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG) (1 week ago)
 
 #### 📫 How to reach me
 
