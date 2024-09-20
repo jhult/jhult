@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (3 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (4 days ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (1 month ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 months ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (4 months ago)
@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.beta1](https://github.com/vaadin/flow/releases/tag/24.5.0.beta1), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.beta1](https://github.com/vaadin/flow/releases/tag/24.5.0.beta1), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.11](https://github.com/rusq/slackdump/releases/tag/v2.5.11), 3 weeks ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v5.9.1](https://github.com/kotest/kotest/releases/tag/v5.9.1), 3 months ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 4 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -35,29 +35,29 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [chore: format shell using shfmt](https://github.com/Granola-Team/mina-indexer/pull/1523) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
-- [chore: upgrade nix](https://github.com/Granola-Team/mina-indexer/pull/1521) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
-- [fix a broken link and a few typos](https://github.com/dwarvesf/handbook/pull/45) on [dwarvesf/handbook](https://github.com/dwarvesf/handbook) (4 days ago)
+- [chore: upgrade nix, Rust, and dependencies](https://github.com/Granola-Team/mina-block-explorer/pull/1005) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 day ago)
+- [chore: format shell using shfmt](https://github.com/Granola-Team/mina-indexer/pull/1523) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 days ago)
+- [chore: upgrade nix](https://github.com/Granola-Team/mina-indexer/pull/1521) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 days ago)
+- [fix a broken link and a few typos](https://github.com/dwarvesf/handbook/pull/45) on [dwarvesf/handbook](https://github.com/dwarvesf/handbook) (5 days ago)
 - [fix: typo - preform -&gt; perform](https://github.com/edgedb/edgedb-java/pull/36) on [edgedb/edgedb-java](https://github.com/edgedb/edgedb-java) (1 week ago)
 - [fix: undefined method `exists?&#39; for class File](https://github.com/FusionAuth/homebrew-fusionauth/pull/10) on [FusionAuth/homebrew-fusionauth](https://github.com/FusionAuth/homebrew-fusionauth) (1 month ago)
 - [feat: add MIT LICENSE](https://github.com/Dhghomon/edgedb_rust_client_examples/pull/1) on [Dhghomon/edgedb_rust_client_examples](https://github.com/Dhghomon/edgedb_rust_client_examples) (1 month ago)
 - [fix(test): fix CLI shutdown](https://github.com/Granola-Team/mina-indexer/pull/1299) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 months ago)
 - [feat: add (simple) load test to tier2 testing](https://github.com/Granola-Team/mina-indexer/pull/1296) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 months ago)
 - [feat: use dedicated Nonce type Instead of u32](https://github.com/Granola-Team/mina-indexer/pull/1294) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 months ago)
-- [fix(snapshot): buffer file writing of snapshot file; remove gzip](https://github.com/Granola-Team/mina-indexer/pull/1285) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [rfinnie/blockbuster](https://github.com/rfinnie/blockbuster) - Blockbuster Video VHS insert template (1 day ago)
-- [jdknezek/Iosevka](https://github.com/jdknezek/Iosevka) - Spatial efficient monospace font family for programming. Built from code. (2 days ago)
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube &amp; Video web-extension] Enrich your experience &amp; choice! 🧰180&#43; options &amp; clever features📌set&#43;forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen} (6 days ago)
+- [Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use) - Collection of essential Leptos utilities inspired by React-Use / VueUse / SolidJS-USE (1 day ago)
+- [dragostis/chili](https://github.com/dragostis/chili) -  (1 day ago)
+- [jchorl/sendfiles](https://github.com/jchorl/sendfiles) -  (1 day ago)
+- [kossiitkgp/opsa](https://github.com/kossiitkgp/opsa) - Our Precious Slack Archives: A Slack archive viewer to view all the messages of slack workspaces. Checkmate capitalism  (1 day ago)
+- [rfinnie/blockbuster](https://github.com/rfinnie/blockbuster) - Blockbuster Video VHS insert template (2 days ago)
+- [jdknezek/Iosevka](https://github.com/jdknezek/Iosevka) - Spatial efficient monospace font family for programming. Built from code. (3 days ago)
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube &amp; Video web-extension] Enrich your experience &amp; choice! 🧰180&#43; options &amp; clever features📌set&#43;forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen} (1 week ago)
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org (1 week ago)
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS (1 week ago)
 - [chaijs/chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework. (1 week ago)
-- [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team. (1 week ago)
-- [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Modern Commerce with Next.js and Stripe as the backend. (1 week ago)
-- [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust! (1 week ago)
-- [igdmapps/igdm](https://github.com/igdmapps/igdm) - Desktop application for Instagram DMs (1 week ago)
 
 #### 📫 How to reach me
 
