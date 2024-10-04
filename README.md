@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (5 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (6 days ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (1 month ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (4 months ago)
@@ -27,15 +27,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 2 days ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.beta3](https://github.com/vaadin/flow/releases/tag/24.5.0.beta3), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.beta4](https://github.com/vaadin/flow/releases/tag/24.5.0.beta4), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 3 days ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.12](https://github.com/rusq/slackdump/releases/tag/v2.5.12), 1 week ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 4 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 
 #### 🔨 My recent Pull Requests
 
 - [fix(tests): regression suite should always use same build type](https://github.com/Granola-Team/mina-indexer/pull/1577) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
-- [chore: upgrade Rust and dependencies](https://github.com/Granola-Team/mina-indexer/pull/1552) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
+- [chore: upgrade Rust and dependencies](https://github.com/Granola-Team/mina-indexer/pull/1552) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [chore: upgrade nix, Rust, and dependencies](https://github.com/Granola-Team/mina-block-explorer/pull/1005) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
 - [chore: format shell using shfmt](https://github.com/Granola-Team/mina-indexer/pull/1523) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [chore: upgrade nix](https://github.com/Granola-Team/mina-indexer/pull/1521) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
@@ -47,16 +47,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust (1 day ago)
-- [Expensify/Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication (1 day ago)
-- [nhh/zero](https://github.com/nhh/zero) - Experimental jsxdom (1 day ago)
-- [Hexastack/Hexabot](https://github.com/Hexastack/Hexabot) - Hexabot is an open-source chatbot solution that allows users to create and manage AI-powered, multi-channel, and multilingual chatbots with ease.  (1 day ago)
-- [evoluhq/evolu](https://github.com/evoluhq/evolu) - A local-first platform designed for privacy, ease of use, and no vendor lock-in (1 day ago)
-- [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility (1 day ago)
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million&#43; lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅ (1 day ago)
-- [yellow-footed-honeyguide/facad](https://github.com/yellow-footed-honeyguide/facad) - A modern, colorful directory listing tool for the command line 🗃️ (2 days ago)
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (4 days ago)
-- [aviator-co/av](https://github.com/aviator-co/av) - A command line tool to manage stacked PRs with Aviator (4 days ago)
+- [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust (2 days ago)
+- [Expensify/Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication (2 days ago)
+- [nhh/zero](https://github.com/nhh/zero) - Experimental jsxdom (2 days ago)
+- [Hexastack/Hexabot](https://github.com/Hexastack/Hexabot) - Hexabot is an open-source AI chatbot / agent builder. I allows you to create and manage multi-channel and multilingual chatbots / agents with ease.  (2 days ago)
+- [evoluhq/evolu](https://github.com/evoluhq/evolu) - A local-first platform designed for privacy, ease of use, and no vendor lock-in (2 days ago)
+- [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility (2 days ago)
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million&#43; lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅ (2 days ago)
+- [yellow-footed-honeyguide/facad](https://github.com/yellow-footed-honeyguide/facad) - A modern, colorful directory listing tool for the command line 🗃️ (3 days ago)
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (5 days ago)
+- [aviator-co/av](https://github.com/aviator-co/av) - A command line tool to manage stacked PRs with Aviator (5 days ago)
 
 #### 📫 How to reach me
 
