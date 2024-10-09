@@ -15,7 +15,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 👷 Check out what I'm currently working on
 
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 week ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 weeks ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (1 month ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (5 months ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (5 months ago)
@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.beta5](https://github.com/vaadin/flow/releases/tag/24.5.0.beta5), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.14](https://github.com/rusq/slackdump/releases/tag/v2.5.14), 2 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.15](https://github.com/rusq/slackdump/releases/tag/v2.5.15), 1 day ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.beta5](https://github.com/vaadin/flow/releases/tag/24.5.0.beta5), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 1 week ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 4 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 
@@ -47,15 +47,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (2 days ago)
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings. (3 days ago)
-- [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust (6 days ago)
-- [Expensify/Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication (6 days ago)
-- [nhh/zero](https://github.com/nhh/zero) - Experimental jsxdom (6 days ago)
-- [Hexastack/Hexabot](https://github.com/Hexastack/Hexabot) - Hexabot is an open-source AI chatbot / agent builder. I allows you to create and manage multi-channel and multilingual chatbots / agents with ease.  (6 days ago)
-- [evoluhq/evolu](https://github.com/evoluhq/evolu) - A local-first platform designed for privacy, ease of use, and no vendor lock-in (6 days ago)
-- [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility (6 days ago)
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million&#43; lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅ (6 days ago)
+- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (3 days ago)
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings. (4 days ago)
+- [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust (1 week ago)
+- [Expensify/Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication (1 week ago)
+- [nhh/zero](https://github.com/nhh/zero) - Experimental jsxdom (1 week ago)
+- [Hexastack/Hexabot](https://github.com/Hexastack/Hexabot) - Hexabot is an open-source AI chatbot / agent builder. I allows you to create and manage multi-channel and multilingual chatbots / agents with ease.  (1 week ago)
+- [evoluhq/evolu](https://github.com/evoluhq/evolu) - A local-first platform designed for privacy, ease of use, and no vendor lock-in (1 week ago)
+- [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility (1 week ago)
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million&#43; lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅ (1 week ago)
 - [yellow-footed-honeyguide/facad](https://github.com/yellow-footed-honeyguide/facad) - A modern, colorful ls alternative for bringing clarity to the filesystem ☀️ (1 week ago)
 
 #### 📫 How to reach me
