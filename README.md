@@ -27,15 +27,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.beta7](https://github.com/vaadin/flow/releases/tag/24.5.0.beta7), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.15](https://github.com/rusq/slackdump/releases/tag/v2.5.15), 2 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.rc1](https://github.com/vaadin/flow/releases/tag/24.5.0.rc1), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.15](https://github.com/rusq/slackdump/releases/tag/v2.5.15), 3 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 1 week ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 4 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 
 #### 🔨 My recent Pull Requests
 
 - [fix(tests): regression suite should always use same build type](https://github.com/Granola-Team/mina-indexer/pull/1577) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
-- [chore: upgrade Rust and dependencies](https://github.com/Granola-Team/mina-indexer/pull/1552) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
+- [chore: upgrade Rust and dependencies](https://github.com/Granola-Team/mina-indexer/pull/1552) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [chore: upgrade nix, Rust, and dependencies](https://github.com/Granola-Team/mina-block-explorer/pull/1005) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 weeks ago)
 - [chore: format shell using shfmt](https://github.com/Granola-Team/mina-indexer/pull/1523) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [chore: upgrade nix](https://github.com/Granola-Team/mina-indexer/pull/1521) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
@@ -47,9 +47,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. (1 day ago)
-- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (4 days ago)
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings. (5 days ago)
+- [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. (2 days ago)
+- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (5 days ago)
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings. (6 days ago)
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust (1 week ago)
 - [Expensify/Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication (1 week ago)
 - [nhh/zero](https://github.com/nhh/zero) - Experimental jsxdom (1 week ago)
