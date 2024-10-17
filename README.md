@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 day ago)
-- [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter (2 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 days ago)
+- [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter (3 days ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 weeks ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (2 months ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (5 months ago)
@@ -27,19 +27,19 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0.rc2](https://github.com/vaadin/flow/releases/tag/24.5.0.rc2), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0](https://github.com/vaadin/flow/releases/tag/24.5.0), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.15](https://github.com/rusq/slackdump/releases/tag/v2.5.15), 1 week ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 2 weeks ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 5 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 
 #### 🔨 My recent Pull Requests
 
-- [chore: 0 -&gt; &#34;Free&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/1121) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 days ago)
-- [feat: format currency with commas and strip unnecessary decimal 0s](https://github.com/Granola-Team/mina-block-explorer/pull/1120) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 days ago)
-- [feat(analytics): set default `Start Block Height` and `End Block Height`](https://github.com/Granola-Team/mina-block-explorer/pull/1119) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 days ago)
-- [fix(tests): regression suite should always use same build type](https://github.com/Granola-Team/mina-indexer/pull/1577) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
+- [chore: 0 -&gt; &#34;Free&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/1121) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 days ago)
+- [feat: format currency with commas and strip unnecessary decimal 0s](https://github.com/Granola-Team/mina-block-explorer/pull/1120) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 days ago)
+- [feat(analytics): set default `Start Block Height` and `End Block Height`](https://github.com/Granola-Team/mina-block-explorer/pull/1119) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 days ago)
+- [fix(tests): regression suite should always use same build type](https://github.com/Granola-Team/mina-indexer/pull/1577) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [chore: upgrade Rust and dependencies](https://github.com/Granola-Team/mina-indexer/pull/1552) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
-- [chore: upgrade nix, Rust, and dependencies](https://github.com/Granola-Team/mina-block-explorer/pull/1005) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 weeks ago)
+- [chore: upgrade nix, Rust, and dependencies](https://github.com/Granola-Team/mina-block-explorer/pull/1005) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (4 weeks ago)
 - [chore: format shell using shfmt](https://github.com/Granola-Team/mina-indexer/pull/1523) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [chore: upgrade nix](https://github.com/Granola-Team/mina-indexer/pull/1521) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [fix a broken link and a few typos](https://github.com/dwarvesf/handbook/pull/45) on [dwarvesf/handbook](https://github.com/dwarvesf/handbook) (1 month ago)
@@ -47,16 +47,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [tweedegolf/cargo-minify](https://github.com/tweedegolf/cargo-minify) - A tool to remove unused code from a Rust project. (2 days ago)
-- [KaitoMuraoka/WeztermChangeIconForMac](https://github.com/KaitoMuraoka/WeztermChangeIconForMac) - Script to change Wezterm icon (3 days ago)
-- [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. (4 days ago)
-- [trancemind/mina-docker-compose](https://github.com/trancemind/mina-docker-compose) - Mina protocol node, archive node, database, sidecar, performance dashboard - all-in-one docker-compose (5 days ago)
-- [jrwashburn/mina-node-install](https://github.com/jrwashburn/mina-node-install) - scripts for a new mina block producer node install on a dedicated debian server (5 days ago)
+- [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool! (1 day ago)
+- [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project (1 day ago)
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly (1 day ago)
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player (1 day ago)
+- [tweedegolf/cargo-minify](https://github.com/tweedegolf/cargo-minify) - A tool to remove unused code from a Rust project. (3 days ago)
+- [KaitoMuraoka/WeztermChangeIconForMac](https://github.com/KaitoMuraoka/WeztermChangeIconForMac) - Script to change Wezterm icon (4 days ago)
+- [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. (5 days ago)
+- [trancemind/mina-docker-compose](https://github.com/trancemind/mina-docker-compose) - Mina protocol node, archive node, database, sidecar, performance dashboard - all-in-one docker-compose (6 days ago)
+- [jrwashburn/mina-node-install](https://github.com/jrwashburn/mina-node-install) - scripts for a new mina block producer node install on a dedicated debian server (6 days ago)
 - [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. (1 week ago)
-- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (1 week ago)
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings. (1 week ago)
-- [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust (2 weeks ago)
-- [Expensify/Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication (2 weeks ago)
 
 #### 📫 How to reach me
 
