@@ -14,9 +14,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/docs](https://github.com/jhult/docs) -  (4 days ago)
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (5 days ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (6 days ago)
+- [jhult/docs](https://github.com/jhult/docs) -  (5 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (6 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
 - [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter (1 week ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (2 months ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (5 months ago)
@@ -27,13 +27,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.0](https://github.com/vaadin/flow/releases/tag/24.5.0), 5 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.15](https://github.com/rusq/slackdump/releases/tag/v2.5.15), 1 week ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
-- [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 2 weeks ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
+- [vaadin/flow](https://github.com/vaadin/flow) ([2.11.2](https://github.com/vaadin/flow/releases/tag/2.11.2), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.15](https://github.com/rusq/slackdump/releases/tag/v2.5.15), 2 weeks ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 3 weeks ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 5 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 
 #### 🔨 My recent Pull Requests
 
+- [chore: remove unused mina_rs code (proofs, bin_prot, etc.)](https://github.com/Granola-Team/mina-indexer/pull/1640) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
 - [chore: 0 -&gt; &#34;Free&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/1121) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [feat: format currency with commas and strip unnecessary decimal 0s](https://github.com/Granola-Team/mina-block-explorer/pull/1120) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [feat(analytics): set default `Start Block Height` and `End Block Height`](https://github.com/Granola-Team/mina-block-explorer/pull/1119) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
@@ -43,20 +44,19 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [chore: format shell using shfmt](https://github.com/Granola-Team/mina-indexer/pull/1523) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [chore: upgrade nix](https://github.com/Granola-Team/mina-indexer/pull/1521) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [fix a broken link and a few typos](https://github.com/dwarvesf/handbook/pull/45) on [dwarvesf/handbook](https://github.com/dwarvesf/handbook) (1 month ago)
-- [fix: typo - preform -&gt; perform](https://github.com/edgedb/edgedb-java/pull/36) on [edgedb/edgedb-java](https://github.com/edgedb/edgedb-java) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [lockss/lockss-daemon](https://github.com/lockss/lockss-daemon) - Classic LOCKSS System (LOCKSS 1.x) (1 day ago)
-- [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures (1 day ago)
-- [datalad/datalad](https://github.com/datalad/datalad) - Keep code, data, containers under control with git  and git-annex (2 days ago)
-- [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls. (3 days ago)
-- [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework. (3 days ago)
-- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. (3 days ago)
-- [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown &amp; YAML/JSON based, no DB (3 days ago)
-- [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use. (3 days ago)
-- [darkweak/souin](https://github.com/darkweak/souin) - An HTTP cache system, RFC compliant, compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @beego, @devfeel, @labstack, @gofiber, @go-goyave, @go-kratos, @gin-gonic, @roadrunner-server, @zalando, @zeromicro, @nginx and @apache (4 days ago)
-- [zuplo/zudoku](https://github.com/zuplo/zudoku) - Framework for building high quality, interactive API documentation. (4 days ago)
+- [LaurentMazare/serde-binprot](https://github.com/LaurentMazare/serde-binprot) - Rust binprot serialization using serde (1 day ago)
+- [lockss/lockss-daemon](https://github.com/lockss/lockss-daemon) - Classic LOCKSS System (LOCKSS 1.x) (2 days ago)
+- [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures (2 days ago)
+- [datalad/datalad](https://github.com/datalad/datalad) - Keep code, data, containers under control with git  and git-annex (3 days ago)
+- [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls. (4 days ago)
+- [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework. (4 days ago)
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. (4 days ago)
+- [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown &amp; YAML/JSON based, no DB (4 days ago)
+- [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use. (4 days ago)
+- [darkweak/souin](https://github.com/darkweak/souin) - An HTTP cache system, RFC compliant, compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @beego, @devfeel, @labstack, @gofiber, @go-goyave, @go-kratos, @gin-gonic, @roadrunner-server, @zalando, @zeromicro, @nginx and @apache (5 days ago)
 
 #### 📫 How to reach me
 
