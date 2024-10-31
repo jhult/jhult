@@ -14,31 +14,31 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 days ago)
-- [jhult/docs](https://github.com/jhult/docs) -  (1 week ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (3 days ago)
+- [jhult/docs](https://github.com/jhult/docs) -  (2 weeks ago)
 - [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter (2 weeks ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (2 months ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (5 months ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (6 months ago)
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (7 months ago)
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (7 months ago)
-- [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (7 months ago)
+- [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.2](https://github.com/vaadin/flow/releases/tag/24.5.2), 6 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.2](https://github.com/vaadin/flow/releases/tag/24.5.2), 1 week ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.5.15](https://github.com/rusq/slackdump/releases/tag/v2.5.15), 3 weeks ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
-- [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 4 weeks ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
+- [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 5 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 
 #### 🔨 My recent Pull Requests
 
-- [feat(web)!: return full block in blocks REST endpoint](https://github.com/Granola-Team/mina-indexer/pull/1660) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
-- [chore(web): refactor blocks GraphQL](https://github.com/Granola-Team/mina-indexer/pull/1659) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 day ago)
-- [Switch license to CC0 1.0](https://github.com/Granola-Team/awesome/pull/1) on [Granola-Team/awesome](https://github.com/Granola-Team/awesome) (2 days ago)
-- [Add MIT license](https://github.com/garethtdavies/mina-payout/pull/1) on [garethtdavies/mina-payout](https://github.com/garethtdavies/mina-payout) (5 days ago)
-- [Add MIT license](https://github.com/jrwashburn/mina-addresses/pull/1) on [jrwashburn/mina-addresses](https://github.com/jrwashburn/mina-addresses) (5 days ago)
+- [feat(web)!: return full block in blocks REST endpoint](https://github.com/Granola-Team/mina-indexer/pull/1660) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
+- [chore(web): refactor blocks GraphQL](https://github.com/Granola-Team/mina-indexer/pull/1659) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
+- [Switch license to CC0 1.0](https://github.com/Granola-Team/awesome/pull/1) on [Granola-Team/awesome](https://github.com/Granola-Team/awesome) (3 days ago)
+- [Add MIT license](https://github.com/garethtdavies/mina-payout/pull/1) on [garethtdavies/mina-payout](https://github.com/garethtdavies/mina-payout) (6 days ago)
+- [Add MIT license](https://github.com/jrwashburn/mina-addresses/pull/1) on [jrwashburn/mina-addresses](https://github.com/jrwashburn/mina-addresses) (6 days ago)
 - [feat(staking): make epoch selectable in header](https://github.com/Granola-Team/mina-block-explorer/pull/1140) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [chore: remove unused mina_rs code (proof_systems/signer) code](https://github.com/Granola-Team/mina-indexer/pull/1640) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [chore: 0 -&gt; &#34;Free&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/1121) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
@@ -47,16 +47,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [Granola-Team/mina-block-explorer-docs](https://github.com/Granola-Team/mina-block-explorer-docs) -  (1 day ago)
-- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (4 days ago)
-- [lucioreyli/graphql-formatter](https://github.com/lucioreyli/graphql-formatter) - A rust based tool to format GraphQL files. (4 days ago)
-- [g-plane/pretty_graphql](https://github.com/g-plane/pretty_graphql) - Configurable GraphQL formatter. (4 days ago)
-- [gqlgo/gqlfmt](https://github.com/gqlgo/gqlfmt) - gqlfmt formats your GraphQL files. like gofmt. (4 days ago)
-- [garethtdavies/mina-payout](https://github.com/garethtdavies/mina-payout) -  (5 days ago)
-- [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor (5 days ago)
-- [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app (6 days ago)
-- [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads. (6 days ago)
-- [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use. (6 days ago)
+- [Granola-Team/mina-block-explorer-docs](https://github.com/Granola-Team/mina-block-explorer-docs) -  (2 days ago)
+- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (5 days ago)
+- [lucioreyli/graphql-formatter](https://github.com/lucioreyli/graphql-formatter) - A rust based tool to format GraphQL files. (5 days ago)
+- [g-plane/pretty_graphql](https://github.com/g-plane/pretty_graphql) - Configurable GraphQL formatter. (5 days ago)
+- [gqlgo/gqlfmt](https://github.com/gqlgo/gqlfmt) - gqlfmt formats your GraphQL files. like gofmt. (5 days ago)
+- [garethtdavies/mina-payout](https://github.com/garethtdavies/mina-payout) -  (6 days ago)
+- [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor (6 days ago)
+- [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app (1 week ago)
+- [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads. (1 week ago)
+- [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use. (1 week ago)
 
 #### 📫 How to reach me
 
