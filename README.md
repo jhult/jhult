@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (3 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (3 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (4 days ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (2 weeks ago)
 - [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter (2 weeks ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (2 months ago)
@@ -34,11 +34,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [feat(web)!: return full block in blocks REST endpoint](https://github.com/Granola-Team/mina-indexer/pull/1660) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
-- [chore(web): refactor blocks GraphQL](https://github.com/Granola-Team/mina-indexer/pull/1659) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 days ago)
-- [Switch license to CC0 1.0](https://github.com/Granola-Team/awesome/pull/1) on [Granola-Team/awesome](https://github.com/Granola-Team/awesome) (3 days ago)
-- [Add MIT license](https://github.com/garethtdavies/mina-payout/pull/1) on [garethtdavies/mina-payout](https://github.com/garethtdavies/mina-payout) (6 days ago)
-- [Add MIT license](https://github.com/jrwashburn/mina-addresses/pull/1) on [jrwashburn/mina-addresses](https://github.com/jrwashburn/mina-addresses) (6 days ago)
+- [feat(web)!: return full block in blocks REST endpoint](https://github.com/Granola-Team/mina-indexer/pull/1660) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
+- [chore(web): refactor blocks GraphQL](https://github.com/Granola-Team/mina-indexer/pull/1659) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 days ago)
+- [Switch license to CC0 1.0](https://github.com/Granola-Team/awesome/pull/1) on [Granola-Team/awesome](https://github.com/Granola-Team/awesome) (4 days ago)
+- [Add MIT license](https://github.com/garethtdavies/mina-payout/pull/1) on [garethtdavies/mina-payout](https://github.com/garethtdavies/mina-payout) (1 week ago)
+- [Add MIT license](https://github.com/jrwashburn/mina-addresses/pull/1) on [jrwashburn/mina-addresses](https://github.com/jrwashburn/mina-addresses) (1 week ago)
 - [feat(staking): make epoch selectable in header](https://github.com/Granola-Team/mina-block-explorer/pull/1140) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [chore: remove unused mina_rs code (proof_systems/signer) code](https://github.com/Granola-Team/mina-indexer/pull/1640) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [chore: 0 -&gt; &#34;Free&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/1121) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
@@ -47,13 +47,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [Granola-Team/mina-block-explorer-docs](https://github.com/Granola-Team/mina-block-explorer-docs) -  (2 days ago)
-- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (5 days ago)
-- [lucioreyli/graphql-formatter](https://github.com/lucioreyli/graphql-formatter) - A rust based tool to format GraphQL files. (5 days ago)
-- [g-plane/pretty_graphql](https://github.com/g-plane/pretty_graphql) - Configurable GraphQL formatter. (5 days ago)
-- [gqlgo/gqlfmt](https://github.com/gqlgo/gqlfmt) - gqlfmt formats your GraphQL files. like gofmt. (5 days ago)
-- [garethtdavies/mina-payout](https://github.com/garethtdavies/mina-payout) -  (6 days ago)
-- [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor (6 days ago)
+- [Granola-Team/mina-block-explorer-docs](https://github.com/Granola-Team/mina-block-explorer-docs) -  (3 days ago)
+- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (6 days ago)
+- [lucioreyli/graphql-formatter](https://github.com/lucioreyli/graphql-formatter) - A rust based tool to format GraphQL files. (6 days ago)
+- [g-plane/pretty_graphql](https://github.com/g-plane/pretty_graphql) - Configurable GraphQL formatter. (6 days ago)
+- [gqlgo/gqlfmt](https://github.com/gqlgo/gqlfmt) - gqlfmt formats your GraphQL files. like gofmt. (6 days ago)
+- [garethtdavies/mina-payout](https://github.com/garethtdavies/mina-payout) -  (1 week ago)
+- [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor (1 week ago)
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app (1 week ago)
 - [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads. (1 week ago)
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use. (1 week ago)
