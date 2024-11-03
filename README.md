@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (4 days ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (5 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (5 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (6 days ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (2 weeks ago)
 - [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter (2 weeks ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (2 months ago)
@@ -34,9 +34,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [feat(web)!: return full block in blocks REST endpoint](https://github.com/Granola-Team/mina-indexer/pull/1660) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 days ago)
-- [chore(web): refactor blocks GraphQL](https://github.com/Granola-Team/mina-indexer/pull/1659) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 days ago)
-- [Switch license to CC0 1.0](https://github.com/Granola-Team/awesome/pull/1) on [Granola-Team/awesome](https://github.com/Granola-Team/awesome) (5 days ago)
+- [feat(web)!: return full block in blocks REST endpoint](https://github.com/Granola-Team/mina-indexer/pull/1660) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (5 days ago)
+- [chore(web): refactor blocks GraphQL](https://github.com/Granola-Team/mina-indexer/pull/1659) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (5 days ago)
+- [Switch license to CC0 1.0](https://github.com/Granola-Team/awesome/pull/1) on [Granola-Team/awesome](https://github.com/Granola-Team/awesome) (6 days ago)
 - [Add MIT license](https://github.com/garethtdavies/mina-payout/pull/1) on [garethtdavies/mina-payout](https://github.com/garethtdavies/mina-payout) (1 week ago)
 - [Add MIT license](https://github.com/jrwashburn/mina-addresses/pull/1) on [jrwashburn/mina-addresses](https://github.com/jrwashburn/mina-addresses) (1 week ago)
 - [feat(staking): make epoch selectable in header](https://github.com/Granola-Team/mina-block-explorer/pull/1140) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
@@ -47,9 +47,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems (1 day ago)
-- [zkvalidator/mina-vrf-rs](https://github.com/zkvalidator/mina-vrf-rs) -  (1 day ago)
-- [Granola-Team/mina-block-explorer-docs](https://github.com/Granola-Team/mina-block-explorer-docs) -  (4 days ago)
+- [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems (2 days ago)
+- [zkvalidator/mina-vrf-rs](https://github.com/zkvalidator/mina-vrf-rs) -  (2 days ago)
+- [Granola-Team/mina-block-explorer-docs](https://github.com/Granola-Team/mina-block-explorer-docs) -  (5 days ago)
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (1 week ago)
 - [lucioreyli/graphql-formatter](https://github.com/lucioreyli/graphql-formatter) - A rust based tool to format GraphQL files. (1 week ago)
 - [g-plane/pretty_graphql](https://github.com/g-plane/pretty_graphql) - Configurable GraphQL formatter. (1 week ago)
