@@ -16,10 +16,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 week ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
-- [jhult/docs](https://github.com/jhult/docs) -  (2 weeks ago)
+- [jhult/docs](https://github.com/jhult/docs) -  (3 weeks ago)
 - [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter (3 weeks ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (2 months ago)
-- [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (5 months ago)
+- [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (6 months ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (6 months ago)
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (7 months ago)
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (7 months ago)
@@ -27,10 +27,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.6.0.alpha2](https://github.com/vaadin/flow/releases/tag/24.6.0.alpha2), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.6.0](https://github.com/rusq/slackdump/releases/tag/v2.6.0), 3 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.41](https://github.com/rust-lang/mdBook/releases/tag/v0.4.41), 1 day ago) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.21](https://github.com/vaadin/flow/releases/tag/24.3.21), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.6.0](https://github.com/rusq/slackdump/releases/tag/v2.6.0), 4 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.40](https://github.com/rust-lang/mdBook/releases/tag/v0.4.40), 5 months ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 
 #### 🔨 My recent Pull Requests
 
@@ -47,16 +47,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [garnix-io/garn](https://github.com/garnix-io/garn) - garn is a build tool and environment manager that replaces justfiles/makefiles, docker, and the annoying parts of READMEs. The builders lingua franca.  (today)
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (1 day ago)
-- [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux (1 day ago)
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment (1 day ago)
-- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management &amp; orchestration for complex app logic. (1 day ago)
-- [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems (5 days ago)
-- [zkvalidator/mina-vrf-rs](https://github.com/zkvalidator/mina-vrf-rs) -  (5 days ago)
-- [Granola-Team/mina-block-explorer-docs](https://github.com/Granola-Team/mina-block-explorer-docs) -  (1 week ago)
-- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor &amp; GraphQL IDE.  (1 week ago)
-- [lucioreyli/graphql-formatter](https://github.com/lucioreyli/graphql-formatter) - A rust based tool to format GraphQL files. (1 week ago)
+- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (1 day ago)
+- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse  (1 day ago)
+- [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains (1 day ago)
+- [garnix-io/garn](https://github.com/garnix-io/garn) - garn is a build tool and environment manager that replaces justfiles/makefiles, docker, and the annoying parts of READMEs. The builders lingua franca.  (1 day ago)
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (2 days ago)
+- [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux (2 days ago)
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment (2 days ago)
+- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management &amp; orchestration for complex app logic. (2 days ago)
+- [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems (6 days ago)
+- [zkvalidator/mina-vrf-rs](https://github.com/zkvalidator/mina-vrf-rs) -  (6 days ago)
 
 #### 📫 How to reach me
 
