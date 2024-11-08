@@ -27,9 +27,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.41](https://github.com/rust-lang/mdBook/releases/tag/v0.4.41), 1 day ago) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.3.21](https://github.com/vaadin/flow/releases/tag/24.3.21), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.6.0](https://github.com/rusq/slackdump/releases/tag/v2.6.0), 4 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.4](https://github.com/vaadin/flow/releases/tag/24.5.4), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.42](https://github.com/rust-lang/mdBook/releases/tag/v0.4.42), 1 day ago) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.6.0](https://github.com/rusq/slackdump/releases/tag/v2.6.0), 5 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 
 #### 🔨 My recent Pull Requests
@@ -37,8 +37,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [feat(web)!: return full block in blocks REST endpoint](https://github.com/Granola-Team/mina-indexer/pull/1660) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [chore(web): refactor blocks GraphQL](https://github.com/Granola-Team/mina-indexer/pull/1659) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 week ago)
 - [Switch license to CC0 1.0](https://github.com/Granola-Team/awesome/pull/1) on [Granola-Team/awesome](https://github.com/Granola-Team/awesome) (1 week ago)
-- [Add MIT license](https://github.com/garethtdavies/mina-payout/pull/1) on [garethtdavies/mina-payout](https://github.com/garethtdavies/mina-payout) (1 week ago)
-- [Add MIT license](https://github.com/jrwashburn/mina-addresses/pull/1) on [jrwashburn/mina-addresses](https://github.com/jrwashburn/mina-addresses) (1 week ago)
+- [Add MIT license](https://github.com/garethtdavies/mina-payout/pull/1) on [garethtdavies/mina-payout](https://github.com/garethtdavies/mina-payout) (2 weeks ago)
+- [Add MIT license](https://github.com/jrwashburn/mina-addresses/pull/1) on [jrwashburn/mina-addresses](https://github.com/jrwashburn/mina-addresses) (2 weeks ago)
 - [feat(staking): make epoch selectable in header](https://github.com/Granola-Team/mina-block-explorer/pull/1140) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
 - [chore: remove unused mina_rs code (proof_systems/signer) code](https://github.com/Granola-Team/mina-indexer/pull/1640) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 weeks ago)
 - [chore: 0 -&gt; &#34;Free&#34;](https://github.com/Granola-Team/mina-block-explorer/pull/1121) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 weeks ago)
@@ -47,16 +47,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (1 day ago)
-- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse  (1 day ago)
-- [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains (1 day ago)
-- [garnix-io/garn](https://github.com/garnix-io/garn) - garn is a build tool and environment manager that replaces justfiles/makefiles, docker, and the annoying parts of READMEs. The builders lingua franca.  (1 day ago)
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (2 days ago)
-- [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux (2 days ago)
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment (2 days ago)
-- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management &amp; orchestration for complex app logic. (2 days ago)
-- [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems (6 days ago)
-- [zkvalidator/mina-vrf-rs](https://github.com/zkvalidator/mina-vrf-rs) -  (6 days ago)
+- [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB) - Postgres read replica optimized for analytics (1 day ago)
+- [duckdb/duckdb-rs](https://github.com/duckdb/duckdb-rs) -  Ergonomic bindings to duckdb for Rust  (1 day ago)
+- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (2 days ago)
+- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse  (2 days ago)
+- [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains (2 days ago)
+- [garnix-io/garn](https://github.com/garnix-io/garn) - garn is a build tool and environment manager that replaces justfiles/makefiles, docker, and the annoying parts of READMEs. The builders lingua franca.  (2 days ago)
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (3 days ago)
+- [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux (3 days ago)
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment (3 days ago)
+- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management &amp; orchestration for complex app logic. (3 days ago)
 
 #### 📫 How to reach me
 
