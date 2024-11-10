@@ -27,9 +27,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.4](https://github.com/vaadin/flow/releases/tag/24.5.4), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.42](https://github.com/rust-lang/mdBook/releases/tag/v0.4.42), 2 days ago) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.6.0](https://github.com/rusq/slackdump/releases/tag/v2.6.0), 6 days ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.4](https://github.com/vaadin/flow/releases/tag/24.5.4), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.42](https://github.com/rust-lang/mdBook/releases/tag/v0.4.42), 3 days ago) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [rusq/slackdump](https://github.com/rusq/slackdump) ([v2.6.0](https://github.com/rusq/slackdump/releases/tag/v2.6.0), 1 week ago) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 
 #### 🔨 My recent Pull Requests
@@ -47,16 +47,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (1 day ago)
-- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - Blazing-fast Data-Wrangling toolkit (1 day ago)
-- [barreleye/barreleye](https://github.com/barreleye/barreleye) - Open-source blockchain indexer and explorer 🐠 (1 day ago)
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A self-hostable CDN for databases. Spice provides a unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets across databases, data warehouses, and data lakes. (1 day ago)
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (1 day ago)
-- [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB) - Postgres read replica optimized for analytics (2 days ago)
-- [duckdb/duckdb-rs](https://github.com/duckdb/duckdb-rs) -  Ergonomic bindings to duckdb for Rust  (2 days ago)
-- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (3 days ago)
-- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse  (3 days ago)
-- [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains (3 days ago)
+- [hasura/ndc-duckdb](https://github.com/hasura/ndc-duckdb) -  (1 day ago)
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Free, open-source no-code web data extraction platform. Build custom robots to automate data scraping [In Beta] (1 day ago)
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (2 days ago)
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - Blazing-fast Data-Wrangling toolkit (2 days ago)
+- [barreleye/barreleye](https://github.com/barreleye/barreleye) - Open-source blockchain indexer and explorer 🐠 (2 days ago)
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A self-hostable CDN for databases. Spice provides a unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets across databases, data warehouses, and data lakes. (2 days ago)
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (2 days ago)
+- [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB) - Postgres read replica optimized for analytics (3 days ago)
+- [duckdb/duckdb-rs](https://github.com/duckdb/duckdb-rs) -  Ergonomic bindings to duckdb for Rust  (3 days ago)
+- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (4 days ago)
 
 #### 📫 How to reach me
 
