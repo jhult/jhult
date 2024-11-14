@@ -14,9 +14,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (5 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (6 days ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 weeks ago)
-- [jhult/docs](https://github.com/jhult/docs) -  (3 weeks ago)
+- [jhult/docs](https://github.com/jhult/docs) -  (4 weeks ago)
 - [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter (1 month ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (3 months ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (6 months ago)
@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.6.0.alpha4](https://github.com/vaadin/flow/releases/tag/24.6.0.alpha4), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.42](https://github.com/rust-lang/mdBook/releases/tag/v0.4.42), 6 days ago) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.6.0.alpha4](https://github.com/vaadin/flow/releases/tag/24.6.0.alpha4), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.42](https://github.com/rust-lang/mdBook/releases/tag/v0.4.42), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 
 #### 🔨 My recent Pull Requests
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [syncliteio/SyncLite](https://github.com/syncliteio/SyncLite) - SyncLite : Build Anything Sync Anywhere (today)
-- [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! (today)
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings. (today)
-- [zonkyio/embedded-postgres-binaries](https://github.com/zonkyio/embedded-postgres-binaries) - Lightweight bundles of PostgreSQL binaries with reduced size intended for testing purposes. (today)
-- [theseus-rs/postgresql-binaries](https://github.com/theseus-rs/postgresql-binaries) - PostgreSQL binaries for Linux, MacOS and Windows (today)
-- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers &amp; Linux machines (1 day ago)
-- [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL  (2 days ago)
-- [hasura/ndc-duckdb](https://github.com/hasura/ndc-duckdb) -  (4 days ago)
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ Free, open-source no-code web data extraction platform ✨ [In Beta] (4 days ago)
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (5 days ago)
+- [ArroyoSystems/streamgen](https://github.com/ArroyoSystems/streamgen) - Mock streaming data generator (1 day ago)
+- [ccmenu/ccmenu2](https://github.com/ccmenu/ccmenu2) - CCMenu is a Mac app that shows the status of builds on CI/CD servers in the menu bar. (1 day ago)
+- [iggy-rs/iggy](https://github.com/iggy-rs/iggy) - Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second. (1 day ago)
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI &#43; Data, online. https://vespa.ai (1 day ago)
+- [tembo-io/pg_later](https://github.com/tembo-io/pg_later) - Execute SQL now and get the results later. (1 day ago)
+- [syncliteio/SyncLite](https://github.com/syncliteio/SyncLite) - SyncLite : Build Anything Sync Anywhere (1 day ago)
+- [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! (1 day ago)
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings. (1 day ago)
+- [zonkyio/embedded-postgres-binaries](https://github.com/zonkyio/embedded-postgres-binaries) - Lightweight bundles of PostgreSQL binaries with reduced size intended for testing purposes. (1 day ago)
+- [theseus-rs/postgresql-binaries](https://github.com/theseus-rs/postgresql-binaries) - PostgreSQL binaries for Linux, MacOS and Windows (1 day ago)
 
 #### 📫 How to reach me
 
