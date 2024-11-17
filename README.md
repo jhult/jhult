@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.6.0.alpha5](https://github.com/vaadin/flow/releases/tag/24.6.0.alpha5), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.6.0.alpha5](https://github.com/vaadin/flow/releases/tag/24.6.0.alpha5), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.42](https://github.com/rust-lang/mdBook/releases/tag/v0.4.42), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [o1-labs/o1js](https://github.com/o1-labs/o1js) - TypeScript framework for zk-SNARKs and zkApps (2 days ago)
-- [ArroyoSystems/streamgen](https://github.com/ArroyoSystems/streamgen) - Mock streaming data generator (3 days ago)
-- [ccmenu/ccmenu2](https://github.com/ccmenu/ccmenu2) - CCMenu is a Mac app that shows the status of builds on CI/CD servers in the menu bar. (3 days ago)
-- [iggy-rs/iggy](https://github.com/iggy-rs/iggy) - Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second. (3 days ago)
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI &#43; Data, online. https://vespa.ai (3 days ago)
-- [tembo-io/pg_later](https://github.com/tembo-io/pg_later) - Execute SQL now and get the results later. (3 days ago)
-- [syncliteio/SyncLite](https://github.com/syncliteio/SyncLite) - SyncLite : Build Anything Sync Anywhere (3 days ago)
-- [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! (3 days ago)
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings. (3 days ago)
-- [zonkyio/embedded-postgres-binaries](https://github.com/zonkyio/embedded-postgres-binaries) - Lightweight bundles of PostgreSQL binaries with reduced size intended for testing purposes. (3 days ago)
+- [basecamp/kamal-proxy](https://github.com/basecamp/kamal-proxy) - Lightweight proxy server for Kamal (1 day ago)
+- [o1-labs/o1js](https://github.com/o1-labs/o1js) - TypeScript framework for zk-SNARKs and zkApps (3 days ago)
+- [ArroyoSystems/streamgen](https://github.com/ArroyoSystems/streamgen) - Mock streaming data generator (4 days ago)
+- [ccmenu/ccmenu2](https://github.com/ccmenu/ccmenu2) - CCMenu is a Mac app that shows the status of builds on CI/CD servers in the menu bar. (4 days ago)
+- [iggy-rs/iggy](https://github.com/iggy-rs/iggy) - Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second. (4 days ago)
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI &#43; Data, online. https://vespa.ai (4 days ago)
+- [tembo-io/pg_later](https://github.com/tembo-io/pg_later) - Execute SQL now and get the results later. (4 days ago)
+- [syncliteio/SyncLite](https://github.com/syncliteio/SyncLite) - SyncLite : Build Anything Sync Anywhere (4 days ago)
+- [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! (4 days ago)
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings. (4 days ago)
 
 #### 📫 How to reach me
 
