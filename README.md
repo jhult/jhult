@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.6.0.beta3](https://github.com/vaadin/flow/releases/tag/24.6.0.beta3), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.6.0.beta3](https://github.com/vaadin/flow/releases/tag/24.6.0.beta3), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.42](https://github.com/rust-lang/mdBook/releases/tag/v0.4.42), 2 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 
@@ -36,7 +36,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [feat(ops): convert from pure Nix to Flox](https://github.com/Granola-Team/mina-block-explorer/pull/1155) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 week ago)
 - [feat(web)!: return full block in blocks REST endpoint](https://github.com/Granola-Team/mina-indexer/pull/1660) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
 - [chore(web): refactor blocks GraphQL](https://github.com/Granola-Team/mina-indexer/pull/1659) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 weeks ago)
-- [Switch license to CC0 1.0](https://github.com/Granola-Team/awesome/pull/1) on [Granola-Team/awesome](https://github.com/Granola-Team/awesome) (3 weeks ago)
+- [Switch license to CC0 1.0](https://github.com/Granola-Team/awesome/pull/1) on [Granola-Team/awesome](https://github.com/Granola-Team/awesome) (4 weeks ago)
 - [Add MIT license](https://github.com/garethtdavies/mina-payout/pull/1) on [garethtdavies/mina-payout](https://github.com/garethtdavies/mina-payout) (1 month ago)
 - [Add MIT license](https://github.com/jrwashburn/mina-addresses/pull/1) on [jrwashburn/mina-addresses](https://github.com/jrwashburn/mina-addresses) (1 month ago)
 - [feat(staking): make epoch selectable in header](https://github.com/Granola-Team/mina-block-explorer/pull/1140) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 month ago)
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [actix/actix](https://github.com/actix/actix) - Actor framework for Rust. (4 days ago)
-- [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework (4 days ago)
-- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (5 days ago)
-- [heinzelotto/rust-callgraph](https://github.com/heinzelotto/rust-callgraph) - Which functions call each other in your rust crate? Static call graph analysis. (5 days ago)
-- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust (5 days ago)
-- [libressl/portable](https://github.com/libressl/portable) - LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome. (6 days ago)
-- [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL (6 days ago)
-- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates (6 days ago)
-- [solusipse/fiche](https://github.com/solusipse/fiche) - Command line pastebin for sharing terminal output. (6 days ago)
-- [kentonv/lanparty](https://github.com/kentonv/lanparty) - Netboot a fleet of desktop machines from a single base image (6 days ago)
+- [actix/actix](https://github.com/actix/actix) - Actor framework for Rust. (5 days ago)
+- [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework (5 days ago)
+- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (6 days ago)
+- [heinzelotto/rust-callgraph](https://github.com/heinzelotto/rust-callgraph) - Which functions call each other in your rust crate? Static call graph analysis. (6 days ago)
+- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust (6 days ago)
+- [libressl/portable](https://github.com/libressl/portable) - LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome. (1 week ago)
+- [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL (1 week ago)
+- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates (1 week ago)
+- [solusipse/fiche](https://github.com/solusipse/fiche) - Command line pastebin for sharing terminal output. (1 week ago)
+- [kentonv/lanparty](https://github.com/kentonv/lanparty) - Netboot a fleet of desktop machines from a single base image (1 week ago)
 
 #### 📫 How to reach me
 
