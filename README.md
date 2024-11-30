@@ -23,13 +23,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (7 months ago)
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails (8 months ago)
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (8 months ago)
-- [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (8 months ago)
+- [aurowallet/mina-provider](https://github.com/aurowallet/mina-provider) - Mina Provider for zkApp (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.6.0.beta5](https://github.com/vaadin/flow/releases/tag/24.6.0.beta5), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.43](https://github.com/rust-lang/mdBook/releases/tag/v0.4.43), 4 days ago) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 1 month ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.6.0.beta6](https://github.com/vaadin/flow/releases/tag/24.6.0.beta6), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.43](https://github.com/rust-lang/mdBook/releases/tag/v0.4.43), 5 days ago) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 
 #### 🔨 My recent Pull Requests
 
@@ -46,9 +46,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [JCTools/JCTools](https://github.com/JCTools/JCTools) -  (1 day ago)
-- [oconnor663/bao](https://github.com/oconnor663/bao) - an implementation of BLAKE3 verified streaming (3 days ago)
-- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently. (4 days ago)
+- [JCTools/JCTools](https://github.com/JCTools/JCTools) -  (2 days ago)
+- [oconnor663/bao](https://github.com/oconnor663/bao) - an implementation of BLAKE3 verified streaming (4 days ago)
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently. (5 days ago)
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust. (1 week ago)
 - [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework (1 week ago)
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (1 week ago)
