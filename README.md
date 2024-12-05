@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.8](https://github.com/vaadin/flow/releases/tag/24.5.8), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.6.0.beta7](https://github.com/vaadin/flow/releases/tag/24.6.0.beta7), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.43](https://github.com/rust-lang/mdBook/releases/tag/v0.4.43), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 
@@ -46,11 +46,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [get-glu/glu](https://github.com/get-glu/glu) - A deployment pipeline framework that sticks (2 days ago)
-- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management (2 days ago)
-- [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI at Scale (2 days ago)
-- [LHolten/rust-query](https://github.com/LHolten/rust-query) - Type safe query builder for rust (3 days ago)
-- [JCTools/JCTools](https://github.com/JCTools/JCTools) -  (6 days ago)
+- [get-glu/glu](https://github.com/get-glu/glu) - A deployment pipeline framework that sticks (3 days ago)
+- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management (3 days ago)
+- [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI at Scale (3 days ago)
+- [LHolten/rust-query](https://github.com/LHolten/rust-query) - Type safe query builder for rust (4 days ago)
+- [JCTools/JCTools](https://github.com/JCTools/JCTools) -  (1 week ago)
 - [oconnor663/bao](https://github.com/oconnor663/bao) - an implementation of BLAKE3 verified streaming (1 week ago)
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently. (1 week ago)
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust. (2 weeks ago)
