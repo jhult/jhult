@@ -27,7 +27,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.6.0.beta7](https://github.com/vaadin/flow/releases/tag/24.6.0.beta7), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.9](https://github.com/vaadin/flow/releases/tag/24.5.9), 1 day ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.43](https://github.com/rust-lang/mdBook/releases/tag/v0.4.43), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [get-glu/glu](https://github.com/get-glu/glu) - A deployment pipeline framework that sticks (3 days ago)
-- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management (3 days ago)
-- [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI at Scale (3 days ago)
-- [LHolten/rust-query](https://github.com/LHolten/rust-query) - Type safe query builder for rust (4 days ago)
+- [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more (1 day ago)
+- [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 day ago)
+- [jorio/gitfourchette](https://github.com/jorio/gitfourchette) - The comfortable Git UI for Linux (1 day ago)
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene. (1 day ago)
+- [get-glu/glu](https://github.com/get-glu/glu) - A deployment pipeline framework that sticks (4 days ago)
+- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management (4 days ago)
+- [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI at Scale (4 days ago)
+- [LHolten/rust-query](https://github.com/LHolten/rust-query) - Type safe query builder for rust (5 days ago)
 - [JCTools/JCTools](https://github.com/JCTools/JCTools) -  (1 week ago)
 - [oconnor663/bao](https://github.com/oconnor663/bao) - an implementation of BLAKE3 verified streaming (1 week ago)
-- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently. (1 week ago)
-- [actix/actix](https://github.com/actix/actix) - Actor framework for Rust. (2 weeks ago)
-- [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework (2 weeks ago)
-- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (2 weeks ago)
 
 #### 📫 How to reach me
 
