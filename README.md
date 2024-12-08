@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 weeks ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (3 weeks ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 month ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (1 month ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (1 month ago)
@@ -27,13 +27,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.9](https://github.com/vaadin/flow/releases/tag/24.5.9), 2 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.9](https://github.com/vaadin/flow/releases/tag/24.5.9), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.43](https://github.com/rust-lang/mdBook/releases/tag/v0.4.43), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ops): convert from pure Nix to Flox](https://github.com/Granola-Team/mina-block-explorer/pull/1155) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 weeks ago)
+- [feat(ops): convert from pure Nix to Flox](https://github.com/Granola-Team/mina-block-explorer/pull/1155) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 weeks ago)
 - [feat(web)!: return full block in blocks REST endpoint](https://github.com/Granola-Team/mina-indexer/pull/1660) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [chore(web): refactor blocks GraphQL](https://github.com/Granola-Team/mina-indexer/pull/1659) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [Switch license to CC0 1.0](https://github.com/Granola-Team/awesome/pull/1) on [Granola-Team/awesome](https://github.com/Granola-Team/awesome) (1 month ago)
@@ -46,14 +46,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more (2 days ago)
-- [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (2 days ago)
-- [jorio/gitfourchette](https://github.com/jorio/gitfourchette) - The comfortable Git UI for Linux (2 days ago)
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene. (2 days ago)
-- [get-glu/glu](https://github.com/get-glu/glu) - A deployment pipeline framework that sticks (5 days ago)
-- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management (5 days ago)
-- [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI at Scale (5 days ago)
-- [LHolten/rust-query](https://github.com/LHolten/rust-query) - Type safe query builder for rust (6 days ago)
+- [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more (3 days ago)
+- [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (3 days ago)
+- [jorio/gitfourchette](https://github.com/jorio/gitfourchette) - The comfortable Git UI for Linux (3 days ago)
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene. (3 days ago)
+- [get-glu/glu](https://github.com/get-glu/glu) - A deployment pipeline framework that sticks (6 days ago)
+- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management (6 days ago)
+- [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI at Scale (6 days ago)
+- [LHolten/rust-query](https://github.com/LHolten/rust-query) - Type safe query builder for rust (1 week ago)
 - [JCTools/JCTools](https://github.com/JCTools/JCTools) -  (1 week ago)
 - [oconnor663/bao](https://github.com/oconnor663/bao) - an implementation of BLAKE3 verified streaming (1 week ago)
 
