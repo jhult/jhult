@@ -27,8 +27,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.9](https://github.com/vaadin/flow/releases/tag/24.5.9), 3 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.43](https://github.com/rust-lang/mdBook/releases/tag/v0.4.43), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [vaadin/flow](https://github.com/vaadin/flow) ([24.5.9](https://github.com/vaadin/flow/releases/tag/24.5.9), 4 days ago) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10&#43;.
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.43](https://github.com/rust-lang/mdBook/releases/tag/v0.4.43), 2 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [kotest/kotest](https://github.com/kotest/kotest) ([v6.0.0.M1](https://github.com/kotest/kotest/releases/tag/v6.0.0.M1), 2 months ago) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 
 #### 🔨 My recent Pull Requests
@@ -46,13 +46,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more (3 days ago)
-- [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (3 days ago)
-- [jorio/gitfourchette](https://github.com/jorio/gitfourchette) - The comfortable Git UI for Linux (3 days ago)
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene. (3 days ago)
-- [get-glu/glu](https://github.com/get-glu/glu) - A deployment pipeline framework that sticks (6 days ago)
-- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management (6 days ago)
-- [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI at Scale (6 days ago)
+- [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more (4 days ago)
+- [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (4 days ago)
+- [jorio/gitfourchette](https://github.com/jorio/gitfourchette) - The comfortable Git UI for Linux (4 days ago)
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene. (4 days ago)
+- [get-glu/glu](https://github.com/get-glu/glu) - A deployment pipeline framework that sticks (1 week ago)
+- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management (1 week ago)
+- [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI at Scale (1 week ago)
 - [LHolten/rust-query](https://github.com/LHolten/rust-query) - Type safe query builder for rust (1 week ago)
 - [JCTools/JCTools](https://github.com/JCTools/JCTools) -  (1 week ago)
 - [oconnor663/bao](https://github.com/oconnor663/bao) - an implementation of BLAKE3 verified streaming (1 week ago)
