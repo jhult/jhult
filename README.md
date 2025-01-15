@@ -17,7 +17,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (2 weeks ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 month ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 month ago)
-- [jhult/docs](https://github.com/jhult/docs) -  (2 months ago)
+- [jhult/docs](https://github.com/jhult/docs) -  (3 months ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (3 months ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (5 months ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (8 months ago)
@@ -30,7 +30,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Add `git lfs` to `tier3-builder` and `nixos-builder`](https://github.com/Granola-Team/infra/pull/24) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (2 weeks ago)
+- [Add `git lfs` to `tier3-builder` and `nixos-builder`](https://github.com/Granola-Team/infra/pull/24) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (3 weeks ago)
 - [Feat/zkapp command json](https://github.com/Granola-Team/mina-indexer/pull/1681) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [fix(v2): txn hashing](https://github.com/Granola-Team/mina-indexer/pull/1680) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [feat(ops): convert from pure Nix to Flox](https://github.com/Granola-Team/mina-block-explorer/pull/1155) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (1 month ago)
@@ -43,16 +43,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (1 day ago)
-- [simonask/werk](https://github.com/simonask/werk) - Simplistic command runner and build system (1 day ago)
-- [Granola-Team/mina](https://github.com/Granola-Team/mina) - Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security. (6 days ago)
+- [wzqs/minamap](https://github.com/wzqs/minamap) - mina fund flow - chrome extension (1 day ago)
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (2 days ago)
+- [simonask/werk](https://github.com/simonask/werk) - Simplistic command runner and build system (2 days ago)
+- [Granola-Team/mina](https://github.com/Granola-Team/mina) - Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security. (1 week ago)
 - [kuvasz-io/kuvasz-streamer](https://github.com/kuvasz-io/kuvasz-streamer) - Kuvasz-Streamer is a Postgres-to-Postgres data consolidation and change data capture project. (1 week ago)
 - [artie-labs/reader](https://github.com/artie-labs/reader) - Perform historical snapshots without database locks and read change data capture logs from databases. Artie Reader is compatible with Debezium and is written in Go. (1 week ago)
 - [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in enterprise environments, this application gives users control over the administration of their machine by elevating their level of access to administrator privileges on macOS.  Users can set a timeframe in the application&#39;s settings to perform specific tasks, such as installing or removing an application. (2 weeks ago)
 - [turbolytics/sql-flow](https://github.com/turbolytics/sql-flow) - DuckDB for streaming data (2 weeks ago)
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web. (2 weeks ago)
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application (2 weeks ago)
-- [spider-rs/spider](https://github.com/spider-rs/spider) - A web crawler and scraper for Rust (2 weeks ago)
 
 #### 📫 How to reach me
 
