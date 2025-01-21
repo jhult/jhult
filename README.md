@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (5 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (6 days ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (3 weeks ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 months ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (3 months ago)
@@ -30,7 +30,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ops): update `mina-txn-hasher`](https://github.com/Granola-Team/mina-indexer/pull/1707) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (5 days ago)
+- [fix(ops): update `mina-txn-hasher`](https://github.com/Granola-Team/mina-indexer/pull/1707) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (6 days ago)
 - [Add `git lfs` to `tier3-builder` and `nixos-builder`](https://github.com/Granola-Team/infra/pull/24) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (3 weeks ago)
 - [Feat/zkapp command json](https://github.com/Granola-Team/mina-indexer/pull/1681) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [fix(v2): txn hashing](https://github.com/Granola-Team/mina-indexer/pull/1680) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
@@ -43,12 +43,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [bodo-run/yek](https://github.com/bodo-run/yek) - A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption.  (1 day ago)
-- [MilesCranmer/BorrowChecker.jl](https://github.com/MilesCranmer/BorrowChecker.jl) - A borrow checker for Julia (1 day ago)
-- [KingMenes/awesome-launch](https://github.com/KingMenes/awesome-launch) - A directory for free and friendly communities to get eyes on your side projects! Contributors are welcome! (4 days ago)
-- [alantech/iasql](https://github.com/alantech/iasql) - Cloud Infrastructure as data in PostgreSQL (4 days ago)
-- [Granola-Team/mina-utils](https://github.com/Granola-Team/mina-utils) - Helpful scripts for working with the Mina Protocol (4 days ago)
-- [wzqs/minamap](https://github.com/wzqs/minamap) - mina fund flow - chrome extension (6 days ago)
+- [bodo-run/yek](https://github.com/bodo-run/yek) - A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption.  (2 days ago)
+- [MilesCranmer/BorrowChecker.jl](https://github.com/MilesCranmer/BorrowChecker.jl) - A borrow checker for Julia (2 days ago)
+- [KingMenes/awesome-launch](https://github.com/KingMenes/awesome-launch) - A directory for free and friendly communities to get eyes on your side projects! Contributors are welcome! (5 days ago)
+- [alantech/iasql](https://github.com/alantech/iasql) - Cloud Infrastructure as data in PostgreSQL (5 days ago)
+- [Granola-Team/mina-utils](https://github.com/Granola-Team/mina-utils) - Helpful scripts for working with the Mina Protocol (5 days ago)
+- [wzqs/minamap](https://github.com/wzqs/minamap) - mina fund flow - chrome extension (1 week ago)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (1 week ago)
 - [simonask/werk](https://github.com/simonask/werk) - Simplistic command runner and build system (1 week ago)
 - [Granola-Team/mina](https://github.com/Granola-Team/mina) - Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security. (1 week ago)
