@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 week ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (1 week ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (3 weeks ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 months ago)
@@ -43,16 +43,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda] (2 days ago)
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. (3 days ago)
-- [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there. (3 days ago)
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Free RDS for PostgreSQL —— Pigsty (3 days ago)
-- [nicholasoxford/SupaFly](https://github.com/nicholasoxford/SupaFly) - The easiest way to deploy Supabase to Fly.io (3 days ago)
-- [supabase/postgres-meta](https://github.com/supabase/postgres-meta) - A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries (3 days ago)
-- [superfly/fly-log-shipper](https://github.com/superfly/fly-log-shipper) - Ship logs from fly to other providers (3 days ago)
-- [bodo-run/yek](https://github.com/bodo-run/yek) - A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption.  (5 days ago)
-- [MilesCranmer/BorrowChecker.jl](https://github.com/MilesCranmer/BorrowChecker.jl) - A borrow checker for Julia (5 days ago)
-- [KingMenes/awesome-launch](https://github.com/KingMenes/awesome-launch) - A directory for free and friendly communities to get eyes on your side projects! Contributors are welcome! (1 week ago)
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation (today)
+- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (1 day ago)
+- [otto8-ai/otto8](https://github.com/otto8-ai/otto8) - ChatGPT for DevOps (1 day ago)
+- [soub4i/kubestatus-operator](https://github.com/soub4i/kubestatus-operator) - kubestatus operator (1 day ago)
+- [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 (1 day ago)
+- [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework (1 day ago)
+- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda] (3 days ago)
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. (4 days ago)
+- [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there. (4 days ago)
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Free RDS for PostgreSQL —— Pigsty (4 days ago)
 
 #### 📫 How to reach me
 
