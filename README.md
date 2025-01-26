@@ -14,9 +14,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (3 days ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (1 week ago)
-- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (3 weeks ago)
+- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (4 weeks ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 months ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (3 months ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (3 months ago)
@@ -37,22 +37,22 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [feat(ops): convert from pure Nix to Flox](https://github.com/Granola-Team/mina-block-explorer/pull/1155) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 months ago)
 - [feat(web)!: return full block in blocks REST endpoint](https://github.com/Granola-Team/mina-indexer/pull/1660) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 months ago)
 - [chore(web): refactor blocks GraphQL](https://github.com/Granola-Team/mina-indexer/pull/1659) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 months ago)
-- [Switch license to CC0 1.0](https://github.com/Granola-Team/awesome/pull/1) on [Granola-Team/awesome](https://github.com/Granola-Team/awesome) (2 months ago)
+- [Switch license to CC0 1.0](https://github.com/Granola-Team/awesome/pull/1) on [Granola-Team/awesome](https://github.com/Granola-Team/awesome) (3 months ago)
 - [Add MIT license](https://github.com/garethtdavies/mina-payout/pull/1) on [garethtdavies/mina-payout](https://github.com/garethtdavies/mina-payout) (3 months ago)
 - [Add MIT license](https://github.com/jrwashburn/mina-addresses/pull/1) on [jrwashburn/mina-addresses](https://github.com/jrwashburn/mina-addresses) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation (today)
-- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (1 day ago)
-- [otto8-ai/otto8](https://github.com/otto8-ai/otto8) - ChatGPT for DevOps (1 day ago)
-- [soub4i/kubestatus-operator](https://github.com/soub4i/kubestatus-operator) - kubestatus operator (1 day ago)
-- [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 (1 day ago)
-- [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework (1 day ago)
-- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda] (3 days ago)
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. (4 days ago)
-- [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there. (4 days ago)
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Free RDS for PostgreSQL —— Pigsty (4 days ago)
+- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure. (1 day ago)
+- [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (1 day ago)
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation (1 day ago)
+- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (2 days ago)
+- [otto8-ai/otto8](https://github.com/otto8-ai/otto8) - ChatGPT for DevOps (2 days ago)
+- [soub4i/kubestatus-operator](https://github.com/soub4i/kubestatus-operator) - kubestatus operator (2 days ago)
+- [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 (2 days ago)
+- [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework (2 days ago)
+- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda] (4 days ago)
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. (5 days ago)
 
 #### 📫 How to reach me
 
