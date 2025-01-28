@@ -14,9 +14,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (4 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (2 weeks ago)
-- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (4 weeks ago)
+- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (1 month ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 months ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (3 months ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (3 months ago)
@@ -43,16 +43,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [atlassian-labs/re-actor](https://github.com/atlassian-labs/re-actor) -  (1 day ago)
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (1 day ago)
-- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused. (1 day ago)
-- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure. (2 days ago)
-- [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (2 days ago)
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation (2 days ago)
-- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (3 days ago)
-- [otto8-ai/otto8](https://github.com/otto8-ai/otto8) - ChatGPT for DevOps (3 days ago)
-- [soub4i/kubestatus-operator](https://github.com/soub4i/kubestatus-operator) - kubestatus operator (3 days ago)
-- [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 (3 days ago)
+- [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3 (1 day ago)
+- [atlassian-labs/re-actor](https://github.com/atlassian-labs/re-actor) -  (2 days ago)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (2 days ago)
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused. (2 days ago)
+- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure. (3 days ago)
+- [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (3 days ago)
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation (3 days ago)
+- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (4 days ago)
+- [otto8-ai/otto8](https://github.com/otto8-ai/otto8) - ChatGPT for DevOps (4 days ago)
+- [soub4i/kubestatus-operator](https://github.com/soub4i/kubestatus-operator) - kubestatus operator (4 days ago)
 
 #### 📫 How to reach me
 
