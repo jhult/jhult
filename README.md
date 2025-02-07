@@ -14,9 +14,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
-- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (2 days ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (6 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (3 days ago)
+- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (3 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (3 weeks ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (3 months ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (3 months ago)
@@ -30,6 +30,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [chore: formatting only (using alejandra)](https://github.com/Granola-Team/infra/pull/28) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 day ago)
 - [Remove unused vars](https://github.com/Granola-Team/infra/pull/27) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 week ago)
 - [Floxify](https://github.com/Granola-Team/infra/pull/26) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 week ago)
 - [Update `granola-prod` with LFS and Nathan access](https://github.com/Granola-Team/infra/pull/25) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 week ago)
@@ -39,20 +40,19 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Feat/zkapp command json](https://github.com/Granola-Team/mina-indexer/pull/1681) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [fix(v2): txn hashing](https://github.com/Granola-Team/mina-indexer/pull/1680) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (1 month ago)
 - [feat(ops): convert from pure Nix to Flox](https://github.com/Granola-Team/mina-block-explorer/pull/1155) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (2 months ago)
-- [feat(web)!: return full block in blocks REST endpoint](https://github.com/Granola-Team/mina-indexer/pull/1660) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner. (2 days ago)
-- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app (2 days ago)
-- [DumbWareio/DumbBudget](https://github.com/DumbWareio/DumbBudget) - A stupid simple budget app! (2 days ago)
-- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi (2 days ago)
-- [zeko-labs/zeko](https://github.com/zeko-labs/zeko) - Zeko: zk-Rollup for Mina, a succinct blockchain (3 days ago)
-- [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (4 days ago)
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ (4 days ago)
-- [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community. (4 days ago)
-- [greasyfork-org/greasyfork](https://github.com/greasyfork-org/greasyfork) - An online repository of user scripts. (6 days ago)
-- [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin) - 🎩🗄Cache ephemeral files between builds (1 week ago)
+- [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript. (today)
+- [zshipko/ocaml-rs](https://github.com/zshipko/ocaml-rs) - OCaml extensions in Rust (1 day ago)
+- [Leader-board/OA-and-Interviews](https://github.com/Leader-board/OA-and-Interviews) - The guide to online assessments and interviews (1 day ago)
+- [navidre/new_grokking_to_leetcode](https://github.com/navidre/new_grokking_to_leetcode) - Mapping the Grokking Coding Interview Patterns to LeetCode (1 day ago)
+- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions (1 day ago)
+- [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner. (3 days ago)
+- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app (3 days ago)
+- [DumbWareio/DumbBudget](https://github.com/DumbWareio/DumbBudget) - A stupid simple budget app! (3 days ago)
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi (3 days ago)
+- [zeko-labs/zeko](https://github.com/zeko-labs/zeko) - Zeko: zk-Rollup for Mina, a succinct blockchain (4 days ago)
 
 #### 📫 How to reach me
 
