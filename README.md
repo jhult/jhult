@@ -15,9 +15,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 👷 Check out what I'm currently working on
 
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 day ago)
-- [edgedb/edgedb-java](https://github.com/edgedb/edgedb-java) - The official Java client library for EdgeDB (1 day ago)
-- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (4 days ago)
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (4 days ago)
+- [edgedb/edgedb-java](https://github.com/edgedb/edgedb-java) - The official Java client library for EdgeDB (2 days ago)
+- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (5 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (5 days ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (3 weeks ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (3 months ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (3 months ago)
@@ -31,7 +31,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [chore: formatting only (using alejandra)](https://github.com/Granola-Team/infra/pull/28) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (2 days ago)
+- [chore: formatting only (using alejandra)](https://github.com/Granola-Team/infra/pull/28) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (3 days ago)
 - [Remove unused vars](https://github.com/Granola-Team/infra/pull/27) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 week ago)
 - [Floxify](https://github.com/Granola-Team/infra/pull/26) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 week ago)
 - [Update `granola-prod` with LFS and Nathan access](https://github.com/Granola-Team/infra/pull/25) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 week ago)
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript. (1 day ago)
-- [zshipko/ocaml-rs](https://github.com/zshipko/ocaml-rs) - OCaml extensions in Rust (2 days ago)
-- [Leader-board/OA-and-Interviews](https://github.com/Leader-board/OA-and-Interviews) - The guide to online assessments and interviews (2 days ago)
-- [navidre/new_grokking_to_leetcode](https://github.com/navidre/new_grokking_to_leetcode) - Mapping the Grokking Coding Interview Patterns to LeetCode (2 days ago)
-- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions (2 days ago)
-- [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner. (4 days ago)
-- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app (4 days ago)
-- [DumbWareio/DumbBudget](https://github.com/DumbWareio/DumbBudget) - A stupid simple budget app! (4 days ago)
-- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi (4 days ago)
-- [zeko-labs/zeko](https://github.com/zeko-labs/zeko) - Zeko: zk-Rollup for Mina, a succinct blockchain (5 days ago)
+- [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript. (2 days ago)
+- [zshipko/ocaml-rs](https://github.com/zshipko/ocaml-rs) - OCaml extensions in Rust (3 days ago)
+- [Leader-board/OA-and-Interviews](https://github.com/Leader-board/OA-and-Interviews) - The guide to online assessments and interviews (3 days ago)
+- [navidre/new_grokking_to_leetcode](https://github.com/navidre/new_grokking_to_leetcode) - Mapping the Grokking Coding Interview Patterns to LeetCode (3 days ago)
+- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions (3 days ago)
+- [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner. (5 days ago)
+- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app (5 days ago)
+- [DumbWareio/DumbBudget](https://github.com/DumbWareio/DumbBudget) - A stupid simple budget app! (5 days ago)
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi (5 days ago)
+- [zeko-labs/zeko](https://github.com/zeko-labs/zeko) - Zeko: zk-Rollup for Mina, a succinct blockchain (6 days ago)
 
 #### 📫 How to reach me
 
