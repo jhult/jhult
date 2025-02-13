@@ -14,10 +14,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 days ago)
-- [edgedb/edgedb-java](https://github.com/edgedb/edgedb-java) - The official Java client library for EdgeDB (5 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (3 days ago)
+- [edgedb/edgedb-java](https://github.com/edgedb/edgedb-java) - The official Java client library for EdgeDB (6 days ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (1 week ago)
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 week ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (1 month ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (3 months ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (4 months ago)
@@ -31,7 +31,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [chore: formatting only (using alejandra)](https://github.com/Granola-Team/infra/pull/28) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (6 days ago)
+- [chore: formatting only (using alejandra)](https://github.com/Granola-Team/infra/pull/28) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 week ago)
 - [Remove unused vars](https://github.com/Granola-Team/infra/pull/27) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (2 weeks ago)
 - [Floxify](https://github.com/Granola-Team/infra/pull/26) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (2 weeks ago)
 - [Update `granola-prod` with LFS and Nathan access](https://github.com/Granola-Team/infra/pull/25) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (2 weeks ago)
@@ -44,12 +44,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [browserslist/update-db](https://github.com/browserslist/update-db) - CLI tool to update caniuse-lite to refresh target browsers from Browserslist config (1 day ago)
-- [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript. (5 days ago)
-- [zshipko/ocaml-rs](https://github.com/zshipko/ocaml-rs) - OCaml extensions in Rust (6 days ago)
-- [Leader-board/OA-and-Interviews](https://github.com/Leader-board/OA-and-Interviews) - The guide to online assessments and interviews (6 days ago)
-- [navidre/new_grokking_to_leetcode](https://github.com/navidre/new_grokking_to_leetcode) - Mapping the Grokking Coding Interview Patterns to LeetCode (6 days ago)
-- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions (6 days ago)
+- [browserslist/update-db](https://github.com/browserslist/update-db) - CLI tool to update caniuse-lite to refresh target browsers from Browserslist config (2 days ago)
+- [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript. (6 days ago)
+- [zshipko/ocaml-rs](https://github.com/zshipko/ocaml-rs) - OCaml extensions in Rust (1 week ago)
+- [Leader-board/OA-and-Interviews](https://github.com/Leader-board/OA-and-Interviews) - The guide to online assessments and interviews (1 week ago)
+- [navidre/new_grokking_to_leetcode](https://github.com/navidre/new_grokking_to_leetcode) - Mapping the Grokking Coding Interview Patterns to LeetCode (1 week ago)
+- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions (1 week ago)
 - [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner. (1 week ago)
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app (1 week ago)
 - [DumbWareio/DumbBudget](https://github.com/DumbWareio/DumbBudget) - A stupid simple budget app! (1 week ago)
