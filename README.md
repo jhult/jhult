@@ -16,18 +16,18 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
-- [edgedb/edgedb-java](https://github.com/edgedb/edgedb-java) - The official Java client library for EdgeDB (2 weeks ago)
+- [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (2 weeks ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (2 weeks ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (1 month ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (4 months ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (4 months ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (6 months ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (9 months ago)
-- [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (9 months ago)
+- [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [edgedb/edgedb-java](https://github.com/edgedb/edgedb-java) ([0.3.0](https://github.com/edgedb/edgedb-java/releases/tag/0.3.0), 9 months ago) - The official Java client library for EdgeDB
+- [geldata/gel-java](https://github.com/geldata/gel-java) ([0.3.0](https://github.com/geldata/gel-java/releases/tag/0.3.0), 9 months ago) - The official Java client library for EdgeDB
 
 #### 🔨 My recent Pull Requests
 
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [agentjido/jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows. (1 day ago)
-- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. (3 days ago)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (4 days ago)
-- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (4 days ago)
-- [hirosystems/chainhook](https://github.com/hirosystems/chainhook) - Extract transactions from Stacks and Bitcoin and build event driven re-org resistant indexers and databases. (5 days ago)
-- [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes (5 days ago)
-- [blakehageman/blakehageman.github.io](https://github.com/blakehageman/blakehageman.github.io) - static web hosting (1 week ago)
-- [browserslist/update-db](https://github.com/browserslist/update-db) - CLI tool to update caniuse-lite to refresh target browsers from Browserslist config (1 week ago)
-- [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript. (2 weeks ago)
-- [zshipko/ocaml-rs](https://github.com/zshipko/ocaml-rs) - OCaml extensions in Rust (2 weeks ago)
+- [Edu4rdSHL/fly-to-podman](https://github.com/Edu4rdSHL/fly-to-podman) - Migrate from Docker to Podman. (1 day ago)
+- [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (1 day ago)
+- [cboudereau/gcs-rsync](https://github.com/cboudereau/gcs-rsync) - Lightweight Google Cloud Storage sync Rust Client with better performance than gsutil rsync (1 day ago)
+- [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams. (1 day ago)
+- [agentjido/jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows. (2 days ago)
+- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. (4 days ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (5 days ago)
+- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (5 days ago)
+- [hirosystems/chainhook](https://github.com/hirosystems/chainhook) - Extract transactions from Stacks and Bitcoin and build event driven re-org resistant indexers and databases. (6 days ago)
+- [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes (6 days ago)
 
 #### 📫 How to reach me
 
