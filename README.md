@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 day ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 days ago)
 - [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (3 weeks ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (3 weeks ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (1 month ago)
@@ -31,6 +31,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [Add Flox to `nixos-builder`](https://github.com/Granola-Team/infra/pull/29) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 day ago)
 - [chore: formatting only (using alejandra)](https://github.com/Granola-Team/infra/pull/28) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (3 weeks ago)
 - [Remove unused vars](https://github.com/Granola-Team/infra/pull/27) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 month ago)
 - [Floxify](https://github.com/Granola-Team/infra/pull/26) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 month ago)
@@ -40,20 +41,19 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Add `git lfs` to `tier3-builder` and `nixos-builder`](https://github.com/Granola-Team/infra/pull/24) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (2 months ago)
 - [Feat/zkapp command json](https://github.com/Granola-Team/mina-indexer/pull/1681) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 months ago)
 - [fix(v2): txn hashing](https://github.com/Granola-Team/mina-indexer/pull/1680) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 months ago)
-- [feat(ops): convert from pure Nix to Flox](https://github.com/Granola-Team/mina-block-explorer/pull/1155) on [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (1 day ago)
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (3 days ago)
-- [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project. (6 days ago)
+- [harrisonmg/moku](https://github.com/harrisonmg/moku) - A Rust library for creating hierarchical state machines (1 day ago)
+- [cmackenzie1/torii-rs](https://github.com/cmackenzie1/torii-rs) - Torii is a powerful authentication framework for Rust applications that gives you complete control over your users&#39; data.  (1 day ago)
+- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (2 days ago)
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (4 days ago)
+- [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project. (1 week ago)
 - [Edu4rdSHL/fly-to-podman](https://github.com/Edu4rdSHL/fly-to-podman) - Migrate from Docker to Podman. (1 week ago)
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (1 week ago)
 - [cboudereau/gcs-rsync](https://github.com/cboudereau/gcs-rsync) - Lightweight Google Cloud Storage sync Rust Client with better performance than gsutil rsync (1 week ago)
 - [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams. (1 week ago)
 - [agentjido/jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows. (1 week ago)
-- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. (1 week ago)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 week ago)
 
 #### 📫 How to reach me
 
