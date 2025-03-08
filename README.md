@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (4 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (5 days ago)
 - [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (4 weeks ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (1 month ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (1 month ago)
@@ -32,7 +32,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 🔨 My recent Pull Requests
 
 - [Add Flox to `nixos-builder`](https://github.com/Granola-Team/infra/pull/29) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 week ago)
-- [chore: formatting only (using alejandra)](https://github.com/Granola-Team/infra/pull/28) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (4 weeks ago)
+- [chore: formatting only (using alejandra)](https://github.com/Granola-Team/infra/pull/28) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 month ago)
 - [Remove unused vars](https://github.com/Granola-Team/infra/pull/27) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 month ago)
 - [Floxify](https://github.com/Granola-Team/infra/pull/26) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 month ago)
 - [Update `granola-prod` with LFS and Nathan access](https://github.com/Granola-Team/infra/pull/25) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 month ago)
@@ -44,12 +44,12 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [jeffreybergier/Teskemon](https://github.com/jeffreybergier/Teskemon) - Tailscale network monitor for macOS (2 days ago)
-- [18F/open-source-policy](https://github.com/18F/open-source-policy) - This repository contains the official Open Source Policy of 18F (5 days ago)
-- [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra (6 days ago)
-- [xataio/pgzx](https://github.com/xataio/pgzx) - Create PostgreSQL extensions using Zig. (6 days ago)
-- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (6 days ago)
-- [Genez-io/genezio](https://github.com/Genez-io/genezio) - Deploy on the fastest full-stack cloud. Experience the autoscaling of near-zero latency serverless without rewriting your code. (6 days ago)
+- [jeffreybergier/Teskemon](https://github.com/jeffreybergier/Teskemon) - Tailscale network monitor for macOS (3 days ago)
+- [18F/open-source-policy](https://github.com/18F/open-source-policy) - This repository contains the official Open Source Policy of 18F (6 days ago)
+- [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra (1 week ago)
+- [xataio/pgzx](https://github.com/xataio/pgzx) - Create PostgreSQL extensions using Zig. (1 week ago)
+- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (1 week ago)
+- [Genez-io/genezio](https://github.com/Genez-io/genezio) - Deploy on the fastest full-stack cloud. Experience the autoscaling of near-zero latency serverless without rewriting your code. (1 week ago)
 - [harrisonmg/moku](https://github.com/harrisonmg/moku) - A Rust library for creating hierarchical state machines (1 week ago)
 - [cmackenzie1/torii-rs](https://github.com/cmackenzie1/torii-rs) - Torii is a powerful authentication framework for Rust applications that gives you complete control over your users&#39; data.  (1 week ago)
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (1 week ago)
