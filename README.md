@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (6 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (3 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
 - [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (1 month ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (1 month ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (1 month ago)
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (1 day ago)
-- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (1 day ago)
-- [Blogger-Peer-Review/quotebacks](https://github.com/Blogger-Peer-Review/quotebacks) - Quote the web (1 day ago)
-- [LandRover/StaffjoyV2](https://github.com/LandRover/StaffjoyV2) - Staffjoy V2 - all microservices in a monorepo (1 day ago)
-- [didtheyghostme/didtheyghostme](https://github.com/didtheyghostme/didtheyghostme) - Find out who is applying to the same job as you and whether you got ghosted (1 day ago)
-- [jeffreybergier/Teskemon](https://github.com/jeffreybergier/Teskemon) - Tailscale network monitor for macOS (4 days ago)
-- [18F/open-source-policy](https://github.com/18F/open-source-policy) - This repository contains the official Open Source Policy of 18F (1 week ago)
-- [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra (1 week ago)
-- [xataio/pgzx](https://github.com/xataio/pgzx) - Create PostgreSQL extensions using Zig. (1 week ago)
-- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (1 week ago)
+- [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (1 day ago)
+- [IeuanK/AmazonExporter](https://github.com/IeuanK/AmazonExporter) - Tampermonkey script to export Amazon orders (1 day ago)
+- [alexdlaird/amazon-orders](https://github.com/alexdlaird/amazon-orders) - A Python libray (and CLI) for Amazon order history (1 day ago)
+- [karenrenac/Amazon-Analytics-with-Web-scraping](https://github.com/karenrenac/Amazon-Analytics-with-Web-scraping) - Data visualization with amazon order history using web scraping (1 day ago)
+- [Jodi22K/Amazon-Spending-Analytics](https://github.com/Jodi22K/Amazon-Spending-Analytics) - This project uses Excel and Python to clean, visualize, and analyze my Amazon spending habits over time. Utilizing imported order data, I identify key trends and provide actionable strategies for optimizing future purchases and budgeting smarter. (1 day ago)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (1 day ago)
+- [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal. (1 day ago)
+- [avaje/avaje-config](https://github.com/avaje/avaje-config) - Application configuration / properties loading for JVM applications (1 day ago)
+- [jstachio/rainbowgum](https://github.com/jstachio/rainbowgum) - Fast, Small, JDK 21&#43;, GraalVM native friendly SLF4J logging framework (1 day ago)
+- [mvysny/karibu-tools](https://github.com/mvysny/karibu-tools) - The Vaadin Missing Utilities (1 day ago)
 
 #### 📫 How to reach me
 
