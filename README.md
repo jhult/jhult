@@ -21,7 +21,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (1 month ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (4 months ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (4 months ago)
-- [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (6 months ago)
+- [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (7 months ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (10 months ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (10 months ago)
 
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (2 days ago)
-- [IeuanK/AmazonExporter](https://github.com/IeuanK/AmazonExporter) - Tampermonkey script to export Amazon orders (2 days ago)
-- [alexdlaird/amazon-orders](https://github.com/alexdlaird/amazon-orders) - A Python libray (and CLI) for Amazon order history (2 days ago)
-- [karenrenac/Amazon-Analytics-with-Web-scraping](https://github.com/karenrenac/Amazon-Analytics-with-Web-scraping) - Data visualization with amazon order history using web scraping (2 days ago)
-- [Jodi22K/Amazon-Spending-Analytics](https://github.com/Jodi22K/Amazon-Spending-Analytics) - This project uses Excel and Python to clean, visualize, and analyze my Amazon spending habits over time. Utilizing imported order data, I identify key trends and provide actionable strategies for optimizing future purchases and budgeting smarter. (2 days ago)
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (2 days ago)
-- [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal. (2 days ago)
-- [avaje/avaje-config](https://github.com/avaje/avaje-config) - Application configuration / properties loading for JVM applications (2 days ago)
-- [jstachio/rainbowgum](https://github.com/jstachio/rainbowgum) - Fast, Small, JDK 21&#43;, GraalVM native friendly SLF4J logging framework (2 days ago)
-- [mvysny/karibu-tools](https://github.com/mvysny/karibu-tools) - The Vaadin Missing Utilities (2 days ago)
+- [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (3 days ago)
+- [IeuanK/AmazonExporter](https://github.com/IeuanK/AmazonExporter) - Tampermonkey script to export Amazon orders (3 days ago)
+- [alexdlaird/amazon-orders](https://github.com/alexdlaird/amazon-orders) - A Python libray (and CLI) for Amazon order history (3 days ago)
+- [karenrenac/Amazon-Analytics-with-Web-scraping](https://github.com/karenrenac/Amazon-Analytics-with-Web-scraping) - Data visualization with amazon order history using web scraping (3 days ago)
+- [Jodi22K/Amazon-Spending-Analytics](https://github.com/Jodi22K/Amazon-Spending-Analytics) - This project uses Excel and Python to clean, visualize, and analyze my Amazon spending habits over time. Utilizing imported order data, I identify key trends and provide actionable strategies for optimizing future purchases and budgeting smarter. (3 days ago)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (3 days ago)
+- [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal. (3 days ago)
+- [avaje/avaje-config](https://github.com/avaje/avaje-config) - Application configuration / properties loading for JVM applications (3 days ago)
+- [jstachio/rainbowgum](https://github.com/jstachio/rainbowgum) - Fast, Small, JDK 21&#43;, GraalVM native friendly SLF4J logging framework (3 days ago)
+- [mvysny/karibu-tools](https://github.com/mvysny/karibu-tools) - The Vaadin Missing Utilities (3 days ago)
 
 #### 📫 How to reach me
 
