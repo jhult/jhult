@@ -14,11 +14,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
 - [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (1 month ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (1 month ago)
-- [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (1 month ago)
+- [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (2 months ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (4 months ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (5 months ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (7 months ago)
@@ -31,7 +31,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Add Flox to `nixos-builder`](https://github.com/Granola-Team/infra/pull/29) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 week ago)
+- [Add Flox to `nixos-builder`](https://github.com/Granola-Team/infra/pull/29) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (2 weeks ago)
 - [chore: formatting only (using alejandra)](https://github.com/Granola-Team/infra/pull/28) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 month ago)
 - [Remove unused vars](https://github.com/Granola-Team/infra/pull/27) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 month ago)
 - [Floxify](https://github.com/Granola-Team/infra/pull/26) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 month ago)
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (4 days ago)
-- [IeuanK/AmazonExporter](https://github.com/IeuanK/AmazonExporter) - Tampermonkey script to export Amazon orders (4 days ago)
-- [alexdlaird/amazon-orders](https://github.com/alexdlaird/amazon-orders) - A Python libray (and CLI) for Amazon order history (4 days ago)
-- [karenrenac/Amazon-Analytics-with-Web-scraping](https://github.com/karenrenac/Amazon-Analytics-with-Web-scraping) - Data visualization with amazon order history using web scraping (4 days ago)
-- [Jodi22K/Amazon-Spending-Analytics](https://github.com/Jodi22K/Amazon-Spending-Analytics) - This project uses Excel and Python to clean, visualize, and analyze my Amazon spending habits over time. Utilizing imported order data, I identify key trends and provide actionable strategies for optimizing future purchases and budgeting smarter. (4 days ago)
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (4 days ago)
-- [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal. (4 days ago)
-- [avaje/avaje-config](https://github.com/avaje/avaje-config) - Application configuration / properties loading for JVM applications (4 days ago)
-- [jstachio/rainbowgum](https://github.com/jstachio/rainbowgum) - Fast, Small, JDK 21&#43;, GraalVM native friendly SLF4J logging framework (4 days ago)
-- [mvysny/karibu-tools](https://github.com/mvysny/karibu-tools) - The Vaadin Missing Utilities (4 days ago)
+- [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (5 days ago)
+- [IeuanK/AmazonExporter](https://github.com/IeuanK/AmazonExporter) - Tampermonkey script to export Amazon orders (5 days ago)
+- [alexdlaird/amazon-orders](https://github.com/alexdlaird/amazon-orders) - A Python libray (and CLI) for Amazon order history (5 days ago)
+- [karenrenac/Amazon-Analytics-with-Web-scraping](https://github.com/karenrenac/Amazon-Analytics-with-Web-scraping) - Data visualization with amazon order history using web scraping (5 days ago)
+- [Jodi22K/Amazon-Spending-Analytics](https://github.com/Jodi22K/Amazon-Spending-Analytics) - This project uses Excel and Python to clean, visualize, and analyze my Amazon spending habits over time. Utilizing imported order data, I identify key trends and provide actionable strategies for optimizing future purchases and budgeting smarter. (5 days ago)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (5 days ago)
+- [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal. (5 days ago)
+- [avaje/avaje-config](https://github.com/avaje/avaje-config) - Application configuration / properties loading for JVM applications (5 days ago)
+- [jstachio/rainbowgum](https://github.com/jstachio/rainbowgum) - Fast, Small, JDK 21&#43;, GraalVM native friendly SLF4J logging framework (5 days ago)
+- [mvysny/karibu-tools](https://github.com/mvysny/karibu-tools) - The Vaadin Missing Utilities (5 days ago)
 
 #### 📫 How to reach me
 
