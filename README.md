@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (3 days ago)
 - [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (1 month ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (1 month ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (2 months ago)
@@ -44,8 +44,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [varnish/tinykvm](https://github.com/varnish/tinykvm) - VMM for native-performance sandboxing (2 days ago)
-- [ashishbijlani/kwarantine](https://github.com/ashishbijlani/kwarantine) - Kwarantine can run strongly isolated containers in a multi-tenant setting (2 days ago)
+- [varnish/tinykvm](https://github.com/varnish/tinykvm) - VMM for native-performance sandboxing (3 days ago)
+- [ashishbijlani/kwarantine](https://github.com/ashishbijlani/kwarantine) - Kwarantine can run strongly isolated containers in a multi-tenant setting (3 days ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (1 week ago)
 - [IeuanK/AmazonExporter](https://github.com/IeuanK/AmazonExporter) - Tampermonkey script to export Amazon orders (1 week ago)
 - [alexdlaird/amazon-orders](https://github.com/alexdlaird/amazon-orders) - A Python libray (and CLI) for Amazon order history (1 week ago)
