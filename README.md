@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (5 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (1 day ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (6 days ago)
 - [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (1 month ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (1 month ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (2 months ago)
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [varnish/tinykvm](https://github.com/varnish/tinykvm) - VMM for native-performance sandboxing (5 days ago)
-- [ashishbijlani/kwarantine](https://github.com/ashishbijlani/kwarantine) - Kwarantine can run strongly isolated containers in a multi-tenant setting (5 days ago)
+- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution. (1 day ago)
+- [SCons/scons](https://github.com/SCons/scons) - SCons - a software construction tool (1 day ago)
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible (1 day ago)
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39; (1 day ago)
+- [varnish/tinykvm](https://github.com/varnish/tinykvm) - VMM for native-performance sandboxing (6 days ago)
+- [ashishbijlani/kwarantine](https://github.com/ashishbijlani/kwarantine) - Kwarantine can run strongly isolated containers in a multi-tenant setting (6 days ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (1 week ago)
 - [IeuanK/AmazonExporter](https://github.com/IeuanK/AmazonExporter) - Tampermonkey script to export Amazon orders (1 week ago)
 - [alexdlaird/amazon-orders](https://github.com/alexdlaird/amazon-orders) - A Python libray (and CLI) for Amazon order history (1 week ago)
 - [karenrenac/Amazon-Analytics-with-Web-scraping](https://github.com/karenrenac/Amazon-Analytics-with-Web-scraping) - Data visualization with amazon order history using web scraping (1 week ago)
-- [Jodi22K/Amazon-Spending-Analytics](https://github.com/Jodi22K/Amazon-Spending-Analytics) - This project uses Excel and Python to clean, visualize, and analyze my Amazon spending habits over time. Utilizing imported order data, I identify key trends and provide actionable strategies for optimizing future purchases and budgeting smarter. (1 week ago)
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (1 week ago)
-- [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal. (1 week ago)
-- [avaje/avaje-config](https://github.com/avaje/avaje-config) - Application configuration / properties loading for JVM applications (1 week ago)
 
 #### 📫 How to reach me
 
