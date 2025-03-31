@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (2 days ago)
-- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (4 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - The Mina Indexer is a re-imagined version of the software collectively called the &#34;Mina archive node.&#34; (3 days ago)
+- [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (5 days ago)
 - [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (1 month ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (1 month ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (2 months ago)
@@ -31,7 +31,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ops): convert `just` to `rake`](https://github.com/Granola-Team/mina-indexer/pull/1823) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 days ago)
+- [feat(ops): convert `just` to `rake`](https://github.com/Granola-Team/mina-indexer/pull/1823) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (5 days ago)
 - [Add Flox to `nixos-builder`](https://github.com/Granola-Team/infra/pull/29) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 month ago)
 - [chore: formatting only (using alejandra)](https://github.com/Granola-Team/infra/pull/28) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (1 month ago)
 - [Remove unused vars](https://github.com/Granola-Team/infra/pull/27) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (2 months ago)
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion (5 days ago)
-- [please-build/java-rules](https://github.com/please-build/java-rules) -  (5 days ago)
-- [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) - A bazel BUILD file formatter and editor (6 days ago)
-- [keadex/keadex](https://github.com/keadex/keadex) - Monorepo containing Keadex applications and libraries. (6 days ago)
-- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML. (6 days ago)
-- [RDBModel/rdbmodel.github.io](https://github.com/RDBModel/rdbmodel.github.io) - Simplified C4 model yaml editor (6 days ago)
-- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust (6 days ago)
-- [flox/flox-direnv](https://github.com/flox/flox-direnv) - direnv library for using Flox in your .envrc enabled projects (6 days ago)
-- [bearstech/pussh](https://github.com/bearstech/pussh) - Parallel SSH, batch and command line oriented (1 week ago)
-- [iterative/datachain](https://github.com/iterative/datachain) - ETL, Analytics, Versioning for Unstructured Data (1 week ago)
+- [jspecify/jspecify](https://github.com/jspecify/jspecify) - An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis. (1 day ago)
+- [ASSERT-KTH/depclean](https://github.com/ASSERT-KTH/depclean) - DepClean automatically detects and removes unused dependencies in Maven projects (https://dx.doi.org/10.1007/s10664-020-09914-8) (1 day ago)
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (1 day ago)
+- [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion (6 days ago)
+- [please-build/java-rules](https://github.com/please-build/java-rules) -  (6 days ago)
+- [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) - A bazel BUILD file formatter and editor (1 week ago)
+- [keadex/keadex](https://github.com/keadex/keadex) - Monorepo containing Keadex applications and libraries. (1 week ago)
+- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML. (1 week ago)
+- [RDBModel/rdbmodel.github.io](https://github.com/RDBModel/rdbmodel.github.io) - Simplified C4 model yaml editor (1 week ago)
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust (1 week ago)
 
 #### 📫 How to reach me
 
