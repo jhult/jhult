@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (1 day ago)
-- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (4 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (2 days ago)
+- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (5 days ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
 - [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (1 month ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (2 months ago)
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [iesahin/xvc](https://github.com/iesahin/xvc) - A robust (🐢) and fast (🐇) MLOps tool for managing data and pipelines in Rust (🦀) (1 day ago)
-- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data (1 day ago)
-- [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust (1 day ago)
-- [isker/neogrok](https://github.com/isker/neogrok) - Neogrok is a frontend for zoekt, a fast and scalable code search engine. (1 day ago)
-- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (1 day ago)
-- [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (2 days ago)
-- [clarkware/jdepend](https://github.com/clarkware/jdepend) - A Java package dependency analyzer that generates design quality metrics. (2 days ago)
-- [inikolaev/intellij-maven-plugin](https://github.com/inikolaev/intellij-maven-plugin) - Maven plugin for IntelliJ (3 days ago)
-- [xdev-software/intellij-plugin-openrewriter](https://github.com/xdev-software/intellij-plugin-openrewriter) - An IntelliJ plugin that provides support for OpenRewrite (3 days ago)
-- [superfly/macaroon](https://github.com/superfly/macaroon) - Fly.io macaroon implementation (3 days ago)
+- [grisha9/maven-model-reader](https://github.com/grisha9/maven-model-reader) -  (1 day ago)
+- [iesahin/xvc](https://github.com/iesahin/xvc) - A robust (🐢) and fast (🐇) MLOps tool for managing data and pipelines in Rust (🦀) (2 days ago)
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data (2 days ago)
+- [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust (2 days ago)
+- [isker/neogrok](https://github.com/isker/neogrok) - Neogrok is a frontend for zoekt, a fast and scalable code search engine. (2 days ago)
+- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (2 days ago)
+- [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (3 days ago)
+- [clarkware/jdepend](https://github.com/clarkware/jdepend) - A Java package dependency analyzer that generates design quality metrics. (3 days ago)
+- [inikolaev/intellij-maven-plugin](https://github.com/inikolaev/intellij-maven-plugin) - Maven plugin for IntelliJ (4 days ago)
+- [xdev-software/intellij-plugin-openrewriter](https://github.com/xdev-software/intellij-plugin-openrewriter) - An IntelliJ plugin that provides support for OpenRewrite (4 days ago)
 
 #### 📫 How to reach me
 
