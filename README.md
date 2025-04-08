@@ -14,10 +14,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (4 days ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (5 days ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (1 week ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (1 week ago)
-- [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (1 month ago)
+- [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (2 months ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (2 months ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (5 months ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (5 months ago)
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (2 days ago)
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (2 days ago)
-- [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients (2 days ago)
-- [grisha9/maven-model-reader](https://github.com/grisha9/maven-model-reader) -  (3 days ago)
-- [iesahin/xvc](https://github.com/iesahin/xvc) - A robust (🐢) and fast (🐇) MLOps tool for managing data and pipelines in Rust (🦀) (4 days ago)
-- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data (4 days ago)
-- [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust (4 days ago)
-- [isker/neogrok](https://github.com/isker/neogrok) - Neogrok is a frontend for zoekt, a fast and scalable code search engine. (4 days ago)
-- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (4 days ago)
-- [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (5 days ago)
+- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (3 days ago)
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (3 days ago)
+- [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients (3 days ago)
+- [grisha9/maven-model-reader](https://github.com/grisha9/maven-model-reader) -  (4 days ago)
+- [iesahin/xvc](https://github.com/iesahin/xvc) - A robust (🐢) and fast (🐇) MLOps tool for managing data and pipelines in Rust (🦀) (5 days ago)
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data (5 days ago)
+- [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust (5 days ago)
+- [isker/neogrok](https://github.com/isker/neogrok) - Neogrok is a frontend for zoekt, a fast and scalable code search engine. (5 days ago)
+- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (5 days ago)
+- [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (6 days ago)
 
 #### 📫 How to reach me
 
