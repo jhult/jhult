@@ -21,7 +21,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (2 months ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (5 months ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (5 months ago)
-- [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (7 months ago)
+- [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (8 months ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (11 months ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (11 months ago)
 
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (2 days ago)
-- [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs&#39; successor. A tool for static analysis to look for bugs in Java code. (2 days ago)
-- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (5 days ago)
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (5 days ago)
-- [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients (5 days ago)
-- [grisha9/maven-model-reader](https://github.com/grisha9/maven-model-reader) -  (6 days ago)
+- [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Deterministic workflow engine (today)
+- [golemcloud/golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems. (today)
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (3 days ago)
+- [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs&#39; successor. A tool for static analysis to look for bugs in Java code. (3 days ago)
+- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (6 days ago)
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (6 days ago)
+- [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients (6 days ago)
+- [grisha9/maven-model-reader](https://github.com/grisha9/maven-model-reader) -  (1 week ago)
 - [iesahin/xvc](https://github.com/iesahin/xvc) - A robust (🐢) and fast (🐇) MLOps tool for managing data and pipelines in Rust (🦀) (1 week ago)
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data (1 week ago)
-- [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust (1 week ago)
-- [isker/neogrok](https://github.com/isker/neogrok) - Neogrok is a frontend for zoekt, a fast and scalable code search engine. (1 week ago)
 
 #### 📫 How to reach me
 
