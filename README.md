@@ -14,13 +14,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (1 week ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (1 day ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (1 week ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 weeks ago)
 - [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (2 months ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (2 months ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (5 months ago)
-- [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (5 months ago)
+- [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (6 months ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (8 months ago)
 - [zeromq/rfc](https://github.com/zeromq/rfc) - ZeroMQ RFC project (11 months ago)
 - [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (11 months ago)
@@ -40,20 +40,20 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [fix: genesis ledger parsing](https://github.com/Granola-Team/mina-indexer/pull/1722) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 months ago)
 - [fix(ops): update `mina-txn-hasher`](https://github.com/Granola-Team/mina-indexer/pull/1707) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 months ago)
 - [Add `git lfs` to `tier3-builder` and `nixos-builder`](https://github.com/Granola-Team/infra/pull/24) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (3 months ago)
-- [Feat/zkapp command json](https://github.com/Granola-Team/mina-indexer/pull/1681) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (3 months ago)
+- [Feat/zkapp command json](https://github.com/Granola-Team/mina-indexer/pull/1681) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Deterministic workflow engine (today)
-- [golemcloud/golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems. (today)
-- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (3 days ago)
-- [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs&#39; successor. A tool for static analysis to look for bugs in Java code. (3 days ago)
-- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (6 days ago)
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (6 days ago)
-- [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients (6 days ago)
-- [grisha9/maven-model-reader](https://github.com/grisha9/maven-model-reader) -  (1 week ago)
-- [iesahin/xvc](https://github.com/iesahin/xvc) - A robust (🐢) and fast (🐇) MLOps tool for managing data and pipelines in Rust (🦀) (1 week ago)
-- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data (1 week ago)
+- [codeyousef/summon](https://github.com/codeyousef/summon) -  (today)
+- [varabyte/kobweb](https://github.com/varabyte/kobweb) - A modern framework for full stack web apps in Kotlin, built upon Compose HTML (today)
+- [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly. (1 day ago)
+- [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Deterministic workflow engine (1 day ago)
+- [golemcloud/golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems. (1 day ago)
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (4 days ago)
+- [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs&#39; successor. A tool for static analysis to look for bugs in Java code. (4 days ago)
+- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (1 week ago)
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (1 week ago)
+- [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients (1 week ago)
 
 #### 📫 How to reach me
 
