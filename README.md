@@ -14,11 +14,11 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (1 day ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (2 days ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (1 week ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 weeks ago)
 - [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (2 months ago)
-- [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (2 months ago)
+- [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (3 months ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (5 months ago)
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter (6 months ago)
 - [Granola-Team/.github](https://github.com/Granola-Team/.github) -  (8 months ago)
@@ -44,16 +44,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [codeyousef/summon](https://github.com/codeyousef/summon) -  (today)
-- [varabyte/kobweb](https://github.com/varabyte/kobweb) - A modern framework for full stack web apps in Kotlin, built upon Compose HTML (today)
-- [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly. (1 day ago)
-- [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Deterministic workflow engine (1 day ago)
-- [golemcloud/golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems. (1 day ago)
-- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (4 days ago)
-- [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs&#39; successor. A tool for static analysis to look for bugs in Java code. (4 days ago)
-- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (1 week ago)
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (1 week ago)
-- [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients (1 week ago)
+- [Ekryd/sortpom](https://github.com/Ekryd/sortpom) - Maven plugin that helps the user sort pom.xml.  (1 day ago)
+- [JetBrains/amper](https://github.com/JetBrains/amper) - Amper - a project configuration and build tool with a focus on the user experience and the IDE support (1 day ago)
+- [keszybz/add-determinism](https://github.com/keszybz/add-determinism) - Build postprocessor to reset metadata fields for build reproducibility (1 day ago)
+- [codeyousef/summon](https://github.com/codeyousef/summon) -  (1 day ago)
+- [varabyte/kobweb](https://github.com/varabyte/kobweb) - A modern framework for full stack web apps in Kotlin, built upon Compose HTML (1 day ago)
+- [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly. (2 days ago)
+- [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Deterministic workflow engine (2 days ago)
+- [golemcloud/golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems. (2 days ago)
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (5 days ago)
+- [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs&#39; successor. A tool for static analysis to look for bugs in Java code. (5 days ago)
 
 #### 📫 How to reach me
 
