@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (5 days ago)
+- [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (6 days ago)
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (1 week ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (3 weeks ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (1 month ago)
@@ -32,7 +32,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Add Apache 2.0 license](https://github.com/bbc/not_in_kansas/pull/4) on [bbc/not_in_kansas](https://github.com/bbc/not_in_kansas) (4 days ago)
+- [Add Apache 2.0 license](https://github.com/bbc/not_in_kansas/pull/4) on [bbc/not_in_kansas](https://github.com/bbc/not_in_kansas) (5 days ago)
 - [Add GNU GPLv3 license](https://github.com/meeuw/rzn/pull/1) on [meeuw/rzn](https://github.com/meeuw/rzn) (1 week ago)
 - [Add MIT license](https://github.com/fourlexboehm/faasta/pull/4) on [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) (3 weeks ago)
 - [Add MIT license](https://github.com/c29r3/mina-payout/pull/1) on [c29r3/mina-payout](https://github.com/c29r3/mina-payout) (1 month ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking  (1 day ago)
-- [archivekeep/archivekeep](https://github.com/archivekeep/archivekeep) - Keep your files archived on multiple places, in a reliable and simple way. (1 day ago)
-- [Futsch1/medTimer](https://github.com/Futsch1/medTimer) - MedTimer Android app (1 day ago)
-- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Build your knowledge one log at a time (1 day ago)
-- [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (2 days ago)
-- [adrian-mcmichael/pocket-obsidian-migrator](https://github.com/adrian-mcmichael/pocket-obsidian-migrator) - A command line tool for converting Pocket export files to Obsidian Markdown Files (2 days ago)
-- [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file. (2 days ago)
-- [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) -  (2 days ago)
-- [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault. (2 days ago)
-- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life. (3 days ago)
+- [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking  (2 days ago)
+- [archivekeep/archivekeep](https://github.com/archivekeep/archivekeep) - Keep your files archived on multiple places, in a reliable and simple way. (2 days ago)
+- [Futsch1/medTimer](https://github.com/Futsch1/medTimer) - MedTimer Android app (2 days ago)
+- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Build your knowledge one log at a time (2 days ago)
+- [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (3 days ago)
+- [adrian-mcmichael/pocket-obsidian-migrator](https://github.com/adrian-mcmichael/pocket-obsidian-migrator) - A command line tool for converting Pocket export files to Obsidian Markdown Files (3 days ago)
+- [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file. (3 days ago)
+- [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) -  (3 days ago)
+- [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault. (3 days ago)
+- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life. (4 days ago)
 
 #### 📫 How to reach me
 
