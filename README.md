@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking  (4 days ago)
-- [archivekeep/archivekeep](https://github.com/archivekeep/archivekeep) - Keep your files archived on multiple places, in a reliable and simple way. (4 days ago)
-- [Futsch1/medTimer](https://github.com/Futsch1/medTimer) - MedTimer Android app (4 days ago)
-- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Build your knowledge one log at a time (4 days ago)
-- [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (5 days ago)
-- [adrian-mcmichael/pocket-obsidian-migrator](https://github.com/adrian-mcmichael/pocket-obsidian-migrator) - A command line tool for converting Pocket export files to Obsidian Markdown Files (5 days ago)
-- [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file. (5 days ago)
-- [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) -  (5 days ago)
-- [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault. (5 days ago)
-- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life. (6 days ago)
+- [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking  (5 days ago)
+- [archivekeep/archivekeep](https://github.com/archivekeep/archivekeep) - Keep your files archived on multiple places, in a reliable and simple way. (5 days ago)
+- [Futsch1/medTimer](https://github.com/Futsch1/medTimer) - MedTimer Android app (5 days ago)
+- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Build your knowledge one log at a time (5 days ago)
+- [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (6 days ago)
+- [adrian-mcmichael/pocket-obsidian-migrator](https://github.com/adrian-mcmichael/pocket-obsidian-migrator) - A command line tool for converting Pocket export files to Obsidian Markdown Files (6 days ago)
+- [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file. (6 days ago)
+- [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) -  (6 days ago)
+- [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault. (6 days ago)
+- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life. (1 week ago)
 
 #### 📫 How to reach me
 
