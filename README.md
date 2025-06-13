@@ -16,7 +16,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (1 week ago)
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (2 weeks ago)
-- [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (3 weeks ago)
+- [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (4 weeks ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (1 month ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (2 months ago)
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 months ago)
@@ -34,7 +34,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 - [Add Apache 2.0 license](https://github.com/bbc/not_in_kansas/pull/4) on [bbc/not_in_kansas](https://github.com/bbc/not_in_kansas) (1 week ago)
 - [Add GNU GPLv3 license](https://github.com/meeuw/rzn/pull/1) on [meeuw/rzn](https://github.com/meeuw/rzn) (2 weeks ago)
-- [Add MIT license](https://github.com/fourlexboehm/faasta/pull/4) on [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) (3 weeks ago)
+- [Add MIT license](https://github.com/fourlexboehm/faasta/pull/4) on [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) (4 weeks ago)
 - [Add MIT license](https://github.com/c29r3/mina-payout/pull/1) on [c29r3/mina-payout](https://github.com/c29r3/mina-payout) (1 month ago)
 - [feat(ops): convert `just` to `rake`](https://github.com/Granola-Team/mina-indexer/pull/1823) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 months ago)
 - [Add Flox to `nixos-builder`](https://github.com/Granola-Team/infra/pull/29) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (3 months ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [streetwriters/notesnook-importer](https://github.com/streetwriters/notesnook-importer) - Import your notes from any app into Notesnook (today)
-- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source &amp; end-to-end encrypted note taking alternative to Evernote. (today)
-- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do! (1 day ago)
-- [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking  (6 days ago)
-- [archivekeep/archivekeep](https://github.com/archivekeep/archivekeep) - Keep your files archived on multiple places, in a reliable and simple way. (6 days ago)
-- [Futsch1/medTimer](https://github.com/Futsch1/medTimer) - MedTimer Android app (6 days ago)
-- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Build your knowledge one log at a time (6 days ago)
-- [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (1 week ago)
-- [adrian-mcmichael/pocket-obsidian-migrator](https://github.com/adrian-mcmichael/pocket-obsidian-migrator) - A command line tool for converting Pocket export files to Obsidian Markdown Files (1 week ago)
-- [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file. (1 week ago)
+- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (1 day ago)
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (1 day ago)
+- [terminaldotshop/terminal-sdk-kotlin](https://github.com/terminaldotshop/terminal-sdk-kotlin) -  (1 day ago)
+- [streetwriters/notesnook-importer](https://github.com/streetwriters/notesnook-importer) - Import your notes from any app into Notesnook (1 day ago)
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source &amp; end-to-end encrypted note taking alternative to Evernote. (1 day ago)
+- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do! (2 days ago)
+- [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking  (1 week ago)
+- [archivekeep/archivekeep](https://github.com/archivekeep/archivekeep) - Keep your files archived on multiple places, in a reliable and simple way. (1 week ago)
+- [Futsch1/medTimer](https://github.com/Futsch1/medTimer) - MedTimer Android app (1 week ago)
+- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Build your knowledge one log at a time (1 week ago)
 
 #### 📫 How to reach me
 
