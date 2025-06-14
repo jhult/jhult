@@ -23,7 +23,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (4 months ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (5 months ago)
 - [jrwashburn/mina-addresses](https://github.com/jrwashburn/mina-addresses) - Contains mina and o1 registered/managed addresses - intended as a submodule (7 months ago)
-- [jhult/docs](https://github.com/jhult/docs) -  (7 months ago)
+- [jhult/docs](https://github.com/jhult/docs) -  (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (1 day ago)
-- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (1 day ago)
-- [terminaldotshop/terminal-sdk-kotlin](https://github.com/terminaldotshop/terminal-sdk-kotlin) -  (1 day ago)
-- [streetwriters/notesnook-importer](https://github.com/streetwriters/notesnook-importer) - Import your notes from any app into Notesnook (1 day ago)
-- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source &amp; end-to-end encrypted note taking alternative to Evernote. (1 day ago)
-- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do! (2 days ago)
-- [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking  (1 week ago)
-- [archivekeep/archivekeep](https://github.com/archivekeep/archivekeep) - Keep your files archived on multiple places, in a reliable and simple way. (1 week ago)
-- [Futsch1/medTimer](https://github.com/Futsch1/medTimer) - MedTimer Android app (1 week ago)
-- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Build your knowledge one log at a time (1 week ago)
+- [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) - A multi-platform (Flutter) application for reading your emails, with your favorite devices, using the JMAP protocol! (1 day ago)
+- [yorickpeterse/kvi](https://github.com/yorickpeterse/kvi) - A key-value database written in Inko (1 day ago)
+- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (1 day ago)
+- [EzpieCo/GetHooky](https://github.com/EzpieCo/GetHooky) - git hooks managing with stupidity as priority (1 day ago)
+- [marph91/jimmy](https://github.com/marph91/jimmy) - Convert your notes to Markdown (1 day ago)
+- [sanzoghenzo/markdownr](https://github.com/sanzoghenzo/markdownr) - Android app that converts an URL to markdown, and lets you share it to your favorite notes app. (1 day ago)
+- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (2 days ago)
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (2 days ago)
+- [terminaldotshop/terminal-sdk-kotlin](https://github.com/terminaldotshop/terminal-sdk-kotlin) -  (2 days ago)
+- [streetwriters/notesnook-importer](https://github.com/streetwriters/notesnook-importer) - Import your notes from any app into Notesnook (2 days ago)
 
 #### 📫 How to reach me
 
