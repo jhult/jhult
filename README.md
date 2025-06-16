@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (1 week ago)
+- [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (2 weeks ago)
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (2 weeks ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (1 month ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (1 month ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 day ago)
-- [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) - A multi-platform (Flutter) application for reading your emails, with your favorite devices, using the JMAP protocol! (2 days ago)
-- [yorickpeterse/kvi](https://github.com/yorickpeterse/kvi) - A key-value database written in Inko (2 days ago)
-- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (2 days ago)
-- [EzpieCo/GetHooky](https://github.com/EzpieCo/GetHooky) - git hooks managing with stupidity as priority (2 days ago)
-- [marph91/jimmy](https://github.com/marph91/jimmy) - Convert your notes to Markdown (2 days ago)
-- [sanzoghenzo/markdownr](https://github.com/sanzoghenzo/markdownr) - Android app that converts an URL to markdown, and lets you share it to your favorite notes app. (2 days ago)
-- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (3 days ago)
-- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (3 days ago)
-- [terminaldotshop/terminal-sdk-kotlin](https://github.com/terminaldotshop/terminal-sdk-kotlin) -  (3 days ago)
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua (1 day ago)
+- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards (1 day ago)
+- [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React &amp; node.js (1 day ago)
+- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . (1 day ago)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 days ago)
+- [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) - A multi-platform (Flutter) application for reading your emails, with your favorite devices, using the JMAP protocol! (3 days ago)
+- [yorickpeterse/kvi](https://github.com/yorickpeterse/kvi) - A key-value database written in Inko (3 days ago)
+- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (3 days ago)
+- [EzpieCo/GetHooky](https://github.com/EzpieCo/GetHooky) - git hooks managing with stupidity as priority (3 days ago)
+- [marph91/jimmy](https://github.com/marph91/jimmy) - Convert your notes to Markdown (3 days ago)
 
 #### 📫 How to reach me
 
