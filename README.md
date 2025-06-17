@@ -32,7 +32,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Add Apache 2.0 license](https://github.com/bbc/not_in_kansas/pull/4) on [bbc/not_in_kansas](https://github.com/bbc/not_in_kansas) (1 week ago)
+- [Add Apache 2.0 license](https://github.com/bbc/not_in_kansas/pull/4) on [bbc/not_in_kansas](https://github.com/bbc/not_in_kansas) (2 weeks ago)
 - [Add GNU GPLv3 license](https://github.com/meeuw/rzn/pull/1) on [meeuw/rzn](https://github.com/meeuw/rzn) (2 weeks ago)
 - [Add MIT license](https://github.com/fourlexboehm/faasta/pull/4) on [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) (1 month ago)
 - [Add MIT license](https://github.com/c29r3/mina-payout/pull/1) on [c29r3/mina-payout](https://github.com/c29r3/mina-payout) (1 month ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua (1 day ago)
-- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards (1 day ago)
-- [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React &amp; node.js (1 day ago)
-- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . (1 day ago)
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 days ago)
-- [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) - A multi-platform (Flutter) application for reading your emails, with your favorite devices, using the JMAP protocol! (3 days ago)
-- [yorickpeterse/kvi](https://github.com/yorickpeterse/kvi) - A key-value database written in Inko (3 days ago)
-- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (3 days ago)
-- [EzpieCo/GetHooky](https://github.com/EzpieCo/GetHooky) - git hooks managing with stupidity as priority (3 days ago)
-- [marph91/jimmy](https://github.com/marph91/jimmy) - Convert your notes to Markdown (3 days ago)
+- [hcoles/pitest](https://github.com/hcoles/pitest) - State of the art mutation testing system for the JVM (1 day ago)
+- [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based community tool (1 day ago)
+- [DanteCoder/JoplinBibleQuote](https://github.com/DanteCoder/JoplinBibleQuote) - A Joplin plugin to display bible verses through citation (1 day ago)
+- [openbibleinfo/Bible-Passage-Reference-Parser](https://github.com/openbibleinfo/Bible-Passage-Reference-Parser) - Typescript to identify and understand Bible references like &#34;John 3:16.&#34; (1 day ago)
+- [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin (1 day ago)
+- [Meisenburger13/joplin-frontmatter-overview](https://github.com/Meisenburger13/joplin-frontmatter-overview) - Joplin plugin to create dynamic tables based on frontmatter in your notes. (1 day ago)
+- [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language (1 day ago)
+- [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles (1 day ago)
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens. (1 day ago)
+- [dhth/mrj](https://github.com/dhth/mrj) - merge your dependency upgrade PRs (1 day ago)
 
 #### 📫 How to reach me
 
