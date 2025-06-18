@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [hcoles/pitest](https://github.com/hcoles/pitest) - State of the art mutation testing system for the JVM (1 day ago)
-- [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based community tool (1 day ago)
-- [DanteCoder/JoplinBibleQuote](https://github.com/DanteCoder/JoplinBibleQuote) - A Joplin plugin to display bible verses through citation (1 day ago)
-- [openbibleinfo/Bible-Passage-Reference-Parser](https://github.com/openbibleinfo/Bible-Passage-Reference-Parser) - Typescript to identify and understand Bible references like &#34;John 3:16.&#34; (1 day ago)
-- [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin (1 day ago)
-- [Meisenburger13/joplin-frontmatter-overview](https://github.com/Meisenburger13/joplin-frontmatter-overview) - Joplin plugin to create dynamic tables based on frontmatter in your notes. (1 day ago)
-- [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language (1 day ago)
-- [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles (1 day ago)
-- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens. (1 day ago)
-- [dhth/mrj](https://github.com/dhth/mrj) - merge your dependency upgrade PRs (1 day ago)
+- [lnm95/redditPlusPlus](https://github.com/lnm95/redditPlusPlus) - Userscript for reddit.com (1 day ago)
+- [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers. (1 day ago)
+- [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access (1 day ago)
+- [hcoles/pitest](https://github.com/hcoles/pitest) - State of the art mutation testing system for the JVM (2 days ago)
+- [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based community tool (2 days ago)
+- [DanteCoder/JoplinBibleQuote](https://github.com/DanteCoder/JoplinBibleQuote) - A Joplin plugin to display bible verses through citation (2 days ago)
+- [openbibleinfo/Bible-Passage-Reference-Parser](https://github.com/openbibleinfo/Bible-Passage-Reference-Parser) - Typescript to identify and understand Bible references like &#34;John 3:16.&#34; (2 days ago)
+- [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin (2 days ago)
+- [Meisenburger13/joplin-frontmatter-overview](https://github.com/Meisenburger13/joplin-frontmatter-overview) - Joplin plugin to create dynamic tables based on frontmatter in your notes. (2 days ago)
+- [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language (2 days ago)
 
 #### 📫 How to reach me
 
