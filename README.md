@@ -15,7 +15,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 👷 Check out what I'm currently working on
 
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (2 weeks ago)
-- [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (2 weeks ago)
+- [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (3 weeks ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (1 month ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (1 month ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (2 months ago)
@@ -33,7 +33,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 🔨 My recent Pull Requests
 
 - [Add Apache 2.0 license](https://github.com/bbc/not_in_kansas/pull/4) on [bbc/not_in_kansas](https://github.com/bbc/not_in_kansas) (2 weeks ago)
-- [Add GNU GPLv3 license](https://github.com/meeuw/rzn/pull/1) on [meeuw/rzn](https://github.com/meeuw/rzn) (2 weeks ago)
+- [Add GNU GPLv3 license](https://github.com/meeuw/rzn/pull/1) on [meeuw/rzn](https://github.com/meeuw/rzn) (3 weeks ago)
 - [Add MIT license](https://github.com/fourlexboehm/faasta/pull/4) on [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) (1 month ago)
 - [Add MIT license](https://github.com/c29r3/mina-payout/pull/1) on [c29r3/mina-payout](https://github.com/c29r3/mina-payout) (1 month ago)
 - [feat(ops): convert `just` to `rake`](https://github.com/Granola-Team/mina-indexer/pull/1823) on [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) (2 months ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [lnm95/redditPlusPlus](https://github.com/lnm95/redditPlusPlus) - Userscript for reddit.com (1 day ago)
-- [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers. (1 day ago)
-- [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access (1 day ago)
-- [hcoles/pitest](https://github.com/hcoles/pitest) - State of the art mutation testing system for the JVM (2 days ago)
-- [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based community tool (2 days ago)
-- [DanteCoder/JoplinBibleQuote](https://github.com/DanteCoder/JoplinBibleQuote) - A Joplin plugin to display bible verses through citation (2 days ago)
-- [openbibleinfo/Bible-Passage-Reference-Parser](https://github.com/openbibleinfo/Bible-Passage-Reference-Parser) - Typescript to identify and understand Bible references like &#34;John 3:16.&#34; (2 days ago)
-- [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin (2 days ago)
-- [Meisenburger13/joplin-frontmatter-overview](https://github.com/Meisenburger13/joplin-frontmatter-overview) - Joplin plugin to create dynamic tables based on frontmatter in your notes. (2 days ago)
-- [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language (2 days ago)
+- [lnm95/redditPlusPlus](https://github.com/lnm95/redditPlusPlus) - Userscript for reddit.com (2 days ago)
+- [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers. (2 days ago)
+- [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access (2 days ago)
+- [hcoles/pitest](https://github.com/hcoles/pitest) - State of the art mutation testing system for the JVM (3 days ago)
+- [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based community tool (3 days ago)
+- [DanteCoder/JoplinBibleQuote](https://github.com/DanteCoder/JoplinBibleQuote) - A Joplin plugin to display bible verses through citation (3 days ago)
+- [openbibleinfo/Bible-Passage-Reference-Parser](https://github.com/openbibleinfo/Bible-Passage-Reference-Parser) - Typescript to identify and understand Bible references like &#34;John 3:16.&#34; (3 days ago)
+- [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin (3 days ago)
+- [Meisenburger13/joplin-frontmatter-overview](https://github.com/Meisenburger13/joplin-frontmatter-overview) - Joplin plugin to create dynamic tables based on frontmatter in your notes. (3 days ago)
+- [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language (3 days ago)
 
 #### 📫 How to reach me
 
