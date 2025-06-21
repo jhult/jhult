@@ -32,6 +32,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [All: Resolves #12196: use date/time formats from settings](https://github.com/laurent22/joplin/pull/12567) on [laurent22/joplin](https://github.com/laurent22/joplin) (1 day ago)
 - [Add Apache 2.0 license](https://github.com/bbc/not_in_kansas/pull/4) on [bbc/not_in_kansas](https://github.com/bbc/not_in_kansas) (2 weeks ago)
 - [Add GNU GPLv3 license](https://github.com/meeuw/rzn/pull/1) on [meeuw/rzn](https://github.com/meeuw/rzn) (3 weeks ago)
 - [Add MIT license](https://github.com/fourlexboehm/faasta/pull/4) on [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) (1 month ago)
@@ -41,20 +42,19 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [chore: formatting only (using alejandra)](https://github.com/Granola-Team/infra/pull/28) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (4 months ago)
 - [Remove unused vars](https://github.com/Granola-Team/infra/pull/27) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (4 months ago)
 - [Floxify](https://github.com/Granola-Team/infra/pull/26) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (4 months ago)
-- [Update `granola-prod` with LFS and Nathan access](https://github.com/Granola-Team/infra/pull/25) on [Granola-Team/infra](https://github.com/Granola-Team/infra) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (1 day ago)
-- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (1 day ago)
-- [lnm95/redditPlusPlus](https://github.com/lnm95/redditPlusPlus) - Userscript for reddit.com (3 days ago)
-- [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers. (3 days ago)
-- [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access (3 days ago)
-- [hcoles/pitest](https://github.com/hcoles/pitest) - State of the art mutation testing system for the JVM (4 days ago)
-- [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based community tool (4 days ago)
-- [DanteCoder/JoplinBibleQuote](https://github.com/DanteCoder/JoplinBibleQuote) - A Joplin plugin to display bible verses through citation (4 days ago)
-- [openbibleinfo/Bible-Passage-Reference-Parser](https://github.com/openbibleinfo/Bible-Passage-Reference-Parser) - Typescript to identify and understand Bible references like &#34;John 3:16.&#34; (4 days ago)
-- [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin (4 days ago)
+- [derekg/ts-ssh](https://github.com/derekg/ts-ssh) - Go-based SSH and SCP client with userspace Tailscale connectivity. Secure shell access and file transfers over Tailnet without requiring a full Tailscale daemon. (1 day ago)
+- [mikker/wezterm-icon](https://github.com/mikker/wezterm-icon) - An alternative MacOS application icon for WezTerm (1 day ago)
+- [skateco/skate](https://github.com/skateco/skate) - Low resource, no daemon, kubernetes manifest compatible mini-paas. (1 day ago)
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (2 days ago)
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (2 days ago)
+- [lnm95/redditPlusPlus](https://github.com/lnm95/redditPlusPlus) - Userscript for reddit.com (4 days ago)
+- [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers. (4 days ago)
+- [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access (4 days ago)
+- [hcoles/pitest](https://github.com/hcoles/pitest) - State of the art mutation testing system for the JVM (5 days ago)
+- [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based community tool (5 days ago)
 
 #### 📫 How to reach me
 
