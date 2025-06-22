@@ -22,7 +22,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain (2 months ago)
 - [geldata/gel-java](https://github.com/geldata/gel-java) - The official Java client library for EdgeDB (4 months ago)
 - [jhult/awesome-stars](https://github.com/jhult/awesome-stars) -  (5 months ago)
-- [jrwashburn/mina-addresses](https://github.com/jrwashburn/mina-addresses) - Contains mina and o1 registered/managed addresses - intended as a submodule (7 months ago)
+- [jrwashburn/mina-addresses](https://github.com/jrwashburn/mina-addresses) - Contains mina and o1 registered/managed addresses - intended as a submodule (8 months ago)
 - [jhult/docs](https://github.com/jhult/docs) -  (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -32,7 +32,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [All: Resolves #12196: use date/time formats from settings](https://github.com/laurent22/joplin/pull/12567) on [laurent22/joplin](https://github.com/laurent22/joplin) (1 day ago)
+- [All: Resolves #12196: use date/time formats from settings](https://github.com/laurent22/joplin/pull/12567) on [laurent22/joplin](https://github.com/laurent22/joplin) (2 days ago)
 - [Add Apache 2.0 license](https://github.com/bbc/not_in_kansas/pull/4) on [bbc/not_in_kansas](https://github.com/bbc/not_in_kansas) (2 weeks ago)
 - [Add GNU GPLv3 license](https://github.com/meeuw/rzn/pull/1) on [meeuw/rzn](https://github.com/meeuw/rzn) (3 weeks ago)
 - [Add MIT license](https://github.com/fourlexboehm/faasta/pull/4) on [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) (1 month ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [derekg/ts-ssh](https://github.com/derekg/ts-ssh) - Go-based SSH and SCP client with userspace Tailscale connectivity. Secure shell access and file transfers over Tailnet without requiring a full Tailscale daemon. (1 day ago)
-- [mikker/wezterm-icon](https://github.com/mikker/wezterm-icon) - An alternative MacOS application icon for WezTerm (1 day ago)
-- [skateco/skate](https://github.com/skateco/skate) - Low resource, no daemon, kubernetes manifest compatible mini-paas. (1 day ago)
-- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (2 days ago)
-- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (2 days ago)
-- [lnm95/redditPlusPlus](https://github.com/lnm95/redditPlusPlus) - Userscript for reddit.com (4 days ago)
-- [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers. (4 days ago)
-- [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access (4 days ago)
-- [hcoles/pitest](https://github.com/hcoles/pitest) - State of the art mutation testing system for the JVM (5 days ago)
-- [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based community tool (5 days ago)
+- [derekg/ts-ssh](https://github.com/derekg/ts-ssh) - Go-based SSH and SCP client with userspace Tailscale connectivity. Secure shell access and file transfers over Tailnet without requiring a full Tailscale daemon. (2 days ago)
+- [mikker/wezterm-icon](https://github.com/mikker/wezterm-icon) - An alternative MacOS application icon for WezTerm (2 days ago)
+- [skateco/skate](https://github.com/skateco/skate) - Low resource, no daemon, kubernetes manifest compatible mini-paas. (2 days ago)
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (3 days ago)
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (3 days ago)
+- [lnm95/redditPlusPlus](https://github.com/lnm95/redditPlusPlus) - Userscript for reddit.com (5 days ago)
+- [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers. (5 days ago)
+- [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access (5 days ago)
+- [hcoles/pitest](https://github.com/hcoles/pitest) - State of the art mutation testing system for the JVM (6 days ago)
+- [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based community tool (6 days ago)
 
 #### 📫 How to reach me
 
