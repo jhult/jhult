@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (3 weeks ago)
+- [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (4 weeks ago)
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (1 month ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (1 month ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (1 month ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [imsardine/joplin-plugin-sourceurl-opender](https://github.com/imsardine/joplin-plugin-sourceurl-opender) - Open source URL of the current note with a shortcut (1 day ago)
-- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (1 day ago)
-- [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time. (2 days ago)
-- [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS (2 days ago)
-- [nathan-tranquilla/next-gen-web-dev-manifesto](https://github.com/nathan-tranquilla/next-gen-web-dev-manifesto) - A manifesto for Next-Gen Web Dev (3 days ago)
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works (3 days ago)
-- [connet-dev/connet](https://github.com/connet-dev/connet) - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (3 days ago)
-- [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare&#39;s anti-bot page. (4 days ago)
-- [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is  (4 days ago)
-- [skx/github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for &#39;myrepos&#39; to work with. (5 days ago)
+- [imsardine/joplin-plugin-sourceurl-opender](https://github.com/imsardine/joplin-plugin-sourceurl-opender) - Open source URL of the current note with a shortcut (2 days ago)
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (2 days ago)
+- [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time. (3 days ago)
+- [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS (3 days ago)
+- [nathan-tranquilla/next-gen-web-dev-manifesto](https://github.com/nathan-tranquilla/next-gen-web-dev-manifesto) - A manifesto for Next-Gen Web Dev (4 days ago)
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works (4 days ago)
+- [connet-dev/connet](https://github.com/connet-dev/connet) - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (4 days ago)
+- [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare&#39;s anti-bot page. (5 days ago)
+- [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is  (5 days ago)
+- [skx/github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for &#39;myrepos&#39; to work with. (6 days ago)
 
 #### 📫 How to reach me
 
