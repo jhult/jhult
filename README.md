@@ -33,7 +33,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 🔨 My recent Pull Requests
 
 - [All: Resolves #12196: use date/time formats from settings](https://github.com/laurent22/joplin/pull/12567) on [laurent22/joplin](https://github.com/laurent22/joplin) (1 week ago)
-- [Add Apache 2.0 license](https://github.com/bbc/not_in_kansas/pull/4) on [bbc/not_in_kansas](https://github.com/bbc/not_in_kansas) (3 weeks ago)
+- [Add Apache 2.0 license](https://github.com/bbc/not_in_kansas/pull/4) on [bbc/not_in_kansas](https://github.com/bbc/not_in_kansas) (4 weeks ago)
 - [Add GNU GPLv3 license](https://github.com/meeuw/rzn/pull/1) on [meeuw/rzn](https://github.com/meeuw/rzn) (1 month ago)
 - [Add MIT license](https://github.com/fourlexboehm/faasta/pull/4) on [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) (1 month ago)
 - [Add MIT license](https://github.com/c29r3/mina-payout/pull/1) on [c29r3/mina-payout](https://github.com/c29r3/mina-payout) (2 months ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [imsardine/joplin-plugin-sourceurl-opender](https://github.com/imsardine/joplin-plugin-sourceurl-opender) - Open source URL of the current note with a shortcut (2 days ago)
-- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (2 days ago)
-- [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time. (3 days ago)
-- [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS (3 days ago)
-- [nathan-tranquilla/next-gen-web-dev-manifesto](https://github.com/nathan-tranquilla/next-gen-web-dev-manifesto) - A manifesto for Next-Gen Web Dev (4 days ago)
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works (4 days ago)
-- [connet-dev/connet](https://github.com/connet-dev/connet) - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (4 days ago)
-- [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare&#39;s anti-bot page. (5 days ago)
-- [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is  (5 days ago)
-- [skx/github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for &#39;myrepos&#39; to work with. (6 days ago)
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! (1 day ago)
+- [imsardine/joplin-plugin-sourceurl-opender](https://github.com/imsardine/joplin-plugin-sourceurl-opender) - Open source URL of the current note with a shortcut (3 days ago)
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (3 days ago)
+- [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time. (4 days ago)
+- [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS (4 days ago)
+- [nathan-tranquilla/next-gen-web-dev-manifesto](https://github.com/nathan-tranquilla/next-gen-web-dev-manifesto) - A manifesto for Next-Gen Web Dev (5 days ago)
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works (5 days ago)
+- [connet-dev/connet](https://github.com/connet-dev/connet) - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (5 days ago)
+- [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare&#39;s anti-bot page. (6 days ago)
+- [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is  (6 days ago)
 
 #### 📫 How to reach me
 
