@@ -33,7 +33,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 #### 🔨 My recent Pull Requests
 
 - [All: Resolves #12196: use date/time formats from settings](https://github.com/laurent22/joplin/pull/12567) on [laurent22/joplin](https://github.com/laurent22/joplin) (1 week ago)
-- [Add Apache 2.0 license](https://github.com/bbc/not_in_kansas/pull/4) on [bbc/not_in_kansas](https://github.com/bbc/not_in_kansas) (4 weeks ago)
+- [Add Apache 2.0 license](https://github.com/bbc/not_in_kansas/pull/4) on [bbc/not_in_kansas](https://github.com/bbc/not_in_kansas) (1 month ago)
 - [Add GNU GPLv3 license](https://github.com/meeuw/rzn/pull/1) on [meeuw/rzn](https://github.com/meeuw/rzn) (1 month ago)
 - [Add MIT license](https://github.com/fourlexboehm/faasta/pull/4) on [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) (1 month ago)
 - [Add MIT license](https://github.com/c29r3/mina-payout/pull/1) on [c29r3/mina-payout](https://github.com/c29r3/mina-payout) (2 months ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [snyk-labs/deactivate-delete-archieved-gh-repos](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos) -  (1 day ago)
-- [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask (1 day ago)
-- [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ (1 day ago)
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! (2 days ago)
-- [imsardine/joplin-plugin-sourceurl-opender](https://github.com/imsardine/joplin-plugin-sourceurl-opender) - Open source URL of the current note with a shortcut (4 days ago)
-- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (4 days ago)
-- [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time. (5 days ago)
-- [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS (5 days ago)
-- [nathan-tranquilla/next-gen-web-dev-manifesto](https://github.com/nathan-tranquilla/next-gen-web-dev-manifesto) - A manifesto for Next-Gen Web Dev (6 days ago)
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works (6 days ago)
+- [snyk-labs/deactivate-delete-archieved-gh-repos](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos) -  (2 days ago)
+- [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask (2 days ago)
+- [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ (2 days ago)
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! (3 days ago)
+- [imsardine/joplin-plugin-sourceurl-opender](https://github.com/imsardine/joplin-plugin-sourceurl-opender) - Open source URL of the current note with a shortcut (5 days ago)
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (5 days ago)
+- [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time. (6 days ago)
+- [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS (6 days ago)
+- [nathan-tranquilla/next-gen-web-dev-manifesto](https://github.com/nathan-tranquilla/next-gen-web-dev-manifesto) - A manifesto for Next-Gen Web Dev (1 week ago)
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works (1 week ago)
 
 #### 📫 How to reach me
 
