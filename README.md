@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (6 days ago)
-- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (6 days ago)
+- [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (1 week ago)
+- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (1 week ago)
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (1 month ago)
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (1 month ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (2 months ago)
@@ -27,17 +27,17 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) ([v2.0.19](https://github.com/terryso/claude-auto-resume/releases/tag/v2.0.19), 1 day ago) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
+- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) ([v2.0.19](https://github.com/terryso/claude-auto-resume/releases/tag/v2.0.19), 2 days ago) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) ([v0.6.1](https://github.com/tacogips/async-graphql-reverse/releases/tag/v0.6.1), 1 year ago) - 
 - [geldata/gel-java](https://github.com/geldata/gel-java) ([0.3.0](https://github.com/geldata/gel-java/releases/tag/0.3.0), 1 year ago) - The official Java client library for EdgeDB
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/samyakjain0606/awesome-learning-material/pull/1) on [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) (1 day ago)
-- [Add MIT license](https://github.com/Veraticus/nix-config/pull/5) on [Veraticus/nix-config](https://github.com/Veraticus/nix-config) (5 days ago)
-- [Add MIT license](https://github.com/Veraticus/claude-code-ntfy/pull/2) on [Veraticus/claude-code-ntfy](https://github.com/Veraticus/claude-code-ntfy) (5 days ago)
-- [Add MIT license](https://github.com/Veraticus/mentat/pull/3) on [Veraticus/mentat](https://github.com/Veraticus/mentat) (5 days ago)
-- [Add MIT license](https://github.com/terryso/claude-auto-resume/pull/10) on [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) (6 days ago)
+- [Add MIT license](https://github.com/samyakjain0606/awesome-learning-material/pull/1) on [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) (2 days ago)
+- [Add MIT license](https://github.com/Veraticus/nix-config/pull/5) on [Veraticus/nix-config](https://github.com/Veraticus/nix-config) (6 days ago)
+- [Add MIT license](https://github.com/Veraticus/claude-code-ntfy/pull/2) on [Veraticus/claude-code-ntfy](https://github.com/Veraticus/claude-code-ntfy) (6 days ago)
+- [Add MIT license](https://github.com/Veraticus/mentat/pull/3) on [Veraticus/mentat](https://github.com/Veraticus/mentat) (6 days ago)
+- [Add MIT license](https://github.com/terryso/claude-auto-resume/pull/10) on [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) (1 week ago)
 - [All: Resolves #12196: use date/time formats from settings](https://github.com/laurent22/joplin/pull/12567) on [laurent22/joplin](https://github.com/laurent22/joplin) (3 weeks ago)
 - [Add Apache 2.0 license](https://github.com/bbc/not_in_kansas/pull/4) on [bbc/not_in_kansas](https://github.com/bbc/not_in_kansas) (1 month ago)
 - [Add GNU GPLv3 license](https://github.com/meeuw/rzn/pull/1) on [meeuw/rzn](https://github.com/meeuw/rzn) (1 month ago)
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [nicolodiamante/prune](https://github.com/nicolodiamante/prune) - Effortlessly declutter the macOS Launchpad, ensuring swift access to your most-used apps, paving the way to a tidier, more organised Mac. (today)
-- [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library (1 day ago)
-- [mach-kernel/launchk](https://github.com/mach-kernel/launchk) - Rust/Cursive TUI for looking at launchd agents and daemons (1 day ago)
-- [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd) - MacOS launchd/launchctl GUI (1 day ago)
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (1 day ago)
-- [bnnanet/serviceman](https://github.com/bnnanet/serviceman) - Create system service templates for systemd, openrc and launchctrl, written for POSIX sh. (1 day ago)
-- [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev (1 day ago)
-- [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor (2 days ago)
-- [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking (2 days ago)
-- [rizethereum/claude-code-requirements-builder](https://github.com/rizethereum/claude-code-requirements-builder) -  (2 days ago)
+- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol (1 day ago)
+- [nicolodiamante/prune](https://github.com/nicolodiamante/prune) - Effortlessly declutter the macOS Launchpad, ensuring swift access to your most-used apps, paving the way to a tidier, more organised Mac. (1 day ago)
+- [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library (2 days ago)
+- [mach-kernel/launchk](https://github.com/mach-kernel/launchk) - Rust/Cursive TUI for looking at launchd agents and daemons (2 days ago)
+- [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd) - MacOS launchd/launchctl GUI (2 days ago)
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (2 days ago)
+- [bnnanet/serviceman](https://github.com/bnnanet/serviceman) - Create system service templates for systemd, openrc and launchctrl, written for POSIX sh. (2 days ago)
+- [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev (2 days ago)
+- [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor (3 days ago)
+- [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking (3 days ago)
 
 #### 📫 How to reach me
 
