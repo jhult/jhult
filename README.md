@@ -14,7 +14,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) - 🧪 Curated collection of AI development resources, automation tools, and modern development practices. Features GitHub repositories, articles, and community resources for developers and AI enthusiasts. (4 days ago)
+- [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) - 🧪 Curated collection of AI development resources, automation tools, and modern development practices. Features GitHub repositories, articles, and community resources for developers and AI enthusiasts. (5 days ago)
 - [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (1 week ago)
 - [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (1 week ago)
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (1 month ago)
@@ -27,14 +27,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) ([v2.0.19](https://github.com/terryso/claude-auto-resume/releases/tag/v2.0.19), 4 days ago) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
+- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) ([v2.0.19](https://github.com/terryso/claude-auto-resume/releases/tag/v2.0.19), 5 days ago) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) ([v0.6.1](https://github.com/tacogips/async-graphql-reverse/releases/tag/v0.6.1), 1 year ago) - 
 - [geldata/gel-java](https://github.com/geldata/gel-java) ([0.3.0](https://github.com/geldata/gel-java/releases/tag/0.3.0), 1 year ago) - The official Java client library for EdgeDB
 
 #### 🔨 My recent Pull Requests
 
-- [Add Apache 2.0 license](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos/pull/1) on [snyk-labs/deactivate-delete-archieved-gh-repos](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos) (2 days ago)
-- [Add MIT license](https://github.com/samyakjain0606/awesome-learning-material/pull/1) on [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) (4 days ago)
+- [Add Apache 2.0 license](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos/pull/1) on [snyk-labs/deactivate-delete-archieved-gh-repos](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos) (3 days ago)
+- [Add MIT license](https://github.com/samyakjain0606/awesome-learning-material/pull/1) on [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) (5 days ago)
 - [Add MIT license](https://github.com/Veraticus/nix-config/pull/5) on [Veraticus/nix-config](https://github.com/Veraticus/nix-config) (1 week ago)
 - [Add MIT license](https://github.com/Veraticus/claude-code-ntfy/pull/2) on [Veraticus/claude-code-ntfy](https://github.com/Veraticus/claude-code-ntfy) (1 week ago)
 - [Add MIT license](https://github.com/Veraticus/mentat/pull/3) on [Veraticus/mentat](https://github.com/Veraticus/mentat) (1 week ago)
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (1 day ago)
-- [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) -  (2 days ago)
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol (3 days ago)
-- [nicolodiamante/prune](https://github.com/nicolodiamante/prune) - Effortlessly declutter the macOS Launchpad, ensuring swift access to your most-used apps, paving the way to a tidier, more organised Mac. (3 days ago)
-- [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library (4 days ago)
-- [mach-kernel/launchk](https://github.com/mach-kernel/launchk) - Rust/Cursive TUI for looking at launchd agents and daemons (4 days ago)
-- [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd) - MacOS launchd/launchctl GUI (4 days ago)
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (4 days ago)
-- [bnnanet/serviceman](https://github.com/bnnanet/serviceman) - Create system service templates for systemd, openrc and launchctrl, written for POSIX sh. (4 days ago)
-- [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev (4 days ago)
+- [axivo/claude](https://github.com/axivo/claude) - Scalable collaboration platform with specialized profiles, persistent memory, and systematic methodologies. (1 day ago)
+- [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (1 day ago)
+- [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) - Automated Kiro-style Spec workflow for Claude Code. Transform feature ideas into complete implementations through Requirements → Design → Tasks → Implementation. (1 day ago)
+- [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (2 days ago)
+- [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) -  (3 days ago)
+- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol (4 days ago)
+- [nicolodiamante/prune](https://github.com/nicolodiamante/prune) - Effortlessly declutter the macOS Launchpad, ensuring swift access to your most-used apps, paving the way to a tidier, more organised Mac. (4 days ago)
+- [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library (5 days ago)
+- [mach-kernel/launchk](https://github.com/mach-kernel/launchk) - Rust/Cursive TUI for looking at launchd agents and daemons (5 days ago)
+- [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd) - MacOS launchd/launchctl GUI (5 days ago)
 
 #### 📫 How to reach me
 
