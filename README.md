@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) -  (4 days ago)
-- [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (4 days ago)
+- [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) -  (5 days ago)
+- [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (5 days ago)
 - [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) - 🧪 Curated collection of AI development resources, automation tools, and modern development practices. Features GitHub repositories, articles, and community resources for developers and AI enthusiasts. (1 week ago)
 - [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (2 weeks ago)
 - [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (2 weeks ago)
@@ -33,10 +33,10 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (2 days ago)
-- [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (4 days ago)
-- [Add MIT license](https://github.com/penwyp/ClaudePreference/pull/2) on [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) (4 days ago)
-- [Add MIT license](https://github.com/centminmod/my-claude-code-setup/pull/1) on [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) (4 days ago)
+- [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (3 days ago)
+- [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (5 days ago)
+- [Add MIT license](https://github.com/penwyp/ClaudePreference/pull/2) on [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) (5 days ago)
+- [Add MIT license](https://github.com/centminmod/my-claude-code-setup/pull/1) on [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) (5 days ago)
 - [Add Apache 2.0 license](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos/pull/1) on [snyk-labs/deactivate-delete-archieved-gh-repos](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos) (1 week ago)
 - [Add MIT license](https://github.com/samyakjain0606/awesome-learning-material/pull/1) on [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) (1 week ago)
 - [Add MIT license](https://github.com/Veraticus/nix-config/pull/5) on [Veraticus/nix-config](https://github.com/Veraticus/nix-config) (2 weeks ago)
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.) (1 day ago)
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (2 days ago)
-- [marcologous/hanken-grotesk](https://github.com/marcologous/hanken-grotesk) - This is a repository of Open Source files of the Hanken Grotesk typeface. (2 days ago)
-- [googlefonts/atkinson-hyperlegible-next-mono](https://github.com/googlefonts/atkinson-hyperlegible-next-mono) - New (2024) monospace sibling family to Atkinson Hyperlegible Next (2 days ago)
-- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository (2 days ago)
-- [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (2 days ago)
-- [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal &amp; command your agents on the go. (2 days ago)
-- [hmldns/nautex](https://github.com/hmldns/nautex) - MCP server for guiding Coding Agents via end-to-end requirements to implementation plan pipeline (2 days ago)
-- [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents (2 days ago)
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (3 days ago)
+- [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite&#39;s HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. (1 day ago)
+- [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font (1 day ago)
+- [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.) (2 days ago)
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (3 days ago)
+- [marcologous/hanken-grotesk](https://github.com/marcologous/hanken-grotesk) - This is a repository of Open Source files of the Hanken Grotesk typeface. (3 days ago)
+- [googlefonts/atkinson-hyperlegible-next-mono](https://github.com/googlefonts/atkinson-hyperlegible-next-mono) - New (2024) monospace sibling family to Atkinson Hyperlegible Next (3 days ago)
+- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository (3 days ago)
+- [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (3 days ago)
+- [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal &amp; command your agents on the go. (3 days ago)
+- [hmldns/nautex](https://github.com/hmldns/nautex) - MCP server for guiding Coding Agents via end-to-end requirements to implementation plan pipeline (3 days ago)
 
 #### 📫 How to reach me
 
