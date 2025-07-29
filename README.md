@@ -14,16 +14,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) -  (1 week ago)
+- [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) - Shared starter template configuration and CLAUDE.md memory bank system for Claude Code (1 week ago)
 - [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (1 week ago)
 - [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) - 🧪 Curated collection of AI development resources, automation tools, and modern development practices. Features GitHub repositories, articles, and community resources for developers and AI enthusiasts. (2 weeks ago)
-- [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (2 weeks ago)
 - [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (2 weeks ago)
+- [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (2 weeks ago)
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (1 month ago)
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (2 months ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (2 months ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (2 months ago)
-- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (3 months ago)
+- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -33,7 +33,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (6 days ago)
+- [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (1 week ago)
 - [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (1 week ago)
 - [Add MIT license](https://github.com/penwyp/ClaudePreference/pull/2) on [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) (1 week ago)
 - [Add MIT license](https://github.com/centminmod/my-claude-code-setup/pull/1) on [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) (1 week ago)
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features. (1 day ago)
-- [tekacs/llm-pricing](https://github.com/tekacs/llm-pricing) -  (1 day ago)
-- [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite&#39;s HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. (4 days ago)
-- [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font (4 days ago)
-- [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.) (5 days ago)
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (6 days ago)
-- [marcologous/hanken-grotesk](https://github.com/marcologous/hanken-grotesk) - This is a repository of Open Source files of the Hanken Grotesk typeface. (6 days ago)
-- [googlefonts/atkinson-hyperlegible-next-mono](https://github.com/googlefonts/atkinson-hyperlegible-next-mono) - New (2024) monospace sibling family to Atkinson Hyperlegible Next (6 days ago)
-- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository (6 days ago)
-- [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (6 days ago)
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (1 day ago)
+- [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex. (1 day ago)
+- [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features. (2 days ago)
+- [tekacs/llm-pricing](https://github.com/tekacs/llm-pricing) -  (2 days ago)
+- [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite&#39;s HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. (5 days ago)
+- [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font (5 days ago)
+- [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.) (6 days ago)
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (1 week ago)
+- [marcologous/hanken-grotesk](https://github.com/marcologous/hanken-grotesk) - This is a repository of Open Source files of the Hanken Grotesk typeface. (1 week ago)
+- [googlefonts/atkinson-hyperlegible-next-mono](https://github.com/googlefonts/atkinson-hyperlegible-next-mono) - New (2024) monospace sibling family to Atkinson Hyperlegible Next (1 week ago)
 
 #### 📫 How to reach me
 
