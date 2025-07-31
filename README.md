@@ -39,23 +39,23 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Add MIT license](https://github.com/centminmod/my-claude-code-setup/pull/1) on [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) (1 week ago)
 - [Add Apache 2.0 license](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos/pull/1) on [snyk-labs/deactivate-delete-archieved-gh-repos](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos) (2 weeks ago)
 - [Add MIT license](https://github.com/samyakjain0606/awesome-learning-material/pull/1) on [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) (2 weeks ago)
-- [Add MIT license](https://github.com/Veraticus/nix-config/pull/5) on [Veraticus/nix-config](https://github.com/Veraticus/nix-config) (2 weeks ago)
-- [Add MIT license](https://github.com/Veraticus/claude-code-ntfy/pull/2) on [Veraticus/claude-code-ntfy](https://github.com/Veraticus/claude-code-ntfy) (2 weeks ago)
-- [Add MIT license](https://github.com/Veraticus/mentat/pull/3) on [Veraticus/mentat](https://github.com/Veraticus/mentat) (2 weeks ago)
+- [Add MIT license](https://github.com/Veraticus/nix-config/pull/5) on [Veraticus/nix-config](https://github.com/Veraticus/nix-config) (3 weeks ago)
+- [Add MIT license](https://github.com/Veraticus/claude-code-ntfy/pull/2) on [Veraticus/claude-code-ntfy](https://github.com/Veraticus/claude-code-ntfy) (3 weeks ago)
+- [Add MIT license](https://github.com/Veraticus/mentat/pull/3) on [Veraticus/mentat](https://github.com/Veraticus/mentat) (3 weeks ago)
 - [Add MIT license](https://github.com/terryso/claude-auto-resume/pull/10) on [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (2 days ago)
-- [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex. (2 days ago)
-- [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features. (3 days ago)
-- [tekacs/llm-pricing](https://github.com/tekacs/llm-pricing) -  (3 days ago)
-- [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite&#39;s HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. (6 days ago)
-- [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font (6 days ago)
+- [kiliczsh/claude-cmd](https://github.com/kiliczsh/claude-cmd) - Claude Code Commands Manager (1 day ago)
+- [mystor/git-revise](https://github.com/mystor/git-revise) - A handy tool for doing efficient in-memory commit rebases &amp; fixups (1 day ago)
+- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code &#43; [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one. (1 day ago)
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (3 days ago)
+- [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex. (3 days ago)
+- [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features. (4 days ago)
+- [tekacs/llm-pricing](https://github.com/tekacs/llm-pricing) -  (4 days ago)
+- [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite&#39;s HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. (1 week ago)
+- [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font (1 week ago)
 - [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.) (1 week ago)
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (1 week ago)
-- [marcologous/hanken-grotesk](https://github.com/marcologous/hanken-grotesk) - This is a repository of Open Source files of the Hanken Grotesk typeface. (1 week ago)
-- [googlefonts/atkinson-hyperlegible-next-mono](https://github.com/googlefonts/atkinson-hyperlegible-next-mono) - New (2024) monospace sibling family to Atkinson Hyperlegible Next (1 week ago)
 
 #### 📫 How to reach me
 
