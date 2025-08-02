@@ -46,13 +46,13 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [kiliczsh/claude-cmd](https://github.com/kiliczsh/claude-cmd) - Claude Code Commands Manager (2 days ago)
-- [mystor/git-revise](https://github.com/mystor/git-revise) - A handy tool for doing efficient in-memory commit rebases &amp; fixups (2 days ago)
-- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code &#43; [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one. (2 days ago)
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (4 days ago)
-- [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex. (4 days ago)
-- [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features. (5 days ago)
-- [tekacs/llm-pricing](https://github.com/tekacs/llm-pricing) -  (5 days ago)
+- [kiliczsh/claude-cmd](https://github.com/kiliczsh/claude-cmd) - Claude Code Commands Manager (3 days ago)
+- [mystor/git-revise](https://github.com/mystor/git-revise) - A handy tool for doing efficient in-memory commit rebases &amp; fixups (3 days ago)
+- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code &#43; [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one. (3 days ago)
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (5 days ago)
+- [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex. (5 days ago)
+- [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features. (6 days ago)
+- [tekacs/llm-pricing](https://github.com/tekacs/llm-pricing) -  (6 days ago)
 - [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite&#39;s HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. (1 week ago)
 - [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font (1 week ago)
 - [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.) (1 week ago)
