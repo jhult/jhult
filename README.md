@@ -37,7 +37,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (3 weeks ago)
 - [Add MIT license](https://github.com/penwyp/ClaudePreference/pull/2) on [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) (3 weeks ago)
 - [Add MIT license](https://github.com/centminmod/my-claude-code-setup/pull/1) on [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) (3 weeks ago)
-- [Add Apache 2.0 license](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos/pull/1) on [snyk-labs/deactivate-delete-archieved-gh-repos](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos) (4 weeks ago)
+- [Add Apache 2.0 license](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos/pull/1) on [snyk-labs/deactivate-delete-archieved-gh-repos](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos) (1 month ago)
 - [Add MIT license](https://github.com/samyakjain0606/awesome-learning-material/pull/1) on [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) (1 month ago)
 - [Add MIT license](https://github.com/Veraticus/nix-config/pull/5) on [Veraticus/nix-config](https://github.com/Veraticus/nix-config) (1 month ago)
 - [Add MIT license](https://github.com/Veraticus/claude-code-ntfy/pull/2) on [Veraticus/claude-code-ntfy](https://github.com/Veraticus/claude-code-ntfy) (1 month ago)
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal. (4 days ago)
-- [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard (4 days ago)
-- [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed. (4 days ago)
-- [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android (4 days ago)
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets. (4 days ago)
-- [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable and privacy-conscious open-source clock, based on AOSP Clock (4 days ago)
-- [cbeuw/Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries (4 days ago)
-- [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop&#43;Mobile) (4 days ago)
-- [binwiederhier/ntfy-android](https://github.com/binwiederhier/ntfy-android) - Android app for ntfy.sh (4 days ago)
-- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release (4 days ago)
+- [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) - Tool for manipulating and re-signing Android A/B OTAs (1 day ago)
+- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal. (5 days ago)
+- [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard (5 days ago)
+- [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed. (5 days ago)
+- [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android (5 days ago)
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets. (5 days ago)
+- [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable and privacy-conscious open-source clock, based on AOSP Clock (5 days ago)
+- [cbeuw/Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries (5 days ago)
+- [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop&#43;Mobile) (5 days ago)
+- [binwiederhier/ntfy-android](https://github.com/binwiederhier/ntfy-android) - Android app for ntfy.sh (5 days ago)
 
 #### 📫 How to reach me
 
