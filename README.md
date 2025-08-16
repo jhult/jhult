@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) - Tool for manipulating and re-signing Android A/B OTAs (1 day ago)
-- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal. (5 days ago)
-- [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard (5 days ago)
-- [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed. (5 days ago)
-- [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android (5 days ago)
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets. (5 days ago)
-- [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable and privacy-conscious open-source clock, based on AOSP Clock (5 days ago)
-- [cbeuw/Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries (5 days ago)
-- [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop&#43;Mobile) (5 days ago)
-- [binwiederhier/ntfy-android](https://github.com/binwiederhier/ntfy-android) - Android app for ntfy.sh (5 days ago)
+- [n-ce/ytify](https://github.com/n-ce/ytify) - Efficient YouTube Audio Streaming, Effortlessly, Anywhere. (1 day ago)
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV (1 day ago)
+- [lamarios/clipious](https://github.com/lamarios/clipious) - Invidious client for android (1 day ago)
+- [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) - Tool for manipulating and re-signing Android A/B OTAs (2 days ago)
+- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal. (6 days ago)
+- [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard (6 days ago)
+- [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed. (6 days ago)
+- [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android (6 days ago)
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets. (6 days ago)
+- [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable and privacy-conscious open-source clock, based on AOSP Clock (6 days ago)
 
 #### 📫 How to reach me
 
