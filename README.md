@@ -22,7 +22,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (3 months ago)
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (3 months ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (3 months ago)
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (3 months ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (4 months ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -33,7 +33,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (6 days ago)
+- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (1 week ago)
 - [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (1 month ago)
 - [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (1 month ago)
 - [Add MIT license](https://github.com/penwyp/ClaudePreference/pull/2) on [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) (1 month ago)
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern Authentication—On Your Terms. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch. (6 days ago)
-- [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn&#39;t include patches not relevant to the build targets used on GrapheneOS. (6 days ago)
+- [ChrisCarini/jetbrains-ide-release-dates](https://github.com/ChrisCarini/jetbrains-ide-release-dates) - Intended to track the release dates for various JetBrains IDEs in an effort to see historical release dates to help project potential future release dates (1 day ago)
+- [designinlife/jetbrains](https://github.com/designinlife/jetbrains) - Check out the command line tool for JetBrains software version update links. (1 day ago)
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern Authentication—On Your Terms. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch. (1 week ago)
+- [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn&#39;t include patches not relevant to the build targets used on GrapheneOS. (1 week ago)
 - [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let&#39;s upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots! (1 week ago)
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android (1 week ago)
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced (1 week ago)
 - [trevorbernard/termcopy](https://github.com/trevorbernard/termcopy) - A utility program that enables clipboard copying using OSC52 escape sequences (2 weeks ago)
 - [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Spring Boot, Jersey, and other apps inside AWS Lambda. (2 weeks ago)
 - [ndsev/zserio](https://github.com/ndsev/zserio) - zero sugar, zero fat, zero serialization overhead (2 weeks ago)
-- [n-ce/ytify](https://github.com/n-ce/ytify) - Efficient YouTube Audio Streaming, Effortlessly, Anywhere. (2 weeks ago)
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV (2 weeks ago)
 
 #### 📫 How to reach me
 
