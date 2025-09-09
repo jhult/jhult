@@ -46,14 +46,14 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [hamidnazari/homebrew-jetbrains-versions](https://github.com/hamidnazari/homebrew-jetbrains-versions) - Homebrew Tap for older versions of JetBrains products (2 days ago)
-- [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool (3 days ago)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (3 days ago)
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. (4 days ago)
-- [Zaloog/blueutil-tui](https://github.com/Zaloog/blueutil-tui) - tui for Mac to interact with bluetooth devices via blueutil (4 days ago)
-- [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, … (4 days ago)
-- [ChrisCarini/jetbrains-ide-release-dates](https://github.com/ChrisCarini/jetbrains-ide-release-dates) - Intended to track the release dates for various JetBrains IDEs in an effort to see historical release dates to help project potential future release dates (5 days ago)
-- [designinlife/jetbrains](https://github.com/designinlife/jetbrains) - Check out the command line tool for JetBrains software version update links. (5 days ago)
+- [hamidnazari/homebrew-jetbrains-versions](https://github.com/hamidnazari/homebrew-jetbrains-versions) - Homebrew Tap for older versions of JetBrains products (3 days ago)
+- [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool (4 days ago)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (4 days ago)
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. (5 days ago)
+- [Zaloog/blueutil-tui](https://github.com/Zaloog/blueutil-tui) - tui for Mac to interact with bluetooth devices via blueutil (5 days ago)
+- [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, … (5 days ago)
+- [ChrisCarini/jetbrains-ide-release-dates](https://github.com/ChrisCarini/jetbrains-ide-release-dates) - Intended to track the release dates for various JetBrains IDEs in an effort to see historical release dates to help project potential future release dates (6 days ago)
+- [designinlife/jetbrains](https://github.com/designinlife/jetbrains) - Check out the command line tool for JetBrains software version update links. (6 days ago)
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first authentication and user management for B2C and B2B. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch. (1 week ago)
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn&#39;t include patches not relevant to the build targets used on GrapheneOS. (1 week ago)
 
