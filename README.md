@@ -33,7 +33,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (1 week ago)
+- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (2 weeks ago)
 - [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (1 month ago)
 - [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (1 month ago)
 - [Add MIT license](https://github.com/penwyp/ClaudePreference/pull/2) on [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) (1 month ago)
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [reactor/reactor-netty](https://github.com/reactor/reactor-netty) - TCP/HTTP/UDP/QUIC client/server with Reactor over Netty (1 day ago)
-- [solven-eu/cleanthat](https://github.com/solven-eu/cleanthat) - Github App opening automatically cleaning PR (1 day ago)
-- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (1 day ago)
-- [hamidnazari/homebrew-jetbrains-versions](https://github.com/hamidnazari/homebrew-jetbrains-versions) - Homebrew Tap for older versions of JetBrains products (4 days ago)
-- [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool (5 days ago)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (5 days ago)
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. (6 days ago)
-- [Zaloog/blueutil-tui](https://github.com/Zaloog/blueutil-tui) - tui for Mac to interact with bluetooth devices via blueutil (6 days ago)
-- [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, … (6 days ago)
-- [ChrisCarini/jetbrains-ide-release-dates](https://github.com/ChrisCarini/jetbrains-ide-release-dates) - Intended to track the release dates for various JetBrains IDEs in an effort to see historical release dates to help project potential future release dates (1 week ago)
+- [dbohdan/recur](https://github.com/dbohdan/recur) - Retry a command with exponential backoff and jitter (&#43; Starlark expressions) (today)
+- [prantlf/v-jsonlint](https://github.com/prantlf/v-jsonlint) - JSON/JSONC/JSON5 validator and pretty-printer. (today)
+- [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (today)
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell (today)
+- [AdrianVollmer/Congruence](https://github.com/AdrianVollmer/Congruence) - A command line interface to Atlassian Confluence (today)
+- [reactor/reactor-netty](https://github.com/reactor/reactor-netty) - TCP/HTTP/UDP/QUIC client/server with Reactor over Netty (2 days ago)
+- [solven-eu/cleanthat](https://github.com/solven-eu/cleanthat) - Github App opening automatically cleaning PR (2 days ago)
+- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (2 days ago)
+- [hamidnazari/homebrew-jetbrains-versions](https://github.com/hamidnazari/homebrew-jetbrains-versions) - Homebrew Tap for older versions of JetBrains products (5 days ago)
+- [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool (6 days ago)
 
 #### 📫 How to reach me
 
