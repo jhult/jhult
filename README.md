@@ -21,7 +21,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (2 months ago)
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (3 months ago)
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (3 months ago)
-- [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (3 months ago)
+- [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (4 months ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (4 months ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (5 months ago)
 
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [losfair/bake](https://github.com/losfair/bake) - Bake microVMs into standalone executables (1 day ago)
-- [iannuttall/fartscroll-lid](https://github.com/iannuttall/fartscroll-lid) - A hilarious macOS app that plays fart sounds as you open and close your MacBook lid (1 day ago)
-- [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) - fossjobs.net based on jobberbase (1 day ago)
-- [apache/maven-javadoc-plugin](https://github.com/apache/maven-javadoc-plugin) - Apache Maven Javadoc Plugin (1 day ago)
-- [dbohdan/recur](https://github.com/dbohdan/recur) - Retry a command with exponential backoff and jitter (&#43; Starlark expressions) (1 day ago)
-- [prantlf/v-jsonlint](https://github.com/prantlf/v-jsonlint) - JSON/JSONC/JSON5 validator and pretty-printer. (1 day ago)
-- [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (1 day ago)
-- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell (1 day ago)
-- [AdrianVollmer/Congruence](https://github.com/AdrianVollmer/Congruence) - A command line interface to Atlassian Confluence (1 day ago)
-- [reactor/reactor-netty](https://github.com/reactor/reactor-netty) - TCP/HTTP/UDP/QUIC client/server with Reactor over Netty (3 days ago)
+- [losfair/bake](https://github.com/losfair/bake) - Bake microVMs into standalone executables (2 days ago)
+- [iannuttall/fartscroll-lid](https://github.com/iannuttall/fartscroll-lid) - A hilarious macOS app that plays fart sounds as you open and close your MacBook lid (2 days ago)
+- [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) - fossjobs.net based on jobberbase (2 days ago)
+- [apache/maven-javadoc-plugin](https://github.com/apache/maven-javadoc-plugin) - Apache Maven Javadoc Plugin (2 days ago)
+- [dbohdan/recur](https://github.com/dbohdan/recur) - Retry a command with exponential backoff and jitter (&#43; Starlark expressions) (2 days ago)
+- [prantlf/v-jsonlint](https://github.com/prantlf/v-jsonlint) - JSON/JSONC/JSON5 validator and pretty-printer. (2 days ago)
+- [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (2 days ago)
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell (2 days ago)
+- [AdrianVollmer/Congruence](https://github.com/AdrianVollmer/Congruence) - A command line interface to Atlassian Confluence (2 days ago)
+- [reactor/reactor-netty](https://github.com/reactor/reactor-netty) - TCP/HTTP/UDP/QUIC client/server with Reactor over Netty (4 days ago)
 
 #### 📫 How to reach me
 
