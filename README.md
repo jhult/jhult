@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [andrewbaxter/passworth](https://github.com/andrewbaxter/passworth) - Access-controlled, JSON-based password manager (1 day ago)
-- [losfair/bake](https://github.com/losfair/bake) - Bake microVMs into standalone executables (4 days ago)
-- [iannuttall/fartscroll-lid](https://github.com/iannuttall/fartscroll-lid) - A hilarious macOS app that plays fart sounds as you open and close your MacBook lid (4 days ago)
-- [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) - fossjobs.net based on jobberbase (4 days ago)
-- [apache/maven-javadoc-plugin](https://github.com/apache/maven-javadoc-plugin) - Apache Maven Javadoc Plugin (4 days ago)
-- [dbohdan/recur](https://github.com/dbohdan/recur) - Retry a command with exponential backoff and jitter (&#43; Starlark expressions) (4 days ago)
-- [prantlf/v-jsonlint](https://github.com/prantlf/v-jsonlint) - JSON/JSONC/JSON5 validator and pretty-printer. (4 days ago)
-- [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (4 days ago)
-- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell (4 days ago)
-- [AdrianVollmer/Congruence](https://github.com/AdrianVollmer/Congruence) - A command line interface to Atlassian Confluence (4 days ago)
+- [dimdnk/boot-parent-pom](https://github.com/dimdnk/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project. (1 day ago)
+- [andrewbaxter/passworth](https://github.com/andrewbaxter/passworth) - Access-controlled, JSON-based password manager (2 days ago)
+- [losfair/bake](https://github.com/losfair/bake) - Bake microVMs into standalone executables (5 days ago)
+- [iannuttall/fartscroll-lid](https://github.com/iannuttall/fartscroll-lid) - A hilarious macOS app that plays fart sounds as you open and close your MacBook lid (5 days ago)
+- [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) - fossjobs.net based on jobberbase (5 days ago)
+- [apache/maven-javadoc-plugin](https://github.com/apache/maven-javadoc-plugin) - Apache Maven Javadoc Plugin (5 days ago)
+- [dbohdan/recur](https://github.com/dbohdan/recur) - Retry a command with exponential backoff and jitter (&#43; Starlark expressions) (5 days ago)
+- [prantlf/v-jsonlint](https://github.com/prantlf/v-jsonlint) - JSON/JSONC/JSON5 validator and pretty-printer. (5 days ago)
+- [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (5 days ago)
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell (5 days ago)
 
 #### 📫 How to reach me
 
