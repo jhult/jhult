@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [dimdnk/boot-parent-pom](https://github.com/dimdnk/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project. (1 day ago)
-- [andrewbaxter/passworth](https://github.com/andrewbaxter/passworth) - Access-controlled, JSON-based password manager (2 days ago)
-- [losfair/bake](https://github.com/losfair/bake) - Bake microVMs into standalone executables (5 days ago)
-- [iannuttall/fartscroll-lid](https://github.com/iannuttall/fartscroll-lid) - A hilarious macOS app that plays fart sounds as you open and close your MacBook lid (5 days ago)
-- [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) - fossjobs.net based on jobberbase (5 days ago)
-- [apache/maven-javadoc-plugin](https://github.com/apache/maven-javadoc-plugin) - Apache Maven Javadoc Plugin (5 days ago)
-- [dbohdan/recur](https://github.com/dbohdan/recur) - Retry a command with exponential backoff and jitter (&#43; Starlark expressions) (5 days ago)
-- [prantlf/v-jsonlint](https://github.com/prantlf/v-jsonlint) - JSON/JSONC/JSON5 validator and pretty-printer. (5 days ago)
-- [prantlf/homebrew-tap](https://github.com/prantlf/homebrew-tap) - Tap with Homebrew formulae for saz-tools and other bottles (5 days ago)
-- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell (5 days ago)
+- [vmlens/vmlens](https://github.com/vmlens/vmlens) - Deterministic Unit Tests for Multi-Threaded Java (1 day ago)
+- [instancio/instancio](https://github.com/instancio/instancio) - A library that creates fully populated objects for your unit tests. (1 day ago)
+- [UnitTestBot/UTBotJava](https://github.com/UnitTestBot/UTBotJava) - Automated unit test generation and precise code analysis for Java (1 day ago)
+- [AutoParams/AutoParams](https://github.com/AutoParams/AutoParams) - AutoParams is a versatile test data generator designed for parameterized tests in Java and Kotlin. (1 day ago)
+- [mjedynak/pit-idea-plugin](https://github.com/mjedynak/pit-idea-plugin) - IntelliJ Idea plugin for PIT mutation testing (1 day ago)
+- [wrdv/testme-idea](https://github.com/wrdv/testme-idea) - TestMe IntelliJ IDEA Plugin - Auto generates Unit Test code (1 day ago)
+- [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform (1 day ago)
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (1 day ago)
+- [takari/takari-smart-builder](https://github.com/takari/takari-smart-builder) -  (1 day ago)
+- [jstachio/jstachio](https://github.com/jstachio/jstachio) - Java type safe statically compiled mustache (1 day ago)
 
 #### 📫 How to reach me
 
