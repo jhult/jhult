@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [vmlens/vmlens](https://github.com/vmlens/vmlens) - Deterministic Unit Tests for Multi-Threaded Java (2 days ago)
-- [instancio/instancio](https://github.com/instancio/instancio) - A library that creates fully populated objects for your unit tests. (2 days ago)
-- [UnitTestBot/UTBotJava](https://github.com/UnitTestBot/UTBotJava) - Automated unit test generation and precise code analysis for Java (2 days ago)
-- [AutoParams/AutoParams](https://github.com/AutoParams/AutoParams) - AutoParams is a versatile test data generator designed for parameterized tests in Java and Kotlin. (2 days ago)
-- [mjedynak/pit-idea-plugin](https://github.com/mjedynak/pit-idea-plugin) - IntelliJ Idea plugin for PIT mutation testing (2 days ago)
-- [wrdv/testme-idea](https://github.com/wrdv/testme-idea) - TestMe IntelliJ IDEA Plugin - Auto generates Unit Test code (2 days ago)
-- [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform (2 days ago)
-- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (2 days ago)
-- [takari/takari-smart-builder](https://github.com/takari/takari-smart-builder) -  (2 days ago)
-- [jstachio/jstachio](https://github.com/jstachio/jstachio) - Java type safe statically compiled mustache (2 days ago)
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (1 day ago)
+- [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions. (1 day ago)
+- [vmlens/vmlens](https://github.com/vmlens/vmlens) - Deterministic Unit Tests for Multi-Threaded Java (3 days ago)
+- [instancio/instancio](https://github.com/instancio/instancio) - A library that creates fully populated objects for your unit tests. (3 days ago)
+- [UnitTestBot/UTBotJava](https://github.com/UnitTestBot/UTBotJava) - Automated unit test generation and precise code analysis for Java (3 days ago)
+- [AutoParams/AutoParams](https://github.com/AutoParams/AutoParams) - AutoParams is a versatile test data generator designed for parameterized tests in Java and Kotlin. (3 days ago)
+- [mjedynak/pit-idea-plugin](https://github.com/mjedynak/pit-idea-plugin) - IntelliJ Idea plugin for PIT mutation testing (3 days ago)
+- [wrdv/testme-idea](https://github.com/wrdv/testme-idea) - TestMe IntelliJ IDEA Plugin - Auto generates Unit Test code (3 days ago)
+- [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform (3 days ago)
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (3 days ago)
 
 #### 📫 How to reach me
 
