@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [rudikershaw/git-build-hook](https://github.com/rudikershaw/git-build-hook) - A maven plugin for managing client side (local) git configuration for those working on your project. Including but not limited to setting git config, installing hooks, validating the local repository. (1 day ago)
-- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (1 day ago)
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (2 days ago)
-- [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions. (2 days ago)
-- [vmlens/vmlens](https://github.com/vmlens/vmlens) - Deterministic Unit Tests for Multi-Threaded Java (4 days ago)
-- [instancio/instancio](https://github.com/instancio/instancio) - A library that creates fully populated objects for your unit tests. (4 days ago)
-- [UnitTestBot/UTBotJava](https://github.com/UnitTestBot/UTBotJava) - Automated unit test generation and precise code analysis for Java (4 days ago)
-- [AutoParams/AutoParams](https://github.com/AutoParams/AutoParams) - AutoParams is a versatile test data generator designed for parameterized tests in Java and Kotlin. (4 days ago)
-- [mjedynak/pit-idea-plugin](https://github.com/mjedynak/pit-idea-plugin) - IntelliJ Idea plugin for PIT mutation testing (4 days ago)
-- [wrdv/testme-idea](https://github.com/wrdv/testme-idea) - TestMe IntelliJ IDEA Plugin - Auto generates Unit Test code (4 days ago)
+- [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser (1 day ago)
+- [aGallea/tests-coverage-report](https://github.com/aGallea/tests-coverage-report) - Github action for tests coverage report (1 day ago)
+- [rudikershaw/git-build-hook](https://github.com/rudikershaw/git-build-hook) - A maven plugin for managing client side (local) git configuration for those working on your project. Including but not limited to setting git config, installing hooks, validating the local repository. (2 days ago)
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (2 days ago)
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (3 days ago)
+- [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions. (3 days ago)
+- [vmlens/vmlens](https://github.com/vmlens/vmlens) - Deterministic Unit Tests for Multi-Threaded Java (5 days ago)
+- [instancio/instancio](https://github.com/instancio/instancio) - A library that creates fully populated objects for your unit tests. (5 days ago)
+- [UnitTestBot/UTBotJava](https://github.com/UnitTestBot/UTBotJava) - Automated unit test generation and precise code analysis for Java (5 days ago)
+- [AutoParams/AutoParams](https://github.com/AutoParams/AutoParams) - AutoParams is a versatile test data generator designed for parameterized tests in Java and Kotlin. (5 days ago)
 
 #### 📫 How to reach me
 
