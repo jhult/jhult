@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (1 day ago)
-- [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser (2 days ago)
-- [aGallea/tests-coverage-report](https://github.com/aGallea/tests-coverage-report) - Github action for tests coverage report (2 days ago)
-- [rudikershaw/git-build-hook](https://github.com/rudikershaw/git-build-hook) - A maven plugin for managing client side (local) git configuration for those working on your project. Including but not limited to setting git config, installing hooks, validating the local repository. (3 days ago)
-- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (3 days ago)
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (4 days ago)
-- [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions. (4 days ago)
-- [vmlens/vmlens](https://github.com/vmlens/vmlens) - Deterministic Unit Tests for Multi-Threaded Java (6 days ago)
-- [instancio/instancio](https://github.com/instancio/instancio) - A library that creates fully populated objects for your unit tests. (6 days ago)
-- [UnitTestBot/UTBotJava](https://github.com/UnitTestBot/UTBotJava) - Automated unit test generation and precise code analysis for Java (6 days ago)
+- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (2 days ago)
+- [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser (3 days ago)
+- [aGallea/tests-coverage-report](https://github.com/aGallea/tests-coverage-report) - Github action for tests coverage report (3 days ago)
+- [rudikershaw/git-build-hook](https://github.com/rudikershaw/git-build-hook) - A maven plugin for managing client side (local) git configuration for those working on your project. Including but not limited to setting git config, installing hooks, validating the local repository. (4 days ago)
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (4 days ago)
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (5 days ago)
+- [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions. (5 days ago)
+- [vmlens/vmlens](https://github.com/vmlens/vmlens) - Deterministic Unit Tests for Multi-Threaded Java (1 week ago)
+- [instancio/instancio](https://github.com/instancio/instancio) - A library that creates fully populated objects for your unit tests. (1 week ago)
+- [UnitTestBot/UTBotJava](https://github.com/UnitTestBot/UTBotJava) - Automated unit test generation and precise code analysis for Java (1 week ago)
 
 #### 📫 How to reach me
 
