@@ -33,7 +33,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (3 weeks ago)
+- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (4 weeks ago)
 - [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (2 months ago)
 - [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (2 months ago)
 - [Add MIT license](https://github.com/penwyp/ClaudePreference/pull/2) on [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) (2 months ago)
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [konveyor/tackle-test-generator-core](https://github.com/konveyor/tackle-test-generator-core) -  (today)
-- [konveyor/tackle-test-generator-cli](https://github.com/konveyor/tackle-test-generator-cli) -  (today)
-- [randoop/randoop](https://github.com/randoop/randoop) - Automatic test generation for Java (today)
-- [Hakky54/log-captor](https://github.com/Hakky54/log-captor) - 🎯  LogCaptor captures log entries for unit and integration testing purposes (1 day ago)
-- [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) - 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of running JVM process. (1 day ago)
-- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (3 days ago)
-- [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser (4 days ago)
-- [aGallea/tests-coverage-report](https://github.com/aGallea/tests-coverage-report) - Github action for tests coverage report (4 days ago)
-- [rudikershaw/git-build-hook](https://github.com/rudikershaw/git-build-hook) - A maven plugin for managing client side (local) git configuration for those working on your project. Including but not limited to setting git config, installing hooks, validating the local repository. (5 days ago)
-- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (5 days ago)
+- [thomasmueller/rubiks](https://github.com/thomasmueller/rubiks) - Rubik&#39;s Cube Beginner Solution in 7 Steps (1 day ago)
+- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (1 day ago)
+- [konveyor/tackle-test-generator-core](https://github.com/konveyor/tackle-test-generator-core) -  (1 day ago)
+- [konveyor/tackle-test-generator-cli](https://github.com/konveyor/tackle-test-generator-cli) -  (1 day ago)
+- [randoop/randoop](https://github.com/randoop/randoop) - Automatic test generation for Java (1 day ago)
+- [Hakky54/log-captor](https://github.com/Hakky54/log-captor) - 🎯  LogCaptor captures log entries for unit and integration testing purposes (2 days ago)
+- [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) - 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of running JVM process. (2 days ago)
+- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (4 days ago)
+- [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser (5 days ago)
+- [aGallea/tests-coverage-report](https://github.com/aGallea/tests-coverage-report) - Github action for tests coverage report (5 days ago)
 
 #### 📫 How to reach me
 
