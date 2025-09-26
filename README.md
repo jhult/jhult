@@ -20,7 +20,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (2 months ago)
 - [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (2 months ago)
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (3 months ago)
-- [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (3 months ago)
+- [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (4 months ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (4 months ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (4 months ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (5 months ago)
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [thomasmueller/rubiks](https://github.com/thomasmueller/rubiks) - Rubik&#39;s Cube Beginner Solution in 7 Steps (1 day ago)
-- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (1 day ago)
-- [konveyor/tackle-test-generator-core](https://github.com/konveyor/tackle-test-generator-core) -  (1 day ago)
-- [konveyor/tackle-test-generator-cli](https://github.com/konveyor/tackle-test-generator-cli) -  (1 day ago)
-- [randoop/randoop](https://github.com/randoop/randoop) - Automatic test generation for Java (1 day ago)
-- [Hakky54/log-captor](https://github.com/Hakky54/log-captor) - 🎯  LogCaptor captures log entries for unit and integration testing purposes (2 days ago)
-- [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) - 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of running JVM process. (2 days ago)
-- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (4 days ago)
-- [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser (5 days ago)
-- [aGallea/tests-coverage-report](https://github.com/aGallea/tests-coverage-report) - Github action for tests coverage report (5 days ago)
+- [thomasmueller/rubiks](https://github.com/thomasmueller/rubiks) - Rubik&#39;s Cube Beginner Solution in 7 Steps (2 days ago)
+- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (2 days ago)
+- [konveyor/tackle-test-generator-core](https://github.com/konveyor/tackle-test-generator-core) -  (2 days ago)
+- [konveyor/tackle-test-generator-cli](https://github.com/konveyor/tackle-test-generator-cli) -  (2 days ago)
+- [randoop/randoop](https://github.com/randoop/randoop) - Automatic test generation for Java (2 days ago)
+- [Hakky54/log-captor](https://github.com/Hakky54/log-captor) - 🎯  LogCaptor captures log entries for unit and integration testing purposes (3 days ago)
+- [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) - 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of running JVM process. (3 days ago)
+- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (5 days ago)
+- [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser (6 days ago)
+- [aGallea/tests-coverage-report](https://github.com/aGallea/tests-coverage-report) - Github action for tests coverage report (6 days ago)
 
 #### 📫 How to reach me
 
