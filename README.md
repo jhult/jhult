@@ -23,7 +23,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (4 months ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (4 months ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (4 months ago)
-- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (5 months ago)
+- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -33,7 +33,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (4 weeks ago)
+- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (1 month ago)
 - [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (2 months ago)
 - [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (2 months ago)
 - [Add MIT license](https://github.com/penwyp/ClaudePreference/pull/2) on [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) (2 months ago)
@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [thomasmueller/rubiks](https://github.com/thomasmueller/rubiks) - Rubik&#39;s Cube Beginner Solution in 7 Steps (2 days ago)
-- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (2 days ago)
-- [konveyor/tackle-test-generator-core](https://github.com/konveyor/tackle-test-generator-core) -  (2 days ago)
-- [konveyor/tackle-test-generator-cli](https://github.com/konveyor/tackle-test-generator-cli) -  (2 days ago)
-- [randoop/randoop](https://github.com/randoop/randoop) - Automatic test generation for Java (2 days ago)
-- [Hakky54/log-captor](https://github.com/Hakky54/log-captor) - 🎯  LogCaptor captures log entries for unit and integration testing purposes (3 days ago)
-- [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) - 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of running JVM process. (3 days ago)
-- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (5 days ago)
-- [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser (6 days ago)
-- [aGallea/tests-coverage-report](https://github.com/aGallea/tests-coverage-report) - Github action for tests coverage report (6 days ago)
+- [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind (1 day ago)
+- [brianonn/recoll](https://github.com/brianonn/recoll) - Recoll is a desktop full-text search tool (forked from the original at framagit) (1 day ago)
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file (1 day ago)
+- [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) -  💾 dn - offline full-text search and archiving for your Chromium-based browser.  (1 day ago)
+- [thomasmueller/rubiks](https://github.com/thomasmueller/rubiks) - Rubik&#39;s Cube Beginner Solution in 7 Steps (3 days ago)
+- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (3 days ago)
+- [konveyor/tackle-test-generator-core](https://github.com/konveyor/tackle-test-generator-core) -  (3 days ago)
+- [konveyor/tackle-test-generator-cli](https://github.com/konveyor/tackle-test-generator-cli) -  (3 days ago)
+- [randoop/randoop](https://github.com/randoop/randoop) - Automatic test generation for Java (3 days ago)
+- [Hakky54/log-captor](https://github.com/Hakky54/log-captor) - 🎯  LogCaptor captures log entries for unit and integration testing purposes (4 days ago)
 
 #### 📫 How to reach me
 
