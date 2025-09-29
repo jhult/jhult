@@ -46,16 +46,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [crazyscot/qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC (today)
-- [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple (1 day ago)
-- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (1 day ago)
-- [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind (2 days ago)
-- [brianonn/recoll](https://github.com/brianonn/recoll) - Recoll is a desktop full-text search tool (forked from the original at framagit) (2 days ago)
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file (2 days ago)
-- [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) -  💾 dn - offline full-text search and archiving for your Chromium-based browser.  (2 days ago)
-- [thomasmueller/rubiks](https://github.com/thomasmueller/rubiks) - Rubik&#39;s Cube Beginner Solution in 7 Steps (4 days ago)
-- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (4 days ago)
-- [konveyor/tackle-test-generator-core](https://github.com/konveyor/tackle-test-generator-core) -  (4 days ago)
+- [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java  (1 day ago)
+- [crazyscot/qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC (1 day ago)
+- [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple (2 days ago)
+- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (2 days ago)
+- [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind (3 days ago)
+- [brianonn/recoll](https://github.com/brianonn/recoll) - Recoll is a desktop full-text search tool (forked from the original at framagit) (3 days ago)
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file (3 days ago)
+- [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) -  💾 dn - offline full-text search and archiving for your Chromium-based browser.  (3 days ago)
+- [thomasmueller/rubiks](https://github.com/thomasmueller/rubiks) - Rubik&#39;s Cube Beginner Solution in 7 Steps (5 days ago)
+- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (5 days ago)
 
 #### 📫 How to reach me
 
