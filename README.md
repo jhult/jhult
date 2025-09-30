@@ -19,7 +19,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) - 🧪 Curated collection of AI development resources, automation tools, and modern development practices. Features GitHub repositories, articles, and community resources for developers and AI enthusiasts. (2 months ago)
 - [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (2 months ago)
 - [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (2 months ago)
-- [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (3 months ago)
+- [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (4 months ago)
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (4 months ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (4 months ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (4 months ago)
@@ -27,7 +27,6 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔭 Latest releases I've contributed to
 
-- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) ([v2.0.19](https://github.com/terryso/claude-auto-resume/releases/tag/v2.0.19), 2 months ago) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) ([v0.6.1](https://github.com/tacogips/async-graphql-reverse/releases/tag/v0.6.1), 1 year ago) - 
 - [geldata/gel-java](https://github.com/geldata/gel-java) ([0.3.0](https://github.com/geldata/gel-java/releases/tag/0.3.0), 1 year ago) - The official Java client library for EdgeDB
 
@@ -46,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java  (1 day ago)
-- [crazyscot/qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC (1 day ago)
-- [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple (2 days ago)
-- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (2 days ago)
-- [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind (3 days ago)
-- [brianonn/recoll](https://github.com/brianonn/recoll) - Recoll is a desktop full-text search tool (forked from the original at framagit) (3 days ago)
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file (3 days ago)
-- [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) -  💾 dn - offline full-text search and archiving for your Chromium-based browser.  (3 days ago)
-- [thomasmueller/rubiks](https://github.com/thomasmueller/rubiks) - Rubik&#39;s Cube Beginner Solution in 7 Steps (5 days ago)
-- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (5 days ago)
+- [takari/team-book](https://github.com/takari/team-book) - Takari Extensions for Apache Maven TEAM - Documentation (today)
+- [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java  (2 days ago)
+- [crazyscot/qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC (2 days ago)
+- [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple (3 days ago)
+- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (3 days ago)
+- [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind (4 days ago)
+- [brianonn/recoll](https://github.com/brianonn/recoll) - Recoll is a desktop full-text search tool (forked from the original at framagit) (4 days ago)
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file (4 days ago)
+- [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) -  💾 dn - offline full-text search and archiving for your Chromium-based browser.  (4 days ago)
+- [thomasmueller/rubiks](https://github.com/thomasmueller/rubiks) - Rubik&#39;s Cube Beginner Solution in 7 Steps (6 days ago)
 
 #### 📫 How to reach me
 
