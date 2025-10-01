@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [takari/team-book](https://github.com/takari/team-book) - Takari Extensions for Apache Maven TEAM - Documentation (today)
-- [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java  (2 days ago)
-- [crazyscot/qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC (2 days ago)
-- [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple (3 days ago)
-- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (3 days ago)
-- [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind (4 days ago)
-- [brianonn/recoll](https://github.com/brianonn/recoll) - Recoll is a desktop full-text search tool (forked from the original at framagit) (4 days ago)
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file (4 days ago)
-- [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) -  💾 dn - offline full-text search and archiving for your Chromium-based browser.  (4 days ago)
-- [thomasmueller/rubiks](https://github.com/thomasmueller/rubiks) - Rubik&#39;s Cube Beginner Solution in 7 Steps (6 days ago)
+- [bsorrentino/maven-annotation-plugin](https://github.com/bsorrentino/maven-annotation-plugin) - A maven plugin to process annotation from jdk8 and above at compile time (1 day ago)
+- [takari/takari-lifecycle](https://github.com/takari/takari-lifecycle) - Takari Maven Lifecycle (1 day ago)
+- [takari/team-book](https://github.com/takari/team-book) - Takari Extensions for Apache Maven TEAM - Documentation (1 day ago)
+- [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java  (3 days ago)
+- [crazyscot/qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC (3 days ago)
+- [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple (4 days ago)
+- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (4 days ago)
+- [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind (5 days ago)
+- [brianonn/recoll](https://github.com/brianonn/recoll) - Recoll is a desktop full-text search tool (forked from the original at framagit) (5 days ago)
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file (5 days ago)
 
 #### 📫 How to reach me
 
