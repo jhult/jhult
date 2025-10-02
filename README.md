@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [bsorrentino/maven-annotation-plugin](https://github.com/bsorrentino/maven-annotation-plugin) - A maven plugin to process annotation from jdk8 and above at compile time (1 day ago)
-- [takari/takari-lifecycle](https://github.com/takari/takari-lifecycle) - Takari Maven Lifecycle (1 day ago)
-- [takari/team-book](https://github.com/takari/team-book) - Takari Extensions for Apache Maven TEAM - Documentation (1 day ago)
-- [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java  (3 days ago)
-- [crazyscot/qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC (3 days ago)
-- [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple (4 days ago)
-- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (4 days ago)
-- [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind (5 days ago)
-- [brianonn/recoll](https://github.com/brianonn/recoll) - Recoll is a desktop full-text search tool (forked from the original at framagit) (5 days ago)
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file (5 days ago)
+- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS (1 day ago)
+- [CiscoDevNet/api-design-guide](https://github.com/CiscoDevNet/api-design-guide) - Guidelines for designing REST APIs at Cisco (1 day ago)
+- [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines (1 day ago)
+- [okta/okta-aws-cli](https://github.com/okta/okta-aws-cli) - A CLI for having Okta as the IdP for AWS CLI operations (1 day ago)
+- [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure. (1 day ago)
+- [bsorrentino/maven-annotation-plugin](https://github.com/bsorrentino/maven-annotation-plugin) - A maven plugin to process annotation from jdk8 and above at compile time (2 days ago)
+- [takari/takari-lifecycle](https://github.com/takari/takari-lifecycle) - Takari Maven Lifecycle (2 days ago)
+- [takari/team-book](https://github.com/takari/team-book) - Takari Extensions for Apache Maven TEAM - Documentation (2 days ago)
+- [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java  (4 days ago)
+- [crazyscot/qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC (4 days ago)
 
 #### 📫 How to reach me
 
