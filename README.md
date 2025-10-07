@@ -17,8 +17,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) - Shared starter template configuration and CLAUDE.md memory bank system for Claude Code (2 months ago)
 - [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (2 months ago)
 - [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) - 🧪 Curated collection of AI development resources, automation tools, and modern development practices. Features GitHub repositories, articles, and community resources for developers and AI enthusiasts. (2 months ago)
-- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (2 months ago)
-- [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (2 months ago)
+- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (3 months ago)
+- [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (3 months ago)
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (4 months ago)
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (4 months ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (4 months ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS (5 days ago)
-- [CiscoDevNet/api-design-guide](https://github.com/CiscoDevNet/api-design-guide) - Guidelines for designing REST APIs at Cisco (5 days ago)
-- [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines (5 days ago)
-- [okta/okta-aws-cli](https://github.com/okta/okta-aws-cli) - A CLI for having Okta as the IdP for AWS CLI operations (5 days ago)
-- [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure. (5 days ago)
-- [bsorrentino/maven-annotation-plugin](https://github.com/bsorrentino/maven-annotation-plugin) - A maven plugin to process annotation from jdk8 and above at compile time (6 days ago)
-- [takari/takari-lifecycle](https://github.com/takari/takari-lifecycle) - Takari Maven Lifecycle (6 days ago)
-- [takari/team-book](https://github.com/takari/team-book) - Takari Extensions for Apache Maven TEAM - Documentation (6 days ago)
-- [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java  (1 week ago)
-- [crazyscot/qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC (1 week ago)
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish (1 day ago)
+- [reitzig/sdkman-for-fish](https://github.com/reitzig/sdkman-for-fish) - Adds support for SDKMAN! to fish (1 day ago)
+- [snyk/actions](https://github.com/snyk/actions) - A set of GitHub actions for checking your projects for vulnerabilities. (1 day ago)
+- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS (6 days ago)
+- [CiscoDevNet/api-design-guide](https://github.com/CiscoDevNet/api-design-guide) - Guidelines for designing REST APIs at Cisco (6 days ago)
+- [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines (6 days ago)
+- [okta/okta-aws-cli](https://github.com/okta/okta-aws-cli) - A CLI for having Okta as the IdP for AWS CLI operations (6 days ago)
+- [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure. (6 days ago)
+- [bsorrentino/maven-annotation-plugin](https://github.com/bsorrentino/maven-annotation-plugin) - A maven plugin to process annotation from jdk8 and above at compile time (1 week ago)
+- [takari/takari-lifecycle](https://github.com/takari/takari-lifecycle) - Takari Maven Lifecycle (1 week ago)
 
 #### 📫 How to reach me
 
