@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [buigiathanh/Cookie_Editor](https://github.com/buigiathanh/Cookie_Editor) - Cookie Editor is a browser extension or tool that allows users to view, edit, create, and delete cookies stored in their browser. It&#39;s useful for developers, testers, and privacy-conscious users who want more control over their browsing data. (1 day ago)
-- [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies (1 day ago)
-- [brave/cookiecrumbler](https://github.com/brave/cookiecrumbler) - Automatically detect cookie consent notices (1 day ago)
-- [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi. (1 day ago)
-- [chsturm/spamfilter](https://github.com/chsturm/spamfilter) - Spam filter for Apple&#39;s Mail.app (1 day ago)
-- [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system. (1 day ago)
-- [spamscanner/spamscanner](https://github.com/spamscanner/spamscanner) - Spam Scanner is a Node.js anti-spam, email filtering, and phishing prevention tool and service. Built for @ladjs, @forwardemail, @cabinjs, @breejs, and @lassjs. (1 day ago)
-- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail &#43; Mailchimp &#43; Sendgrid. (1 day ago)
-- [ActiveCampaign/smtp-field-manual](https://github.com/ActiveCampaign/smtp-field-manual) - A collection of raw STMP server responses from major email service providers and spam filter services. (1 day ago)
-- [bageldotcom/paris](https://github.com/bageldotcom/paris) - paris - world&#39;s first decentralized trained open-weight diffusion model (1 day ago)
+- [TNG/ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java (1 day ago)
+- [buigiathanh/Cookie_Editor](https://github.com/buigiathanh/Cookie_Editor) - Cookie Editor is a browser extension or tool that allows users to view, edit, create, and delete cookies stored in their browser. It&#39;s useful for developers, testers, and privacy-conscious users who want more control over their browsing data. (2 days ago)
+- [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies (2 days ago)
+- [brave/cookiecrumbler](https://github.com/brave/cookiecrumbler) - Automatically detect cookie consent notices (2 days ago)
+- [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi. (2 days ago)
+- [chsturm/spamfilter](https://github.com/chsturm/spamfilter) - Spam filter for Apple&#39;s Mail.app (2 days ago)
+- [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system. (2 days ago)
+- [spamscanner/spamscanner](https://github.com/spamscanner/spamscanner) - Spam Scanner is a Node.js anti-spam, email filtering, and phishing prevention tool and service. Built for @ladjs, @forwardemail, @cabinjs, @breejs, and @lassjs. (2 days ago)
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail &#43; Mailchimp &#43; Sendgrid. (2 days ago)
+- [ActiveCampaign/smtp-field-manual](https://github.com/ActiveCampaign/smtp-field-manual) - A collection of raw STMP server responses from major email service providers and spam filter services. (2 days ago)
 
 #### 📫 How to reach me
 
