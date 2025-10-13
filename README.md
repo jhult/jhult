@@ -21,7 +21,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (3 months ago)
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (4 months ago)
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (4 months ago)
-- [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (4 months ago)
+- [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (5 months ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (5 months ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (6 months ago)
 
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [jerbear2008/hn-live](https://github.com/jerbear2008/hn-live) - https://jerbear2008.github.io/hn-live - Live feed of Hacker News posts and comments (1 day ago)
-- [TNG/ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java (3 days ago)
-- [buigiathanh/Cookie_Editor](https://github.com/buigiathanh/Cookie_Editor) - Cookie Editor is a browser extension or tool that allows users to view, edit, create, and delete cookies stored in their browser. It&#39;s useful for developers, testers, and privacy-conscious users who want more control over their browsing data. (4 days ago)
-- [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies (4 days ago)
-- [brave/cookiecrumbler](https://github.com/brave/cookiecrumbler) - Automatically detect cookie consent notices (4 days ago)
-- [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi. (4 days ago)
-- [chsturm/spamfilter](https://github.com/chsturm/spamfilter) - Spam filter for Apple&#39;s Mail.app (4 days ago)
-- [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system. (4 days ago)
-- [spamscanner/spamscanner](https://github.com/spamscanner/spamscanner) - Spam Scanner is a Node.js anti-spam, email filtering, and phishing prevention tool and service. Built for @ladjs, @forwardemail, @cabinjs, @breejs, and @lassjs. (4 days ago)
-- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail &#43; Mailchimp &#43; Sendgrid. (4 days ago)
+- [jerbear2008/hn-live](https://github.com/jerbear2008/hn-live) - https://jerbear2008.github.io/hn-live - Live feed of Hacker News posts and comments (2 days ago)
+- [TNG/ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java (4 days ago)
+- [buigiathanh/Cookie_Editor](https://github.com/buigiathanh/Cookie_Editor) - Cookie Editor is a browser extension or tool that allows users to view, edit, create, and delete cookies stored in their browser. It&#39;s useful for developers, testers, and privacy-conscious users who want more control over their browsing data. (5 days ago)
+- [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies (5 days ago)
+- [brave/cookiecrumbler](https://github.com/brave/cookiecrumbler) - Automatically detect cookie consent notices (5 days ago)
+- [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi. (5 days ago)
+- [chsturm/spamfilter](https://github.com/chsturm/spamfilter) - Spam filter for Apple&#39;s Mail.app (5 days ago)
+- [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system. (5 days ago)
+- [spamscanner/spamscanner](https://github.com/spamscanner/spamscanner) - Spam Scanner is a Node.js anti-spam, email filtering, and phishing prevention tool and service. Built for @ladjs, @forwardemail, @cabinjs, @breejs, and @lassjs. (5 days ago)
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail &#43; Mailchimp &#43; Sendgrid. (5 days ago)
 
 #### 📫 How to reach me
 
