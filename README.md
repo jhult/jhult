@@ -37,7 +37,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (2 months ago)
 - [Add MIT license](https://github.com/penwyp/ClaudePreference/pull/2) on [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) (2 months ago)
 - [Add MIT license](https://github.com/centminmod/my-claude-code-setup/pull/1) on [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) (2 months ago)
-- [Add Apache 2.0 license](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos/pull/1) on [snyk-labs/deactivate-delete-archieved-gh-repos](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos) (2 months ago)
+- [Add Apache 2.0 license](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos/pull/1) on [snyk-labs/deactivate-delete-archieved-gh-repos](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos) (3 months ago)
 - [Add MIT license](https://github.com/samyakjain0606/awesome-learning-material/pull/1) on [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) (3 months ago)
 - [Add MIT license](https://github.com/Veraticus/nix-config/pull/5) on [Veraticus/nix-config](https://github.com/Veraticus/nix-config) (3 months ago)
 - [Add MIT license](https://github.com/Veraticus/claude-code-ntfy/pull/2) on [Veraticus/claude-code-ntfy](https://github.com/Veraticus/claude-code-ntfy) (3 months ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [jerbear2008/hn-live](https://github.com/jerbear2008/hn-live) - https://jerbear2008.github.io/hn-live - Live feed of Hacker News posts and comments (2 days ago)
-- [TNG/ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java (4 days ago)
-- [buigiathanh/Cookie_Editor](https://github.com/buigiathanh/Cookie_Editor) - Cookie Editor is a browser extension or tool that allows users to view, edit, create, and delete cookies stored in their browser. It&#39;s useful for developers, testers, and privacy-conscious users who want more control over their browsing data. (5 days ago)
-- [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies (5 days ago)
-- [brave/cookiecrumbler](https://github.com/brave/cookiecrumbler) - Automatically detect cookie consent notices (5 days ago)
-- [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi. (5 days ago)
-- [chsturm/spamfilter](https://github.com/chsturm/spamfilter) - Spam filter for Apple&#39;s Mail.app (5 days ago)
-- [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system. (5 days ago)
-- [spamscanner/spamscanner](https://github.com/spamscanner/spamscanner) - Spam Scanner is a Node.js anti-spam, email filtering, and phishing prevention tool and service. Built for @ladjs, @forwardemail, @cabinjs, @breejs, and @lassjs. (5 days ago)
-- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail &#43; Mailchimp &#43; Sendgrid. (5 days ago)
+- [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey &amp; Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache.. (1 day ago)
+- [IBM/openapi-validator](https://github.com/IBM/openapi-validator) - Configurable and extensible validator/linter for OpenAPI documents (1 day ago)
+- [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x. (1 day ago)
+- [pact-foundation/pact-jvm](https://github.com/pact-foundation/pact-jvm) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project. (1 day ago)
+- [isa-group/RESTest](https://github.com/isa-group/RESTest) - RESTest: Automated Black-Box Testing of RESTful Web APIs (1 day ago)
+- [WebFuzzing/EvoMaster](https://github.com/WebFuzzing/EvoMaster) - The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). (1 day ago)
+- [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 (1 day ago)
+- [velo/easy-jacoco-maven-plugin](https://github.com/velo/easy-jacoco-maven-plugin) - This project aims at making jacoco easy on modular projects (1 day ago)
+- [jerbear2008/hn-live](https://github.com/jerbear2008/hn-live) - https://jerbear2008.github.io/hn-live - Live feed of Hacker News posts and comments (3 days ago)
+- [TNG/ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java (5 days ago)
 
 #### 📫 How to reach me
 
