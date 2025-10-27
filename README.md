@@ -23,7 +23,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (5 months ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (5 months ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (5 months ago)
-- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (6 months ago)
+- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -32,8 +32,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (4 days ago)
-- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (1 month ago)
+- [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (5 days ago)
+- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (2 months ago)
 - [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (3 months ago)
 - [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (3 months ago)
 - [Add MIT license](https://github.com/penwyp/ClaudePreference/pull/2) on [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) (3 months ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project. (2 days ago)
-- [cashapp/molecule](https://github.com/cashapp/molecule) - Build a StateFlow stream using Jetpack Compose (3 days ago)
-- [cashapp/redwood](https://github.com/cashapp/redwood) - Multiplatform reactive UI for Android, iOS, and web using Kotlin and Jetpack Compose (3 days ago)
-- [charleskorn/kaml](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization (4 days ago)
-- [Betterment/claws](https://github.com/Betterment/claws) - 💅🏽 analyzes your github actions (4 days ago)
-- [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (4 days ago)
-- [scade-platform/swift4j](https://github.com/scade-platform/swift4j) - Run native Swift Code across multiple platforms using Java or Kotlin (4 days ago)
-- [typesafegithub/github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won&#39;t go back to YAML! (4 days ago)
-- [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed. (4 days ago)
-- [product-os/flowzone](https://github.com/product-os/flowzone) - Reusable, opinionated, zero-conf workflows for GitHub actions (4 days ago)
+- [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project. (3 days ago)
+- [cashapp/molecule](https://github.com/cashapp/molecule) - Build a StateFlow stream using Jetpack Compose (4 days ago)
+- [cashapp/redwood](https://github.com/cashapp/redwood) - Multiplatform reactive UI for Android, iOS, and web using Kotlin and Jetpack Compose (4 days ago)
+- [charleskorn/kaml](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization (5 days ago)
+- [Betterment/claws](https://github.com/Betterment/claws) - 💅🏽 analyzes your github actions (5 days ago)
+- [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (5 days ago)
+- [scade-platform/swift4j](https://github.com/scade-platform/swift4j) - Run native Swift Code across multiple platforms using Java or Kotlin (5 days ago)
+- [typesafegithub/github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won&#39;t go back to YAML! (5 days ago)
+- [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed. (5 days ago)
+- [product-os/flowzone](https://github.com/product-os/flowzone) - Reusable, opinionated, zero-conf workflows for GitHub actions (5 days ago)
 
 #### 📫 How to reach me
 
