@@ -17,8 +17,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) - Shared starter template configuration and CLAUDE.md memory bank system for Claude Code (3 months ago)
 - [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (3 months ago)
 - [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) - 🧪 Curated collection of AI development resources, automation tools, and modern development practices. Features GitHub repositories, articles, and community resources for developers and AI enthusiasts. (3 months ago)
-- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (3 months ago)
 - [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (3 months ago)
+- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (3 months ago)
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (4 months ago)
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (5 months ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (5 months ago)
@@ -32,7 +32,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (5 days ago)
+- [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (6 days ago)
 - [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (2 months ago)
 - [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (3 months ago)
 - [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (3 months ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project. (3 days ago)
-- [cashapp/molecule](https://github.com/cashapp/molecule) - Build a StateFlow stream using Jetpack Compose (4 days ago)
-- [cashapp/redwood](https://github.com/cashapp/redwood) - Multiplatform reactive UI for Android, iOS, and web using Kotlin and Jetpack Compose (4 days ago)
-- [charleskorn/kaml](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization (5 days ago)
-- [Betterment/claws](https://github.com/Betterment/claws) - 💅🏽 analyzes your github actions (5 days ago)
-- [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (5 days ago)
-- [scade-platform/swift4j](https://github.com/scade-platform/swift4j) - Run native Swift Code across multiple platforms using Java or Kotlin (5 days ago)
-- [typesafegithub/github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won&#39;t go back to YAML! (5 days ago)
-- [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed. (5 days ago)
-- [product-os/flowzone](https://github.com/product-os/flowzone) - Reusable, opinionated, zero-conf workflows for GitHub actions (5 days ago)
+- [GrapheneOS/platform_packages_apps_Seedvault](https://github.com/GrapheneOS/platform_packages_apps_Seedvault) -  (1 day ago)
+- [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project. (4 days ago)
+- [cashapp/molecule](https://github.com/cashapp/molecule) - Build a StateFlow stream using Jetpack Compose (5 days ago)
+- [cashapp/redwood](https://github.com/cashapp/redwood) - Multiplatform reactive UI for Android, iOS, and web using Kotlin and Jetpack Compose (5 days ago)
+- [charleskorn/kaml](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization (6 days ago)
+- [Betterment/claws](https://github.com/Betterment/claws) - 💅🏽 analyzes your github actions (6 days ago)
+- [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (6 days ago)
+- [scade-platform/swift4j](https://github.com/scade-platform/swift4j) - Run native Swift Code across multiple platforms using Java or Kotlin (6 days ago)
+- [typesafegithub/github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won&#39;t go back to YAML! (6 days ago)
+- [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed. (6 days ago)
 
 #### 📫 How to reach me
 
