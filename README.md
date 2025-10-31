@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying (1 day ago)
-- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI. (1 day ago)
-- [sigoden/install-binary](https://github.com/sigoden/install-binary) - GitHub Action to install a binary from a GitHub Release (1 day ago)
-- [luizm/action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck, shfmt and checkbashisms. (2 days ago)
-- [cortesi/musq](https://github.com/cortesi/musq) -  (2 days ago)
-- [cortesi/hotki](https://github.com/cortesi/hotki) - A modal hotkey app for macOS (2 days ago)
-- [cortesi/clonetree](https://github.com/cortesi/clonetree) - Fast copy-on-write directory duplication for Rust (2 days ago)
-- [cortesi/godo](https://github.com/cortesi/godo) - Fast parallel sandboxes for any Git project (2 days ago)
-- [hukkin/mdformat-shfmt](https://github.com/hukkin/mdformat-shfmt) - Mdformat plugin to format shell code blocks (2 days ago)
-- [GrapheneOS/platform_packages_apps_Seedvault](https://github.com/GrapheneOS/platform_packages_apps_Seedvault) -  (3 days ago)
+- [aws-cloudformation/cfn-lint](https://github.com/aws-cloudformation/cfn-lint) - CloudFormation Linter (1 day ago)
+- [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying (2 days ago)
+- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI. (2 days ago)
+- [sigoden/install-binary](https://github.com/sigoden/install-binary) - GitHub Action to install a binary from a GitHub Release (2 days ago)
+- [luizm/action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck, shfmt and checkbashisms. (3 days ago)
+- [cortesi/musq](https://github.com/cortesi/musq) -  (3 days ago)
+- [cortesi/hotki](https://github.com/cortesi/hotki) - A modal hotkey app for macOS (3 days ago)
+- [cortesi/clonetree](https://github.com/cortesi/clonetree) - Fast copy-on-write directory duplication for Rust (3 days ago)
+- [cortesi/godo](https://github.com/cortesi/godo) - Fast parallel sandboxes for any Git project (3 days ago)
+- [hukkin/mdformat-shfmt](https://github.com/hukkin/mdformat-shfmt) - Mdformat plugin to format shell code blocks (3 days ago)
 
 #### 📫 How to reach me
 
