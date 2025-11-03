@@ -22,7 +22,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (5 months ago)
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (5 months ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (5 months ago)
-- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (5 months ago)
+- [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (6 months ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [jpadilla/pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python (2 days ago)
-- [aws-cloudformation/cfn-lint](https://github.com/aws-cloudformation/cfn-lint) - CloudFormation Linter (3 days ago)
-- [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying (4 days ago)
-- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI. (4 days ago)
-- [sigoden/install-binary](https://github.com/sigoden/install-binary) - GitHub Action to install a binary from a GitHub Release (4 days ago)
-- [luizm/action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck, shfmt and checkbashisms. (5 days ago)
-- [cortesi/musq](https://github.com/cortesi/musq) -  (5 days ago)
-- [cortesi/hotki](https://github.com/cortesi/hotki) - A modal hotkey app for macOS (5 days ago)
-- [cortesi/clonetree](https://github.com/cortesi/clonetree) - Fast copy-on-write directory duplication for Rust (5 days ago)
-- [cortesi/godo](https://github.com/cortesi/godo) - Fast parallel sandboxes for any Git project (5 days ago)
+- [jpadilla/pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python (3 days ago)
+- [aws-cloudformation/cfn-lint](https://github.com/aws-cloudformation/cfn-lint) - CloudFormation Linter (4 days ago)
+- [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying (5 days ago)
+- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI. (5 days ago)
+- [sigoden/install-binary](https://github.com/sigoden/install-binary) - GitHub Action to install a binary from a GitHub Release (5 days ago)
+- [luizm/action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck, shfmt and checkbashisms. (6 days ago)
+- [cortesi/musq](https://github.com/cortesi/musq) -  (6 days ago)
+- [cortesi/hotki](https://github.com/cortesi/hotki) - A modal hotkey app for macOS (6 days ago)
+- [cortesi/clonetree](https://github.com/cortesi/clonetree) - Fast copy-on-write directory duplication for Rust (6 days ago)
+- [cortesi/godo](https://github.com/cortesi/godo) - Fast parallel sandboxes for any Git project (6 days ago)
 
 #### 📫 How to reach me
 
