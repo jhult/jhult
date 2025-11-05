@@ -32,7 +32,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (1 week ago)
+- [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (2 weeks ago)
 - [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (2 months ago)
 - [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (3 months ago)
 - [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (3 months ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [aws/aws-lambda-java-libs](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes for Java code running on the AWS Lambda platform. (1 day ago)
-- [jpadilla/pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python (4 days ago)
-- [aws-cloudformation/cfn-lint](https://github.com/aws-cloudformation/cfn-lint) - CloudFormation Linter (5 days ago)
-- [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying (6 days ago)
-- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI. (6 days ago)
-- [sigoden/install-binary](https://github.com/sigoden/install-binary) - GitHub Action to install a binary from a GitHub Release (6 days ago)
+- [latex3/fontspec](https://github.com/latex3/fontspec) - Font selection in LaTeX for XeTeX and LuaTeX (1 day ago)
+- [TeX-Live/texlive-source](https://github.com/TeX-Live/texlive-source) - source part of the TeX Live subversion repository - for issues please contact the tex-k mailing list at tug.org (1 day ago)
+- [aws/aws-lambda-java-libs](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes for Java code running on the AWS Lambda platform. (2 days ago)
+- [jpadilla/pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python (5 days ago)
+- [aws-cloudformation/cfn-lint](https://github.com/aws-cloudformation/cfn-lint) - CloudFormation Linter (6 days ago)
+- [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying (1 week ago)
+- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI. (1 week ago)
+- [sigoden/install-binary](https://github.com/sigoden/install-binary) - GitHub Action to install a binary from a GitHub Release (1 week ago)
 - [luizm/action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck, shfmt and checkbashisms. (1 week ago)
 - [cortesi/musq](https://github.com/cortesi/musq) -  (1 week ago)
-- [cortesi/hotki](https://github.com/cortesi/hotki) - A modal hotkey app for macOS (1 week ago)
-- [cortesi/clonetree](https://github.com/cortesi/clonetree) - Fast copy-on-write directory duplication for Rust (1 week ago)
 
 #### 📫 How to reach me
 
