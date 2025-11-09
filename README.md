@@ -45,15 +45,15 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [martinbonnin/kscripts](https://github.com/martinbonnin/kscripts) - A bunch of kscripts (1 day ago)
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant. (2 days ago)
-- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (2 days ago)
-- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos (2 days ago)
-- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (2 days ago)
-- [ttscoff/bunch](https://github.com/ttscoff/bunch) - Documentation repository for Bunch.app (3 days ago)
-- [latex3/fontspec](https://github.com/latex3/fontspec) - Font selection in LaTeX for XeTeX and LuaTeX (4 days ago)
-- [TeX-Live/texlive-source](https://github.com/TeX-Live/texlive-source) - source part of the TeX Live subversion repository - for issues please contact the tex-k mailing list at tug.org (4 days ago)
-- [aws/aws-lambda-java-libs](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes for Java code running on the AWS Lambda platform. (5 days ago)
+- [martinbonnin/kscripts](https://github.com/martinbonnin/kscripts) - A bunch of kscripts (2 days ago)
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant. (3 days ago)
+- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (3 days ago)
+- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos (3 days ago)
+- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (3 days ago)
+- [ttscoff/bunch](https://github.com/ttscoff/bunch) - Documentation repository for Bunch.app (4 days ago)
+- [latex3/fontspec](https://github.com/latex3/fontspec) - Font selection in LaTeX for XeTeX and LuaTeX (5 days ago)
+- [TeX-Live/texlive-source](https://github.com/TeX-Live/texlive-source) - source part of the TeX Live subversion repository - for issues please contact the tex-k mailing list at tug.org (5 days ago)
+- [aws/aws-lambda-java-libs](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes for Java code running on the AWS Lambda platform. (6 days ago)
 - [jpadilla/pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python (1 week ago)
 
 #### 📫 How to reach me
