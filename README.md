@@ -21,7 +21,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (4 months ago)
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (5 months ago)
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (5 months ago)
-- [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (5 months ago)
+- [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (6 months ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (6 months ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (7 months ago)
 
@@ -32,7 +32,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
-- [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (2 weeks ago)
+- [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (3 weeks ago)
 - [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (2 months ago)
 - [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (3 months ago)
 - [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (3 months ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [martinbonnin/kscripts](https://github.com/martinbonnin/kscripts) - A bunch of kscripts (4 days ago)
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant. (5 days ago)
-- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (5 days ago)
-- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos (5 days ago)
-- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (5 days ago)
-- [ttscoff/bunch](https://github.com/ttscoff/bunch) - Documentation repository for Bunch.app (6 days ago)
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (1 day ago)
+- [martinbonnin/kscripts](https://github.com/martinbonnin/kscripts) - A bunch of kscripts (5 days ago)
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant. (6 days ago)
+- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (6 days ago)
+- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos (6 days ago)
+- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (6 days ago)
+- [ttscoff/bunch](https://github.com/ttscoff/bunch) - Documentation repository for Bunch.app (1 week ago)
 - [latex3/fontspec](https://github.com/latex3/fontspec) - Font selection in LaTeX for XeTeX and LuaTeX (1 week ago)
 - [TeX-Live/texlive-source](https://github.com/TeX-Live/texlive-source) - source part of the TeX Live subversion repository - for issues please contact the tex-k mailing list at tug.org (1 week ago)
 - [aws/aws-lambda-java-libs](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes for Java code running on the AWS Lambda platform. (1 week ago)
-- [jpadilla/pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python (1 week ago)
 
 #### 📫 How to reach me
 
