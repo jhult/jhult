@@ -45,8 +45,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [awslabs/amazon-sqs-java-extended-client-lib](https://github.com/awslabs/amazon-sqs-java-extended-client-lib) - An extension to the Amazon SQS client that enables sending and receiving messages up to 2GB via Amazon S3.  (1 day ago)
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (3 days ago)
+- [awslabs/amazon-sqs-java-extended-client-lib](https://github.com/awslabs/amazon-sqs-java-extended-client-lib) - An extension to the Amazon SQS client that enables sending and receiving messages up to 2GB via Amazon S3.  (2 days ago)
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (4 days ago)
 - [martinbonnin/kscripts](https://github.com/martinbonnin/kscripts) - A bunch of kscripts (1 week ago)
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant. (1 week ago)
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (1 week ago)
