@@ -14,8 +14,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 👷 Check out what I'm currently working on
 
-- [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) - Shared starter template configuration and CLAUDE.md memory bank system for Claude Code (3 months ago)
-- [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (3 months ago)
+- [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) - Shared starter template configuration and CLAUDE.md memory bank system for Claude Code (4 months ago)
+- [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (4 months ago)
 - [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) - 🧪 Curated collection of AI development resources, automation tools, and modern development practices. Features GitHub repositories, articles, and community resources for developers and AI enthusiasts. (4 months ago)
 - [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (4 months ago)
 - [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (4 months ago)
@@ -35,9 +35,9 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (3 weeks ago)
 - [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (2 months ago)
 - [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (3 months ago)
-- [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (3 months ago)
-- [Add MIT license](https://github.com/penwyp/ClaudePreference/pull/2) on [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) (3 months ago)
-- [Add MIT license](https://github.com/centminmod/my-claude-code-setup/pull/1) on [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) (3 months ago)
+- [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (4 months ago)
+- [Add MIT license](https://github.com/penwyp/ClaudePreference/pull/2) on [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) (4 months ago)
+- [Add MIT license](https://github.com/centminmod/my-claude-code-setup/pull/1) on [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) (4 months ago)
 - [Add Apache 2.0 license](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos/pull/1) on [snyk-labs/deactivate-delete-archieved-gh-repos](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos) (4 months ago)
 - [Add MIT license](https://github.com/samyakjain0606/awesome-learning-material/pull/1) on [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) (4 months ago)
 - [Add MIT license](https://github.com/Veraticus/nix-config/pull/5) on [Veraticus/nix-config](https://github.com/Veraticus/nix-config) (4 months ago)
@@ -45,8 +45,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [awslabs/amazon-sqs-java-extended-client-lib](https://github.com/awslabs/amazon-sqs-java-extended-client-lib) - An extension to the Amazon SQS client that enables sending and receiving messages up to 2GB via Amazon S3.  (3 days ago)
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (5 days ago)
+- [awslabs/amazon-sqs-java-extended-client-lib](https://github.com/awslabs/amazon-sqs-java-extended-client-lib) - An extension to the Amazon SQS client that enables sending and receiving messages up to 2GB via Amazon S3.  (4 days ago)
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (6 days ago)
 - [martinbonnin/kscripts](https://github.com/martinbonnin/kscripts) - A bunch of kscripts (1 week ago)
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant. (1 week ago)
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (1 week ago)
