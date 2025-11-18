@@ -32,6 +32,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 🔨 My recent Pull Requests
 
+- [Add MIT license](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch/pull/1) on [pbkn/dlq-auto-redrive-by-cloudwatch](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch) (1 day ago)
 - [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (3 weeks ago)
 - [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (2 months ago)
 - [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (3 months ago)
@@ -41,20 +42,19 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Add Apache 2.0 license](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos/pull/1) on [snyk-labs/deactivate-delete-archieved-gh-repos](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos) (4 months ago)
 - [Add MIT license](https://github.com/samyakjain0606/awesome-learning-material/pull/1) on [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) (4 months ago)
 - [Add MIT license](https://github.com/Veraticus/nix-config/pull/5) on [Veraticus/nix-config](https://github.com/Veraticus/nix-config) (4 months ago)
-- [Add MIT license](https://github.com/Veraticus/claude-code-ntfy/pull/2) on [Veraticus/claude-code-ntfy](https://github.com/Veraticus/claude-code-ntfy) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [awslabs/amazon-sqs-java-extended-client-lib](https://github.com/awslabs/amazon-sqs-java-extended-client-lib) - An extension to the Amazon SQS client that enables sending and receiving messages up to 2GB via Amazon S3.  (4 days ago)
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (6 days ago)
+- [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) - SQL Reimagined for the Modern Data World (1 day ago)
+- [pbkn/dlq-auto-redrive-by-cloudwatch](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch) -  (1 day ago)
+- [awslabs/amazon-sqs-java-extended-client-lib](https://github.com/awslabs/amazon-sqs-java-extended-client-lib) - An extension to the Amazon SQS client that enables sending and receiving messages up to 2GB via Amazon S3.  (5 days ago)
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (1 week ago)
 - [martinbonnin/kscripts](https://github.com/martinbonnin/kscripts) - A bunch of kscripts (1 week ago)
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant. (1 week ago)
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (1 week ago)
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos (1 week ago)
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (1 week ago)
 - [ttscoff/bunch](https://github.com/ttscoff/bunch) - Documentation repository for Bunch.app (1 week ago)
-- [latex3/fontspec](https://github.com/latex3/fontspec) - Font selection in LaTeX for XeTeX and LuaTeX (1 week ago)
-- [TeX-Live/texlive-source](https://github.com/TeX-Live/texlive-source) - source part of the TeX Live subversion repository - for issues please contact the tex-k mailing list at tug.org (1 week ago)
 
 #### 📫 How to reach me
 
