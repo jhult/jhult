@@ -1,16 +1,22 @@
-### Howdy 👋
+Backend engineer with 15+ years of experience in software engineering, consulting, and pre-sales, delivering scalable solutions across finance, tech, retail, and government sectors for organizations ranging from startups to Fortune 100 companies.
 
-I'm a Staff Software Engineer with 13+ years of experience in software engineering, consulting, and pre-sales. I have a deep understanding of [Java](https://www.oracle.com/java/), [Kotlin](https://kotlinlang.org/), and the [Oracle Fusion Middleware](https://www.oracle.com/middleware/) stack. I have years of experience in the design, development, and support of large-scale projects.
+Java and [Kotlin](https://kotlinlang.org/) specialist focused on cloud infrastructure (AWS, OCI, Cloudflare), CI/CD automation, and [trunk-based development](https://trunkbaseddevelopment.com).
 
-I started my IT journey in my teens by fixing computers for family and friends. During high school, I served as Technical Director for a financial advisor's office. I continued my journey by attending [Iowa State University](https://www.iastate.edu/) where I graduated in 3 years with a B.S. in Management Information Systems. After college, I started working with [Oracle WebCenter Content](https://docs.oracle.com/en/middleware/webcenter/content/12.2.1.4/).
+Experienced in async, remote-first [teams](https://unfix.com/what-is-unfix) since 2012.
 
-I am globally recognized within the WebCenter Content community. I have worked with clients around the world to help them solve their business problems. I have worked with clients in a wide variety of industries (finance, tech, non-profit, transportation, education, retail), worked on large and small projects (from small businesses to Fortune 100 companies and U.S. Federal Government agencies), and worked in varying capacities (from developer to project lead).
+Graduated from [Iowa State University](https://www.iastate.edu) in 3 years with a BS in Management Information Systems.
 
-At [Mythics](https://www.mythics.com/), I progressed from a technical consultant to a technical director. I shared my Oracle expertise on the [Mythics blog](https://mythics.com/blog/) and presented at COLLABORATE, [Oracle OpenWorld](https://www.oracle.com/cloudworld/), tech days, and other events.
+Follower of Jesus at [The Austin Stone Community Church](http://austinstone.org).
 
-Today, I work as a Staff Software Engineer for [H-E-B](https://digital.heb.com/) helping track the quantity, movement, and financial value of inventory at all [stores](https://heb.com/store-locations) and warehouses.
+Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
-Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and video games, watching movies/TV and rock music/concerts. I can play multiple instruments including piano, trumpet, and guitar. I love Jesus and worship Him at [The Austin Stone Community Church](https://austinstone.org/).
+#### 📖 Some things worth reading:
+
+- [Why Your Team Doesn't Need Pull Requests](https://blog.jonathanhult.com/why-your-team-doesnt-need-pull-requests)
+- [The Art of Effective Code Reviews](https://blog.jonathanhult.com/the-art-of-effective-code-reviews)
+- [Group Decision Making Approaches](https://blog.jonathanhult.com/group-decision-making-approaches)
+- [Business Continuity](https://blog.jonathanhult.com/business-continuity)
+- [More posts on my blog](https://blog.jonathanhult.com)
 
 #### 👷 Check out what I'm currently working on
 
@@ -58,10 +64,8 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### 📫 How to reach me
 
-Say Hello, I don't bite!
-
 - [LinkedIn](https://www.linkedin.com/in/jonathanhult/)
 
-#### 📖 Generate your own GitHub README
+---
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
