@@ -20,7 +20,7 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 - [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (4 months ago)
 - [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted. (4 months ago)
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) -  (5 months ago)
-- [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (5 months ago)
+- [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (6 months ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (6 months ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (6 months ago)
 - [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (7 months ago)
@@ -45,16 +45,16 @@ Outside of my daily work, I enjoy disc golf, bowling, snow skiing, board and vid
 
 #### ⭐ Recent Stars
 
-- [cornucopia-rs/cornucopia](https://github.com/cornucopia-rs/cornucopia) - Generate type-checked Rust from your PostgreSQL. (1 day ago)
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Create data flywheel for your AI app. Traces, Evals, Datasets, Labels. YC S24. (1 day ago)
-- [dbos-inc/dbos-transact-java](https://github.com/dbos-inc/dbos-transact-java) - Lightweight Durable Java Workflows (2 days ago)
-- [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager (2 days ago)
-- [Chromo-lib/screenshot](https://github.com/Chromo-lib/screenshot) - 📷 ✍️ A browser extension for making a full page or partial screen capture (4 days ago)
-- [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome (5 days ago)
-- [urbanairship/java-library](https://github.com/urbanairship/java-library) - Java client library for the Urban Airship API (6 days ago)
+- [jstachio/ezkv](https://github.com/jstachio/ezkv) - A non-opinionated Java bootstrapping configuration library (1 day ago)
+- [cornucopia-rs/cornucopia](https://github.com/cornucopia-rs/cornucopia) - Generate type-checked Rust from your PostgreSQL. (2 days ago)
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Create data flywheel for your AI app. Traces, Evals, Datasets, Labels. YC S24. (2 days ago)
+- [dbos-inc/dbos-transact-java](https://github.com/dbos-inc/dbos-transact-java) - Lightweight Durable Java Workflows (3 days ago)
+- [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager (3 days ago)
+- [Chromo-lib/screenshot](https://github.com/Chromo-lib/screenshot) - 📷 ✍️ A browser extension for making a full page or partial screen capture (5 days ago)
+- [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome (6 days ago)
+- [urbanairship/java-library](https://github.com/urbanairship/java-library) - Java client library for the Urban Airship API (1 week ago)
 - [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) - SQL Reimagined for the Modern Data World (1 week ago)
 - [pbkn/dlq-auto-redrive-by-cloudwatch](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch) -  (1 week ago)
-- [awslabs/amazon-sqs-java-extended-client-lib](https://github.com/awslabs/amazon-sqs-java-extended-client-lib) - An extension to the Amazon SQS client that enables sending and receiving messages up to 2GB via Amazon S3.  (1 week ago)
 
 #### 📫 How to reach me
 
