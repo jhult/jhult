@@ -29,7 +29,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [meeuw/rzn](https://github.com/meeuw/rzn) - rzn - rsync/rclone git like push/pull wrapper (6 months ago)
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS platform with full wasi-http compliance (6 months ago)
 - [Granola-Team/mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain. (6 months ago)
-- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (7 months ago)
+- [Granola-Team/infra](https://github.com/Granola-Team/infra) - Granola&#39;s cloud infrastructure. (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -40,7 +40,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 - [Add MIT license](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch/pull/1) on [pbkn/dlq-auto-redrive-by-cloudwatch](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch) (1 week ago)
 - [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (1 month ago)
-- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (2 months ago)
+- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (3 months ago)
 - [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (4 months ago)
 - [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (4 months ago)
 - [Add MIT license](https://github.com/penwyp/ClaudePreference/pull/2) on [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) (4 months ago)
@@ -51,13 +51,13 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [jstachio/ezkv](https://github.com/jstachio/ezkv) - A non-opinionated Java bootstrapping configuration library (1 day ago)
-- [cornucopia-rs/cornucopia](https://github.com/cornucopia-rs/cornucopia) - Generate type-checked Rust from your PostgreSQL. (2 days ago)
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Create data flywheel for your AI app. Traces, Evals, Datasets, Labels. YC S24. (2 days ago)
-- [dbos-inc/dbos-transact-java](https://github.com/dbos-inc/dbos-transact-java) - Lightweight Durable Java Workflows (3 days ago)
-- [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager (3 days ago)
-- [Chromo-lib/screenshot](https://github.com/Chromo-lib/screenshot) - 📷 ✍️ A browser extension for making a full page or partial screen capture (5 days ago)
-- [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome (6 days ago)
+- [jstachio/ezkv](https://github.com/jstachio/ezkv) - A non-opinionated Java bootstrapping configuration library (2 days ago)
+- [cornucopia-rs/cornucopia](https://github.com/cornucopia-rs/cornucopia) - Generate type-checked Rust from your PostgreSQL. (3 days ago)
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Create data flywheel for your AI app. Traces, Evals, Datasets, Labels. YC S24. (3 days ago)
+- [dbos-inc/dbos-transact-java](https://github.com/dbos-inc/dbos-transact-java) - Lightweight Durable Java Workflows (4 days ago)
+- [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager (4 days ago)
+- [Chromo-lib/screenshot](https://github.com/Chromo-lib/screenshot) - 📷 ✍️ A browser extension for making a full page or partial screen capture (6 days ago)
+- [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome (1 week ago)
 - [urbanairship/java-library](https://github.com/urbanairship/java-library) - Java client library for the Urban Airship API (1 week ago)
 - [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) - SQL Reimagined for the Modern Data World (1 week ago)
 - [pbkn/dlq-auto-redrive-by-cloudwatch](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch) -  (1 week ago)
