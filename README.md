@@ -51,12 +51,12 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [jstachio/ezkv](https://github.com/jstachio/ezkv) - A non-opinionated Java bootstrapping configuration library (2 days ago)
-- [cornucopia-rs/cornucopia](https://github.com/cornucopia-rs/cornucopia) - Generate type-checked Rust from your PostgreSQL. (3 days ago)
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Create data flywheel for your AI app. Traces, Evals, Datasets, Labels. YC S24. (3 days ago)
-- [dbos-inc/dbos-transact-java](https://github.com/dbos-inc/dbos-transact-java) - Lightweight Durable Java Workflows (4 days ago)
-- [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager (4 days ago)
-- [Chromo-lib/screenshot](https://github.com/Chromo-lib/screenshot) - 📷 ✍️ A browser extension for making a full page or partial screen capture (6 days ago)
+- [jstachio/ezkv](https://github.com/jstachio/ezkv) - A non-opinionated Java bootstrapping configuration library (3 days ago)
+- [cornucopia-rs/cornucopia](https://github.com/cornucopia-rs/cornucopia) - Generate type-checked Rust from your PostgreSQL. (4 days ago)
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Create data flywheel for your AI app. Traces, Evals, Datasets, Labels. YC S24. (4 days ago)
+- [dbos-inc/dbos-transact-java](https://github.com/dbos-inc/dbos-transact-java) - Lightweight Durable Java Workflows (5 days ago)
+- [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager (5 days ago)
+- [Chromo-lib/screenshot](https://github.com/Chromo-lib/screenshot) - 📷 ✍️ A browser extension for making a full page or partial screen capture (1 week ago)
 - [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome (1 week ago)
 - [urbanairship/java-library](https://github.com/urbanairship/java-library) - Java client library for the Urban Airship API (1 week ago)
 - [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) - SQL Reimagined for the Modern Data World (1 week ago)
