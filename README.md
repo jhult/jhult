@@ -20,7 +20,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app (4 days ago)
+- [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app (5 days ago)
 - [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) - Shared starter template configuration and CLAUDE.md memory bank system for Claude Code (4 months ago)
 - [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (4 months ago)
 - [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) - 🧪 Curated collection of AI development resources, automation tools, and modern development practices. Features GitHub repositories, articles, and community resources for developers and AI enthusiasts. (4 months ago)
@@ -39,9 +39,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [Limit submission title to 80 characters](https://github.com/SimonHalvdansson/Harmonic-HN/pull/276) on [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) (1 day ago)
-- [fix: break windows not closing correctly on all platforms](https://github.com/hovancik/stretchly/pull/1700) on [hovancik/stretchly](https://github.com/hovancik/stretchly) (3 days ago)
-- [Add MIT license](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch/pull/1) on [pbkn/dlq-auto-redrive-by-cloudwatch](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch) (1 week ago)
+- [Limit submission title to 80 characters](https://github.com/SimonHalvdansson/Harmonic-HN/pull/276) on [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) (2 days ago)
+- [fix: break windows not closing correctly on all platforms](https://github.com/hovancik/stretchly/pull/1700) on [hovancik/stretchly](https://github.com/hovancik/stretchly) (4 days ago)
+- [Add MIT license](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch/pull/1) on [pbkn/dlq-auto-redrive-by-cloudwatch](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch) (2 weeks ago)
 - [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (1 month ago)
 - [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (3 months ago)
 - [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (4 months ago)
@@ -52,10 +52,10 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story. (3 days ago)
-- [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS (3 days ago)
-- [tylerhall/Alan](https://github.com/tylerhall/Alan) - Draws a border around the active window on macOS. (3 days ago)
-- [jstachio/ezkv](https://github.com/jstachio/ezkv) - A non-opinionated Java bootstrapping configuration library (6 days ago)
+- [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story. (4 days ago)
+- [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS (4 days ago)
+- [tylerhall/Alan](https://github.com/tylerhall/Alan) - Draws a border around the active window on macOS. (4 days ago)
+- [jstachio/ezkv](https://github.com/jstachio/ezkv) - A non-opinionated Java bootstrapping configuration library (1 week ago)
 - [cornucopia-rs/cornucopia](https://github.com/cornucopia-rs/cornucopia) - Generate type-checked Rust from your PostgreSQL. (1 week ago)
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Create data flywheel for your AI app. Traces, Evals, Datasets, Labels. YC S24. (1 week ago)
 - [dbos-inc/dbos-transact-java](https://github.com/dbos-inc/dbos-transact-java) - Lightweight Durable Java Workflows (1 week ago)
