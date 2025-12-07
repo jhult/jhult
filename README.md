@@ -33,13 +33,14 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.5](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.5), 4 days ago) - Modern Android client for Hacker News
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.5](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.5), 5 days ago) - Modern Android client for Hacker News
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.19.0](https://github.com/hovancik/stretchly/releases/tag/v1.19.0), 3 weeks ago) - The break time reminder app
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) ([v0.6.1](https://github.com/tacogips/async-graphql-reverse/releases/tag/v0.6.1), 1 year ago) - 
 - [geldata/gel-java](https://github.com/geldata/gel-java) ([0.3.0](https://github.com/geldata/gel-java/releases/tag/0.3.0), 2 years ago) - The official Java client library for EdgeDB
 
 #### 🔨 My recent Pull Requests
 
+- [[core] fix memory leak in Hunspell dictionary loading](https://github.com/languagetool-org/languagetool/pull/11692) on [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) (1 day ago)
 - [Limit submission title to 80 characters](https://github.com/SimonHalvdansson/Harmonic-HN/pull/276) on [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) (1 week ago)
 - [fix: break windows not closing correctly on all platforms](https://github.com/hovancik/stretchly/pull/1700) on [hovancik/stretchly](https://github.com/hovancik/stretchly) (1 week ago)
 - [Add MIT license](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch/pull/1) on [pbkn/dlq-auto-redrive-by-cloudwatch](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch) (2 weeks ago)
@@ -49,20 +50,19 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [Add MIT license](https://github.com/penwyp/catmit/pull/15) on [penwyp/catmit](https://github.com/penwyp/catmit) (4 months ago)
 - [Add MIT license](https://github.com/penwyp/ClaudePreference/pull/2) on [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) (4 months ago)
 - [Add MIT license](https://github.com/centminmod/my-claude-code-setup/pull/1) on [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) (4 months ago)
-- [Add Apache 2.0 license](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos/pull/1) on [snyk-labs/deactivate-delete-archieved-gh-repos](https://github.com/snyk-labs/deactivate-delete-archieved-gh-repos) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli) - 💻 Command-line application to use ReVanced (2 days ago)
-- [uutils/sed](https://github.com/uutils/sed) - Rewrite of sed in Rust (3 days ago)
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs (3 days ago)
-- [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended) - ReVanced Extended Issues/Request repo (4 days ago)
-- [brianml31/InstaMoon](https://github.com/brianml31/InstaMoon) - InstaMoon source code (4 days ago)
-- [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode. (4 days ago)
-- [retypeapp/retype](https://github.com/retypeapp/retype) - Retype is an ultra-high-performance static site generator that builds a website based on simple text files. Made in Canada 🇨🇦. (4 days ago)
-- [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application. (4 days ago)
-- [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX ! (4 days ago)
-- [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications (4 days ago)
+- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (today)
+- [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli) - 💻 Command-line application to use ReVanced (3 days ago)
+- [uutils/sed](https://github.com/uutils/sed) - Rewrite of sed in Rust (4 days ago)
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs (4 days ago)
+- [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended) - ReVanced Extended Issues/Request repo (5 days ago)
+- [brianml31/InstaMoon](https://github.com/brianml31/InstaMoon) - InstaMoon source code (5 days ago)
+- [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode. (5 days ago)
+- [retypeapp/retype](https://github.com/retypeapp/retype) - Retype is an ultra-high-performance static site generator that builds a website based on simple text files. Made in Canada 🇨🇦. (5 days ago)
+- [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application. (5 days ago)
+- [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX ! (5 days ago)
 
 #### 📫 How to reach me
 
