@@ -20,7 +20,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (1 day ago)
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (2 days ago)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (1 week ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 week ago)
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News (2 weeks ago)
@@ -41,7 +41,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix memory leaks (#616)](https://github.com/objective-see/LuLu/pull/816) on [objective-see/LuLu](https://github.com/objective-see/LuLu) (3 days ago)
+- [Fix memory leaks (#616)](https://github.com/objective-see/LuLu/pull/816) on [objective-see/LuLu](https://github.com/objective-see/LuLu) (4 days ago)
 - [atuin: add head build](https://github.com/Homebrew/homebrew-core/pull/257967) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
 - [fix: prevent interactive search crash when update check fails](https://github.com/atuinsh/atuin/pull/3016) on [atuinsh/atuin](https://github.com/atuinsh/atuin) (1 week ago)
 - [[core] fix memory leak in Hunspell dictionary loading](https://github.com/languagetool-org/languagetool/pull/11692) on [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) (1 week ago)
@@ -50,20 +50,20 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [Add MIT license](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch/pull/1) on [pbkn/dlq-auto-redrive-by-cloudwatch](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch) (1 month ago)
 - [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (1 month ago)
 - [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (3 months ago)
-- [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (4 months ago)
+- [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (today)
-- [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose. (1 day ago)
-- [swiftDialog/swiftDialog](https://github.com/swiftDialog/swiftDialog) - Create user-notifications on macOS with swiftDialog (2 days ago)
-- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (2 days ago)
-- [temporalio/sdk-core](https://github.com/temporalio/sdk-core) - Core Temporal SDK that can be used as a base for language specific Temporal SDKs (2 days ago)
-- [temporalio/awesome-temporal](https://github.com/temporalio/awesome-temporal) - A curated list of awesome Temporal libraries and resources. (2 days ago)
-- [temporalio/sdk-java](https://github.com/temporalio/sdk-java) - Temporal Java SDK (2 days ago)
-- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence. (2 days ago)
-- [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓 (3 days ago)
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent. (3 days ago)
+- [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (1 day ago)
+- [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose. (2 days ago)
+- [swiftDialog/swiftDialog](https://github.com/swiftDialog/swiftDialog) - Create user-notifications on macOS with swiftDialog (3 days ago)
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (3 days ago)
+- [temporalio/sdk-core](https://github.com/temporalio/sdk-core) - Core Temporal SDK that can be used as a base for language specific Temporal SDKs (3 days ago)
+- [temporalio/awesome-temporal](https://github.com/temporalio/awesome-temporal) - A curated list of awesome Temporal libraries and resources. (3 days ago)
+- [temporalio/sdk-java](https://github.com/temporalio/sdk-java) - Temporal Java SDK (3 days ago)
+- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence. (3 days ago)
+- [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓 (4 days ago)
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent. (4 days ago)
 
 #### 📫 How to reach me
 
