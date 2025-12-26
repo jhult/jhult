@@ -24,7 +24,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (2 weeks ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (2 weeks ago)
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News (3 weeks ago)
-- [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app (4 weeks ago)
+- [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app (1 month ago)
 - [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) - Shared starter template configuration and CLAUDE.md memory bank system for Claude Code (5 months ago)
 - [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (5 months ago)
 - [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) - 🧪 Curated collection of AI development resources, automation tools, and modern development practices. Features GitHub repositories, articles, and community resources for developers and AI enthusiasts. (5 months ago)
@@ -33,7 +33,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 1 day ago) - The break time reminder app
+- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 2 days ago) - The break time reminder app
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.5](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.5), 3 weeks ago) - Modern Android client for Hacker News
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.10.0](https://github.com/atuinsh/atuin/releases/tag/v18.10.0), 2 months ago) - ✨ Magical shell history
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) ([v0.6.1](https://github.com/tacogips/async-graphql-reverse/releases/tag/v0.6.1), 1 year ago) - 
@@ -49,13 +49,14 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [fix: break windows not closing correctly on all platforms](https://github.com/hovancik/stretchly/pull/1700) on [hovancik/stretchly](https://github.com/hovancik/stretchly) (4 weeks ago)
 - [Add MIT license](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch/pull/1) on [pbkn/dlq-auto-redrive-by-cloudwatch](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch) (1 month ago)
 - [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (2 months ago)
-- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (3 months ago)
+- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (4 months ago)
 - [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers (2 days ago)
-- [dejay2/glmproxy](https://github.com/dejay2/glmproxy) - GLM Proxy - LLM API proxy server (6 days ago)
+- [Bedolla/ZaiTransformer](https://github.com/Bedolla/ZaiTransformer) -  (1 day ago)
+- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers (3 days ago)
+- [dejay2/glmproxy](https://github.com/dejay2/glmproxy) - GLM Proxy - LLM API proxy server (1 week ago)
 - [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (1 week ago)
 - [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose. (1 week ago)
 - [swiftDialog/swiftDialog](https://github.com/swiftDialog/swiftDialog) - Create user-notifications on macOS with swiftDialog (1 week ago)
@@ -63,7 +64,6 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [temporalio/sdk-core](https://github.com/temporalio/sdk-core) - Core Temporal SDK that can be used as a base for language specific Temporal SDKs (1 week ago)
 - [temporalio/awesome-temporal](https://github.com/temporalio/awesome-temporal) - A curated list of awesome Temporal libraries and resources. (1 week ago)
 - [temporalio/sdk-java](https://github.com/temporalio/sdk-java) - Temporal Java SDK (1 week ago)
-- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence. (1 week ago)
 
 #### 📫 How to reach me
 
