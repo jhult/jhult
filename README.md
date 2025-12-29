@@ -54,6 +54,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
+- [beadster/beadster](https://github.com/beadster/beadster) - Beads macOS app (today)
 - [isotjs/no-more-reels](https://github.com/isotjs/no-more-reels) - No More Reels! is a Firefox extension designed to help you break free from endless scrolling by hiding Instagram&#39;s Reels and Explore sections. Focus on meaningful content and connections instead of getting lost in algorithmic feeds. (1 day ago)
 - [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) - Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules 🛠️ (2 days ago)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 days ago)
@@ -63,7 +64,6 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [instavm/coderunner](https://github.com/instavm/coderunner) - A secure local sandbox to run LLM-generated code using Apple containers (2 days ago)
 - [boldsoftware/exe.dev](https://github.com/boldsoftware/exe.dev) - just use ssh (2 days ago)
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet (2 days ago)
-- [TechnitiumSoftware/net.dnsclient](https://github.com/TechnitiumSoftware/net.dnsclient) - DNS Client Web App hosted on https://dnsclient.net/ (2 days ago)
 
 #### 📫 How to reach me
 
