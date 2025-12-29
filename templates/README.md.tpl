@@ -1,6 +1,6 @@
 Backend engineer with 15+ years of experience in software engineering, consulting, and pre-sales, delivering scalable solutions across finance, tech, retail, and government sectors for organizations ranging from startups to Fortune 100 companies.
 
-Java and [Kotlin](https://kotlinlang.org/) specialist focused on cloud infrastructure (AWS, OCI, Cloudflare), CI/CD automation, and [trunk-based development](https://trunkbaseddevelopment.com).
+Java and [Kotlin](https://kotlinlang.org/) specialist focused on backend development leveraging cloud infrastructure (AWS, OCI, Cloudflare), CI/CD automation, and [trunk-based development](https://trunkbaseddevelopment.com).
 
 Experienced in async, remote-first [teams](https://unfix.com/what-is-unfix) since 2012.
 
