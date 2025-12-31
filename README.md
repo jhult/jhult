@@ -20,8 +20,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (1 week ago)
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (2 weeks ago)
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (2 weeks ago)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (3 weeks ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 weeks ago)
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News (1 month ago)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app (1 month ago)
@@ -33,7 +33,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 6 days ago) - The break time reminder app
+- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 1 week ago) - The break time reminder app
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.5](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.5), 4 weeks ago) - Modern Android client for Hacker News
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.10.0](https://github.com/atuinsh/atuin/releases/tag/v18.10.0), 2 months ago) - ✨ Magical shell history
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) ([v0.6.1](https://github.com/tacogips/async-graphql-reverse/releases/tag/v0.6.1), 1 year ago) - 
@@ -41,6 +41,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: upgrade czkawka_core to 10.0.0](https://github.com/shixinhuang99/czkawka-tauri/pull/14) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 day ago)
+- [feat: detect and prevent directory conflicts](https://github.com/shixinhuang99/czkawka-tauri/pull/13) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 day ago)
+- [fix: ffmpeg PATH detection to avoid &#39;File name too long&#39; error](https://github.com/shixinhuang99/czkawka-tauri/pull/12) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 day ago)
 - [Fix memory leaks (#616)](https://github.com/objective-see/LuLu/pull/816) on [objective-see/LuLu](https://github.com/objective-see/LuLu) (2 weeks ago)
 - [atuin: add head build](https://github.com/Homebrew/homebrew-core/pull/257967) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (3 weeks ago)
 - [fix: prevent interactive search crash when update check fails](https://github.com/atuinsh/atuin/pull/3016) on [atuinsh/atuin](https://github.com/atuinsh/atuin) (3 weeks ago)
@@ -48,22 +51,19 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [Limit submission title to 80 characters](https://github.com/SimonHalvdansson/Harmonic-HN/pull/276) on [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) (1 month ago)
 - [fix: break windows not closing correctly on all platforms](https://github.com/hovancik/stretchly/pull/1700) on [hovancik/stretchly](https://github.com/hovancik/stretchly) (1 month ago)
 - [Add MIT license](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch/pull/1) on [pbkn/dlq-auto-redrive-by-cloudwatch](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch) (1 month ago)
-- [chore(docs): fix Go install command](https://github.com/Finatext/gha-fix/pull/15) on [Finatext/gha-fix](https://github.com/Finatext/gha-fix) (2 months ago)
-- [Enable CredentialManager APIs for all apps supporting passkeys](https://github.com/uazo/cromite/pull/2296) on [uazo/cromite](https://github.com/uazo/cromite) (4 months ago)
-- [Add MIT license](https://github.com/Typogram/coding-font-sveltekit/pull/1) on [Typogram/coding-font-sveltekit](https://github.com/Typogram/coding-font-sveltekit) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (today)
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (today)
-- [bell-sw/alpaquita-aports](https://github.com/bell-sw/alpaquita-aports) - Alpaquita Linux aports (1 day ago)
-- [bell-sw/Alpaquita](https://github.com/bell-sw/Alpaquita) -  (1 day ago)
-- [alvr/alpine-android](https://github.com/alvr/alpine-android) - 🐋 Small docker image for building &amp; testing Android applications. (1 day ago)
-- [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image (1 day ago)
-- [beadster/beadster](https://github.com/beadster/beadster) - Beads macOS app (1 day ago)
-- [isotjs/no-more-reels](https://github.com/isotjs/no-more-reels) - No More Reels! is a Firefox extension designed to help you break free from endless scrolling by hiding Instagram&#39;s Reels and Explore sections. Focus on meaningful content and connections instead of getting lost in algorithmic feeds. (2 days ago)
-- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) - Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules 🛠️ (3 days ago)
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (3 days ago)
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (today)
+- [ossa-ma/double](https://github.com/ossa-ma/double) - double (dostoevsky reference) local memory system for agents (today)
+- [Lulzx/zpdf](https://github.com/Lulzx/zpdf) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration. (today)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 day ago)
+- [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) - A Tauri-based frontend for Czkawka on macOS and Windows (1 day ago)
+- [jbuistjbuist/form-saver](https://github.com/jbuistjbuist/form-saver) - Chrome extension to save form data during a browser session. Uses Vanilla JS, CSS, HTML, and Chrome APIs. (1 day ago)
+- [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system. (1 day ago)
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (1 day ago)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (1 day ago)
+- [bell-sw/alpaquita-aports](https://github.com/bell-sw/alpaquita-aports) - Alpaquita Linux aports (2 days ago)
 
 #### 📫 How to reach me
 
