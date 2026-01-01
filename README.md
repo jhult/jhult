@@ -34,16 +34,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 #### 🔭 Latest releases I've contributed to
 
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 1 week ago) - The break time reminder app
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.5](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.5), 4 weeks ago) - Modern Android client for Hacker News
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.5](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.5), 1 month ago) - Modern Android client for Hacker News
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.10.0](https://github.com/atuinsh/atuin/releases/tag/v18.10.0), 2 months ago) - ✨ Magical shell history
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) ([v0.6.1](https://github.com/tacogips/async-graphql-reverse/releases/tag/v0.6.1), 1 year ago) - 
 - [geldata/gel-java](https://github.com/geldata/gel-java) ([0.3.0](https://github.com/geldata/gel-java/releases/tag/0.3.0), 2 years ago) - The official Java client library for EdgeDB
 
 #### 🔨 My recent Pull Requests
 
-- [feat: upgrade czkawka_core to 10.0.0](https://github.com/shixinhuang99/czkawka-tauri/pull/14) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 day ago)
-- [feat: detect and prevent directory conflicts](https://github.com/shixinhuang99/czkawka-tauri/pull/13) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 day ago)
-- [fix: ffmpeg PATH detection to avoid &#39;File name too long&#39; error](https://github.com/shixinhuang99/czkawka-tauri/pull/12) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 day ago)
+- [feat: upgrade czkawka_core to 10.0.0](https://github.com/shixinhuang99/czkawka-tauri/pull/14) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (2 days ago)
+- [feat: detect and prevent directory conflicts](https://github.com/shixinhuang99/czkawka-tauri/pull/13) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (2 days ago)
+- [fix: ffmpeg PATH detection to avoid &#39;File name too long&#39; error](https://github.com/shixinhuang99/czkawka-tauri/pull/12) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (2 days ago)
 - [Fix memory leaks (#616)](https://github.com/objective-see/LuLu/pull/816) on [objective-see/LuLu](https://github.com/objective-see/LuLu) (2 weeks ago)
 - [atuin: add head build](https://github.com/Homebrew/homebrew-core/pull/257967) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (3 weeks ago)
 - [fix: prevent interactive search crash when update check fails](https://github.com/atuinsh/atuin/pull/3016) on [atuinsh/atuin](https://github.com/atuinsh/atuin) (3 weeks ago)
@@ -54,16 +54,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (today)
-- [ossa-ma/double](https://github.com/ossa-ma/double) - double (dostoevsky reference) local memory system for agents (today)
-- [Lulzx/zpdf](https://github.com/Lulzx/zpdf) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration. (today)
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 day ago)
-- [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) - A Tauri-based frontend for Czkawka on macOS and Windows (1 day ago)
-- [jbuistjbuist/form-saver](https://github.com/jbuistjbuist/form-saver) - Chrome extension to save form data during a browser session. Uses Vanilla JS, CSS, HTML, and Chrome APIs. (1 day ago)
-- [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system. (1 day ago)
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (1 day ago)
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (1 day ago)
-- [bell-sw/alpaquita-aports](https://github.com/bell-sw/alpaquita-aports) - Alpaquita Linux aports (2 days ago)
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (1 day ago)
+- [ossa-ma/double](https://github.com/ossa-ma/double) - double (dostoevsky reference) local memory system for agents (1 day ago)
+- [Lulzx/zpdf](https://github.com/Lulzx/zpdf) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration. (1 day ago)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (2 days ago)
+- [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) - A Tauri-based frontend for Czkawka on macOS and Windows (2 days ago)
+- [jbuistjbuist/form-saver](https://github.com/jbuistjbuist/form-saver) - Chrome extension to save form data during a browser session. Uses Vanilla JS, CSS, HTML, and Chrome APIs. (2 days ago)
+- [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system. (2 days ago)
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (2 days ago)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (2 days ago)
+- [bell-sw/alpaquita-aports](https://github.com/bell-sw/alpaquita-aports) - Alpaquita Linux aports (3 days ago)
 
 #### 📫 How to reach me
 
