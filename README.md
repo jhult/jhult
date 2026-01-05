@@ -20,16 +20,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/forms](https://github.com/jhult/forms) - Misc forms (2 days ago)
+- [jhult/forms](https://github.com/jhult/forms) - Misc forms (3 days ago)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 days ago)
+- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release (1 week ago)
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (2 weeks ago)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (3 weeks ago)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 weeks ago)
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News (1 month ago)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app (1 month ago)
-- [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) - Shared starter template configuration and CLAUDE.md memory bank system for Claude Code (5 months ago)
 - [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (5 months ago)
+- [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) - Shared starter template configuration and CLAUDE.md memory bank system for Claude Code (5 months ago)
 - [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) - 🧪 Curated collection of AI development resources, automation tools, and modern development practices. Features GitHub repositories, articles, and community resources for developers and AI enthusiasts. (5 months ago)
-- [Veraticus/nix-config](https://github.com/Veraticus/nix-config) -  (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -38,32 +38,33 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.10.0](https://github.com/atuinsh/atuin/releases/tag/v18.10.0), 2 months ago) - ✨ Magical shell history
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) ([v0.6.1](https://github.com/tacogips/async-graphql-reverse/releases/tag/v0.6.1), 2 years ago) - 
 - [geldata/gel-java](https://github.com/geldata/gel-java) ([0.3.0](https://github.com/geldata/gel-java/releases/tag/0.3.0), 2 years ago) - The official Java client library for EdgeDB
+- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) ([all](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/tag/all), 2 years ago) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/krlohnes/claude-code-nudger/pull/1) on [krlohnes/claude-code-nudger](https://github.com/krlohnes/claude-code-nudger) (1 day ago)
-- [czkawka: add --HEAD and add krokiet (new GUI)](https://github.com/Homebrew/homebrew-core/pull/260984) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (2 days ago)
-- [fix: disable right-click context menu in Tauri interface](https://github.com/shixinhuang99/czkawka-tauri/pull/15) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (2 days ago)
-- [feat: upgrade czkawka_core to 10.0.0](https://github.com/shixinhuang99/czkawka-tauri/pull/14) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (5 days ago)
-- [feat: detect and prevent directory conflicts](https://github.com/shixinhuang99/czkawka-tauri/pull/13) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (5 days ago)
-- [fix: ffmpeg PATH detection to avoid &#39;File name too long&#39; error](https://github.com/shixinhuang99/czkawka-tauri/pull/12) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (5 days ago)
-- [Fix memory leaks (#616)](https://github.com/objective-see/LuLu/pull/816) on [objective-see/LuLu](https://github.com/objective-see/LuLu) (2 weeks ago)
+- [chore(deps): upgrade APKEditor from 1.4.2 to 1.4.7](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/101) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (1 day ago)
+- [Add MIT license](https://github.com/krlohnes/claude-code-nudger/pull/1) on [krlohnes/claude-code-nudger](https://github.com/krlohnes/claude-code-nudger) (2 days ago)
+- [czkawka: add --HEAD and add krokiet (new GUI)](https://github.com/Homebrew/homebrew-core/pull/260984) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (3 days ago)
+- [fix: disable right-click context menu in Tauri interface](https://github.com/shixinhuang99/czkawka-tauri/pull/15) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (3 days ago)
+- [feat: upgrade czkawka_core to 10.0.0](https://github.com/shixinhuang99/czkawka-tauri/pull/14) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (6 days ago)
+- [feat: detect and prevent directory conflicts](https://github.com/shixinhuang99/czkawka-tauri/pull/13) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (6 days ago)
+- [fix: ffmpeg PATH detection to avoid &#39;File name too long&#39; error](https://github.com/shixinhuang99/czkawka-tauri/pull/12) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (6 days ago)
+- [Fix memory leaks (#616)](https://github.com/objective-see/LuLu/pull/816) on [objective-see/LuLu](https://github.com/objective-see/LuLu) (3 weeks ago)
 - [atuin: add head build](https://github.com/Homebrew/homebrew-core/pull/257967) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (3 weeks ago)
 - [fix: prevent interactive search crash when update check fails](https://github.com/atuinsh/atuin/pull/3016) on [atuinsh/atuin](https://github.com/atuinsh/atuin) (3 weeks ago)
-- [[core] fix memory leak in Hunspell dictionary loading](https://github.com/languagetool-org/languagetool/pull/11692) on [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection (1 day ago)
-- [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code (1 day ago)
-- [krlohnes/claude-code-nudger](https://github.com/krlohnes/claude-code-nudger) - Nudges claude code to keep going (1 day ago)
-- [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs (2 days ago)
-- [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - 📄 Free &amp; Open-Source Invoice Generator – Live PDF Preview, No Sign-Up, 100% In-Browser. Includes a Stripe-style invoice template. (2 days ago)
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (2 days ago)
-- [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) -  (3 days ago)
-- [shixinhuang99/pastly](https://github.com/shixinhuang99/pastly) - Clipboard manager with cross-device sync via local network (3 days ago)
-- [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder (3 days ago)
-- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File Downloader when Curl/Wget Fails (3 days ago)
+- [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent (1 day ago)
+- [Vineflower/vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler. (1 day ago)
+- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection (2 days ago)
+- [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code (2 days ago)
+- [krlohnes/claude-code-nudger](https://github.com/krlohnes/claude-code-nudger) - Nudges claude code to keep going (2 days ago)
+- [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs (3 days ago)
+- [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - 📄 Free &amp; Open-Source Invoice Generator – Live PDF Preview, No Sign-Up, 100% In-Browser. Includes a Stripe-style invoice template. (3 days ago)
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (3 days ago)
+- [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) -  (4 days ago)
+- [shixinhuang99/pastly](https://github.com/shixinhuang99/pastly) - Clipboard manager with cross-device sync via local network (4 days ago)
 
 #### 📫 How to reach me
 
