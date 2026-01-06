@@ -20,8 +20,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/forms](https://github.com/jhult/forms) - Misc forms (3 days ago)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 days ago)
+- [jhult/forms](https://github.com/jhult/forms) - Misc forms (4 days ago)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (4 days ago)
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release (1 week ago)
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (2 weeks ago)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (3 weeks ago)
@@ -42,29 +42,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [chore(deps): upgrade APKEditor from 1.4.2 to 1.4.7](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/101) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (1 day ago)
-- [Add MIT license](https://github.com/krlohnes/claude-code-nudger/pull/1) on [krlohnes/claude-code-nudger](https://github.com/krlohnes/claude-code-nudger) (2 days ago)
-- [czkawka: add --HEAD and add krokiet (new GUI)](https://github.com/Homebrew/homebrew-core/pull/260984) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (3 days ago)
-- [fix: disable right-click context menu in Tauri interface](https://github.com/shixinhuang99/czkawka-tauri/pull/15) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (3 days ago)
-- [feat: upgrade czkawka_core to 10.0.0](https://github.com/shixinhuang99/czkawka-tauri/pull/14) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (6 days ago)
-- [feat: detect and prevent directory conflicts](https://github.com/shixinhuang99/czkawka-tauri/pull/13) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (6 days ago)
-- [fix: ffmpeg PATH detection to avoid &#39;File name too long&#39; error](https://github.com/shixinhuang99/czkawka-tauri/pull/12) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (6 days ago)
-- [Fix memory leaks (#616)](https://github.com/objective-see/LuLu/pull/816) on [objective-see/LuLu](https://github.com/objective-see/LuLu) (3 weeks ago)
-- [atuin: add head build](https://github.com/Homebrew/homebrew-core/pull/257967) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (3 weeks ago)
-- [fix: prevent interactive search crash when update check fails](https://github.com/atuinsh/atuin/pull/3016) on [atuinsh/atuin](https://github.com/atuinsh/atuin) (3 weeks ago)
+- [docs: update `README` - `ANTHROPIC_DEFAULT_*_MODEL` → `glm4.7`](https://github.com/dejay2/glmproxy/pull/4) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (1 day ago)
+- [feat: pin GitHub Actions versions to a full length commit SHA](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/103) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (1 day ago)
+- [Refactor build/utils.sh](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/102) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (1 day ago)
+- [chore(deps): upgrade APKEditor from 1.4.2 to 1.4.7](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/101) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (2 days ago)
+- [Add MIT license](https://github.com/krlohnes/claude-code-nudger/pull/1) on [krlohnes/claude-code-nudger](https://github.com/krlohnes/claude-code-nudger) (3 days ago)
+- [czkawka: add --HEAD and add krokiet (new GUI)](https://github.com/Homebrew/homebrew-core/pull/260984) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (4 days ago)
+- [fix: disable right-click context menu in Tauri interface](https://github.com/shixinhuang99/czkawka-tauri/pull/15) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (4 days ago)
+- [feat: upgrade czkawka_core to 10.0.0](https://github.com/shixinhuang99/czkawka-tauri/pull/14) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 week ago)
+- [feat: detect and prevent directory conflicts](https://github.com/shixinhuang99/czkawka-tauri/pull/13) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 week ago)
+- [fix: ffmpeg PATH detection to avoid &#39;File name too long&#39; error](https://github.com/shixinhuang99/czkawka-tauri/pull/12) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent (1 day ago)
-- [Vineflower/vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler. (1 day ago)
-- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection (2 days ago)
-- [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code (2 days ago)
-- [krlohnes/claude-code-nudger](https://github.com/krlohnes/claude-code-nudger) - Nudges claude code to keep going (2 days ago)
-- [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs (3 days ago)
-- [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - 📄 Free &amp; Open-Source Invoice Generator – Live PDF Preview, No Sign-Up, 100% In-Browser. Includes a Stripe-style invoice template. (3 days ago)
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (3 days ago)
-- [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) -  (4 days ago)
-- [shixinhuang99/pastly](https://github.com/shixinhuang99/pastly) - Clipboard manager with cross-device sync via local network (4 days ago)
+- [mvysny/karibu-testing](https://github.com/mvysny/karibu-testing) - Vaadin Server-Side Browserless Containerless Unit Testing (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
+- [elidickinson/shot-power-scraper](https://github.com/elidickinson/shot-power-scraper) - Tool for screenshotting websites with ability to evade bot detection (1 day ago)
+- [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha  (1 day ago)
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites (1 day ago)
+- [mvysny/karibu-helloworld-application](https://github.com/mvysny/karibu-helloworld-application) - Karibu-DSL HelloWorld application in Vaadin (1 day ago)
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) - A command-line tool for downloading APK files from various sources (1 day ago)
+- [onyxbits/raccoon4](https://github.com/onyxbits/raccoon4) - APK Downloader for Google Play (1 day ago)
+- [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent (2 days ago)
+- [Vineflower/vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler. (2 days ago)
 
 #### 📫 How to reach me
 
