@@ -20,11 +20,11 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/forms](https://github.com/jhult/forms) - Misc forms (4 days ago)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (4 days ago)
+- [jhult/forms](https://github.com/jhult/forms) - Misc forms (5 days ago)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (5 days ago)
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release (1 week ago)
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (2 weeks ago)
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (3 weeks ago)
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (3 weeks ago)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (4 weeks ago)
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News (1 month ago)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app (1 month ago)
 - [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (5 months ago)
@@ -33,7 +33,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 1 week ago) - The break time reminder app
+- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 2 weeks ago) - The break time reminder app
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.5](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.5), 1 month ago) - Modern Android client for Hacker News
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.10.0](https://github.com/atuinsh/atuin/releases/tag/v18.10.0), 2 months ago) - ✨ Magical shell history
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) ([v0.6.1](https://github.com/tacogips/async-graphql-reverse/releases/tag/v0.6.1), 2 years ago) - 
@@ -42,29 +42,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [docs: update `README` - `ANTHROPIC_DEFAULT_*_MODEL` → `glm4.7`](https://github.com/dejay2/glmproxy/pull/4) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (1 day ago)
-- [feat: pin GitHub Actions versions to a full length commit SHA](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/103) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (1 day ago)
-- [Refactor build/utils.sh](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/102) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (1 day ago)
-- [chore(deps): upgrade APKEditor from 1.4.2 to 1.4.7](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/101) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (2 days ago)
-- [Add MIT license](https://github.com/krlohnes/claude-code-nudger/pull/1) on [krlohnes/claude-code-nudger](https://github.com/krlohnes/claude-code-nudger) (3 days ago)
-- [czkawka: add --HEAD and add krokiet (new GUI)](https://github.com/Homebrew/homebrew-core/pull/260984) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (4 days ago)
-- [fix: disable right-click context menu in Tauri interface](https://github.com/shixinhuang99/czkawka-tauri/pull/15) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (4 days ago)
+- [docs: update `README` - `ANTHROPIC_DEFAULT_*_MODEL` → `glm4.7`](https://github.com/dejay2/glmproxy/pull/4) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (2 days ago)
+- [feat: pin GitHub Actions versions to a full length commit SHA](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/103) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (2 days ago)
+- [Refactor build/utils.sh](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/102) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (2 days ago)
+- [chore(deps): upgrade APKEditor from 1.4.2 to 1.4.7](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/101) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (3 days ago)
+- [Add MIT license](https://github.com/krlohnes/claude-code-nudger/pull/1) on [krlohnes/claude-code-nudger](https://github.com/krlohnes/claude-code-nudger) (4 days ago)
+- [czkawka: add --HEAD and add krokiet (new GUI)](https://github.com/Homebrew/homebrew-core/pull/260984) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (5 days ago)
+- [fix: disable right-click context menu in Tauri interface](https://github.com/shixinhuang99/czkawka-tauri/pull/15) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (5 days ago)
 - [feat: upgrade czkawka_core to 10.0.0](https://github.com/shixinhuang99/czkawka-tauri/pull/14) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 week ago)
 - [feat: detect and prevent directory conflicts](https://github.com/shixinhuang99/czkawka-tauri/pull/13) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 week ago)
 - [fix: ffmpeg PATH detection to avoid &#39;File name too long&#39; error](https://github.com/shixinhuang99/czkawka-tauri/pull/12) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [mvysny/karibu-testing](https://github.com/mvysny/karibu-testing) - Vaadin Server-Side Browserless Containerless Unit Testing (1 day ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
-- [elidickinson/shot-power-scraper](https://github.com/elidickinson/shot-power-scraper) - Tool for screenshotting websites with ability to evade bot detection (1 day ago)
-- [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha  (1 day ago)
-- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites (1 day ago)
-- [mvysny/karibu-helloworld-application](https://github.com/mvysny/karibu-helloworld-application) - Karibu-DSL HelloWorld application in Vaadin (1 day ago)
-- [EFForg/apkeep](https://github.com/EFForg/apkeep) - A command-line tool for downloading APK files from various sources (1 day ago)
-- [onyxbits/raccoon4](https://github.com/onyxbits/raccoon4) - APK Downloader for Google Play (1 day ago)
-- [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent (2 days ago)
-- [Vineflower/vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler. (2 days ago)
+- [Infomaniak/swift-rich-html-editor](https://github.com/Infomaniak/swift-rich-html-editor) - A WYSIWYG text editor written in Swift for iOS/macOS/visionOS. Available for SwiftUI, UIKit and AppKit. Based on HTML contenteditable. Used in the Infomaniak Mail application. (1 day ago)
+- [mvysny/karibu-testing](https://github.com/mvysny/karibu-testing) - Vaadin Server-Side Browserless Containerless Unit Testing (2 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
+- [elidickinson/shot-power-scraper](https://github.com/elidickinson/shot-power-scraper) - Tool for screenshotting websites with ability to evade bot detection (2 days ago)
+- [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha  (2 days ago)
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites (2 days ago)
+- [mvysny/karibu-helloworld-application](https://github.com/mvysny/karibu-helloworld-application) - Karibu-DSL HelloWorld application in Vaadin (2 days ago)
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) - A command-line tool for downloading APK files from various sources (2 days ago)
+- [onyxbits/raccoon4](https://github.com/onyxbits/raccoon4) - APK Downloader for Google Play (2 days ago)
+- [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent (3 days ago)
 
 #### 📫 How to reach me
 
