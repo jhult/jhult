@@ -29,7 +29,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app (1 month ago)
 - [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (5 months ago)
 - [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) - Shared starter template configuration and CLAUDE.md memory bank system for Claude Code (5 months ago)
-- [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) - 🧪 Curated collection of AI development resources, automation tools, and modern development practices. Features GitHub repositories, articles, and community resources for developers and AI enthusiasts. (5 months ago)
+- [samyakjain0606/awesome-learning-material](https://github.com/samyakjain0606/awesome-learning-material) - 🧪 Curated collection of AI development resources, automation tools, and modern development practices. Features GitHub repositories, articles, and community resources for developers and AI enthusiasts. (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -42,11 +42,11 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [docs: update `README` - `ANTHROPIC_DEFAULT_*_MODEL` → `glm4.7`](https://github.com/dejay2/glmproxy/pull/4) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (4 days ago)
-- [feat: pin GitHub Actions versions to a full length commit SHA](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/103) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (4 days ago)
-- [Refactor build/utils.sh](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/102) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (4 days ago)
-- [chore(deps): upgrade APKEditor from 1.4.2 to 1.4.7](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/101) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (5 days ago)
-- [Add MIT license](https://github.com/krlohnes/claude-code-nudger/pull/1) on [krlohnes/claude-code-nudger](https://github.com/krlohnes/claude-code-nudger) (6 days ago)
+- [docs: update `README` - `ANTHROPIC_DEFAULT_*_MODEL` → `glm4.7`](https://github.com/dejay2/glmproxy/pull/4) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (5 days ago)
+- [feat: pin GitHub Actions versions to a full length commit SHA](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/103) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (5 days ago)
+- [Refactor build/utils.sh](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/102) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (5 days ago)
+- [chore(deps): upgrade APKEditor from 1.4.2 to 1.4.7](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/101) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (6 days ago)
+- [Add MIT license](https://github.com/krlohnes/claude-code-nudger/pull/1) on [krlohnes/claude-code-nudger](https://github.com/krlohnes/claude-code-nudger) (1 week ago)
 - [czkawka: add --HEAD and add krokiet (new GUI)](https://github.com/Homebrew/homebrew-core/pull/260984) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
 - [fix: disable right-click context menu in Tauri interface](https://github.com/shixinhuang99/czkawka-tauri/pull/15) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 week ago)
 - [feat: upgrade czkawka_core to 10.0.0](https://github.com/shixinhuang99/czkawka-tauri/pull/14) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 week ago)
@@ -55,16 +55,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [postalsys/imapflow](https://github.com/postalsys/imapflow) - IMAP Client library for EmailEngine Email API (https://emailengine.app) (1 day ago)
-- [pgxxhh/vibecoding-jobsearch](https://github.com/pgxxhh/vibecoding-jobsearch) - A AI-Enhanced job aggregation platform (2 days ago)
-- [billyweinberger/job-scraping-app](https://github.com/billyweinberger/job-scraping-app) - App for scraping for job opportunities (2 days ago)
-- [jonahr4/InternAtlas](https://github.com/jonahr4/InternAtlas) -  (2 days ago)
-- [VishwaGauravIn/linkedin-jobs-api](https://github.com/VishwaGauravIn/linkedin-jobs-api) - 🔥Advanced node.js package for getting job listings from LinkedIn 💼 (2 days ago)
-- [Infomaniak/swift-rich-html-editor](https://github.com/Infomaniak/swift-rich-html-editor) - A WYSIWYG text editor written in Swift for iOS/macOS/visionOS. Available for SwiftUI, UIKit and AppKit. Based on HTML contenteditable. Used in the Infomaniak Mail application. (3 days ago)
-- [mvysny/karibu-testing](https://github.com/mvysny/karibu-testing) - Vaadin Server-Side Browserless Containerless Unit Testing (4 days ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (4 days ago)
-- [elidickinson/shot-power-scraper](https://github.com/elidickinson/shot-power-scraper) - Tool for screenshotting websites with ability to evade bot detection (4 days ago)
-- [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha  (4 days ago)
+- [kulesh/catsyphon](https://github.com/kulesh/catsyphon) -  (1 day ago)
+- [team-attention/mcproxy](https://github.com/team-attention/mcproxy) - MCP Proxy with tool filtering for Claude Code (1 day ago)
+- [CyberClash/mcp_coordinator](https://github.com/CyberClash/mcp_coordinator) - Save your context window limit! An MCP Coordinator that exposes only 3 tools to Claude Code. When Claude needs to use an MCP, the Coordinator dynamically loads it, calls the tool, and returns just the result. (1 day ago)
+- [postalsys/imapflow](https://github.com/postalsys/imapflow) - IMAP Client library for EmailEngine Email API (https://emailengine.app) (2 days ago)
+- [pgxxhh/vibecoding-jobsearch](https://github.com/pgxxhh/vibecoding-jobsearch) - A AI-Enhanced job aggregation platform (3 days ago)
+- [billyweinberger/job-scraping-app](https://github.com/billyweinberger/job-scraping-app) - App for scraping for job opportunities (3 days ago)
+- [jonahr4/InternAtlas](https://github.com/jonahr4/InternAtlas) -  (3 days ago)
+- [VishwaGauravIn/linkedin-jobs-api](https://github.com/VishwaGauravIn/linkedin-jobs-api) - 🔥Advanced node.js package for getting job listings from LinkedIn 💼 (3 days ago)
+- [Infomaniak/swift-rich-html-editor](https://github.com/Infomaniak/swift-rich-html-editor) - A WYSIWYG text editor written in Swift for iOS/macOS/visionOS. Available for SwiftUI, UIKit and AppKit. Based on HTML contenteditable. Used in the Infomaniak Mail application. (4 days ago)
+- [mvysny/karibu-testing](https://github.com/mvysny/karibu-testing) - Vaadin Server-Side Browserless Containerless Unit Testing (5 days ago)
 
 #### 📫 How to reach me
 
