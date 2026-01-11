@@ -22,7 +22,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 - [jhult/forms](https://github.com/jhult/forms) - Misc forms (1 week ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 week ago)
-- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release (1 week ago)
+- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release (2 weeks ago)
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (3 weeks ago)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (1 month ago)
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News (1 month ago)
@@ -42,10 +42,10 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [docs: update `README` - `ANTHROPIC_DEFAULT_*_MODEL` → `glm4.7`](https://github.com/dejay2/glmproxy/pull/4) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (5 days ago)
-- [feat: pin GitHub Actions versions to a full length commit SHA](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/103) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (5 days ago)
-- [Refactor build/utils.sh](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/102) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (5 days ago)
-- [chore(deps): upgrade APKEditor from 1.4.2 to 1.4.7](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/101) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (6 days ago)
+- [docs: update `README` - `ANTHROPIC_DEFAULT_*_MODEL` → `glm4.7`](https://github.com/dejay2/glmproxy/pull/4) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (6 days ago)
+- [feat: pin GitHub Actions versions to a full length commit SHA](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/103) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (6 days ago)
+- [Refactor build/utils.sh](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/102) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (6 days ago)
+- [chore(deps): upgrade APKEditor from 1.4.2 to 1.4.7](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/101) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (1 week ago)
 - [Add MIT license](https://github.com/krlohnes/claude-code-nudger/pull/1) on [krlohnes/claude-code-nudger](https://github.com/krlohnes/claude-code-nudger) (1 week ago)
 - [czkawka: add --HEAD and add krokiet (new GUI)](https://github.com/Homebrew/homebrew-core/pull/260984) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
 - [fix: disable right-click context menu in Tauri interface](https://github.com/shixinhuang99/czkawka-tauri/pull/15) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 week ago)
@@ -55,16 +55,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [kulesh/catsyphon](https://github.com/kulesh/catsyphon) -  (1 day ago)
-- [team-attention/mcproxy](https://github.com/team-attention/mcproxy) - MCP Proxy with tool filtering for Claude Code (1 day ago)
-- [CyberClash/mcp_coordinator](https://github.com/CyberClash/mcp_coordinator) - Save your context window limit! An MCP Coordinator that exposes only 3 tools to Claude Code. When Claude needs to use an MCP, the Coordinator dynamically loads it, calls the tool, and returns just the result. (1 day ago)
-- [postalsys/imapflow](https://github.com/postalsys/imapflow) - IMAP Client library for EmailEngine Email API (https://emailengine.app) (2 days ago)
-- [pgxxhh/vibecoding-jobsearch](https://github.com/pgxxhh/vibecoding-jobsearch) - A AI-Enhanced job aggregation platform (3 days ago)
-- [billyweinberger/job-scraping-app](https://github.com/billyweinberger/job-scraping-app) - App for scraping for job opportunities (3 days ago)
-- [jonahr4/InternAtlas](https://github.com/jonahr4/InternAtlas) -  (3 days ago)
-- [VishwaGauravIn/linkedin-jobs-api](https://github.com/VishwaGauravIn/linkedin-jobs-api) - 🔥Advanced node.js package for getting job listings from LinkedIn 💼 (3 days ago)
-- [Infomaniak/swift-rich-html-editor](https://github.com/Infomaniak/swift-rich-html-editor) - A WYSIWYG text editor written in Swift for iOS/macOS/visionOS. Available for SwiftUI, UIKit and AppKit. Based on HTML contenteditable. Used in the Infomaniak Mail application. (4 days ago)
-- [mvysny/karibu-testing](https://github.com/mvysny/karibu-testing) - Vaadin Server-Side Browserless Containerless Unit Testing (5 days ago)
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal command-line client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more. (today)
+- [rustmailer/persistent-scheduler](https://github.com/rustmailer/persistent-scheduler) - A high-performance task scheduling system developed in Rust using Tokio, supporting task persistence, repeatable tasks, and Cron-based scheduling. The system ensures that tasks can be restored after process restarts, providing reliability and flexibility for managing time-based operations in various applications. (1 day ago)
+- [rustmailer/rustmailer](https://github.com/rustmailer/rustmailer) - A self-hosted Email Middleware for IMAP, SMTP, Gmail API, Graph API — built for developers (1 day ago)
+- [lnx-search/lnx](https://github.com/lnx-search/lnx) - A flexible, performant and reliable search database without the AI bullshit. (1 day ago)
+- [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI (1 day ago)
+- [briansmith/ring](https://github.com/briansmith/ring) - An experiment. (1 day ago)
+- [kulesh/catsyphon](https://github.com/kulesh/catsyphon) -  (2 days ago)
+- [team-attention/mcproxy](https://github.com/team-attention/mcproxy) - MCP Proxy with tool filtering for Claude Code (2 days ago)
+- [CyberClash/mcp_coordinator](https://github.com/CyberClash/mcp_coordinator) - Save your context window limit! An MCP Coordinator that exposes only 3 tools to Claude Code. When Claude needs to use an MCP, the Coordinator dynamically loads it, calls the tool, and returns just the result. (2 days ago)
+- [postalsys/imapflow](https://github.com/postalsys/imapflow) - IMAP Client library for EmailEngine Email API (https://emailengine.app) (3 days ago)
 
 #### 📫 How to reach me
 
