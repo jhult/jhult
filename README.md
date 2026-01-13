@@ -33,9 +33,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.11.0](https://github.com/atuinsh/atuin/releases/tag/v18.11.0), today) - ✨ Magical shell history
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 2 weeks ago) - The break time reminder app
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.5](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.5), 1 month ago) - Modern Android client for Hacker News
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.10.0](https://github.com/atuinsh/atuin/releases/tag/v18.10.0), 2 months ago) - ✨ Magical shell history
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) ([v0.6.1](https://github.com/tacogips/async-graphql-reverse/releases/tag/v0.6.1), 2 years ago) - 
 - [geldata/gel-java](https://github.com/geldata/gel-java) ([0.3.0](https://github.com/geldata/gel-java/releases/tag/0.3.0), 2 years ago) - The official Java client library for EdgeDB
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) ([all](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/tag/all), 2 years ago) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
@@ -49,22 +49,22 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [Add MIT license](https://github.com/krlohnes/claude-code-nudger/pull/1) on [krlohnes/claude-code-nudger](https://github.com/krlohnes/claude-code-nudger) (1 week ago)
 - [czkawka: add --HEAD and add krokiet (new GUI)](https://github.com/Homebrew/homebrew-core/pull/260984) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
 - [fix: disable right-click context menu in Tauri interface](https://github.com/shixinhuang99/czkawka-tauri/pull/15) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 week ago)
-- [feat: upgrade czkawka_core to 10.0.0](https://github.com/shixinhuang99/czkawka-tauri/pull/14) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 week ago)
-- [feat: detect and prevent directory conflicts](https://github.com/shixinhuang99/czkawka-tauri/pull/13) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 week ago)
-- [fix: ffmpeg PATH detection to avoid &#39;File name too long&#39; error](https://github.com/shixinhuang99/czkawka-tauri/pull/12) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (1 week ago)
+- [feat: upgrade czkawka_core to 10.0.0](https://github.com/shixinhuang99/czkawka-tauri/pull/14) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (2 weeks ago)
+- [feat: detect and prevent directory conflicts](https://github.com/shixinhuang99/czkawka-tauri/pull/13) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (2 weeks ago)
+- [fix: ffmpeg PATH detection to avoid &#39;File name too long&#39; error](https://github.com/shixinhuang99/czkawka-tauri/pull/12) on [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal command-line client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more. (1 day ago)
-- [rustmailer/persistent-scheduler](https://github.com/rustmailer/persistent-scheduler) - A high-performance task scheduling system developed in Rust using Tokio, supporting task persistence, repeatable tasks, and Cron-based scheduling. The system ensures that tasks can be restored after process restarts, providing reliability and flexibility for managing time-based operations in various applications. (2 days ago)
-- [rustmailer/rustmailer](https://github.com/rustmailer/rustmailer) - A self-hosted Email Middleware for IMAP, SMTP, Gmail API, Graph API — built for developers (2 days ago)
-- [lnx-search/lnx](https://github.com/lnx-search/lnx) - A flexible, performant and reliable search database without the AI bullshit. (2 days ago)
-- [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI (2 days ago)
-- [briansmith/ring](https://github.com/briansmith/ring) - An experiment. (2 days ago)
-- [kulesh/catsyphon](https://github.com/kulesh/catsyphon) -  (3 days ago)
-- [team-attention/mcproxy](https://github.com/team-attention/mcproxy) - MCP Proxy with tool filtering for Claude Code (3 days ago)
-- [CyberClash/mcp_coordinator](https://github.com/CyberClash/mcp_coordinator) - Save your context window limit! An MCP Coordinator that exposes only 3 tools to Claude Code. When Claude needs to use an MCP, the Coordinator dynamically loads it, calls the tool, and returns just the result. (3 days ago)
-- [postalsys/imapflow](https://github.com/postalsys/imapflow) - IMAP Client library for EmailEngine Email API (https://emailengine.app) (4 days ago)
+- [nezhar/claude-container](https://github.com/nezhar/claude-container) - Container workflow for Claude Code. Complete isolation from host system while maintaining persistent credentials and workspace access. (1 day ago)
+- [ashishb/amazing-sandbox](https://github.com/ashishb/amazing-sandbox) - Amazing Sandbox  - inspired from https://ashishb.net/programming/run-tools-inside-docker/ (1 day ago)
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal command-line client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more. (2 days ago)
+- [rustmailer/persistent-scheduler](https://github.com/rustmailer/persistent-scheduler) - A high-performance task scheduling system developed in Rust using Tokio, supporting task persistence, repeatable tasks, and Cron-based scheduling. The system ensures that tasks can be restored after process restarts, providing reliability and flexibility for managing time-based operations in various applications. (3 days ago)
+- [rustmailer/rustmailer](https://github.com/rustmailer/rustmailer) - A self-hosted Email Middleware for IMAP, SMTP, Gmail API, Graph API — built for developers (3 days ago)
+- [lnx-search/lnx](https://github.com/lnx-search/lnx) - A flexible, performant and reliable search database without the AI bullshit. (3 days ago)
+- [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI (3 days ago)
+- [briansmith/ring](https://github.com/briansmith/ring) - An experiment. (3 days ago)
+- [kulesh/catsyphon](https://github.com/kulesh/catsyphon) -  (4 days ago)
+- [team-attention/mcproxy](https://github.com/team-attention/mcproxy) - MCP Proxy with tool filtering for Claude Code (4 days ago)
 
 #### 📫 How to reach me
 
