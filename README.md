@@ -20,9 +20,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (1 day ago)
-- [jhult/forms](https://github.com/jhult/forms) - Misc forms (2 weeks ago)
+- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (2 days ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (2 weeks ago)
+- [jhult/forms](https://github.com/jhult/forms) - Misc forms (2 weeks ago)
 - [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) - A Tauri-based frontend for Czkawka on macOS and Windows (3 weeks ago)
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release (3 weeks ago)
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (1 month ago)
@@ -33,7 +33,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) ([1.1.0](https://github.com/shixinhuang99/czkawka-tauri/releases/tag/1.1.0), 3 days ago) - A Tauri-based frontend for Czkawka on macOS and Windows
+- [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) ([1.1.0](https://github.com/shixinhuang99/czkawka-tauri/releases/tag/1.1.0), 4 days ago) - A Tauri-based frontend for Czkawka on macOS and Windows
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.11.0](https://github.com/atuinsh/atuin/releases/tag/v18.11.0), 1 week ago) - ✨ Magical shell history
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 4 weeks ago) - The break time reminder app
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.5](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.5), 1 month ago) - Modern Android client for Hacker News
@@ -43,7 +43,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: don&#39;t steal focus from user&#39;s active element when handling consents](https://github.com/cavi-au/Consent-O-Matic/pull/560) on [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) (3 days ago)
+- [fix: don&#39;t steal focus from user&#39;s active element when handling consents](https://github.com/cavi-au/Consent-O-Matic/pull/560) on [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) (4 days ago)
 - [feat: detect context window limit errors for auto-compact](https://github.com/dejay2/glmproxy/pull/7) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (1 week ago)
 - [docs: update `README` - `ANTHROPIC_DEFAULT_*_MODEL` → `glm4.7`](https://github.com/dejay2/glmproxy/pull/4) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (2 weeks ago)
 - [feat: pin GitHub Actions versions to a full length commit SHA](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/103) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (2 weeks ago)
@@ -56,16 +56,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [google/conscrypt](https://github.com/google/conscrypt) - Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension. (1 day ago)
-- [antoniusnaumann/cargo-swift](https://github.com/antoniusnaumann/cargo-swift) - A cargo plugin to easily build Swift packages from Rust code (2 days ago)
-- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality. (2 days ago)
-- [sumant1122/ZenRead](https://github.com/sumant1122/ZenRead) - ZenRead is a distraction-free web application designed to improve your online reading experience. It transforms cluttered blog posts and articles into a clean, focused &#34;Reader View,&#34; while offering tools to track your reading progress and manage your reading list. (3 days ago)
-- [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀 (3 days ago)
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences (3 days ago)
-- [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure (3 days ago)
-- [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp. (3 days ago)
-- [chunkhound/chunkhound](https://github.com/chunkhound/chunkhound) - Local first codebase intelligence (3 days ago)
-- [kylemclaren/spritedrop](https://github.com/kylemclaren/spritedrop) - Persistent Taildrop file receiver for Sprites (3 days ago)
+- [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text (1 day ago)
+- [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language (1 day ago)
+- [vlang/ui](https://github.com/vlang/ui) - A cross-platform UI library written in V (1 day ago)
+- [CrewBench/CrewBench](https://github.com/CrewBench/CrewBench) - CrewBench is a desktop UI and control layer for AI coding agents such as Claude Code, Gemini CLI, and Codex. (1 day ago)
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, and real-time chat in a responsive PWA. Deploy with Docker for instant setup. (1 day ago)
+- [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage. (1 day ago)
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more. (1 day ago)
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent &#43; Coding Agent &#43; 300&#43; assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs. (1 day ago)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (1 day ago)
+- [openkursar/hello-halo](https://github.com/openkursar/hello-halo) - Open-source Claude Code GUI — like Claude Cowork. Visual AI assistant with remote access, file management, and built-in AI browser. (1 day ago)
 
 #### 📫 How to reach me
 
