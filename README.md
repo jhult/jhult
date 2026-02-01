@@ -20,11 +20,11 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (3 days ago)
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (5 days ago)
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (4 days ago)
+- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (6 days ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (1 week ago)
-- [jhult/forms](https://github.com/jhult/forms) - Misc forms (4 weeks ago)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (4 weeks ago)
+- [jhult/forms](https://github.com/jhult/forms) - Misc forms (1 month ago)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 month ago)
 - [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) - A Tauri-based frontend for Czkawka on macOS and Windows (1 month ago)
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release (1 month ago)
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (1 month ago)
@@ -33,9 +33,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [block/goose](https://github.com/block/goose) ([v1.22.1](https://github.com/block/goose/releases/tag/v1.22.1), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.12.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/v18.12.0-beta.1), 2 days ago) - ✨ Magical shell history
-- [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) ([1.1.0](https://github.com/shixinhuang99/czkawka-tauri/releases/tag/1.1.0), 1 week ago) - A Tauri-based frontend for Czkawka on macOS and Windows
+- [block/goose](https://github.com/block/goose) ([v1.22.1](https://github.com/block/goose/releases/tag/v1.22.1), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.12.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/v18.12.0-beta.1), 3 days ago) - ✨ Magical shell history
+- [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) ([1.1.0](https://github.com/shixinhuang99/czkawka-tauri/releases/tag/1.1.0), 2 weeks ago) - A Tauri-based frontend for Czkawka on macOS and Windows
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 1 month ago) - The break time reminder app
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.5](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.5), 2 months ago) - Modern Android client for Hacker News
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) ([v0.6.1](https://github.com/tacogips/async-graphql-reverse/releases/tag/v0.6.1), 2 years ago) - 
@@ -47,24 +47,24 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [feat: add max_turns to recipe and subagent settings](https://github.com/block/goose/pull/6687) on [block/goose](https://github.com/block/goose) (1 week ago)
 - [fix: dispatch ADD_ACTIVE_SESSION event before navigating from &#34;View All&#34;](https://github.com/block/goose/pull/6679) on [block/goose](https://github.com/block/goose) (1 week ago)
 - [chore(docs): update GOOSE_SESSION_ID -&gt; AGENT_SESSION_ID](https://github.com/block/goose/pull/6669) on [block/goose](https://github.com/block/goose) (1 week ago)
-- [fix: don&#39;t steal focus from user&#39;s active element when handling consents](https://github.com/cavi-au/Consent-O-Matic/pull/560) on [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) (1 week ago)
+- [fix: don&#39;t steal focus from user&#39;s active element when handling consents](https://github.com/cavi-au/Consent-O-Matic/pull/560) on [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) (2 weeks ago)
 - [feat: detect context window limit errors for auto-compact](https://github.com/dejay2/glmproxy/pull/7) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (2 weeks ago)
 - [docs: update `README` - `ANTHROPIC_DEFAULT_*_MODEL` → `glm4.7`](https://github.com/dejay2/glmproxy/pull/4) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (3 weeks ago)
 - [feat: pin GitHub Actions versions to a full length commit SHA](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/103) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (3 weeks ago)
 - [Refactor build/utils.sh](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/102) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (3 weeks ago)
-- [chore(deps): upgrade APKEditor from 1.4.2 to 1.4.7](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/101) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (3 weeks ago)
+- [chore(deps): upgrade APKEditor from 1.4.2 to 1.4.7](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/101) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (4 weeks ago)
 - [Add MIT license](https://github.com/krlohnes/claude-code-nudger/pull/1) on [krlohnes/claude-code-nudger](https://github.com/krlohnes/claude-code-nudger) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) - An open-source coding helper. Very friendly! (2 days ago)
-- [Alishahryar1/cc-nim](https://github.com/Alishahryar1/cc-nim) - Use claude-code for free with NVIDIA-NIM via the terminal CLI or telegram (2 days ago)
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100&#43; languages. (3 days ago)
-- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript. (3 days ago)
-- [vlang/gitly](https://github.com/vlang/gitly) - Light and fast GitHub/GitLab alternative written in V (3 days ago)
-- [raine/Lolgato](https://github.com/raine/Lolgato) - A macOS app that enhances control over Elgato lights, offering features beyond the standard Elgato Control Center software. (4 days ago)
-- [skiptools/skipstone](https://github.com/skiptools/skipstone) - The skip tool that powers the skip CLI and the skipstone SwiftPM plugin (6 days ago)
-- [skiptools/skip-ui](https://github.com/skiptools/skip-ui) - SwiftUI for Android (6 days ago)
+- [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) - An open-source coding helper. Very friendly! (3 days ago)
+- [Alishahryar1/cc-nim](https://github.com/Alishahryar1/cc-nim) - Use claude-code for free with NVIDIA-NIM via the terminal CLI or telegram (3 days ago)
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100&#43; languages. (4 days ago)
+- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript. (4 days ago)
+- [vlang/gitly](https://github.com/vlang/gitly) - Light and fast GitHub/GitLab alternative written in V (4 days ago)
+- [raine/Lolgato](https://github.com/raine/Lolgato) - A macOS app that enhances control over Elgato lights, offering features beyond the standard Elgato Control Center software. (5 days ago)
+- [skiptools/skipstone](https://github.com/skiptools/skipstone) - The skip tool that powers the skip CLI and the skipstone SwiftPM plugin (1 week ago)
+- [skiptools/skip-ui](https://github.com/skiptools/skip-ui) - SwiftUI for Android (1 week ago)
 - [GreatV/oar-ocr](https://github.com/GreatV/oar-ocr) - An Optical Character Recognition (OCR) and Document Layout Analysis library written in Rust. (1 week ago)
 - [Topdu/OpenOCR](https://github.com/Topdu/OpenOCR) - OpenOCR: An Open-Source Toolkit for General-OCR Research and Applications, integrates a unified training and evaluation benchmark, commercial-grade OCR and Document Parsing systems, and faithful reproductions of the core implementations from a wide range of academic papers. (1 week ago)
 
