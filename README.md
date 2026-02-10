@@ -20,11 +20,11 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (5 days ago)
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 week ago)
-- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (2 weeks ago)
-- [jhult/forms](https://github.com/jhult/forms) - Misc forms (1 month ago)
+- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (1 day ago)
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 day ago)
+- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (3 weeks ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 month ago)
+- [jhult/forms](https://github.com/jhult/forms) - Misc forms (1 month ago)
 - [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) - A Tauri-based frontend for Czkawka on macOS and Windows (1 month ago)
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release (1 month ago)
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (1 month ago)
@@ -33,8 +33,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [block/goose](https://github.com/block/goose) ([v1.23.2](https://github.com/block/goose/releases/tag/v1.23.2), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.12.0-beta.4](https://github.com/atuinsh/atuin/releases/tag/v18.12.0-beta.4), 3 days ago) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.12.0](https://github.com/atuinsh/atuin/releases/tag/v18.12.0), today) - ✨ Magical shell history
+- [block/goose](https://github.com/block/goose) ([v1.23.2](https://github.com/block/goose/releases/tag/v1.23.2), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) ([1.1.0](https://github.com/shixinhuang99/czkawka-tauri/releases/tag/1.1.0), 3 weeks ago) - A Tauri-based frontend for Czkawka on macOS and Windows
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 1 month ago) - The break time reminder app
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.5](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.5), 2 months ago) - Modern Android client for Hacker News
@@ -47,7 +47,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [fix: dispatch ADD_ACTIVE_SESSION event before navigating from &#34;View All&#34;](https://github.com/block/goose/pull/6679) on [block/goose](https://github.com/block/goose) (2 weeks ago)
 - [chore(docs): update GOOSE_SESSION_ID -&gt; AGENT_SESSION_ID](https://github.com/block/goose/pull/6669) on [block/goose](https://github.com/block/goose) (2 weeks ago)
 - [fix: don&#39;t steal focus from user&#39;s active element when handling consents](https://github.com/cavi-au/Consent-O-Matic/pull/560) on [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) (3 weeks ago)
-- [feat: detect context window limit errors for auto-compact](https://github.com/dejay2/glmproxy/pull/7) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (3 weeks ago)
+- [feat: detect context window limit errors for auto-compact](https://github.com/dejay2/glmproxy/pull/7) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (4 weeks ago)
 - [docs: update `README` - `ANTHROPIC_DEFAULT_*_MODEL` → `glm4.7`](https://github.com/dejay2/glmproxy/pull/4) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (1 month ago)
 - [feat: pin GitHub Actions versions to a full length commit SHA](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/103) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (1 month ago)
 - [Refactor build/utils.sh](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/pull/102) on [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) (1 month ago)
@@ -56,16 +56,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel. (2 days ago)
-- [typesafegithub/yaml2kotlin](https://github.com/typesafegithub/yaml2kotlin) - github-workflows-kt converts the Kotlin to YAML, we convert your initial YAML workflow to Kotlin (5 days ago)
-- [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance (5 days ago)
-- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking (5 days ago)
-- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention. (5 days ago)
-- [ankimcp/anki-mcp-server](https://github.com/ankimcp/anki-mcp-server) - A Model Context Protocol (MCP) server that enables AI assistants to interact with Anki, the spaced repetition flashcard application. (5 days ago)
-- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (5 days ago)
-- [inko-lang/website](https://github.com/inko-lang/website) - The Inko Programming Language website. (6 days ago)
-- [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages (1 week ago)
-- [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project (1 week ago)
+- [EspansoGUI/EspansoGUI](https://github.com/EspansoGUI/EspansoGUI) - A Front End GUI Interface that provides an intuitive IDE for Espanso (1 day ago)
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (1 day ago)
+- [finnvoor/yap](https://github.com/finnvoor/yap) - 🗣️ A CLI for on-device speech transcription using Speech.framework on macOS 26 (1 day ago)
+- [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel. (3 days ago)
+- [typesafegithub/yaml2kotlin](https://github.com/typesafegithub/yaml2kotlin) - github-workflows-kt converts the Kotlin to YAML, we convert your initial YAML workflow to Kotlin (6 days ago)
+- [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance (6 days ago)
+- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking (6 days ago)
+- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention. (6 days ago)
+- [ankimcp/anki-mcp-server](https://github.com/ankimcp/anki-mcp-server) - A Model Context Protocol (MCP) server that enables AI assistants to interact with Anki, the spaced repetition flashcard application. (6 days ago)
+- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (6 days ago)
 
 #### 📫 How to reach me
 
