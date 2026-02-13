@@ -20,9 +20,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (1 day ago)
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (2 days ago)
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (3 days ago)
+- [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (2 days ago)
+- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (3 days ago)
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (4 days ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (3 weeks ago)
 - [jhult/forms](https://github.com/jhult/forms) - Misc forms (1 month ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 month ago)
@@ -33,8 +33,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.12.1](https://github.com/atuinsh/atuin/releases/tag/v18.12.1), 1 day ago) - ✨ Magical shell history
-- [block/goose](https://github.com/block/goose) ([v1.23.2](https://github.com/block/goose/releases/tag/v1.23.2), 6 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [block/goose](https://github.com/block/goose) ([v1.24.0](https://github.com/block/goose/releases/tag/v1.24.0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.12.1](https://github.com/atuinsh/atuin/releases/tag/v18.12.1), 2 days ago) - ✨ Magical shell history
 - [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) ([1.1.0](https://github.com/shixinhuang99/czkawka-tauri/releases/tag/1.1.0), 3 weeks ago) - A Tauri-based frontend for Czkawka on macOS and Windows
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 1 month ago) - The break time reminder app
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.5](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.5), 2 months ago) - Modern Android client for Hacker News
@@ -44,29 +44,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add Inko language support](https://github.com/apache/skywalking-eyes/pull/262) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (1 day ago)
-- [feat: add Pkl language support](https://github.com/apache/skywalking-eyes/pull/261) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (1 day ago)
-- [fix: add helpful error message for git repository issues](https://github.com/apache/skywalking-eyes/pull/260) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (1 day ago)
-- [fix: Fish completion script corrupted by INFO log message](https://github.com/apache/skywalking-eyes/pull/259) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (1 day ago)
+- [feat: add Inko language support](https://github.com/apache/skywalking-eyes/pull/262) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (2 days ago)
+- [feat: add Pkl language support](https://github.com/apache/skywalking-eyes/pull/261) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (2 days ago)
+- [fix: add helpful error message for git repository issues](https://github.com/apache/skywalking-eyes/pull/260) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (2 days ago)
+- [fix: Fish completion script corrupted by INFO log message](https://github.com/apache/skywalking-eyes/pull/259) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (2 days ago)
 - [feat: add max_turns to recipe and subagent settings](https://github.com/block/goose/pull/6687) on [block/goose](https://github.com/block/goose) (2 weeks ago)
-- [fix: dispatch ADD_ACTIVE_SESSION event before navigating from &#34;View All&#34;](https://github.com/block/goose/pull/6679) on [block/goose](https://github.com/block/goose) (2 weeks ago)
-- [chore(docs): update GOOSE_SESSION_ID -&gt; AGENT_SESSION_ID](https://github.com/block/goose/pull/6669) on [block/goose](https://github.com/block/goose) (2 weeks ago)
+- [fix: dispatch ADD_ACTIVE_SESSION event before navigating from &#34;View All&#34;](https://github.com/block/goose/pull/6679) on [block/goose](https://github.com/block/goose) (3 weeks ago)
+- [chore(docs): update GOOSE_SESSION_ID -&gt; AGENT_SESSION_ID](https://github.com/block/goose/pull/6669) on [block/goose](https://github.com/block/goose) (3 weeks ago)
 - [fix: don&#39;t steal focus from user&#39;s active element when handling consents](https://github.com/cavi-au/Consent-O-Matic/pull/560) on [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) (3 weeks ago)
 - [feat: detect context window limit errors for auto-compact](https://github.com/dejay2/glmproxy/pull/7) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (1 month ago)
 - [docs: update `README` - `ANTHROPIC_DEFAULT_*_MODEL` → `glm4.7`](https://github.com/dejay2/glmproxy/pull/4) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [inko-lang/ivm](https://github.com/inko-lang/ivm) - The cross-platform Inko version manager (1 day ago)
-- [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed. (1 day ago)
-- [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems. (1 day ago)
-- [apache/brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C&#43;&#43; Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. &#34;brpc&#34; means &#34;better RPC&#34;. (1 day ago)
-- [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (2 days ago)
-- [supabitapp/supacode](https://github.com/supabitapp/supacode) - native macOS codings agent orchestrator (2 days ago)
-- [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. (2 days ago)
-- [EspansoGUI/EspansoGUI](https://github.com/EspansoGUI/EspansoGUI) - A Front End GUI Interface that provides an intuitive IDE for Espanso (3 days ago)
-- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (3 days ago)
-- [finnvoor/yap](https://github.com/finnvoor/yap) - 🗣️ A CLI for on-device speech transcription using Speech.framework on macOS 26 (3 days ago)
+- [inko-lang/ivm](https://github.com/inko-lang/ivm) - The cross-platform Inko version manager (2 days ago)
+- [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed. (2 days ago)
+- [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems. (2 days ago)
+- [apache/brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C&#43;&#43; Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. &#34;brpc&#34; means &#34;better RPC&#34;. (2 days ago)
+- [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (3 days ago)
+- [supabitapp/supacode](https://github.com/supabitapp/supacode) - native macOS codings agent orchestrator (3 days ago)
+- [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. (3 days ago)
+- [EspansoGUI/EspansoGUI](https://github.com/EspansoGUI/EspansoGUI) - A Front End GUI Interface that provides an intuitive IDE for Espanso (4 days ago)
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (4 days ago)
+- [finnvoor/yap](https://github.com/finnvoor/yap) - 🗣️ A CLI for on-device speech transcription using Speech.framework on macOS 26 (4 days ago)
 
 #### 📫 How to reach me
 
