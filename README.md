@@ -20,9 +20,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (4 days ago)
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (5 days ago)
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (6 days ago)
+- [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (5 days ago)
+- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (6 days ago)
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 week ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (3 weeks ago)
 - [jhult/forms](https://github.com/jhult/forms) - Misc forms (1 month ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 month ago)
@@ -33,8 +33,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/v18.13.0-beta.1), 2 days ago) - ✨ Magical shell history
-- [block/goose](https://github.com/block/goose) ([v1.24.0](https://github.com/block/goose/releases/tag/v1.24.0), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/v18.13.0-beta.1), 3 days ago) - ✨ Magical shell history
+- [block/goose](https://github.com/block/goose) ([v1.24.0](https://github.com/block/goose/releases/tag/v1.24.0), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) ([1.1.0](https://github.com/shixinhuang99/czkawka-tauri/releases/tag/1.1.0), 4 weeks ago) - A Tauri-based frontend for Czkawka on macOS and Windows
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 1 month ago) - The break time reminder app
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.5](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.5), 2 months ago) - Modern Android client for Hacker News
@@ -44,10 +44,10 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add Inko language support](https://github.com/apache/skywalking-eyes/pull/262) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (4 days ago)
-- [feat: add Pkl language support](https://github.com/apache/skywalking-eyes/pull/261) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (4 days ago)
-- [fix: add helpful error message for git repository issues](https://github.com/apache/skywalking-eyes/pull/260) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (4 days ago)
-- [fix: Fish completion script corrupted by INFO log message](https://github.com/apache/skywalking-eyes/pull/259) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (4 days ago)
+- [feat: add Inko language support](https://github.com/apache/skywalking-eyes/pull/262) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (5 days ago)
+- [feat: add Pkl language support](https://github.com/apache/skywalking-eyes/pull/261) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (5 days ago)
+- [fix: add helpful error message for git repository issues](https://github.com/apache/skywalking-eyes/pull/260) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (5 days ago)
+- [fix: Fish completion script corrupted by INFO log message](https://github.com/apache/skywalking-eyes/pull/259) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (5 days ago)
 - [feat: add max_turns to recipe and subagent settings](https://github.com/block/goose/pull/6687) on [block/goose](https://github.com/block/goose) (3 weeks ago)
 - [fix: dispatch ADD_ACTIVE_SESSION event before navigating from &#34;View All&#34;](https://github.com/block/goose/pull/6679) on [block/goose](https://github.com/block/goose) (3 weeks ago)
 - [chore(docs): update GOOSE_SESSION_ID -&gt; AGENT_SESSION_ID](https://github.com/block/goose/pull/6669) on [block/goose](https://github.com/block/goose) (3 weeks ago)
@@ -57,16 +57,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) - ReVanced LSPosed module. YouTube &amp; YT Music Remove ads, Background playback (1 day ago)
-- [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches (1 day ago)
-- [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts (1 day ago)
-- [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider&#39;s Guide (1 day ago)
-- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images (1 day ago)
-- [pixincreate/Magisk](https://github.com/pixincreate/Magisk) - The Magic Mask for GrapheneOS (2 days ago)
-- [chenxiaolong/Custota](https://github.com/chenxiaolong/Custota) - Android A/B OTA updater app for custom OTA servers (2 days ago)
-- [schnatterer/rooted-graphene](https://github.com/schnatterer/rooted-graphene) - GrapheneOS rooted and served via its own OTA server on GitHub pages (2 days ago)
-- [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk. (2 days ago)
-- [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk (2 days ago)
+- [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - 🧘 An updatable, open source Instagram app for Android without distractions. (1 day ago)
+- [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) - ReVanced LSPosed module. YouTube &amp; YT Music Remove ads, Background playback (2 days ago)
+- [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches (2 days ago)
+- [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts (2 days ago)
+- [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider&#39;s Guide (2 days ago)
+- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images (2 days ago)
+- [pixincreate/Magisk](https://github.com/pixincreate/Magisk) - The Magic Mask for GrapheneOS (3 days ago)
+- [chenxiaolong/Custota](https://github.com/chenxiaolong/Custota) - Android A/B OTA updater app for custom OTA servers (3 days ago)
+- [schnatterer/rooted-graphene](https://github.com/schnatterer/rooted-graphene) - GrapheneOS rooted and served via its own OTA server on GitHub pages (3 days ago)
+- [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk. (3 days ago)
 
 #### 📫 How to reach me
 
