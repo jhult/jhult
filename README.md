@@ -20,7 +20,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (6 days ago)
+- [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (1 week ago)
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (1 week ago)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 week ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (4 weeks ago)
@@ -33,9 +33,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.6](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.6), 1 day ago) - Modern Android client for Hacker News
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/v18.13.0-beta.1), 4 days ago) - ✨ Magical shell history
-- [block/goose](https://github.com/block/goose) ([v1.24.0](https://github.com/block/goose/releases/tag/v1.24.0), 5 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.6](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.6), 2 days ago) - Modern Android client for Hacker News
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/v18.13.0-beta.1), 5 days ago) - ✨ Magical shell history
+- [block/goose](https://github.com/block/goose) ([v1.24.0](https://github.com/block/goose/releases/tag/v1.24.0), 6 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) ([1.1.0](https://github.com/shixinhuang99/czkawka-tauri/releases/tag/1.1.0), 1 month ago) - A Tauri-based frontend for Czkawka on macOS and Windows
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 1 month ago) - The break time reminder app
 - [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) ([v0.8.0](https://github.com/apache/skywalking-eyes/releases/tag/v0.8.0), 3 months ago) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses.
@@ -44,10 +44,10 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add Inko language support](https://github.com/apache/skywalking-eyes/pull/262) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (6 days ago)
-- [feat: add Pkl language support](https://github.com/apache/skywalking-eyes/pull/261) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (6 days ago)
-- [fix: add helpful error message for git repository issues](https://github.com/apache/skywalking-eyes/pull/260) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (6 days ago)
-- [fix: Fish completion script corrupted by INFO log message](https://github.com/apache/skywalking-eyes/pull/259) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (6 days ago)
+- [feat: add Inko language support](https://github.com/apache/skywalking-eyes/pull/262) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (1 week ago)
+- [feat: add Pkl language support](https://github.com/apache/skywalking-eyes/pull/261) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (1 week ago)
+- [fix: add helpful error message for git repository issues](https://github.com/apache/skywalking-eyes/pull/260) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (1 week ago)
+- [fix: Fish completion script corrupted by INFO log message](https://github.com/apache/skywalking-eyes/pull/259) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (1 week ago)
 - [feat: add max_turns to recipe and subagent settings](https://github.com/block/goose/pull/6687) on [block/goose](https://github.com/block/goose) (3 weeks ago)
 - [fix: dispatch ADD_ACTIVE_SESSION event before navigating from &#34;View All&#34;](https://github.com/block/goose/pull/6679) on [block/goose](https://github.com/block/goose) (3 weeks ago)
 - [chore(docs): update GOOSE_SESSION_ID -&gt; AGENT_SESSION_ID](https://github.com/block/goose/pull/6669) on [block/goose](https://github.com/block/goose) (3 weeks ago)
@@ -57,16 +57,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - 🧘 An updatable, open source Instagram app for Android without distractions. (2 days ago)
-- [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) - ReVanced LSPosed module. YouTube &amp; YT Music Remove ads, Background playback (3 days ago)
-- [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches (3 days ago)
-- [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts (3 days ago)
-- [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider&#39;s Guide (3 days ago)
-- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images (3 days ago)
-- [pixincreate/Magisk](https://github.com/pixincreate/Magisk) - The Magic Mask for GrapheneOS (4 days ago)
-- [chenxiaolong/Custota](https://github.com/chenxiaolong/Custota) - Android A/B OTA updater app for custom OTA servers (4 days ago)
-- [schnatterer/rooted-graphene](https://github.com/schnatterer/rooted-graphene) - GrapheneOS rooted and served via its own OTA server on GitHub pages (4 days ago)
-- [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk. (4 days ago)
+- [calebyhan/bible-rag](https://github.com/calebyhan/bible-rag) - Multilingual Bible study tool with semantic search and RAG (1 day ago)
+- [schierlm/BibleMultiConverter](https://github.com/schierlm/BibleMultiConverter) - Converter written in Java to convert between different Bible program formats (1 day ago)
+- [martijnlentink/propresenter-custom-bibles](https://github.com/martijnlentink/propresenter-custom-bibles) - Tutorial to import custom Bibles in ProPresenter (1 day ago)
+- [cloudflare/ecdysis](https://github.com/cloudflare/ecdysis) - A library for graceful restarts in Rust (1 day ago)
+- [cloudflare/shellflip](https://github.com/cloudflare/shellflip) - Graceful process restarts in Rust (1 day ago)
+- [tushortz/youversion-bible-client](https://github.com/tushortz/youversion-bible-client) - Unofficial Youversion bible api (1 day ago)
+- [AbhiTheModder/apksearch](https://github.com/AbhiTheModder/apksearch) - Your APK Search Engine (1 day ago)
+- [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced, Morphe and AmpleReVanced on that has extra features the official manager doesn&#39;t have (1 day ago)
+- [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android (1 day ago)
+- [MorpheApp/morphe-patcher](https://github.com/MorpheApp/morphe-patcher) - Patcher for Morphe (1 day ago)
 
 #### 📫 How to reach me
 
