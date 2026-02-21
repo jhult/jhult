@@ -20,8 +20,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
+- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (1 day ago)
 - [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (1 week ago)
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (1 week ago)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 week ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (1 month ago)
 - [jhult/forms](https://github.com/jhult/forms) - Misc forms (1 month ago)
@@ -33,8 +33,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [block/goose](https://github.com/block/goose) ([v1.25.0](https://github.com/block/goose/releases/tag/v1.25.0), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.6](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.6), 4 days ago) - Modern Android client for Hacker News
+- [block/goose](https://github.com/block/goose) ([v1.25.0](https://github.com/block/goose/releases/tag/v1.25.0), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.6](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.6), 5 days ago) - Modern Android client for Hacker News
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/v18.13.0-beta.1), 1 week ago) - ✨ Magical shell history
 - [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) ([1.1.0](https://github.com/shixinhuang99/czkawka-tauri/releases/tag/1.1.0), 1 month ago) - A Tauri-based frontend for Czkawka on macOS and Windows
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 1 month ago) - The break time reminder app
@@ -44,29 +44,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: respect specified paths in git repository](https://github.com/apache/skywalking-eyes/pull/263) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (2 days ago)
+- [maintainers: add jhult](https://github.com/NixOS/nixpkgs/pull/492600) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [fix: respect specified paths in git repository](https://github.com/apache/skywalking-eyes/pull/263) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (3 days ago)
 - [feat: add Inko language support](https://github.com/apache/skywalking-eyes/pull/262) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (1 week ago)
 - [feat: add Pkl language support](https://github.com/apache/skywalking-eyes/pull/261) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (1 week ago)
 - [fix: add helpful error message for git repository issues](https://github.com/apache/skywalking-eyes/pull/260) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (1 week ago)
 - [fix: Fish completion script corrupted by INFO log message](https://github.com/apache/skywalking-eyes/pull/259) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (1 week ago)
-- [feat: add max_turns to recipe and subagent settings](https://github.com/block/goose/pull/6687) on [block/goose](https://github.com/block/goose) (3 weeks ago)
+- [feat: add max_turns to recipe and subagent settings](https://github.com/block/goose/pull/6687) on [block/goose](https://github.com/block/goose) (4 weeks ago)
 - [fix: dispatch ADD_ACTIVE_SESSION event before navigating from &#34;View All&#34;](https://github.com/block/goose/pull/6679) on [block/goose](https://github.com/block/goose) (4 weeks ago)
 - [chore(docs): update GOOSE_SESSION_ID -&gt; AGENT_SESSION_ID](https://github.com/block/goose/pull/6669) on [block/goose](https://github.com/block/goose) (4 weeks ago)
 - [fix: don&#39;t steal focus from user&#39;s active element when handling consents](https://github.com/cavi-au/Consent-O-Matic/pull/560) on [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) (1 month ago)
-- [feat: detect context window limit errors for auto-compact](https://github.com/dejay2/glmproxy/pull/7) on [dejay2/glmproxy](https://github.com/dejay2/glmproxy) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [snehasishroy/leetcode-companywise-interview-questions](https://github.com/snehasishroy/leetcode-companywise-interview-questions) - Contains latest company wise questions of LeetCode as of November 2025. (1 day ago)
-- [BioHazard786/Leetcode-Companywise-Questions](https://github.com/BioHazard786/Leetcode-Companywise-Questions) - A modern, responsive web application to explore and filter LeetCode problems categorized by companies, topics, and difficulty levels. (1 day ago)
-- [calebyhan/bible-rag](https://github.com/calebyhan/bible-rag) - Multilingual Bible study tool with semantic search and RAG (3 days ago)
-- [schierlm/BibleMultiConverter](https://github.com/schierlm/BibleMultiConverter) - Converter written in Java to convert between different Bible program formats (3 days ago)
-- [martijnlentink/propresenter-custom-bibles](https://github.com/martijnlentink/propresenter-custom-bibles) - Tutorial to import custom Bibles in ProPresenter (3 days ago)
-- [cloudflare/ecdysis](https://github.com/cloudflare/ecdysis) - A library for graceful restarts in Rust (3 days ago)
-- [cloudflare/shellflip](https://github.com/cloudflare/shellflip) - Graceful process restarts in Rust (3 days ago)
-- [tushortz/youversion-bible-client](https://github.com/tushortz/youversion-bible-client) - Unofficial Youversion bible api (3 days ago)
-- [AbhiTheModder/apksearch](https://github.com/AbhiTheModder/apksearch) - Your APK Search Engine (3 days ago)
-- [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced, Morphe and AmpleReVanced on that has extra features the official manager doesn&#39;t have (3 days ago)
+- [nix-community/naersk](https://github.com/nix-community/naersk) - Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly. (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) - Encrypt your mdbook-built site with password protection. (1 day ago)
+- [a-bonus/google-docs-mcp](https://github.com/a-bonus/google-docs-mcp) - The Ultimate Google Docs, Sheets &amp; Drive MCP Server. Google Docs MCP is an MCP server (primarily for use in Claude Desktop) that gains full access to your google docs, etc. and allows claude to make direct edits and formatting. (1 day ago)
+- [snehasishroy/leetcode-companywise-interview-questions](https://github.com/snehasishroy/leetcode-companywise-interview-questions) - Contains latest company wise questions of LeetCode as of November 2025. (2 days ago)
+- [BioHazard786/Leetcode-Companywise-Questions](https://github.com/BioHazard786/Leetcode-Companywise-Questions) - A modern, responsive web application to explore and filter LeetCode problems categorized by companies, topics, and difficulty levels. (2 days ago)
+- [calebyhan/bible-rag](https://github.com/calebyhan/bible-rag) - Multilingual Bible study tool with semantic search and RAG (4 days ago)
+- [schierlm/BibleMultiConverter](https://github.com/schierlm/BibleMultiConverter) - Converter written in Java to convert between different Bible program formats (4 days ago)
+- [martijnlentink/propresenter-custom-bibles](https://github.com/martijnlentink/propresenter-custom-bibles) - Tutorial to import custom Bibles in ProPresenter (4 days ago)
+- [cloudflare/ecdysis](https://github.com/cloudflare/ecdysis) - A library for graceful restarts in Rust (4 days ago)
 
 #### 📫 How to reach me
 
