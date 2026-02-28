@@ -20,36 +20,36 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (1 day ago)
-- [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) - Encrypt your mdbook-built site with password protection. (4 days ago)
+- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (2 days ago)
+- [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) - Encrypt your mdbook-built site with password protection. (5 days ago)
+- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) -  (5 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall (1 week ago)
 - [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (2 weeks ago)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (2 weeks ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (1 month ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 month ago)
 - [jhult/forms](https://github.com/jhult/forms) - Misc forms (1 month ago)
-- [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) - A Tauri-based frontend for Czkawka on macOS and Windows (1 month ago)
-- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.0-beta.2](https://github.com/atuinsh/atuin/releases/tag/v18.13.0-beta.2), 1 day ago) - ✨ Magical shell history
-- [block/goose](https://github.com/block/goose) ([v1.26.0](https://github.com/block/goose/releases/tag/v1.26.0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) ([v0.1.2](https://github.com/Wybxc/mdbook-pagecrypt/releases/tag/v0.1.2), 3 days ago) - Encrypt your mdbook-built site with password protection.
+- [block/goose](https://github.com/block/goose) ([v1.26.1](https://github.com/block/goose/releases/tag/v1.26.1), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.0-beta.2](https://github.com/atuinsh/atuin/releases/tag/v18.13.0-beta.2), 2 days ago) - ✨ Magical shell history
+- [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) ([v0.1.2](https://github.com/Wybxc/mdbook-pagecrypt/releases/tag/v0.1.2), 4 days ago) - Encrypt your mdbook-built site with password protection.
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.6](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.6), 1 week ago) - Modern Android client for Hacker News
+- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.1.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.1.0), 2 weeks ago) - 
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.2.1](https://github.com/objective-see/LuLu/releases/tag/v4.2.1), 3 weeks ago) - LuLu is the free open-source macOS firewall
 - [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) ([1.1.0](https://github.com/shixinhuang99/czkawka-tauri/releases/tag/1.1.0), 1 month ago) - A Tauri-based frontend for Czkawka on macOS and Windows
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 2 months ago) - The break time reminder app
 - [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) ([v0.8.0](https://github.com/apache/skywalking-eyes/releases/tag/v0.8.0), 4 months ago) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses.
 - [tacogips/async-graphql-reverse](https://github.com/tacogips/async-graphql-reverse) ([v0.6.1](https://github.com/tacogips/async-graphql-reverse/releases/tag/v0.6.1), 2 years ago) - 
-- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) ([all](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/tag/all), 2 years ago) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
 
 #### 🔨 My recent Pull Requests
 
-- [feat: ignore files listed in `.mdbookignore` during build](https://github.com/rust-lang/mdBook/pull/3040) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (2 days ago)
-- [beads: add --HEAD](https://github.com/Homebrew/homebrew-core/pull/269123) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (3 days ago)
-- [mdbook-pagecrypt: init at 0.1.2](https://github.com/NixOS/nixpkgs/pull/493544) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
-- [chore: update dependencies](https://github.com/Wybxc/mdbook-pagecrypt/pull/2) on [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) (4 days ago)
+- [feat: ignore files listed in `.mdbookignore` during build](https://github.com/rust-lang/mdBook/pull/3040) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (3 days ago)
+- [beads: add --HEAD](https://github.com/Homebrew/homebrew-core/pull/269123) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (4 days ago)
+- [mdbook-pagecrypt: init at 0.1.2](https://github.com/NixOS/nixpkgs/pull/493544) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
+- [chore: update dependencies](https://github.com/Wybxc/mdbook-pagecrypt/pull/2) on [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) (5 days ago)
 - [maintainers: add jhult](https://github.com/NixOS/nixpkgs/pull/492600) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [fix: respect specified paths in git repository](https://github.com/apache/skywalking-eyes/pull/263) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (1 week ago)
 - [feat: add Inko language support](https://github.com/apache/skywalking-eyes/pull/262) on [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) (2 weeks ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) - A minimal dependency implementation of Apache Parquet (1 day ago)
-- [apache/otava](https://github.com/apache/otava) - Change Detection for Continuous Performance Engineering (1 day ago)
-- [bmax121/KernelPatch](https://github.com/bmax121/KernelPatch) - Patching and hooking the Linux kernel with only a stripped Linux kernel image. (1 day ago)
-- [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system (1 day ago)
-- [chenxiaolong/grapheneos-patches](https://github.com/chenxiaolong/grapheneos-patches) - Collection of patches I apply to my personal GrapheneOS builds (1 day ago)
-- [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to rewrite mobile applications at runtime to directly MitM all HTTPS traffic (1 day ago)
-- [zenchantlive/beadboard](https://github.com/zenchantlive/beadboard) -  (1 day ago)
-- [quietpublish/mardi-gras](https://github.com/quietpublish/mardi-gras) -  (1 day ago)
-- [mratmeyer/rsslookup](https://github.com/mratmeyer/rsslookup) - A free tool to find the RSS feed for any URL (2 days ago)
-- [cargo-bins/cargo-quickinstall](https://github.com/cargo-bins/cargo-quickinstall) - pre-compiled binary packages for `cargo install` (2 days ago)
+- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (today)
+- [fad1/Switcher](https://github.com/fad1/Switcher) - Fast, lightweight Cmd&#43;Tab replacement for macOS. No bloat, no lag, no memory leaks. (1 day ago)
+- [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) - A minimal dependency implementation of Apache Parquet (2 days ago)
+- [apache/otava](https://github.com/apache/otava) - Change Detection for Continuous Performance Engineering (2 days ago)
+- [bmax121/KernelPatch](https://github.com/bmax121/KernelPatch) - Patching and hooking the Linux kernel with only a stripped Linux kernel image. (2 days ago)
+- [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system (2 days ago)
+- [chenxiaolong/grapheneos-patches](https://github.com/chenxiaolong/grapheneos-patches) - Collection of patches I apply to my personal GrapheneOS builds (2 days ago)
+- [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to rewrite mobile applications at runtime to directly MitM all HTTPS traffic (2 days ago)
+- [zenchantlive/beadboard](https://github.com/zenchantlive/beadboard) -  (2 days ago)
+- [quietpublish/mardi-gras](https://github.com/quietpublish/mardi-gras) -  (2 days ago)
 
 #### 📫 How to reach me
 
