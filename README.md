@@ -20,7 +20,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) -  (1 day ago)
+- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) -  (2 days ago)
 - [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) - Encrypt your mdbook-built site with password protection. (1 week ago)
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (1 week ago)
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (1 week ago)
@@ -33,9 +33,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [block/goose](https://github.com/block/goose) ([v1.27.2](https://github.com/block/goose/releases/tag/v1.27.2), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [steveyegge/beads](https://github.com/steveyegge/beads) ([v0.59.0](https://github.com/steveyegge/beads/releases/tag/v0.59.0), 1 day ago) - Beads - A memory upgrade for your coding agent
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.0-beta.3](https://github.com/atuinsh/atuin/releases/tag/v18.13.0-beta.3), 5 days ago) - ✨ Magical shell history
+- [block/goose](https://github.com/block/goose) ([v1.27.2](https://github.com/block/goose/releases/tag/v1.27.2), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [steveyegge/beads](https://github.com/steveyegge/beads) ([v0.59.0](https://github.com/steveyegge/beads/releases/tag/v0.59.0), 2 days ago) - Beads - A memory upgrade for your coding agent
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.0-beta.3](https://github.com/atuinsh/atuin/releases/tag/v18.13.0-beta.3), 6 days ago) - ✨ Magical shell history
 - [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) ([v0.1.2](https://github.com/Wybxc/mdbook-pagecrypt/releases/tag/v0.1.2), 1 week ago) - Encrypt your mdbook-built site with password protection.
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.6](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.6), 2 weeks ago) - Modern Android client for Hacker News
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.1.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.1.0), 3 weeks ago) - 
@@ -46,10 +46,10 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: run TrackpadEvents on main thread for toNSEvent() correctness](https://github.com/lwouis/alt-tab-macos/pull/5370) on [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) (4 days ago)
-- [fix(html): rewrite CSS url() references to use hashed filenames](https://github.com/rust-lang/mdBook/pull/3046) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (4 days ago)
-- [fix: encrypt toc.html](https://github.com/Wybxc/mdbook-pagecrypt/pull/7) on [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) (6 days ago)
-- [fix: require password in PageCryptBuilder](https://github.com/Wybxc/mdbook-pagecrypt/pull/6) on [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) (6 days ago)
+- [fix: run TrackpadEvents on main thread for toNSEvent() correctness](https://github.com/lwouis/alt-tab-macos/pull/5370) on [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) (5 days ago)
+- [fix(html): rewrite CSS url() references to use hashed filenames](https://github.com/rust-lang/mdBook/pull/3046) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (5 days ago)
+- [fix: encrypt toc.html](https://github.com/Wybxc/mdbook-pagecrypt/pull/7) on [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) (1 week ago)
+- [fix: require password in PageCryptBuilder](https://github.com/Wybxc/mdbook-pagecrypt/pull/6) on [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) (1 week ago)
 - [feat: require password](https://github.com/Wybxc/mdbook-pagecrypt/pull/4) on [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) (1 week ago)
 - [feat: add hk (hk.jdx.dev) as supported git hook manager](https://github.com/steveyegge/beads/pull/2182) on [steveyegge/beads](https://github.com/steveyegge/beads) (1 week ago)
 - [feat: ignore files listed in `.mdbookignore` during build](https://github.com/rust-lang/mdBook/pull/3040) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (1 week ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens (today)
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard &#43; 2D/3D Contributions Graph (1 day ago)
-- [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C&#43;&#43; code into a Rust library (1 day ago)
-- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 9.1x faster response times (0.43ms vs 3.92ms) and 46.5x higher throughput (74,662 vs 1,605 req/sec) than Next.js with zero-config setup. (1 day ago)
-- [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models. (2 days ago)
-- [Dicklesworthstone/cass_memory_system](https://github.com/Dicklesworthstone/cass_memory_system) - Procedural memory for AI coding agents: transforms scattered session history into persistent, cross-agent memory so every agent learns from every other (2 days ago)
-- [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (3 days ago)
-- [MeisnerDan/mission-control](https://github.com/MeisnerDan/mission-control) - Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents. (3 days ago)
-- [pi22by7/In-Memoria](https://github.com/pi22by7/In-Memoria) - Persistent Intelligence Infrastructure for AI Agents (3 days ago)
-- [aitytech/agentkits-memory](https://github.com/aitytech/agentkits-memory) - Persistent memory system for AI coding assistants via MCP. Works with Claude Code, Cursor, Copilot, Windsurf, Cline. (3 days ago)
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (today)
+- [systemd/mkosi](https://github.com/systemd/mkosi) - 💽 Build Bespoke OS Images (1 day ago)
+- [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones (1 day ago)
+- [Digicreon/muJS](https://github.com/Digicreon/muJS) - Lightweight AJAX navigation library — 5KB alternative to Turbo and htmx (1 day ago)
+- [openrecall/openrecall](https://github.com/openrecall/openrecall) - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft&#39;s Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy. (1 day ago)
+- [lardissone/ansi-saver](https://github.com/lardissone/ansi-saver) - ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs (1 day ago)
+- [one-bit/mnemoria](https://github.com/one-bit/mnemoria) - Persistent, git-friendly memory storage for AI agents — hybrid semantic &#43; full-text search, append-only binary format, zero-copy reads (1 day ago)
+- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens (1 day ago)
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard &#43; 2D/3D Contributions Graph (2 days ago)
+- [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C&#43;&#43; code into a Rust library (2 days ago)
 
 #### 📫 How to reach me
 
