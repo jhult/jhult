@@ -20,25 +20,25 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) - Encrypt your mdbook-built site with password protection. (1 day ago)
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) -  (1 day ago)
+- [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (1 day ago)
+- [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) - Encrypt your mdbook-built site with password protection. (2 days ago)
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (1 week ago)
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (1 week ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (2 weeks ago)
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall (2 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
-- [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (3 weeks ago)
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (4 weeks ago)
-- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (1 month ago)
+- [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (4 weeks ago)
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) ([v0.2.0](https://github.com/Wybxc/mdbook-pagecrypt/releases/tag/v0.2.0), 1 day ago) - Encrypt your mdbook-built site with password protection.
-- [block/goose](https://github.com/block/goose) ([v1.27.2](https://github.com/block/goose/releases/tag/v1.27.2), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [steveyegge/beads](https://github.com/steveyegge/beads) ([v0.59.0](https://github.com/steveyegge/beads/releases/tag/v0.59.0), 4 days ago) - Beads - A memory upgrade for your coding agent
+- [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) ([v0.2.0](https://github.com/Wybxc/mdbook-pagecrypt/releases/tag/v0.2.0), 2 days ago) - Encrypt your mdbook-built site with password protection.
+- [block/goose](https://github.com/block/goose) ([v1.27.2](https://github.com/block/goose/releases/tag/v1.27.2), 5 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [steveyegge/beads](https://github.com/steveyegge/beads) ([v0.59.0](https://github.com/steveyegge/beads/releases/tag/v0.59.0), 5 days ago) - Beads - A memory upgrade for your coding agent
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.0-beta.3](https://github.com/atuinsh/atuin/releases/tag/v18.13.0-beta.3), 1 week ago) - ✨ Magical shell history
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.6](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.6), 3 weeks ago) - Modern Android client for Hacker News
-- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.1.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.1.0), 3 weeks ago) - 
+- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.1.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.1.0), 4 weeks ago) - 
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.2.1](https://github.com/objective-see/LuLu/releases/tag/v4.2.1), 1 month ago) - LuLu is the free open-source macOS firewall
 - [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) ([1.1.0](https://github.com/shixinhuang99/czkawka-tauri/releases/tag/1.1.0), 1 month ago) - A Tauri-based frontend for Czkawka on macOS and Windows
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.20.0](https://github.com/hovancik/stretchly/releases/tag/v1.20.0), 2 months ago) - The break time reminder app
@@ -46,29 +46,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(core): expose `init_logger` publicly](https://github.com/rust-lang/mdBook/pull/3049) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (1 day ago)
-- [feat: URLs with no index.html suffix ](https://github.com/rust-lang/mdBook/pull/3047) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (2 days ago)
+- [feat: allow building using cmake](https://github.com/gyscos/zstd-rs/pull/361) on [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) (1 day ago)
+- [Update project to use BSD-3-Clause license (#314)](https://github.com/gyscos/zstd-rs/pull/360) on [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) (1 day ago)
+- [feat(core): expose `init_logger` publicly](https://github.com/rust-lang/mdBook/pull/3049) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (2 days ago)
+- [feat: URLs with no index.html suffix ](https://github.com/rust-lang/mdBook/pull/3047) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (3 days ago)
 - [fix: run TrackpadEvents on main thread for toNSEvent() correctness](https://github.com/lwouis/alt-tab-macos/pull/5370) on [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) (1 week ago)
 - [fix(html): rewrite CSS url() references to use hashed filenames](https://github.com/rust-lang/mdBook/pull/3046) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (1 week ago)
 - [fix: encrypt toc.html](https://github.com/Wybxc/mdbook-pagecrypt/pull/7) on [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) (1 week ago)
 - [fix: require password in PageCryptBuilder](https://github.com/Wybxc/mdbook-pagecrypt/pull/6) on [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) (1 week ago)
 - [feat: require password](https://github.com/Wybxc/mdbook-pagecrypt/pull/4) on [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) (1 week ago)
 - [feat: add hk (hk.jdx.dev) as supported git hook manager](https://github.com/steveyegge/beads/pull/2182) on [steveyegge/beads](https://github.com/steveyegge/beads) (1 week ago)
-- [feat: ignore files listed in `.mdbookignore` during build](https://github.com/rust-lang/mdBook/pull/3040) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (1 week ago)
-- [beads: add --HEAD](https://github.com/Homebrew/homebrew-core/pull/269123) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [rust-lang/cmake-rs](https://github.com/rust-lang/cmake-rs) - Rust build dependency for running cmake (1 day ago)
-- [flexdinesh/models.dev-rss](https://github.com/flexdinesh/models.dev-rss) - rss feed of models.dev (1 day ago)
-- [martinstannard/openrtk](https://github.com/martinstannard/openrtk) - opencode plugin for rtk (rust token killer) (1 day ago)
-- [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - Agentic AI framework for enterprise workflow automation. (1 day ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 day ago)
-- [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) - Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid. (1 day ago)
-- [simonw/llm-prices](https://github.com/simonw/llm-prices) - Prices of various LLMs (2 days ago)
-- [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly (2 days ago)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (2 days ago)
-- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (2 days ago)
+- [ChrisFeldmeier/OpenCodeRust](https://github.com/ChrisFeldmeier/OpenCodeRust) - ❒ OpenCode in 100% Rust - handling massiv LLM workload (today)
+- [onllm-dev/onWatch](https://github.com/onllm-dev/onWatch) - Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot &amp; Antigravity in real time. Lightweight background daemon (&lt;50MB RAM), SQLite storage, Material Design 3 dashboard. Zero telemetry. (today)
+- [rizal72/true-mem](https://github.com/rizal72/true-mem) - A persistent memory plugin for OpenCode with cognitive psychology-based memory management (today)
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (1 day ago)
+- [rust-lang/cmake-rs](https://github.com/rust-lang/cmake-rs) - Rust build dependency for running cmake (2 days ago)
+- [flexdinesh/models.dev-rss](https://github.com/flexdinesh/models.dev-rss) - rss feed of models.dev (2 days ago)
+- [martinstannard/openrtk](https://github.com/martinstannard/openrtk) - opencode plugin for rtk (rust token killer) (2 days ago)
+- [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - Agentic AI framework for enterprise workflow automation. (2 days ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 days ago)
+- [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) - Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid. (2 days ago)
 
 #### 📫 How to reach me
 
