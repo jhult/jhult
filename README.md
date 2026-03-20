@@ -20,23 +20,23 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) -  (1 week ago)
+- [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (3 days ago)
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (1 week ago)
+- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) -  (1 week ago)
 - [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) - Encrypt your mdbook-built site with password protection. (1 week ago)
-- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (2 weeks ago)
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (3 weeks ago)
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (3 weeks ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 weeks ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 weeks ago)
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall (3 weeks ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 weeks ago)
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall (4 weeks ago)
 - [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (1 month ago)
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [block/goose](https://github.com/block/goose) ([v1.28.0](https://github.com/block/goose/releases/tag/v1.28.0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.1](https://github.com/objective-see/LuLu/releases/tag/v4.3.1), 2 days ago) - LuLu is the free open-source macOS firewall
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.3](https://github.com/atuinsh/atuin/releases/tag/v18.13.3), 2 days ago) - ✨ Making your shell magical
-- [steveyegge/beads](https://github.com/steveyegge/beads) ([v0.61.0](https://github.com/steveyegge/beads/releases/tag/v0.61.0), 3 days ago) - Beads - A memory upgrade for your coding agent
+- [block/goose](https://github.com/block/goose) ([v1.28.0](https://github.com/block/goose/releases/tag/v1.28.0), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.1](https://github.com/objective-see/LuLu/releases/tag/v4.3.1), 3 days ago) - LuLu is the free open-source macOS firewall
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.3](https://github.com/atuinsh/atuin/releases/tag/v18.13.3), 3 days ago) - ✨ Making your shell magical
+- [steveyegge/beads](https://github.com/steveyegge/beads) ([v0.61.0](https://github.com/steveyegge/beads/releases/tag/v0.61.0), 4 days ago) - Beads - A memory upgrade for your coding agent
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.2.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.2.0), 1 week ago) - 
 - [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) ([v0.2.0](https://github.com/Wybxc/mdbook-pagecrypt/releases/tag/v0.2.0), 1 week ago) - Encrypt your mdbook-built site with password protection.
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.6](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.6), 1 month ago) - Modern Android client for Hacker News
@@ -46,29 +46,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [chore(daemon): remove unused code](https://github.com/neul-labs/grite/pull/6) on [neul-labs/grite](https://github.com/neul-labs/grite) (1 day ago)
-- [fix(gui): use class selectors for sidebar-scrollbox in GUI tests](https://github.com/rust-lang/mdBook/pull/3052) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (3 days ago)
-- [feat: add MIT license](https://github.com/neul-labs/stout/pull/1) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
-- [fix: daemon issue list display and shutdown hang](https://github.com/neul-labs/grite/pull/5) on [neul-labs/grite](https://github.com/neul-labs/grite) (5 days ago)
-- [Fix TOCTOU races in lock operations, remove dead code](https://github.com/neul-labs/grite/pull/4) on [neul-labs/grite](https://github.com/neul-labs/grite) (5 days ago)
-- [fix: route dep and rebuild commands through daemon](https://github.com/neul-labs/grite/pull/3) on [neul-labs/grite](https://github.com/neul-labs/grite) (5 days ago)
-- [fix(doctor): detect running daemon and skip direct store access](https://github.com/neul-labs/grite/pull/2) on [neul-labs/grite](https://github.com/neul-labs/grite) (5 days ago)
+- [fix(fetch): handle versioned packages in ghcr.io scope](https://github.com/neul-labs/stout/pull/2) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 day ago)
+- [chore(daemon): remove unused code](https://github.com/neul-labs/grite/pull/6) on [neul-labs/grite](https://github.com/neul-labs/grite) (2 days ago)
+- [fix(gui): use class selectors for sidebar-scrollbox in GUI tests](https://github.com/rust-lang/mdBook/pull/3052) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (4 days ago)
+- [feat: add MIT license](https://github.com/neul-labs/stout/pull/1) on [neul-labs/stout](https://github.com/neul-labs/stout) (5 days ago)
+- [fix: daemon issue list display and shutdown hang](https://github.com/neul-labs/grite/pull/5) on [neul-labs/grite](https://github.com/neul-labs/grite) (6 days ago)
+- [Fix TOCTOU races in lock operations, remove dead code](https://github.com/neul-labs/grite/pull/4) on [neul-labs/grite](https://github.com/neul-labs/grite) (6 days ago)
+- [fix: route dep and rebuild commands through daemon](https://github.com/neul-labs/grite/pull/3) on [neul-labs/grite](https://github.com/neul-labs/grite) (6 days ago)
+- [fix(doctor): detect running daemon and skip direct store access](https://github.com/neul-labs/grite/pull/2) on [neul-labs/grite](https://github.com/neul-labs/grite) (6 days ago)
 - [feat: allow building using cmake](https://github.com/gyscos/zstd-rs/pull/361) on [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) (1 week ago)
 - [Update project to use BSD-3-Clause license (#314)](https://github.com/gyscos/zstd-rs/pull/360) on [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) (1 week ago)
-- [feat(core): expose `init_logger` publicly](https://github.com/rust-lang/mdBook/pull/3049) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [neul-labs/rninja](https://github.com/neul-labs/rninja) - Build faster. Cache smarter. Drop-in ready. (1 day ago)
-- [neul-labs/rewget](https://github.com/neul-labs/rewget) - wget, but it works everywhere. (1 day ago)
-- [chmln/sd](https://github.com/chmln/sd) - Intuitive find &amp; replace CLI (sed alternative) (2 days ago)
-- [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository (2 days ago)
-- [meituan-longcat/LongCat-Flash-Chat](https://github.com/meituan-longcat/LongCat-Flash-Chat) -  (2 days ago)
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88&#43; formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server. (2 days ago)
-- [bzsanti/oxidizePdf](https://github.com/bzsanti/oxidizePdf) - a PDF library for rust (2 days ago)
-- [digitalbiblesociety/browserbible-4](https://github.com/digitalbiblesociety/browserbible-4) - Bible software that runs in the browser (3 days ago)
-- [gracious-tech/fetch](https://github.com/gracious-tech/fetch) - https://fetch.bible (3 days ago)
-- [Bolls-Bible/bain](https://github.com/Bolls-Bible/bain) - A web app for reading the Bible with full emphasis on the God`s Word only. Sola scriptura (3 days ago)
+- [dy0gu/mattermost-plugin-freemium](https://github.com/dy0gu/mattermost-plugin-freemium) - MM plugin that injects custom code into the app to remove ads and enterprise branding, among other QOL improvements. (today)
+- [apartmentlines/mattermost-plugin-poor-mans-scheduled-messages](https://github.com/apartmentlines/mattermost-plugin-poor-mans-scheduled-messages) - Mattermost plugin to schedule messages via /schedule slash command (today)
+- [kubedoio/rustchat](https://github.com/kubedoio/rustchat) - rustchat is an alternative Online Messaging and Collaboration tool. Alternative to Slack, Mattermost, Zulip (1 day ago)
+- [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data (1 day ago)
+- [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web (1 day ago)
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor &amp; IPFS (1 day ago)
+- [SparkDevNetwork/Rock](https://github.com/SparkDevNetwork/Rock) - An open source CMS, Relationship Management System (RMS) and Church Management System (ChMS) all rolled into one. (1 day ago)
+- [neul-labs/rninja](https://github.com/neul-labs/rninja) - Build faster. Cache smarter. Drop-in ready. (2 days ago)
+- [neul-labs/rewget](https://github.com/neul-labs/rewget) - wget, but it works everywhere. (2 days ago)
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find &amp; replace CLI (sed alternative) (3 days ago)
 
 #### 📫 How to reach me
 
