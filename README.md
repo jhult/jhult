@@ -20,23 +20,23 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (4 days ago)
+- [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (5 days ago)
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (1 week ago)
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) -  (1 week ago)
 - [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) - Encrypt your mdbook-built site with password protection. (1 week ago)
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (3 weeks ago)
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (3 weeks ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 weeks ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 weeks ago)
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall (4 weeks ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 month ago)
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall (1 month ago)
 - [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [block/goose](https://github.com/block/goose) ([v1.28.0](https://github.com/block/goose/releases/tag/v1.28.0), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.1](https://github.com/objective-see/LuLu/releases/tag/v4.3.1), 4 days ago) - LuLu is the free open-source macOS firewall
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.3](https://github.com/atuinsh/atuin/releases/tag/v18.13.3), 4 days ago) - ✨ Making your shell magical
-- [steveyegge/beads](https://github.com/steveyegge/beads) ([v0.61.0](https://github.com/steveyegge/beads/releases/tag/v0.61.0), 5 days ago) - Beads - A memory upgrade for your coding agent
+- [block/goose](https://github.com/block/goose) ([v1.28.0](https://github.com/block/goose/releases/tag/v1.28.0), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.1](https://github.com/objective-see/LuLu/releases/tag/v4.3.1), 5 days ago) - LuLu is the free open-source macOS firewall
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.3](https://github.com/atuinsh/atuin/releases/tag/v18.13.3), 5 days ago) - ✨ Making your shell magical
+- [steveyegge/beads](https://github.com/steveyegge/beads) ([v0.61.0](https://github.com/steveyegge/beads/releases/tag/v0.61.0), 6 days ago) - Beads - A memory upgrade for your coding agent
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.2.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.2.0), 1 week ago) - 
 - [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) ([v0.2.0](https://github.com/Wybxc/mdbook-pagecrypt/releases/tag/v0.2.0), 1 week ago) - Encrypt your mdbook-built site with password protection.
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.6](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.6), 1 month ago) - Modern Android client for Hacker News
@@ -46,29 +46,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(fetch): handle versioned packages in ghcr.io scope](https://github.com/neul-labs/stout/pull/2) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 days ago)
-- [chore(daemon): remove unused code](https://github.com/neul-labs/grite/pull/6) on [neul-labs/grite](https://github.com/neul-labs/grite) (3 days ago)
-- [fix(gui): use class selectors for sidebar-scrollbox in GUI tests](https://github.com/rust-lang/mdBook/pull/3052) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (5 days ago)
-- [feat: add MIT license](https://github.com/neul-labs/stout/pull/1) on [neul-labs/stout](https://github.com/neul-labs/stout) (6 days ago)
+- [style(bench): suppress unused code warnings](https://github.com/neul-labs/grite/pull/8) on [neul-labs/grite](https://github.com/neul-labs/grite) (1 day ago)
+- [fix(cli): correct issue action message for close/reopen](https://github.com/neul-labs/grite/pull/7) on [neul-labs/grite](https://github.com/neul-labs/grite) (1 day ago)
+- [fix(fetch): handle versioned packages in ghcr.io scope](https://github.com/neul-labs/stout/pull/2) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
+- [chore(daemon): remove unused code](https://github.com/neul-labs/grite/pull/6) on [neul-labs/grite](https://github.com/neul-labs/grite) (4 days ago)
+- [fix(gui): use class selectors for sidebar-scrollbox in GUI tests](https://github.com/rust-lang/mdBook/pull/3052) on [rust-lang/mdBook](https://github.com/rust-lang/mdBook) (6 days ago)
+- [feat: add MIT license](https://github.com/neul-labs/stout/pull/1) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [fix: daemon issue list display and shutdown hang](https://github.com/neul-labs/grite/pull/5) on [neul-labs/grite](https://github.com/neul-labs/grite) (1 week ago)
 - [Fix TOCTOU races in lock operations, remove dead code](https://github.com/neul-labs/grite/pull/4) on [neul-labs/grite](https://github.com/neul-labs/grite) (1 week ago)
 - [fix: route dep and rebuild commands through daemon](https://github.com/neul-labs/grite/pull/3) on [neul-labs/grite](https://github.com/neul-labs/grite) (1 week ago)
 - [fix(doctor): detect running daemon and skip direct store access](https://github.com/neul-labs/grite/pull/2) on [neul-labs/grite](https://github.com/neul-labs/grite) (1 week ago)
-- [feat: allow building using cmake](https://github.com/gyscos/zstd-rs/pull/361) on [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) (1 week ago)
-- [Update project to use BSD-3-Clause license (#314)](https://github.com/gyscos/zstd-rs/pull/360) on [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (1 day ago)
-- [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (1 day ago)
-- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated (1 day ago)
-- [basecamp/once](https://github.com/basecamp/once) - Easy self-hosting for Docker-based web apps (1 day ago)
-- [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics (1 day ago)
-- [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been. (1 day ago)
-- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - Super simple group chat, without a subscription (1 day ago)
-- [basecamp/writebook](https://github.com/basecamp/writebook) -  (1 day ago)
-- [dy0gu/mattermost-plugin-freemium](https://github.com/dy0gu/mattermost-plugin-freemium) - MM plugin that injects custom code into the app to remove ads and enterprise branding, among other QOL improvements. (1 day ago)
-- [apartmentlines/mattermost-plugin-poor-mans-scheduled-messages](https://github.com/apartmentlines/mattermost-plugin-poor-mans-scheduled-messages) - Mattermost plugin to schedule messages via /schedule slash command (1 day ago)
+- [can1357/llm-git](https://github.com/can1357/llm-git) - AI commit message generator. Conventional commits, compose mode, and history rewrite via Claude/GPT APIs. (1 day ago)
+- [cyrusradfar/homebrew-unf](https://github.com/cyrusradfar/homebrew-unf) - Repo for UNF (1 day ago)
+- [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI (1 day ago)
+- [Geek-1001/arcmark](https://github.com/Geek-1001/arcmark) - macOS bookmark manager that attaches to any browser window as a sidebar (1 day ago)
+- [russellmoss/agent-guard](https://github.com/russellmoss/agent-guard) -  (1 day ago)
+- [inferadb/teapot](https://github.com/inferadb/teapot) - Teapot — Rust TUI framework inspired by Bubble Tea (1 day ago)
+- [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ratatui (1 day ago)
+- [whit3rabbit/bubbletea-rs](https://github.com/whit3rabbit/bubbletea-rs) - A rust implementation of Bubbletea https://github.com/charmbracelet/bubbletea (1 day ago)
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (2 days ago)
+- [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (2 days ago)
 
 #### 📫 How to reach me
 
