@@ -20,8 +20,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (5 days ago)
-- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (6 days ago)
+- [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (6 days ago)
+- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 week ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 week ago)
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (3 weeks ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (3 weeks ago)
@@ -33,9 +33,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [block/goose](https://github.com/block/goose) ([v1.29.0](https://github.com/block/goose/releases/tag/v1.29.0), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v0.63.3](https://github.com/gastownhall/beads/releases/tag/v0.63.3), 3 days ago) - Beads - A memory upgrade for your coding agent
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.6](https://github.com/atuinsh/atuin/releases/tag/v18.13.6), 6 days ago) - ✨ Making your shell magical
+- [block/goose](https://github.com/block/goose) ([v1.29.0](https://github.com/block/goose/releases/tag/v1.29.0), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v0.63.3](https://github.com/gastownhall/beads/releases/tag/v0.63.3), 4 days ago) - Beads - A memory upgrade for your coding agent
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.6](https://github.com/atuinsh/atuin/releases/tag/v18.13.6), 1 week ago) - ✨ Making your shell magical
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.1](https://github.com/objective-see/LuLu/releases/tag/v4.3.1), 2 weeks ago) - LuLu is the free open-source macOS firewall
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.2.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.2.0), 3 weeks ago) - 
 - [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) ([v0.2.0](https://github.com/Wybxc/mdbook-pagecrypt/releases/tag/v0.2.0), 3 weeks ago) - Encrypt your mdbook-built site with password protection.
@@ -46,29 +46,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(sync): add git credential support for remote auth](https://github.com/neul-labs/grite/pull/19) on [neul-labs/grite](https://github.com/neul-labs/grite) (today)
-- [fix(tests): use default_prefix() instead of hard-coding /opt/homebrew](https://github.com/neul-labs/stout/pull/8) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 day ago)
-- [feat: add MIT license](https://github.com/mahozad/cutcon/pull/4) on [mahozad/cutcon](https://github.com/mahozad/cutcon) (3 days ago)
-- [fix: add required fields to marketplace.json](https://github.com/assafkip/research-mode/pull/4) on [assafkip/research-mode](https://github.com/assafkip/research-mode) (5 days ago)
-- [feat: add MIT license](https://github.com/assafkip/research-mode/pull/3) on [assafkip/research-mode](https://github.com/assafkip/research-mode) (5 days ago)
-- [fix(CLI): allow text values starting with dash](https://github.com/neul-labs/grite/pull/18) on [neul-labs/grite](https://github.com/neul-labs/grite) (5 days ago)
-- [build(deps): upgrade axum, tower-http, tar, and others](https://github.com/neul-labs/stout/pull/7) on [neul-labs/stout](https://github.com/neul-labs/stout) (6 days ago)
-- [feat: add Homebrew Cellar/Caskroom sync and import](https://github.com/neul-labs/stout/pull/6) on [neul-labs/stout](https://github.com/neul-labs/stout) (6 days ago)
-- [fix: correct db stats output formatting](https://github.com/neul-labs/grite/pull/17) on [neul-labs/grite](https://github.com/neul-labs/grite) (6 days ago)
-- [fix: handle Homebrew revision suffix in version comparison](https://github.com/neul-labs/stout/pull/5) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
+- [feat: cask support with unified command interface](https://github.com/neul-labs/stout/pull/10) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 day ago)
+- [feat(doctor): codesign verification with auto-repair](https://github.com/neul-labs/stout/pull/9) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 day ago)
+- [feat: add WAL backfill for sled events and sync operations](https://github.com/neul-labs/grite/pull/21) on [neul-labs/grite](https://github.com/neul-labs/grite) (1 day ago)
+- [feat: shared sled model with idempotent init and orphan merge](https://github.com/neul-labs/grite/pull/20) on [neul-labs/grite](https://github.com/neul-labs/grite) (1 day ago)
+- [feat(sync): add git credential support for remote auth](https://github.com/neul-labs/grite/pull/19) on [neul-labs/grite](https://github.com/neul-labs/grite) (1 day ago)
+- [fix(tests): use default_prefix() instead of hard-coding /opt/homebrew](https://github.com/neul-labs/stout/pull/8) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 days ago)
+- [feat: add MIT license](https://github.com/mahozad/cutcon/pull/4) on [mahozad/cutcon](https://github.com/mahozad/cutcon) (4 days ago)
+- [fix: add required fields to marketplace.json](https://github.com/assafkip/research-mode/pull/4) on [assafkip/research-mode](https://github.com/assafkip/research-mode) (6 days ago)
+- [feat: add MIT license](https://github.com/assafkip/research-mode/pull/3) on [assafkip/research-mode](https://github.com/assafkip/research-mode) (6 days ago)
+- [fix(CLI): allow text values starting with dash](https://github.com/neul-labs/grite/pull/18) on [neul-labs/grite](https://github.com/neul-labs/grite) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services. (today)
-- [DenDmitriev/GrabShot](https://github.com/DenDmitriev/GrabShot) - macOS app for taking a series of screenshots from a video file (1 day ago)
-- [Arman19941113/rename-photos](https://github.com/Arman19941113/rename-photos) - 🚀 Rename photos using metadata (1 day ago)
-- [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI (1 day ago)
-- [madebysan/redact](https://github.com/madebysan/redact) - Video editing without the video editor. Native macOS app — Swift &#43; WhisperKit &#43; FFmpeg. (1 day ago)
-- [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler (1 day ago)
-- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (1 day ago)
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (2 days ago)
-- [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It&#39;s a New Kind of Wrapper for Exposing LLVM (Safely) (3 days ago)
-- [terror/usernames](https://github.com/terror/usernames) - A collection of rare and inactive GitHub usernames (3 days ago)
+- [Ch0pin/medusa](https://github.com/Ch0pin/medusa) - Mobile Edge-Dynamic Unified Security Analysis (1 day ago)
+- [jdx/pklr](https://github.com/jdx/pklr) - Pure Rust pkl configuration language parser and evaluator (1 day ago)
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine  (1 day ago)
+- [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services. (1 day ago)
+- [DenDmitriev/GrabShot](https://github.com/DenDmitriev/GrabShot) - macOS app for taking a series of screenshots from a video file (2 days ago)
+- [Arman19941113/rename-photos](https://github.com/Arman19941113/rename-photos) - 🚀 Rename photos using metadata (2 days ago)
+- [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI (2 days ago)
+- [madebysan/redact](https://github.com/madebysan/redact) - Video editing without the video editor. Native macOS app — Swift &#43; WhisperKit &#43; FFmpeg. (2 days ago)
+- [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler (2 days ago)
+- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (2 days ago)
 
 #### 📫 How to reach me
 
