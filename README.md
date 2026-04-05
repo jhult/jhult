@@ -33,8 +33,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [block/goose](https://github.com/block/goose) ([v1.29.1](https://github.com/block/goose/releases/tag/v1.29.1), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.0](https://github.com/gastownhall/beads/releases/tag/v1.0.0), 1 day ago) - Beads - A memory upgrade for your coding agent
+- [block/goose](https://github.com/block/goose) ([v1.29.1](https://github.com/block/goose/releases/tag/v1.29.1), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.0](https://github.com/gastownhall/beads/releases/tag/v1.0.0), 2 days ago) - Beads - A memory upgrade for your coding agent
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.6](https://github.com/atuinsh/atuin/releases/tag/v18.13.6), 1 week ago) - ✨ Making your shell magical
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.1](https://github.com/objective-see/LuLu/releases/tag/v4.3.1), 2 weeks ago) - LuLu is the free open-source macOS firewall
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.2.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.2.0), 3 weeks ago) - 
@@ -46,29 +46,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add MIT license](https://github.com/sudharsan-ak/recruiter-finder/pull/1) on [sudharsan-ak/recruiter-finder](https://github.com/sudharsan-ak/recruiter-finder) (1 day ago)
-- [feat: cask support with unified command interface](https://github.com/neul-labs/stout/pull/10) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 days ago)
-- [feat(doctor): codesign verification with auto-repair](https://github.com/neul-labs/stout/pull/9) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 days ago)
-- [feat: add WAL backfill for sled events and sync operations](https://github.com/neul-labs/grite/pull/21) on [neul-labs/grite](https://github.com/neul-labs/grite) (2 days ago)
-- [feat: shared sled model with idempotent init and orphan merge](https://github.com/neul-labs/grite/pull/20) on [neul-labs/grite](https://github.com/neul-labs/grite) (2 days ago)
-- [feat(sync): add git credential support for remote auth](https://github.com/neul-labs/grite/pull/19) on [neul-labs/grite](https://github.com/neul-labs/grite) (2 days ago)
-- [fix(tests): use default_prefix() instead of hard-coding /opt/homebrew](https://github.com/neul-labs/stout/pull/8) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
-- [feat: add MIT license](https://github.com/mahozad/cutcon/pull/4) on [mahozad/cutcon](https://github.com/mahozad/cutcon) (5 days ago)
+- [feat: add MIT license](https://github.com/sudharsan-ak/recruiter-finder/pull/1) on [sudharsan-ak/recruiter-finder](https://github.com/sudharsan-ak/recruiter-finder) (2 days ago)
+- [feat: cask support with unified command interface](https://github.com/neul-labs/stout/pull/10) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
+- [feat(doctor): codesign verification with auto-repair](https://github.com/neul-labs/stout/pull/9) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
+- [feat: add WAL backfill for sled events and sync operations](https://github.com/neul-labs/grite/pull/21) on [neul-labs/grite](https://github.com/neul-labs/grite) (3 days ago)
+- [feat: shared sled model with idempotent init and orphan merge](https://github.com/neul-labs/grite/pull/20) on [neul-labs/grite](https://github.com/neul-labs/grite) (3 days ago)
+- [feat(sync): add git credential support for remote auth](https://github.com/neul-labs/grite/pull/19) on [neul-labs/grite](https://github.com/neul-labs/grite) (3 days ago)
+- [fix(tests): use default_prefix() instead of hard-coding /opt/homebrew](https://github.com/neul-labs/stout/pull/8) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
+- [feat: add MIT license](https://github.com/mahozad/cutcon/pull/4) on [mahozad/cutcon](https://github.com/mahozad/cutcon) (6 days ago)
 - [fix: add required fields to marketplace.json](https://github.com/assafkip/research-mode/pull/4) on [assafkip/research-mode](https://github.com/assafkip/research-mode) (1 week ago)
 - [feat: add MIT license](https://github.com/assafkip/research-mode/pull/3) on [assafkip/research-mode](https://github.com/assafkip/research-mode) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents. (1 day ago)
-- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG (1 day ago)
-- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) -  (1 day ago)
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (1 day ago)
-- [yasingedik/cleanedin](https://github.com/yasingedik/cleanedin) - CleanedIn is a Manifest V3 extension that filters LinkedIn feed noise with compact, rule-based controls. (1 day ago)
-- [Robert01101101/hide-applied-jobs-linkedin](https://github.com/Robert01101101/hide-applied-jobs-linkedin) - Chrome extension that hides jobs already applied to in the LinkedIn job search. (1 day ago)
-- [apache/fineract](https://github.com/apache/fineract) - Apache Fineract (1 day ago)
-- [slovensko-digital/autogram](https://github.com/slovensko-digital/autogram) - New, prettier and better tool for signing documents. (1 day ago)
-- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (1 day ago)
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite &amp; Wasmtime. (1 day ago)
+- [wojciech-kulik/XcodeProjectCLI](https://github.com/wojciech-kulik/XcodeProjectCLI) - A lightweight command-line tool for managing Xcode projects, built entirely in Swift. Also available as a Swift Package. (today)
+- [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents. (2 days ago)
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG (2 days ago)
+- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) -  (2 days ago)
+- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (2 days ago)
+- [yasingedik/cleanedin](https://github.com/yasingedik/cleanedin) - CleanedIn is a Manifest V3 extension that filters LinkedIn feed noise with compact, rule-based controls. (2 days ago)
+- [Robert01101101/hide-applied-jobs-linkedin](https://github.com/Robert01101101/hide-applied-jobs-linkedin) - Chrome extension that hides jobs already applied to in the LinkedIn job search. (2 days ago)
+- [apache/fineract](https://github.com/apache/fineract) - Apache Fineract (2 days ago)
+- [slovensko-digital/autogram](https://github.com/slovensko-digital/autogram) - New, prettier and better tool for signing documents. (2 days ago)
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (2 days ago)
 
 #### 📫 How to reach me
 
