@@ -20,25 +20,25 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) -  (2 days ago)
-- [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (2 days ago)
+- [jdx/pklr](https://github.com/jdx/pklr) - Pure Rust pkl configuration language parser and evaluator (1 day ago)
+- [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (3 days ago)
+- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) -  (3 days ago)
 - [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (1 week ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 week ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (2 weeks ago)
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (4 weeks ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (4 weeks ago)
-- [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) - Encrypt your mdbook-built site with password protection. (4 weeks ago)
+- [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) - Encrypt your mdbook-built site with password protection. (1 month ago)
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent (1 month ago)
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.29.1](https://github.com/aaif-goose/goose/releases/tag/v1.29.1), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.0](https://github.com/gastownhall/beads/releases/tag/v1.0.0), 4 days ago) - Beads - A memory upgrade for your coding agent
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.29.1](https://github.com/aaif-goose/goose/releases/tag/v1.29.1), 5 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.0](https://github.com/gastownhall/beads/releases/tag/v1.0.0), 5 days ago) - Beads - A memory upgrade for your coding agent
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.13.6](https://github.com/atuinsh/atuin/releases/tag/v18.13.6), 1 week ago) - ✨ Making your shell magical
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.1](https://github.com/objective-see/LuLu/releases/tag/v4.3.1), 3 weeks ago) - LuLu is the free open-source macOS firewall
-- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.2.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.2.0), 3 weeks ago) - 
-- [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) ([v0.2.0](https://github.com/Wybxc/mdbook-pagecrypt/releases/tag/v0.2.0), 4 weeks ago) - Encrypt your mdbook-built site with password protection.
+- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.2.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.2.0), 4 weeks ago) - 
+- [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) ([v0.2.0](https://github.com/Wybxc/mdbook-pagecrypt/releases/tag/v0.2.0), 1 month ago) - Encrypt your mdbook-built site with password protection.
 - [neul-labs/stout](https://github.com/neul-labs/stout) ([v0.2.0](https://github.com/neul-labs/stout/releases/tag/v0.2.0), 1 month ago) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations.
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.2.6](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.2.6), 1 month ago) - Modern Android client for Hacker News
 - [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) ([1.1.0](https://github.com/shixinhuang99/czkawka-tauri/releases/tag/1.1.0), 2 months ago) - A Tauri-based frontend for Czkawka on macOS and Windows
@@ -46,29 +46,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: resolve nullable outer property access and semicolons](https://github.com/jdx/pklr/pull/54) on [jdx/pklr](https://github.com/jdx/pklr) (today)
-- [fix(cleanup): clean cask artifact download cache](https://github.com/neul-labs/stout/pull/11) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 day ago)
-- [feat: sort issues by created timestamp instead of by ID](https://github.com/neul-labs/grite/pull/22) on [neul-labs/grite](https://github.com/neul-labs/grite) (2 days ago)
-- [feat: add MIT license](https://github.com/sudharsan-ak/recruiter-finder/pull/1) on [sudharsan-ak/recruiter-finder](https://github.com/sudharsan-ak/recruiter-finder) (4 days ago)
-- [feat: cask support with unified command interface](https://github.com/neul-labs/stout/pull/10) on [neul-labs/stout](https://github.com/neul-labs/stout) (5 days ago)
-- [feat(doctor): codesign verification with auto-repair](https://github.com/neul-labs/stout/pull/9) on [neul-labs/stout](https://github.com/neul-labs/stout) (5 days ago)
-- [feat: add WAL backfill for sled events and sync operations](https://github.com/neul-labs/grite/pull/21) on [neul-labs/grite](https://github.com/neul-labs/grite) (5 days ago)
-- [feat: shared sled model with idempotent init and orphan merge](https://github.com/neul-labs/grite/pull/20) on [neul-labs/grite](https://github.com/neul-labs/grite) (5 days ago)
-- [feat(sync): add git credential support for remote auth](https://github.com/neul-labs/grite/pull/19) on [neul-labs/grite](https://github.com/neul-labs/grite) (5 days ago)
-- [fix(tests): use default_prefix() instead of hard-coding /opt/homebrew](https://github.com/neul-labs/stout/pull/8) on [neul-labs/stout](https://github.com/neul-labs/stout) (6 days ago)
+- [fix: resolve nullable outer property access and semicolons](https://github.com/jdx/pklr/pull/54) on [jdx/pklr](https://github.com/jdx/pklr) (1 day ago)
+- [fix(cleanup): clean cask artifact download cache](https://github.com/neul-labs/stout/pull/11) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 days ago)
+- [feat: sort issues by created timestamp instead of by ID](https://github.com/neul-labs/grite/pull/22) on [neul-labs/grite](https://github.com/neul-labs/grite) (3 days ago)
+- [feat: add MIT license](https://github.com/sudharsan-ak/recruiter-finder/pull/1) on [sudharsan-ak/recruiter-finder](https://github.com/sudharsan-ak/recruiter-finder) (5 days ago)
+- [feat: cask support with unified command interface](https://github.com/neul-labs/stout/pull/10) on [neul-labs/stout](https://github.com/neul-labs/stout) (6 days ago)
+- [feat(doctor): codesign verification with auto-repair](https://github.com/neul-labs/stout/pull/9) on [neul-labs/stout](https://github.com/neul-labs/stout) (6 days ago)
+- [feat: add WAL backfill for sled events and sync operations](https://github.com/neul-labs/grite/pull/21) on [neul-labs/grite](https://github.com/neul-labs/grite) (6 days ago)
+- [feat: shared sled model with idempotent init and orphan merge](https://github.com/neul-labs/grite/pull/20) on [neul-labs/grite](https://github.com/neul-labs/grite) (6 days ago)
+- [feat(sync): add git credential support for remote auth](https://github.com/neul-labs/grite/pull/19) on [neul-labs/grite](https://github.com/neul-labs/grite) (6 days ago)
+- [fix(tests): use default_prefix() instead of hard-coding /opt/homebrew](https://github.com/neul-labs/stout/pull/8) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs. (1 day ago)
-- [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode (1 day ago)
-- [brychanrobot/jj-view](https://github.com/brychanrobot/jj-view) -  (1 day ago)
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) -  Memory library for building stateful agents (2 days ago)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (2 days ago)
-- [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning. (2 days ago)
-- [wojciech-kulik/XcodeProjectCLI](https://github.com/wojciech-kulik/XcodeProjectCLI) - A lightweight command-line tool for managing Xcode projects, built entirely in Swift. Also available as a Swift Package. (2 days ago)
-- [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents. (4 days ago)
-- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG (4 days ago)
-- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) -  (4 days ago)
+- [Tboworst/internship-tracker](https://github.com/Tboworst/internship-tracker) -  (1 day ago)
+- [moseslua/free-code-synthetic](https://github.com/moseslua/free-code-synthetic) - Free Code wrapper for synthetic.new API - use Kimi-K2.5 and other models for free (1 day ago)
+- [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - [NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled. (1 day ago)
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs. (2 days ago)
+- [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode (2 days ago)
+- [brychanrobot/jj-view](https://github.com/brychanrobot/jj-view) -  (2 days ago)
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) -  Memory library for building stateful agents (3 days ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (3 days ago)
+- [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning. (3 days ago)
+- [wojciech-kulik/XcodeProjectCLI](https://github.com/wojciech-kulik/XcodeProjectCLI) - A lightweight command-line tool for managing Xcode projects, built entirely in Swift. Also available as a Swift Package. (3 days ago)
 
 #### 📫 How to reach me
 
