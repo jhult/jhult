@@ -20,9 +20,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/recalldory](https://github.com/jhult/recalldory) - A persistent memory system for AI coding assistants, written in Inko. (1 day ago)
-- [jhult/olcs-python-api](https://github.com/jhult/olcs-python-api) -  (2 days ago)
-- [jhult/ol-python-api](https://github.com/jhult/ol-python-api) -  (2 days ago)
+- [jhult/recalldory](https://github.com/jhult/recalldory) - A persistent memory system for AI coding assistants, written in Inko. (2 days ago)
+- [jhult/olcs-python-api](https://github.com/jhult/olcs-python-api) -  (3 days ago)
+- [jhult/ol-python-api](https://github.com/jhult/ol-python-api) -  (3 days ago)
 - [inko-lang/website](https://github.com/inko-lang/website) - The Inko Programming Language website. (1 week ago)
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (1 week ago)
 - [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (1 week ago)
@@ -33,11 +33,11 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.31.0](https://github.com/aaif-goose/goose/releases/tag/v1.31.0), today) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.15.2](https://github.com/atuinsh/atuin/releases/tag/v18.15.2), 1 day ago) - ✨ Making your shell magical
-- [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.1](https://github.com/jhult/recalldory/releases/tag/v0.0.1), 1 day ago) - A persistent memory system for AI coding assistants, written in Inko.
-- [jdx/hk](https://github.com/jdx/hk) ([v1.43.0](https://github.com/jdx/hk/releases/tag/v1.43.0), 1 day ago) - git hooks and project lints
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.2](https://github.com/gastownhall/beads/releases/tag/v1.0.2), 2 days ago) - Beads - A memory upgrade for your coding agent
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.31.0](https://github.com/aaif-goose/goose/releases/tag/v1.31.0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.15.2](https://github.com/atuinsh/atuin/releases/tag/v18.15.2), 2 days ago) - ✨ Making your shell magical
+- [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.1](https://github.com/jhult/recalldory/releases/tag/v0.0.1), 2 days ago) - A persistent memory system for AI coding assistants, written in Inko.
+- [jdx/hk](https://github.com/jdx/hk) ([v1.43.0](https://github.com/jdx/hk/releases/tag/v1.43.0), 2 days ago) - git hooks and project lints
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.2](https://github.com/gastownhall/beads/releases/tag/v1.0.2), 3 days ago) - Beads - A memory upgrade for your coding agent
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.1](https://github.com/objective-see/LuLu/releases/tag/v4.3.1), 1 month ago) - LuLu is the free open-source macOS firewall
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.2.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.2.0), 1 month ago) - Tantivy FFI bindings for full-text search in Inko.
 - [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) ([v0.2.0](https://github.com/Wybxc/mdbook-pagecrypt/releases/tag/v0.2.0), 1 month ago) - Encrypt your mdbook-built site with password protection.
@@ -46,8 +46,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(doctor): add code signature and dylib dependency checks](https://github.com/neul-labs/stout/pull/13) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
-- [feat(upgrade): add cask upgrade detection and revision handling](https://github.com/neul-labs/stout/pull/12) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
+- [feat(doctor): add code signature and dylib dependency checks](https://github.com/neul-labs/stout/pull/13) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
+- [feat(upgrade): add cask upgrade detection and revision handling](https://github.com/neul-labs/stout/pull/12) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
 - [Fix Zig linker compatibility for cross-compilation](https://github.com/inko-lang/inko/pull/966) on [inko-lang/inko](https://github.com/inko-lang/inko) (1 week ago)
 - [feat: add MIT license](https://github.com/aptdnfapt/Ai-speedometer/pull/1) on [aptdnfapt/Ai-speedometer](https://github.com/aptdnfapt/Ai-speedometer) (1 week ago)
 - [feat: add packages inko-tantivy and inko-emailparser](https://github.com/inko-lang/website/pull/23) on [inko-lang/website](https://github.com/inko-lang/website) (1 week ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [badlogic/cchistory](https://github.com/badlogic/cchistory) - Extract and compare system prompts and tools from different Claude Code versions (1 day ago)
-- [ashvardanian/StringZilla-CLI](https://github.com/ashvardanian/StringZilla-CLI) - Collection of SIMD-accelerated CLI tools for binary &amp; UTF-8-aware text processing with StringZilla combining ICU Functionality, RipGrep Speeds, &amp; External Memory Scale (1 day ago)
-- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 100x faster strings for C, C&#43;&#43;, CUDA, Python, Rust, Swift, JS, &amp; Go, leveraging NEON, AVX2, AVX-512, SVE, GPGPU, &amp; SWAR to accelerate search, hashing, sorting, edit distances, sketches, and memory ops 🦖 (1 day ago)
-- [tilework-tech/nori-skillsets](https://github.com/tilework-tech/nori-skillsets) - System for managing collections of agent skills. Switch between skillsets seamlessly! (1 day ago)
-- [andonimichael/arxitect](https://github.com/andonimichael/arxitect) - Agentic coding plugin that enforces best-practice software design &amp; architecture. (3 days ago)
-- [trevorbernard/tumbler](https://github.com/trevorbernard/tumbler) -  (3 days ago)
-- [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python (3 days ago)
-- [nandyalu/quiv](https://github.com/nandyalu/quiv) - quiv is a lightweight background task scheduler for Python applications. (3 days ago)
-- [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) - A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture (3 days ago)
-- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (3 days ago)
+- [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr) - The power tool for Jujutsu &#43; GitHub workflows (today)
+- [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy (today)
+- [badlogic/cchistory](https://github.com/badlogic/cchistory) - Extract and compare system prompts and tools from different Claude Code versions (2 days ago)
+- [ashvardanian/StringZilla-CLI](https://github.com/ashvardanian/StringZilla-CLI) - Collection of SIMD-accelerated CLI tools for binary &amp; UTF-8-aware text processing with StringZilla combining ICU Functionality, RipGrep Speeds, &amp; External Memory Scale (2 days ago)
+- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 100x faster strings for C, C&#43;&#43;, CUDA, Python, Rust, Swift, JS, &amp; Go, leveraging NEON, AVX2, AVX-512, SVE, GPGPU, &amp; SWAR to accelerate search, hashing, sorting, edit distances, sketches, and memory ops 🦖 (2 days ago)
+- [tilework-tech/nori-skillsets](https://github.com/tilework-tech/nori-skillsets) - System for managing collections of agent skills. Switch between skillsets seamlessly! (2 days ago)
+- [andonimichael/arxitect](https://github.com/andonimichael/arxitect) - Agentic coding plugin that enforces best-practice software design &amp; architecture. (4 days ago)
+- [trevorbernard/tumbler](https://github.com/trevorbernard/tumbler) -  (4 days ago)
+- [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python (4 days ago)
+- [nandyalu/quiv](https://github.com/nandyalu/quiv) - quiv is a lightweight background task scheduler for Python applications. (4 days ago)
 
 #### 📫 How to reach me
 
