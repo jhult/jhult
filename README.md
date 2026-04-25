@@ -20,10 +20,10 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/recalldory](https://github.com/jhult/recalldory) - A persistent memory system for AI coding assistants, written in Inko. (1 day ago)
-- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (2 days ago)
-- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (2 days ago)
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (3 days ago)
+- [jhult/recalldory](https://github.com/jhult/recalldory) - A persistent memory system for AI coding assistants, written in Inko. (2 days ago)
+- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (3 days ago)
+- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (3 days ago)
+- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (4 days ago)
 - [jhult/ol-python-api](https://github.com/jhult/ol-python-api) -  (1 week ago)
 - [jhult/olcs-python-api](https://github.com/jhult/olcs-python-api) -  (1 week ago)
 - [inko-lang/website](https://github.com/inko-lang/website) - The Inko Programming Language website. (2 weeks ago)
@@ -33,12 +33,12 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/hk](https://github.com/jdx/hk) ([v1.44.0](https://github.com/jdx/hk/releases/tag/v1.44.0), 1 day ago) - git hooks and project lints
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.32.0](https://github.com/aaif-goose/goose/releases/tag/v1.32.0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.3.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.3.1), 1 day ago) - Modern Android client for Hacker News
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.15.2](https://github.com/atuinsh/atuin/releases/tag/v18.15.2), 1 week ago) - ✨ Making your shell magical
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.3](https://github.com/gastownhall/beads/releases/tag/v1.0.3), 1 day ago) - Beads - A memory upgrade for your coding agent
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/v18.16.0-beta.1), 1 day ago) - ✨ Making your shell magical
+- [jdx/hk](https://github.com/jdx/hk) ([v1.44.1](https://github.com/jdx/hk/releases/tag/v1.44.1), 1 day ago) - git hooks and project lints
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.32.0](https://github.com/aaif-goose/goose/releases/tag/v1.32.0), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.3.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.3.1), 2 days ago) - Modern Android client for Hacker News
 - [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.1](https://github.com/jhult/recalldory/releases/tag/v0.0.1), 1 week ago) - A persistent memory system for AI coding assistants, written in Inko.
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.2](https://github.com/gastownhall/beads/releases/tag/v1.0.2), 1 week ago) - Beads - A memory upgrade for your coding agent
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.1](https://github.com/objective-see/LuLu/releases/tag/v4.3.1), 1 month ago) - LuLu is the free open-source macOS firewall
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.2.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.2.0), 1 month ago) - Tantivy FFI bindings for full-text search in Inko.
 - [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) ([v0.2.0](https://github.com/Wybxc/mdbook-pagecrypt/releases/tag/v0.2.0), 1 month ago) - Encrypt your mdbook-built site with password protection.
@@ -46,9 +46,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(reinstall): skip re-extraction when bottle is unchanged](https://github.com/neul-labs/stout/pull/16) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 day ago)
-- [Add @@HOMEBREW_JAVA@@ placeholder support](https://github.com/neul-labs/stout/pull/15) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
-- [feat: add reverse dependency (dependents) support across info, uses, uninstall, and why](https://github.com/neul-labs/stout/pull/14) on [neul-labs/stout](https://github.com/neul-labs/stout) (5 days ago)
+- [feat(reinstall): skip re-extraction when bottle is unchanged](https://github.com/neul-labs/stout/pull/16) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 days ago)
+- [Add @@HOMEBREW_JAVA@@ placeholder support](https://github.com/neul-labs/stout/pull/15) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
+- [feat: add reverse dependency (dependents) support across info, uses, uninstall, and why](https://github.com/neul-labs/stout/pull/14) on [neul-labs/stout](https://github.com/neul-labs/stout) (6 days ago)
 - [feat(doctor): add code signature and dylib dependency checks](https://github.com/neul-labs/stout/pull/13) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [feat(upgrade): add cask upgrade detection and revision handling](https://github.com/neul-labs/stout/pull/12) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [Fix Zig linker compatibility for cross-compilation](https://github.com/inko-lang/inko/pull/966) on [inko-lang/inko](https://github.com/inko-lang/inko) (2 weeks ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension &#43; bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler (today)
-- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents (1 day ago)
-- [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - persistent sidebar pane within tmux as a showing AI agent status across all sessions (1 day ago)
-- [Skelf-Research/zviz](https://github.com/Skelf-Research/zviz) - Container isolation for code you can&#39;t trust but have to run. (1 day ago)
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform (1 day ago)
-- [MinishLab/model2vec](https://github.com/MinishLab/model2vec) - Fast State-of-the-Art Static Embeddings (1 day ago)
-- [TM9657/flow-like](https://github.com/TM9657/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization. (1 day ago)
-- [Xen0Xys/Flowy](https://github.com/Xen0Xys/Flowy) - Flowy is a self-hosted finance platform built for people who are tired of juggling spreadsheets, disconnected banking apps, and shared Google Sheets that nobody agrees on. (1 day ago)
-- [immich-power-tools/immich-power-tools](https://github.com/immich-power-tools/immich-power-tools) - Power tools for organizing your immich library  (1 day ago)
-- [chevereto/chevereto](https://github.com/chevereto/chevereto) - The mature, battle-tested, high-end, OG self-hosted image and video hosting solution trusted since 2007. Build your own Flickr or Imgur-style media sharing platform with complete control over your content, data, and platform rules. (1 day ago)
+- [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (1 day ago)
+- [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (1 day ago)
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (1 day ago)
+- [oracle/macaron](https://github.com/oracle/macaron) - Macaron is an extensible supply-chain security analysis framework from Oracle Labs that supports a wide range of build systems and CI/CD services. It can be used to prevent supply chain attacks, detect malicious Python packages, or check conformance to frameworks, such as SLSA. Documentation: (1 day ago)
+- [oracle/python-oracledb](https://github.com/oracle/python-oracledb) - Python driver for Oracle Database conforming to the Python DB API 2.0 specification with many advanced features. Fast, small, portable. Enterprise ready. (1 day ago)
+- [oracle/odpi](https://github.com/oracle/odpi) - ODPI-C: Oracle Database Programming Interface for Drivers and Applications (1 day ago)
+- [openrundev/openrun](https://github.com/openrundev/openrun) - Internal tools deployment made easy.  Deploy web apps declaratively, on a single-node or on Kubernetes. (1 day ago)
+- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension &#43; bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler (1 day ago)
+- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents (2 days ago)
+- [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state. (2 days ago)
 
 #### 📫 How to reach me
 
