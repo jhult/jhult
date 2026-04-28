@@ -20,25 +20,25 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/recalldory](https://github.com/jhult/recalldory) - A persistent memory system for AI coding assistants, written in Inko. (4 days ago)
-- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (5 days ago)
-- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (5 days ago)
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (6 days ago)
+- [jhult/recalldory](https://github.com/jhult/recalldory) - A persistent memory system for AI coding assistants, written in Inko. (5 days ago)
+- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (6 days ago)
+- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (6 days ago)
+- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (1 week ago)
 - [jhult/ol-python-api](https://github.com/jhult/ol-python-api) -  (1 week ago)
 - [jhult/olcs-python-api](https://github.com/jhult/olcs-python-api) -  (1 week ago)
 - [inko-lang/website](https://github.com/inko-lang/website) - The Inko Programming Language website. (2 weeks ago)
 - [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (2 weeks ago)
-- [jdx/pklr](https://github.com/jdx/pklr) - Pure Rust pkl configuration language parser and evaluator (2 weeks ago)
-- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (2 weeks ago)
+- [jdx/pklr](https://github.com/jdx/pklr) - Pure Rust pkl configuration language parser and evaluator (3 weeks ago)
+- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/hk](https://github.com/jdx/hk) ([v1.44.2](https://github.com/jdx/hk/releases/tag/v1.44.2), 1 day ago) - git hooks and project lints
-- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.21.0](https://github.com/hovancik/stretchly/releases/tag/v1.21.0), 2 days ago) - The break time reminder app
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.3](https://github.com/gastownhall/beads/releases/tag/v1.0.3), 3 days ago) - Beads - A memory upgrade for your coding agent
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/v18.16.0-beta.1), 3 days ago) - ✨ Making your shell magical
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.32.0](https://github.com/aaif-goose/goose/releases/tag/v1.32.0), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.3.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.3.1), 4 days ago) - Modern Android client for Hacker News
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v2.0.0-rc-04-27-0](https://github.com/aaif-goose/goose/releases/tag/v2.0.0-rc-04-27-0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/hk](https://github.com/jdx/hk) ([v1.44.2](https://github.com/jdx/hk/releases/tag/v1.44.2), 2 days ago) - git hooks and project lints
+- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.21.0](https://github.com/hovancik/stretchly/releases/tag/v1.21.0), 3 days ago) - The break time reminder app
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.3](https://github.com/gastownhall/beads/releases/tag/v1.0.3), 4 days ago) - Beads - A memory upgrade for your coding agent
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/v18.16.0-beta.1), 4 days ago) - ✨ Making your shell magical
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.3.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.3.1), 5 days ago) - Modern Android client for Hacker News
 - [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.1](https://github.com/jhult/recalldory/releases/tag/v0.0.1), 1 week ago) - A persistent memory system for AI coding assistants, written in Inko.
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.1](https://github.com/objective-see/LuLu/releases/tag/v4.3.1), 1 month ago) - LuLu is the free open-source macOS firewall
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.2.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.2.0), 1 month ago) - Tantivy FFI bindings for full-text search in Inko.
@@ -46,29 +46,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(reinstall): skip re-extraction when bottle is unchanged](https://github.com/neul-labs/stout/pull/16) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
-- [Add @@HOMEBREW_JAVA@@ placeholder support](https://github.com/neul-labs/stout/pull/15) on [neul-labs/stout](https://github.com/neul-labs/stout) (6 days ago)
+- [feat(reinstall): skip re-extraction when bottle is unchanged](https://github.com/neul-labs/stout/pull/16) on [neul-labs/stout](https://github.com/neul-labs/stout) (5 days ago)
+- [Add @@HOMEBREW_JAVA@@ placeholder support](https://github.com/neul-labs/stout/pull/15) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [feat: add reverse dependency (dependents) support across info, uses, uninstall, and why](https://github.com/neul-labs/stout/pull/14) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
-- [feat(doctor): add code signature and dylib dependency checks](https://github.com/neul-labs/stout/pull/13) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
-- [feat(upgrade): add cask upgrade detection and revision handling](https://github.com/neul-labs/stout/pull/12) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
+- [feat(doctor): add code signature and dylib dependency checks](https://github.com/neul-labs/stout/pull/13) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
+- [feat(upgrade): add cask upgrade detection and revision handling](https://github.com/neul-labs/stout/pull/12) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
 - [Fix Zig linker compatibility for cross-compilation](https://github.com/inko-lang/inko/pull/966) on [inko-lang/inko](https://github.com/inko-lang/inko) (2 weeks ago)
 - [feat: add MIT license](https://github.com/aptdnfapt/Ai-speedometer/pull/1) on [aptdnfapt/Ai-speedometer](https://github.com/aptdnfapt/Ai-speedometer) (2 weeks ago)
 - [feat: add packages inko-tantivy and inko-emailparser](https://github.com/inko-lang/website/pull/23) on [inko-lang/website](https://github.com/inko-lang/website) (2 weeks ago)
 - [fix(deps): update rust crate pklr to 0.4.1](https://github.com/jdx/hk/pull/805) on [jdx/hk](https://github.com/jdx/hk) (2 weeks ago)
-- [fix: resolve nullable outer property access and semicolons](https://github.com/jdx/pklr/pull/54) on [jdx/pklr](https://github.com/jdx/pklr) (2 weeks ago)
+- [fix: resolve nullable outer property access and semicolons](https://github.com/jdx/pklr/pull/54) on [jdx/pklr](https://github.com/jdx/pklr) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments (2 days ago)
-- [juanceresa/sift-kg](https://github.com/juanceresa/sift-kg) - Turn any collection of documents into a knowledge graph. Extract entities and relationships via LLM, deduplicate with your approval. Map domains, find hidden connections, spot patterns across documents — knowledge that persists and compounds, for you and your AI agents. All from the CLI. (2 days ago)
-- [zby/commonplace](https://github.com/zby/commonplace) - Methodology for agent-operated knowledge bases. Wiki ethos, markdown files, agent skills. (2 days ago)
-- [jhult/recalldory](https://github.com/jhult/recalldory) - A persistent memory system for AI coding assistants, written in Inko. (2 days ago)
-- [gofixpoint/amika](https://github.com/gofixpoint/amika) - Infra for computer agents and software factories (2 days ago)
-- [sahil-shubham/bhatti](https://github.com/sahil-shubham/bhatti) - Self-Hostable MicroVMs for your Agents (2 days ago)
-- [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (3 days ago)
-- [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (3 days ago)
-- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (3 days ago)
-- [oracle/macaron](https://github.com/oracle/macaron) - Macaron is an extensible supply-chain security analysis framework from Oracle Labs that supports a wide range of build systems and CI/CD services. It can be used to prevent supply chain attacks, detect malicious Python packages, or check conformance to frameworks, such as SLSA. Documentation: (3 days ago)
+- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues (1 day ago)
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) -  (1 day ago)
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI (1 day ago)
+- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments (3 days ago)
+- [juanceresa/sift-kg](https://github.com/juanceresa/sift-kg) - Turn any collection of documents into a knowledge graph. Extract entities and relationships via LLM, deduplicate with your approval. Map domains, find hidden connections, spot patterns across documents — knowledge that persists and compounds, for you and your AI agents. All from the CLI. (3 days ago)
+- [zby/commonplace](https://github.com/zby/commonplace) - Methodology for agent-operated knowledge bases. Wiki ethos, markdown files, agent skills. (3 days ago)
+- [jhult/recalldory](https://github.com/jhult/recalldory) - A persistent memory system for AI coding assistants, written in Inko. (3 days ago)
+- [gofixpoint/amika](https://github.com/gofixpoint/amika) - Infra for computer agents and software factories (3 days ago)
+- [sahil-shubham/bhatti](https://github.com/sahil-shubham/bhatti) - Self-Hostable MicroVMs for your Agents (3 days ago)
+- [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (4 days ago)
 
 #### 📫 How to reach me
 
