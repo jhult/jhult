@@ -24,7 +24,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (1 week ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (1 week ago)
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (1 week ago)
-- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 week ago)
+- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (2 weeks ago)
 - [jhult/ol-python-api](https://github.com/jhult/ol-python-api) -  (2 weeks ago)
 - [jhult/olcs-python-api](https://github.com/jhult/olcs-python-api) -  (2 weeks ago)
 - [inko-lang/website](https://github.com/inko-lang/website) - The Inko Programming Language website. (3 weeks ago)
@@ -33,9 +33,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/hk](https://github.com/jdx/hk) ([v1.44.3](https://github.com/jdx/hk/releases/tag/v1.44.3), 2 days ago) - git hooks and project lints
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.33.1](https://github.com/aaif-goose/goose/releases/tag/v1.33.1), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.0](https://github.com/atuinsh/atuin/releases/tag/v18.16.0), 4 days ago) - ✨ Making your shell magical
+- [jdx/hk](https://github.com/jdx/hk) ([v1.44.3](https://github.com/jdx/hk/releases/tag/v1.44.3), 3 days ago) - git hooks and project lints
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.33.1](https://github.com/aaif-goose/goose/releases/tag/v1.33.1), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.0](https://github.com/atuinsh/atuin/releases/tag/v18.16.0), 5 days ago) - ✨ Making your shell magical
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.21.0](https://github.com/hovancik/stretchly/releases/tag/v1.21.0), 1 week ago) - The break time reminder app
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.3](https://github.com/gastownhall/beads/releases/tag/v1.0.3), 1 week ago) - Beads - A memory upgrade for your coding agent
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.3.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.3.1), 1 week ago) - Modern Android client for Hacker News
@@ -46,29 +46,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [Stop launchd services before uninstall](https://github.com/neul-labs/stout/pull/19) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 days ago)
-- [Use GitHub repo verification for taps](https://github.com/neul-labs/stout/pull/18) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
-- [feat(info): fall back to Homebrew API for casks not in stout-index](https://github.com/neul-labs/stout/pull/17) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
+- [Update README](https://github.com/sanand0/llmpricing/pull/3) on [sanand0/llmpricing](https://github.com/sanand0/llmpricing) (1 day ago)
+- [Stop launchd services before uninstall](https://github.com/neul-labs/stout/pull/19) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
+- [Use GitHub repo verification for taps](https://github.com/neul-labs/stout/pull/18) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
+- [feat(info): fall back to Homebrew API for casks not in stout-index](https://github.com/neul-labs/stout/pull/17) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
 - [feat(reinstall): skip re-extraction when bottle is unchanged](https://github.com/neul-labs/stout/pull/16) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [Add @@HOMEBREW_JAVA@@ placeholder support](https://github.com/neul-labs/stout/pull/15) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
-- [feat: add reverse dependency (dependents) support across info, uses, uninstall, and why](https://github.com/neul-labs/stout/pull/14) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
+- [feat: add reverse dependency (dependents) support across info, uses, uninstall, and why](https://github.com/neul-labs/stout/pull/14) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
 - [feat(doctor): add code signature and dylib dependency checks](https://github.com/neul-labs/stout/pull/13) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
 - [feat(upgrade): add cask upgrade detection and revision handling](https://github.com/neul-labs/stout/pull/12) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
 - [Fix Zig linker compatibility for cross-compilation](https://github.com/inko-lang/inko/pull/966) on [inko-lang/inko](https://github.com/inko-lang/inko) (3 weeks ago)
-- [feat: add MIT license](https://github.com/aptdnfapt/Ai-speedometer/pull/1) on [aptdnfapt/Ai-speedometer](https://github.com/aptdnfapt/Ai-speedometer) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 day ago)
-- [adam-s/testing-claude-agent](https://github.com/adam-s/testing-claude-agent) - Probabilistic benchmarking of .claude/ instruction sets for Claude Code token efficiency (1 day ago)
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust (1 day ago)
-- [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Database-Backed Durable Python Workflows (1 day ago)
-- [autobase-tech/autobase](https://github.com/autobase-tech/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS. (1 day ago)
-- [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output (2 days ago)
-- [Manavarya09/cost-guardian](https://github.com/Manavarya09/cost-guardian) - Real-time cost tracking and budget management for Claude Code. Zero setup. No Docker. No Grafana. Just install and go. (3 days ago)
-- [jgravelle/jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - The leading, most token-efficient MCP server for GitHub source code exploration via tree-sitter AST parsing (3 days ago)
-- [AgentWorkforce/burn](https://github.com/AgentWorkforce/burn) - The first step to burning less tokens is understanding how many you burn to begin with (3 days ago)
-- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases (3 days ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (today)
+- [mikwielgus/undoredo](https://github.com/mikwielgus/undoredo) - Undo-redo in Rust using deltas, snapshots or commands with convenience implementations for many standard and third-party types. (1 day ago)
+- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine (1 day ago)
+- [sanand0/llmpricing](https://github.com/sanand0/llmpricing) - Compare the cost and quality across LLMs and find the frontier LLMs, i.e. nothing is cheaper AND better than these models. Explore the evolving frontier over time (1 day ago)
+- [bruin-data/bruin](https://github.com/bruin-data/bruin) - Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows. (1 day ago)
+- [bruin-data/dac](https://github.com/bruin-data/dac) - dac is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards. (1 day ago)
+- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! (1 day ago)
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models (1 day ago)
+- [sebhaan/drift](https://github.com/sebhaan/drift) - Drift is a version control system built from the ground up for the AI agent era.  It replaces git&#39;s commit with an intent, uses a semantic engine to understand code at the structural level, and captures AI agent sessions as first-class data. (1 day ago)
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown. (1 day ago)
 
 #### 📫 How to reach me
 
