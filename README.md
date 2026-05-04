@@ -33,23 +33,23 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/hk](https://github.com/jdx/hk) ([v1.44.3](https://github.com/jdx/hk/releases/tag/v1.44.3), 3 days ago) - git hooks and project lints
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.33.1](https://github.com/aaif-goose/goose/releases/tag/v1.33.1), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.0](https://github.com/atuinsh/atuin/releases/tag/v18.16.0), 5 days ago) - ✨ Making your shell magical
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.2](https://github.com/objective-see/LuLu/releases/tag/v4.3.2), 1 day ago) - LuLu is the free open-source macOS firewall
+- [jdx/hk](https://github.com/jdx/hk) ([v1.44.3](https://github.com/jdx/hk/releases/tag/v1.44.3), 4 days ago) - git hooks and project lints
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.33.1](https://github.com/aaif-goose/goose/releases/tag/v1.33.1), 5 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.0](https://github.com/atuinsh/atuin/releases/tag/v18.16.0), 6 days ago) - ✨ Making your shell magical
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.21.0](https://github.com/hovancik/stretchly/releases/tag/v1.21.0), 1 week ago) - The break time reminder app
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.3](https://github.com/gastownhall/beads/releases/tag/v1.0.3), 1 week ago) - Beads - A memory upgrade for your coding agent
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.3.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.3.1), 1 week ago) - Modern Android client for Hacker News
 - [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.1](https://github.com/jhult/recalldory/releases/tag/v0.0.1), 2 weeks ago) - A persistent memory system for AI coding assistants, written in Inko.
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.1](https://github.com/objective-see/LuLu/releases/tag/v4.3.1), 1 month ago) - LuLu is the free open-source macOS firewall
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.2.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.2.0), 1 month ago) - Tantivy FFI bindings for full-text search in Inko.
 - [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) ([v0.2.0](https://github.com/Wybxc/mdbook-pagecrypt/releases/tag/v0.2.0), 1 month ago) - Encrypt your mdbook-built site with password protection.
 
 #### 🔨 My recent Pull Requests
 
-- [Update README](https://github.com/sanand0/llmpricing/pull/3) on [sanand0/llmpricing](https://github.com/sanand0/llmpricing) (1 day ago)
-- [Stop launchd services before uninstall](https://github.com/neul-labs/stout/pull/19) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
-- [Use GitHub repo verification for taps](https://github.com/neul-labs/stout/pull/18) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
-- [feat(info): fall back to Homebrew API for casks not in stout-index](https://github.com/neul-labs/stout/pull/17) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
+- [Update README](https://github.com/sanand0/llmpricing/pull/3) on [sanand0/llmpricing](https://github.com/sanand0/llmpricing) (2 days ago)
+- [Stop launchd services before uninstall](https://github.com/neul-labs/stout/pull/19) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
+- [Use GitHub repo verification for taps](https://github.com/neul-labs/stout/pull/18) on [neul-labs/stout](https://github.com/neul-labs/stout) (5 days ago)
+- [feat(info): fall back to Homebrew API for casks not in stout-index](https://github.com/neul-labs/stout/pull/17) on [neul-labs/stout](https://github.com/neul-labs/stout) (5 days ago)
 - [feat(reinstall): skip re-extraction when bottle is unchanged](https://github.com/neul-labs/stout/pull/16) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [Add @@HOMEBREW_JAVA@@ placeholder support](https://github.com/neul-labs/stout/pull/15) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [feat: add reverse dependency (dependents) support across info, uses, uninstall, and why](https://github.com/neul-labs/stout/pull/14) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (today)
-- [mikwielgus/undoredo](https://github.com/mikwielgus/undoredo) - Undo-redo in Rust using deltas, snapshots or commands with convenience implementations for many standard and third-party types. (1 day ago)
-- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine (1 day ago)
-- [sanand0/llmpricing](https://github.com/sanand0/llmpricing) - Compare the cost and quality across LLMs and find the frontier LLMs, i.e. nothing is cheaper AND better than these models. Explore the evolving frontier over time (1 day ago)
-- [bruin-data/bruin](https://github.com/bruin-data/bruin) - Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows. (1 day ago)
-- [bruin-data/dac](https://github.com/bruin-data/dac) - dac is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards. (1 day ago)
-- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! (1 day ago)
-- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models (1 day ago)
-- [sebhaan/drift](https://github.com/sebhaan/drift) - Drift is a version control system built from the ground up for the AI agent era.  It replaces git&#39;s commit with an intent, uses a semantic engine to understand code at the structural level, and captures AI agent sessions as first-class data. (1 day ago)
-- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown. (1 day ago)
+- [shouvik12/trooper](https://github.com/shouvik12/trooper) - A drop-in proxy that falls back to local Ollama when any LLM quota runs out (today)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (1 day ago)
+- [mikwielgus/undoredo](https://github.com/mikwielgus/undoredo) - Undo-redo in Rust using deltas, snapshots or commands with convenience implementations for many standard and third-party types. (2 days ago)
+- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine (2 days ago)
+- [sanand0/llmpricing](https://github.com/sanand0/llmpricing) - Compare the cost and quality across LLMs and find the frontier LLMs, i.e. nothing is cheaper AND better than these models. Explore the evolving frontier over time (2 days ago)
+- [bruin-data/bruin](https://github.com/bruin-data/bruin) - Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows. (2 days ago)
+- [bruin-data/dac](https://github.com/bruin-data/dac) - dac is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards. (2 days ago)
+- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! (2 days ago)
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models (2 days ago)
+- [sebhaan/drift](https://github.com/sebhaan/drift) - Drift is a version control system built from the ground up for the AI agent era.  It replaces git&#39;s commit with an intent, uses a semantic engine to understand code at the structural level, and captures AI agent sessions as first-class data. (2 days ago)
 
 #### 📫 How to reach me
 
