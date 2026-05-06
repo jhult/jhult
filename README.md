@@ -21,21 +21,21 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 #### 👷 Check out what I'm currently working on
 
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A persistent memory system for AI coding assistants, written in Inko. (1 week ago)
-- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (1 week ago)
-- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (1 week ago)
+- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (2 weeks ago)
+- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (2 weeks ago)
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (2 weeks ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (2 weeks ago)
-- [jhult/ol-python-api](https://github.com/jhult/ol-python-api) -  (2 weeks ago)
-- [jhult/olcs-python-api](https://github.com/jhult/olcs-python-api) -  (2 weeks ago)
+- [jhult/ol-python-api](https://github.com/jhult/ol-python-api) -  (3 weeks ago)
+- [jhult/olcs-python-api](https://github.com/jhult/olcs-python-api) -  (3 weeks ago)
 - [inko-lang/website](https://github.com/inko-lang/website) - The Inko Programming Language website. (3 weeks ago)
 - [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (3 weeks ago)
 - [jdx/pklr](https://github.com/jdx/pklr) - Pure Rust pkl configuration language parser and evaluator (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.2](https://github.com/objective-see/LuLu/releases/tag/v4.3.2), 2 days ago) - LuLu is the free open-source macOS firewall
-- [jdx/hk](https://github.com/jdx/hk) ([v1.44.3](https://github.com/jdx/hk/releases/tag/v1.44.3), 5 days ago) - git hooks and project lints
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.33.1](https://github.com/aaif-goose/goose/releases/tag/v1.33.1), 6 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/hk](https://github.com/jdx/hk) ([v1.45.0](https://github.com/jdx/hk/releases/tag/v1.45.0), 1 day ago) - git hooks and project lints
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.2](https://github.com/objective-see/LuLu/releases/tag/v4.3.2), 3 days ago) - LuLu is the free open-source macOS firewall
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.33.1](https://github.com/aaif-goose/goose/releases/tag/v1.33.1), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.0](https://github.com/atuinsh/atuin/releases/tag/v18.16.0), 1 week ago) - ✨ Making your shell magical
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.21.0](https://github.com/hovancik/stretchly/releases/tag/v1.21.0), 1 week ago) - The break time reminder app
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.3](https://github.com/gastownhall/beads/releases/tag/v1.0.3), 1 week ago) - Beads - A memory upgrade for your coding agent
@@ -46,10 +46,10 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [Update README](https://github.com/sanand0/llmpricing/pull/3) on [sanand0/llmpricing](https://github.com/sanand0/llmpricing) (3 days ago)
-- [Stop launchd services before uninstall](https://github.com/neul-labs/stout/pull/19) on [neul-labs/stout](https://github.com/neul-labs/stout) (5 days ago)
-- [Use GitHub repo verification for taps](https://github.com/neul-labs/stout/pull/18) on [neul-labs/stout](https://github.com/neul-labs/stout) (6 days ago)
-- [feat(info): fall back to Homebrew API for casks not in stout-index](https://github.com/neul-labs/stout/pull/17) on [neul-labs/stout](https://github.com/neul-labs/stout) (6 days ago)
+- [Update README](https://github.com/sanand0/llmpricing/pull/3) on [sanand0/llmpricing](https://github.com/sanand0/llmpricing) (4 days ago)
+- [Stop launchd services before uninstall](https://github.com/neul-labs/stout/pull/19) on [neul-labs/stout](https://github.com/neul-labs/stout) (6 days ago)
+- [Use GitHub repo verification for taps](https://github.com/neul-labs/stout/pull/18) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
+- [feat(info): fall back to Homebrew API for casks not in stout-index](https://github.com/neul-labs/stout/pull/17) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [feat(reinstall): skip re-extraction when bottle is unchanged](https://github.com/neul-labs/stout/pull/16) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [Add @@HOMEBREW_JAVA@@ placeholder support](https://github.com/neul-labs/stout/pull/15) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
 - [feat: add reverse dependency (dependents) support across info, uses, uninstall, and why](https://github.com/neul-labs/stout/pull/14) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [dusty-phillips/inko-regex](https://github.com/dusty-phillips/inko-regex) - Basic regular expression parser in pure inko (1 day ago)
-- [samueltuyizere/oc-go-cc](https://github.com/samueltuyizere/oc-go-cc) - Use your OpenCode Go subscription with Claude Code. (1 day ago)
-- [lna-lab/blackwell-geforce-nvfp4-gemm](https://github.com/lna-lab/blackwell-geforce-nvfp4-gemm) - NVFP4 inference on Blackwell GeForce (RTX 5090/5080/5070 Ti/RTX PRO 6000) — SM120 patches for vLLM &#43; FlashInfer &#43; CUTLASS. 175 tok/s on Qwen3.6-35B MoE. (1 day ago)
-- [shouvik12/trooper](https://github.com/shouvik12/trooper) - A drop-in proxy that falls back to local Ollama when any LLM quota runs out (1 day ago)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (2 days ago)
-- [mikwielgus/undoredo](https://github.com/mikwielgus/undoredo) - Undo-redo in Rust using deltas, snapshots or commands with convenience implementations for many standard and third-party types. (3 days ago)
-- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine (3 days ago)
-- [sanand0/llmpricing](https://github.com/sanand0/llmpricing) - Compare the cost and quality across LLMs and find the frontier LLMs, i.e. nothing is cheaper AND better than these models. Explore the evolving frontier over time (3 days ago)
-- [bruin-data/bruin](https://github.com/bruin-data/bruin) - Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows. (3 days ago)
-- [bruin-data/dac](https://github.com/bruin-data/dac) - dac is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards. (3 days ago)
+- [thamwangjun/clearest](https://github.com/thamwangjun/clearest) - Your favorite Terminal Coding Agent, now in Rust (today)
+- [shaunpatterson/buzzline](https://github.com/shaunpatterson/buzzline) - A BeeLine reader extension that doesn&#39;t suck ass (1 day ago)
+- [dusty-phillips/inko-regex](https://github.com/dusty-phillips/inko-regex) - Basic regular expression parser in pure inko (2 days ago)
+- [samueltuyizere/oc-go-cc](https://github.com/samueltuyizere/oc-go-cc) - Use your OpenCode Go subscription with Claude Code. (2 days ago)
+- [lna-lab/blackwell-geforce-nvfp4-gemm](https://github.com/lna-lab/blackwell-geforce-nvfp4-gemm) - NVFP4 inference on Blackwell GeForce (RTX 5090/5080/5070 Ti/RTX PRO 6000) — SM120 patches for vLLM &#43; FlashInfer &#43; CUTLASS. 175 tok/s on Qwen3.6-35B MoE. (2 days ago)
+- [shouvik12/trooper](https://github.com/shouvik12/trooper) - A drop-in proxy that falls back to local Ollama when any LLM quota runs out (2 days ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (3 days ago)
+- [mikwielgus/undoredo](https://github.com/mikwielgus/undoredo) - Undo-redo in Rust using deltas, snapshots or commands with convenience implementations for many standard and third-party types. (4 days ago)
+- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine (4 days ago)
+- [sanand0/llmpricing](https://github.com/sanand0/llmpricing) - Compare the cost and quality across LLMs and find the frontier LLMs, i.e. nothing is cheaper AND better than these models. Explore the evolving frontier over time (4 days ago)
 
 #### 📫 How to reach me
 
