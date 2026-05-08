@@ -33,20 +33,20 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/hk](https://github.com/jdx/hk) ([v1.45.0](https://github.com/jdx/hk/releases/tag/v1.45.0), 2 days ago) - git hooks and project lints
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.2](https://github.com/objective-see/LuLu/releases/tag/v4.3.2), 4 days ago) - LuLu is the free open-source macOS firewall
+- [neul-labs/grite](https://github.com/neul-labs/grite) ([v0.5.3](https://github.com/neul-labs/grite/releases/tag/v0.5.3), 1 day ago) - The issue tracker that lives in your repo. Built for AI agents. Works for humans.
+- [jdx/hk](https://github.com/jdx/hk) ([v1.45.0](https://github.com/jdx/hk/releases/tag/v1.45.0), 3 days ago) - git hooks and project lints
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.2](https://github.com/objective-see/LuLu/releases/tag/v4.3.2), 5 days ago) - LuLu is the free open-source macOS firewall
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.33.1](https://github.com/aaif-goose/goose/releases/tag/v1.33.1), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.0](https://github.com/atuinsh/atuin/releases/tag/v18.16.0), 1 week ago) - ✨ Making your shell magical
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.21.0](https://github.com/hovancik/stretchly/releases/tag/v1.21.0), 1 week ago) - The break time reminder app
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.3](https://github.com/gastownhall/beads/releases/tag/v1.0.3), 1 week ago) - Beads - A memory upgrade for your coding agent
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.3](https://github.com/gastownhall/beads/releases/tag/v1.0.3), 2 weeks ago) - Beads - A memory upgrade for your coding agent
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.3.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.3.1), 2 weeks ago) - Modern Android client for Hacker News
 - [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.1](https://github.com/jhult/recalldory/releases/tag/v0.0.1), 3 weeks ago) - A persistent memory system for AI coding assistants, written in Inko.
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.2.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.2.0), 1 month ago) - Tantivy FFI bindings for full-text search in Inko.
-- [Wybxc/mdbook-pagecrypt](https://github.com/Wybxc/mdbook-pagecrypt) ([v0.2.0](https://github.com/Wybxc/mdbook-pagecrypt/releases/tag/v0.2.0), 1 month ago) - Encrypt your mdbook-built site with password protection.
 
 #### 🔨 My recent Pull Requests
 
-- [Update README](https://github.com/sanand0/llmpricing/pull/3) on [sanand0/llmpricing](https://github.com/sanand0/llmpricing) (5 days ago)
+- [Update README](https://github.com/sanand0/llmpricing/pull/3) on [sanand0/llmpricing](https://github.com/sanand0/llmpricing) (6 days ago)
 - [Stop launchd services before uninstall](https://github.com/neul-labs/stout/pull/19) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [Use GitHub repo verification for taps](https://github.com/neul-labs/stout/pull/18) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [feat(info): fall back to Homebrew API for casks not in stout-index](https://github.com/neul-labs/stout/pull/17) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
@@ -55,20 +55,20 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [feat: add reverse dependency (dependents) support across info, uses, uninstall, and why](https://github.com/neul-labs/stout/pull/14) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
 - [feat(doctor): add code signature and dylib dependency checks](https://github.com/neul-labs/stout/pull/13) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
 - [feat(upgrade): add cask upgrade detection and revision handling](https://github.com/neul-labs/stout/pull/12) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
-- [Fix Zig linker compatibility for cross-compilation](https://github.com/inko-lang/inko/pull/966) on [inko-lang/inko](https://github.com/inko-lang/inko) (3 weeks ago)
+- [Fix Zig linker compatibility for cross-compilation](https://github.com/inko-lang/inko/pull/966) on [inko-lang/inko](https://github.com/inko-lang/inko) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [thamwangjun/clearest](https://github.com/thamwangjun/clearest) - Your favorite Terminal Coding Agent, now in Rust (1 day ago)
-- [shaunpatterson/buzzline](https://github.com/shaunpatterson/buzzline) - A BeeLine reader extension that doesn&#39;t suck ass (2 days ago)
-- [dusty-phillips/inko-regex](https://github.com/dusty-phillips/inko-regex) - Basic regular expression parser in pure inko (3 days ago)
-- [samueltuyizere/oc-go-cc](https://github.com/samueltuyizere/oc-go-cc) - Use your OpenCode Go subscription with Claude Code. (3 days ago)
-- [lna-lab/blackwell-geforce-nvfp4-gemm](https://github.com/lna-lab/blackwell-geforce-nvfp4-gemm) - NVFP4 inference on Blackwell GeForce (RTX 5090/5080/5070 Ti/RTX PRO 6000) — SM120 patches for vLLM &#43; FlashInfer &#43; CUTLASS. 175 tok/s on Qwen3.6-35B MoE. (3 days ago)
-- [shouvik12/trooper](https://github.com/shouvik12/trooper) - A drop-in proxy that falls back to local Ollama when any LLM quota runs out (3 days ago)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (4 days ago)
-- [mikwielgus/undoredo](https://github.com/mikwielgus/undoredo) - Undo-redo in Rust using deltas, snapshots or commands with convenience implementations for many standard and third-party types. (5 days ago)
-- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine (5 days ago)
-- [sanand0/llmpricing](https://github.com/sanand0/llmpricing) - Compare the cost and quality across LLMs and find the frontier LLMs, i.e. nothing is cheaper AND better than these models. Explore the evolving frontier over time (5 days ago)
+- [neuralwatt/neuralwatt-tools](https://github.com/neuralwatt/neuralwatt-tools) - Tools and recipes for using the Neuralwatt inference API. (1 day ago)
+- [chopratejas/headroom](https://github.com/chopratejas/headroom) - The Context Optimization Layer for LLM Applications (1 day ago)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (1 day ago)
+- [templatical/sdk](https://github.com/templatical/sdk) - Open-source drag-and-drop email editor. JSON templates, MJML rendering, framework-agnostic. Vue &#43; TipTap inside. (1 day ago)
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework (1 day ago)
+- [thamwangjun/clearest](https://github.com/thamwangjun/clearest) - Your favorite Terminal Coding Agent, now in Rust (2 days ago)
+- [shaunpatterson/buzzline](https://github.com/shaunpatterson/buzzline) - A BeeLine reader extension that doesn&#39;t suck ass (3 days ago)
+- [dusty-phillips/inko-regex](https://github.com/dusty-phillips/inko-regex) - Basic regular expression parser in pure inko (4 days ago)
+- [samueltuyizere/oc-go-cc](https://github.com/samueltuyizere/oc-go-cc) - Use your OpenCode Go subscription with Claude Code. (4 days ago)
+- [lna-lab/blackwell-geforce-nvfp4-gemm](https://github.com/lna-lab/blackwell-geforce-nvfp4-gemm) - NVFP4 inference on Blackwell GeForce (RTX 5090/5080/5070 Ti/RTX PRO 6000) — SM120 patches for vLLM &#43; FlashInfer &#43; CUTLASS. 175 tok/s on Qwen3.6-35B MoE. (4 days ago)
 
 #### 📫 How to reach me
 
