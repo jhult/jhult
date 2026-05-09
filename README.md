@@ -27,26 +27,26 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (2 weeks ago)
 - [jhult/ol-python-api](https://github.com/jhult/ol-python-api) -  (3 weeks ago)
 - [jhult/olcs-python-api](https://github.com/jhult/olcs-python-api) -  (3 weeks ago)
-- [inko-lang/website](https://github.com/inko-lang/website) - The Inko Programming Language website. (4 weeks ago)
-- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (4 weeks ago)
+- [inko-lang/website](https://github.com/inko-lang/website) - The Inko Programming Language website. (1 month ago)
+- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (1 month ago)
 - [jdx/pklr](https://github.com/jdx/pklr) - Pure Rust pkl configuration language parser and evaluator (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [neul-labs/grite](https://github.com/neul-labs/grite) ([v0.5.3](https://github.com/neul-labs/grite/releases/tag/v0.5.3), 1 day ago) - The issue tracker that lives in your repo. Built for AI agents. Works for humans.
-- [jdx/hk](https://github.com/jdx/hk) ([v1.45.0](https://github.com/jdx/hk/releases/tag/v1.45.0), 3 days ago) - git hooks and project lints
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.2](https://github.com/objective-see/LuLu/releases/tag/v4.3.2), 5 days ago) - LuLu is the free open-source macOS firewall
+- [neul-labs/stout](https://github.com/neul-labs/stout) ([v0.2.2](https://github.com/neul-labs/stout/releases/tag/v0.2.2), today) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations.
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.4](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.4), 1 day ago) - Modern Android client for Hacker News
+- [neul-labs/grite](https://github.com/neul-labs/grite) ([v0.5.3](https://github.com/neul-labs/grite/releases/tag/v0.5.3), 2 days ago) - The issue tracker that lives in your repo. Built for AI agents. Works for humans.
+- [jdx/hk](https://github.com/jdx/hk) ([v1.45.0](https://github.com/jdx/hk/releases/tag/v1.45.0), 4 days ago) - git hooks and project lints
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.2](https://github.com/objective-see/LuLu/releases/tag/v4.3.2), 6 days ago) - LuLu is the free open-source macOS firewall
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.33.1](https://github.com/aaif-goose/goose/releases/tag/v1.33.1), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.0](https://github.com/atuinsh/atuin/releases/tag/v18.16.0), 1 week ago) - ✨ Making your shell magical
-- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.21.0](https://github.com/hovancik/stretchly/releases/tag/v1.21.0), 1 week ago) - The break time reminder app
+- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.21.0](https://github.com/hovancik/stretchly/releases/tag/v1.21.0), 2 weeks ago) - The break time reminder app
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.3](https://github.com/gastownhall/beads/releases/tag/v1.0.3), 2 weeks ago) - Beads - A memory upgrade for your coding agent
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.3.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.3.1), 2 weeks ago) - Modern Android client for Hacker News
 - [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.1](https://github.com/jhult/recalldory/releases/tag/v0.0.1), 3 weeks ago) - A persistent memory system for AI coding assistants, written in Inko.
-- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) ([v0.2.0](https://github.com/jhult/inko-tantivy/releases/tag/v0.2.0), 1 month ago) - Tantivy FFI bindings for full-text search in Inko.
 
 #### 🔨 My recent Pull Requests
 
-- [Update README](https://github.com/sanand0/llmpricing/pull/3) on [sanand0/llmpricing](https://github.com/sanand0/llmpricing) (6 days ago)
+- [Update README](https://github.com/sanand0/llmpricing/pull/3) on [sanand0/llmpricing](https://github.com/sanand0/llmpricing) (1 week ago)
 - [Stop launchd services before uninstall](https://github.com/neul-labs/stout/pull/19) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [Use GitHub repo verification for taps](https://github.com/neul-labs/stout/pull/18) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [feat(info): fall back to Homebrew API for casks not in stout-index](https://github.com/neul-labs/stout/pull/17) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [neuralwatt/neuralwatt-tools](https://github.com/neuralwatt/neuralwatt-tools) - Tools and recipes for using the Neuralwatt inference API. (1 day ago)
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - The Context Optimization Layer for LLM Applications (1 day ago)
-- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (1 day ago)
-- [templatical/sdk](https://github.com/templatical/sdk) - Open-source drag-and-drop email editor. JSON templates, MJML rendering, framework-agnostic. Vue &#43; TipTap inside. (1 day ago)
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework (1 day ago)
-- [thamwangjun/clearest](https://github.com/thamwangjun/clearest) - Your favorite Terminal Coding Agent, now in Rust (2 days ago)
-- [shaunpatterson/buzzline](https://github.com/shaunpatterson/buzzline) - A BeeLine reader extension that doesn&#39;t suck ass (3 days ago)
-- [dusty-phillips/inko-regex](https://github.com/dusty-phillips/inko-regex) - Basic regular expression parser in pure inko (4 days ago)
-- [samueltuyizere/oc-go-cc](https://github.com/samueltuyizere/oc-go-cc) - Use your OpenCode Go subscription with Claude Code. (4 days ago)
-- [lna-lab/blackwell-geforce-nvfp4-gemm](https://github.com/lna-lab/blackwell-geforce-nvfp4-gemm) - NVFP4 inference on Blackwell GeForce (RTX 5090/5080/5070 Ti/RTX PRO 6000) — SM120 patches for vLLM &#43; FlashInfer &#43; CUTLASS. 175 tok/s on Qwen3.6-35B MoE. (4 days ago)
+- [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. (1 day ago)
+- [QwenLM/Qwen3.6](https://github.com/QwenLM/Qwen3.6) - Qwen3.6 is the large language model series developed by Qwen team, Alibaba Group. (1 day ago)
+- [neuralwatt/neuralwatt-tools](https://github.com/neuralwatt/neuralwatt-tools) - Tools and recipes for using the Neuralwatt inference API. (2 days ago)
+- [chopratejas/headroom](https://github.com/chopratejas/headroom) - The Context Optimization Layer for LLM Applications (2 days ago)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (2 days ago)
+- [templatical/sdk](https://github.com/templatical/sdk) - Open-source drag-and-drop email editor. JSON templates, MJML rendering, framework-agnostic. Vue &#43; TipTap inside. (2 days ago)
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework (2 days ago)
+- [thamwangjun/clearest](https://github.com/thamwangjun/clearest) - Your favorite Terminal Coding Agent, now in Rust (3 days ago)
+- [shaunpatterson/buzzline](https://github.com/shaunpatterson/buzzline) - A BeeLine reader extension that doesn&#39;t suck ass (4 days ago)
+- [dusty-phillips/inko-regex](https://github.com/dusty-phillips/inko-regex) - Basic regular expression parser in pure inko (5 days ago)
 
 #### 📫 How to reach me
 
