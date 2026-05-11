@@ -33,11 +33,11 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.4](https://github.com/gastownhall/beads/releases/tag/v1.0.4), 1 day ago) - Beads - A memory upgrade for your coding agent
-- [neul-labs/stout](https://github.com/neul-labs/stout) ([v0.2.2](https://github.com/neul-labs/stout/releases/tag/v0.2.2), 1 day ago) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations.
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.4](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.4), 2 days ago) - Modern Android client for Hacker News
-- [neul-labs/grite](https://github.com/neul-labs/grite) ([v0.5.3](https://github.com/neul-labs/grite/releases/tag/v0.5.3), 3 days ago) - The issue tracker that lives in your repo. Built for AI agents. Works for humans.
-- [jdx/hk](https://github.com/jdx/hk) ([v1.45.0](https://github.com/jdx/hk/releases/tag/v1.45.0), 5 days ago) - git hooks and project lints
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.4](https://github.com/gastownhall/beads/releases/tag/v1.0.4), 2 days ago) - Beads - A memory upgrade for your coding agent
+- [neul-labs/stout](https://github.com/neul-labs/stout) ([v0.2.2](https://github.com/neul-labs/stout/releases/tag/v0.2.2), 2 days ago) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations.
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.4](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.4), 3 days ago) - Modern Android client for Hacker News
+- [neul-labs/grite](https://github.com/neul-labs/grite) ([v0.5.3](https://github.com/neul-labs/grite/releases/tag/v0.5.3), 4 days ago) - The issue tracker that lives in your repo. Built for AI agents. Works for humans.
+- [jdx/hk](https://github.com/jdx/hk) ([v1.45.0](https://github.com/jdx/hk/releases/tag/v1.45.0), 6 days ago) - git hooks and project lints
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.3.2](https://github.com/objective-see/LuLu/releases/tag/v4.3.2), 1 week ago) - LuLu is the free open-source macOS firewall
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.33.1](https://github.com/aaif-goose/goose/releases/tag/v1.33.1), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.0](https://github.com/atuinsh/atuin/releases/tag/v18.16.0), 1 week ago) - ✨ Making your shell magical
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. (2 days ago)
-- [QwenLM/Qwen3.6](https://github.com/QwenLM/Qwen3.6) - Qwen3.6 is the large language model series developed by Qwen team, Alibaba Group. (2 days ago)
-- [neuralwatt/neuralwatt-tools](https://github.com/neuralwatt/neuralwatt-tools) - Tools and recipes for using the Neuralwatt inference API. (3 days ago)
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - The Context Optimization Layer for LLM Applications (3 days ago)
-- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (3 days ago)
-- [templatical/sdk](https://github.com/templatical/sdk) - Open-source drag-and-drop email editor. JSON templates, MJML rendering, framework-agnostic. Vue &#43; TipTap inside. (3 days ago)
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework (3 days ago)
-- [thamwangjun/clearest](https://github.com/thamwangjun/clearest) - Your favorite Terminal Coding Agent, now in Rust (4 days ago)
-- [shaunpatterson/buzzline](https://github.com/shaunpatterson/buzzline) - A BeeLine reader extension that doesn&#39;t suck ass (5 days ago)
-- [dusty-phillips/inko-regex](https://github.com/dusty-phillips/inko-regex) - Basic regular expression parser in pure inko (6 days ago)
+- [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. (3 days ago)
+- [QwenLM/Qwen3.6](https://github.com/QwenLM/Qwen3.6) - Qwen3.6 is the large language model series developed by Qwen team, Alibaba Group. (3 days ago)
+- [neuralwatt/neuralwatt-tools](https://github.com/neuralwatt/neuralwatt-tools) - Tools and recipes for using the Neuralwatt inference API. (4 days ago)
+- [chopratejas/headroom](https://github.com/chopratejas/headroom) - The Context Optimization Layer for LLM Applications (4 days ago)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (4 days ago)
+- [templatical/sdk](https://github.com/templatical/sdk) - Open-source drag-and-drop email editor. JSON templates, MJML rendering, framework-agnostic. Vue &#43; TipTap inside. (4 days ago)
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework (4 days ago)
+- [thamwangjun/clearest](https://github.com/thamwangjun/clearest) - Your favorite Terminal Coding Agent, now in Rust (5 days ago)
+- [shaunpatterson/buzzline](https://github.com/shaunpatterson/buzzline) - A BeeLine reader extension that doesn&#39;t suck ass (6 days ago)
+- [dusty-phillips/inko-regex](https://github.com/dusty-phillips/inko-regex) - Basic regular expression parser in pure inko (1 week ago)
 
 #### 📫 How to reach me
 
