@@ -20,9 +20,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/recalldory](https://github.com/jhult/recalldory) - A persistent memory system for AI coding assistants, written in Inko. (5 days ago)
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (5 days ago)
-- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (4 weeks ago)
+- [jhult/recalldory](https://github.com/jhult/recalldory) - A persistent memory system for AI coding assistants, written in Inko. (6 days ago)
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (6 days ago)
+- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 month ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (1 month ago)
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (1 month ago)
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (1 month ago)
@@ -33,7 +33,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.35.0](https://github.com/aaif-goose/goose/releases/tag/v1.35.0), 5 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.36.0](https://github.com/aaif-goose/goose/releases/tag/v1.36.0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/hk](https://github.com/jdx/hk) ([v1.46.0](https://github.com/jdx/hk/releases/tag/v1.46.0), 1 day ago) - git hooks and project lints
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.4](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.4), 1 week ago) - Agentic Coding for Builders who Ship
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.3](https://github.com/rust-lang/mdBook/releases/tag/v0.5.3), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.2](https://github.com/jhult/recalldory/releases/tag/v0.0.2), 1 week ago) - A persistent memory system for AI coding assistants, written in Inko.
@@ -41,16 +42,15 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.4](https://github.com/gastownhall/beads/releases/tag/v1.0.4), 2 weeks ago) - Beads - A memory upgrade for your coding agent
 - [neul-labs/stout](https://github.com/neul-labs/stout) ([v0.2.2](https://github.com/neul-labs/stout/releases/tag/v0.2.2), 2 weeks ago) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations.
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v2.4](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v2.4), 2 weeks ago) - Modern Android client for Hacker News
-- [neul-labs/grite](https://github.com/neul-labs/grite) ([v0.5.3](https://github.com/neul-labs/grite/releases/tag/v0.5.3), 2 weeks ago) - The issue tracker that lives in your repo. Built for AI agents. Works for humans.
-- [jdx/hk](https://github.com/jdx/hk) ([v1.45.0](https://github.com/jdx/hk/releases/tag/v1.45.0), 3 weeks ago) - git hooks and project lints
+- [neul-labs/grite](https://github.com/neul-labs/grite) ([v0.5.3](https://github.com/neul-labs/grite/releases/tag/v0.5.3), 3 weeks ago) - The issue tracker that lives in your repo. Built for AI agents. Works for humans.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(services): properly parse launchctl output for status detection](https://github.com/neul-labs/stout/pull/21) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 day ago)
-- [fix(deepseek): preserve reasoning_content for V4 thinking-mode multi-turn](https://github.com/Kuberwastaken/claurst/pull/165) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (5 days ago)
-- [Clean up UI metadata, error modal, and free model cost display](https://github.com/Kuberwastaken/claurst/pull/164) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (5 days ago)
-- [feat(tui): `@file` injection with typeahead autocomplete](https://github.com/Kuberwastaken/claurst/pull/163) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (6 days ago)
-- [Improve keybinding system - schema versioning &amp; better defaults](https://github.com/Kuberwastaken/claurst/pull/162) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (6 days ago)
+- [fix(services): properly parse launchctl output for status detection](https://github.com/neul-labs/stout/pull/21) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 days ago)
+- [fix(deepseek): preserve reasoning_content for V4 thinking-mode multi-turn](https://github.com/Kuberwastaken/claurst/pull/165) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (6 days ago)
+- [Clean up UI metadata, error modal, and free model cost display](https://github.com/Kuberwastaken/claurst/pull/164) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (6 days ago)
+- [feat(tui): `@file` injection with typeahead autocomplete](https://github.com/Kuberwastaken/claurst/pull/163) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (1 week ago)
+- [Improve keybinding system - schema versioning &amp; better defaults](https://github.com/Kuberwastaken/claurst/pull/162) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (1 week ago)
 - [fix(tui): apply settings from config immediately on app startup](https://github.com/Kuberwastaken/claurst/pull/160) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (1 week ago)
 - [Provider updates - fix auth and add Crof](https://github.com/Kuberwastaken/claurst/pull/159) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (1 week ago)
 - [Implement alternating exit key confirmation for Ctrl&#43;C and Ctrl&#43;D](https://github.com/Kuberwastaken/claurst/pull/158) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (1 week ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex&#39;s runtime. Sandbox any command with file, network, and credential controls. (1 day ago)
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimalistic coding agent written in Rust, optimized for memory footprint and performance (1 day ago)
-- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is an open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management. (1 day ago)
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows (5 days ago)
+- [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure (1 day ago)
+- [apache/guacamole-client](https://github.com/apache/guacamole-client) - The Apache Guacamole web application, official extensions, and JavaScript library. (1 day ago)
+- [maester365/maester](https://github.com/maester365/maester) - Maester is a test automation framework to help you stay in control of your Microsoft security configuration. (1 day ago)
+- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex&#39;s runtime. Sandbox any command with file, network, and credential controls. (2 days ago)
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimalistic coding agent written in Rust, optimized for memory footprint and performance (2 days ago)
+- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is an open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management. (2 days ago)
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows (6 days ago)
 - [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese) - Bubbletea-inspired components for Ratatui (1 week ago)
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui. (1 week ago)
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui (1 week ago)
-- [Arthur-Ficial/auge](https://github.com/Arthur-Ficial/auge) - On-device vision CLI - Apple Vision framework OCR, image classification, and object detection from the command line (1 week ago)
-- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads. (1 week ago)
-- [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing &amp; accessible library for OCR-related tasks powered by Deep Learning. (1 week ago)
 
 #### 📫 How to reach me
 
