@@ -33,9 +33,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.5](https://github.com/gastownhall/beads/releases/tag/v1.0.5), 1 day ago) - Beads - A memory upgrade for your coding agent
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.36.0](https://github.com/aaif-goose/goose/releases/tag/v1.36.0), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [jdx/hk](https://github.com/jdx/hk) ([v1.46.0](https://github.com/jdx/hk/releases/tag/v1.46.0), 3 days ago) - git hooks and project lints
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.5](https://github.com/gastownhall/beads/releases/tag/v1.0.5), 2 days ago) - Beads - A memory upgrade for your coding agent
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.36.0](https://github.com/aaif-goose/goose/releases/tag/v1.36.0), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/hk](https://github.com/jdx/hk) ([v1.46.0](https://github.com/jdx/hk/releases/tag/v1.46.0), 4 days ago) - git hooks and project lints
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.4](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.4), 1 week ago) - Agentic Coding for Builders who Ship
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.3](https://github.com/rust-lang/mdBook/releases/tag/v0.5.3), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.2](https://github.com/jhult/recalldory/releases/tag/v0.0.2), 2 weeks ago) - A learning memory system for AI coding assistants, written in Inko.
@@ -46,29 +46,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [chore(README): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/11) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (1 day ago)
-- [chore(website): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/10) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (1 day ago)
-- [fix(services): properly parse launchctl output for status detection](https://github.com/neul-labs/stout/pull/21) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
+- [fix(upgrade): sync state, deduplicate casks, and auto-repair on errors](https://github.com/neul-labs/stout/pull/22) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 day ago)
+- [chore(README): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/11) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (2 days ago)
+- [chore(website): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/10) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (2 days ago)
+- [fix(services): properly parse launchctl output for status detection](https://github.com/neul-labs/stout/pull/21) on [neul-labs/stout](https://github.com/neul-labs/stout) (5 days ago)
 - [fix(deepseek): preserve reasoning_content for V4 thinking-mode multi-turn](https://github.com/Kuberwastaken/claurst/pull/165) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (1 week ago)
 - [Clean up UI metadata, error modal, and free model cost display](https://github.com/Kuberwastaken/claurst/pull/164) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (1 week ago)
 - [feat(tui): `@file` injection with typeahead autocomplete](https://github.com/Kuberwastaken/claurst/pull/163) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (1 week ago)
 - [Improve keybinding system - schema versioning &amp; better defaults](https://github.com/Kuberwastaken/claurst/pull/162) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (1 week ago)
 - [fix(tui): apply settings from config immediately on app startup](https://github.com/Kuberwastaken/claurst/pull/160) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (1 week ago)
 - [Provider updates - fix auth and add Crof](https://github.com/Kuberwastaken/claurst/pull/159) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (1 week ago)
-- [Implement alternating exit key confirmation for Ctrl&#43;C and Ctrl&#43;D](https://github.com/Kuberwastaken/claurst/pull/158) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/ (1 day ago)
-- [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows. (1 day ago)
-- [vhanla/winxcorners](https://github.com/vhanla/winxcorners) - Hot corners for Windows 10 &amp; 11 (1 day ago)
-- [IviriusCommunity/Rebound](https://github.com/IviriusCommunity/Rebound) - WinUI rewrite project of Windows 11 system apps. (1 day ago)
-- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows (1 day ago)
-- [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher (1 day ago)
-- [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) - Windows Modern Cursors – Improved Aero for DPI and Dark Mode (1 day ago)
-- [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows (1 day ago)
-- [santisq/PSTree](https://github.com/santisq/PSTree) - Tree-like cmdlets for file system and registry exploration! (1 day ago)
-- [yottayoshida/omamori](https://github.com/yottayoshida/omamori) - AI Agent&#39;s Omamori — protect your system from dangerous commands executed via AI CLI tools (1 day ago)
+- [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported) (1 day ago)
+- [k4nfr3/WFP_EDR](https://github.com/k4nfr3/WFP_EDR) -  (1 day ago)
+- [zodiacon/WFPExplorer](https://github.com/zodiacon/WFPExplorer) - Windows Filtering Platform Explorer (1 day ago)
+- [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code (1 day ago)
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/ (2 days ago)
+- [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows. (2 days ago)
+- [vhanla/winxcorners](https://github.com/vhanla/winxcorners) - Hot corners for Windows 10 &amp; 11 (2 days ago)
+- [IviriusCommunity/Rebound](https://github.com/IviriusCommunity/Rebound) - WinUI rewrite project of Windows 11 system apps. (2 days ago)
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows (2 days ago)
+- [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher (2 days ago)
 
 #### 📫 How to reach me
 
