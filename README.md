@@ -33,11 +33,11 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.1), 2 days ago) - Modern Android client for Hacker News
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.37.0](https://github.com/aaif-goose/goose/releases/tag/v1.37.0), 6 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/hk](https://github.com/jdx/hk) ([v1.47.0](https://github.com/jdx/hk/releases/tag/v1.47.0), 1 day ago) - git hooks and project lints
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.1), 3 days ago) - Modern Android client for Hacker News
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.37.0](https://github.com/aaif-goose/goose/releases/tag/v1.37.0), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.5](https://github.com/gastownhall/beads/releases/tag/v1.0.5), 1 week ago) - Beads - A memory upgrade for your coding agent
-- [jdx/hk](https://github.com/jdx/hk) ([v1.46.0](https://github.com/jdx/hk/releases/tag/v1.46.0), 1 week ago) - git hooks and project lints
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.4](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.4), 2 weeks ago) - Agentic Coding for Builders who Ship
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.4](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.4), 3 weeks ago) - Agentic Coding for Builders who Ship
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.3](https://github.com/rust-lang/mdBook/releases/tag/v0.5.3), 3 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.2](https://github.com/jhult/recalldory/releases/tag/v0.0.2), 3 weeks ago) - A learning memory system for AI coding assistants, written in Inko.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.1](https://github.com/atuinsh/atuin/releases/tag/v18.16.1), 4 weeks ago) - ✨ Making your shell magical
@@ -46,7 +46,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor/pull/2) on [Renvect/X-Ray-Claude-Code-Interceptor](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor) (6 days ago)
+- [Add MIT license](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor/pull/2) on [Renvect/X-Ray-Claude-Code-Interceptor](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor) (1 week ago)
 - [fix(link): detect broken same-package symlinks and add --overwrite flag](https://github.com/neul-labs/stout/pull/23) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [fix(upgrade): sync state, deduplicate casks, and auto-repair on errors](https://github.com/neul-labs/stout/pull/22) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [chore(README): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/11) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (1 week ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library. (3 days ago)
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. (4 days ago)
-- [motiful/cc-gateway](https://github.com/motiful/cc-gateway) - AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying (4 days ago)
-- [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.  (4 days ago)
-- [uutils/grep](https://github.com/uutils/grep) - A Rust implementation of GNU Grep (4 days ago)
-- [1jehuang/handterm](https://github.com/1jehuang/handterm) -  (4 days ago)
-- [BonzTM/claude-oauth-proxy](https://github.com/BonzTM/claude-oauth-proxy) -  (4 days ago)
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness (5 days ago)
-- [maorinka/claude-rs](https://github.com/maorinka/claude-rs) - A high-performance Rust reimplementation of Claude Code — for educational and research purposes (5 days ago)
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (5 days ago)
+- [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library. (4 days ago)
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. (5 days ago)
+- [motiful/cc-gateway](https://github.com/motiful/cc-gateway) - AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying (5 days ago)
+- [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.  (5 days ago)
+- [uutils/grep](https://github.com/uutils/grep) - A Rust implementation of GNU Grep (5 days ago)
+- [1jehuang/handterm](https://github.com/1jehuang/handterm) -  (5 days ago)
+- [BonzTM/claude-oauth-proxy](https://github.com/BonzTM/claude-oauth-proxy) -  (5 days ago)
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness (6 days ago)
+- [maorinka/claude-rs](https://github.com/maorinka/claude-rs) - A high-performance Rust reimplementation of Claude Code — for educational and research purposes (6 days ago)
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (6 days ago)
 
 #### 📫 How to reach me
 
