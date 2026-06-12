@@ -20,9 +20,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 day ago)
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (2 weeks ago)
-- [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (2 weeks ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 days ago)
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (3 weeks ago)
+- [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (3 weeks ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 month ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (1 month ago)
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (1 month ago)
@@ -33,12 +33,12 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.6.2](https://github.com/jdx/mise/releases/tag/v2026.6.2), 1 day ago) - dev tools, env vars, task runner
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.2), 1 day ago) - Modern Android client for Hacker News
-- [jdx/hk](https://github.com/jdx/hk) ([v1.47.0](https://github.com/jdx/hk/releases/tag/v1.47.0), 2 days ago) - git hooks and project lints
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.6.3](https://github.com/jdx/mise/releases/tag/v2026.6.3), 1 day ago) - dev tools, env vars, task runner
+- [jdx/hk](https://github.com/jdx/hk) ([v1.48.0](https://github.com/jdx/hk/releases/tag/v1.48.0), 1 day ago) - git hooks and project lints
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.5](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.5), 1 day ago) - Agentic Coding for Builders who Ship
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.2), 2 days ago) - Modern Android client for Hacker News
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.37.0](https://github.com/aaif-goose/goose/releases/tag/v1.37.0), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.5](https://github.com/gastownhall/beads/releases/tag/v1.0.5), 1 week ago) - Beads - A memory upgrade for your coding agent
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.4](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.4), 3 weeks ago) - Agentic Coding for Builders who Ship
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.5](https://github.com/gastownhall/beads/releases/tag/v1.0.5), 2 weeks ago) - Beads - A memory upgrade for your coding agent
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.3](https://github.com/rust-lang/mdBook/releases/tag/v0.5.3), 3 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.2](https://github.com/jhult/recalldory/releases/tag/v0.0.2), 3 weeks ago) - A learning memory system for AI coding assistants, written in Inko.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.1](https://github.com/atuinsh/atuin/releases/tag/v18.16.1), 1 month ago) - ✨ Making your shell magical
@@ -46,29 +46,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (today)
+- [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (1 day ago)
 - [Add MIT license](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor/pull/2) on [Renvect/X-Ray-Claude-Code-Interceptor](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor) (1 week ago)
 - [fix(link): detect broken same-package symlinks and add --overwrite flag](https://github.com/neul-labs/stout/pull/23) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [fix(upgrade): sync state, deduplicate casks, and auto-repair on errors](https://github.com/neul-labs/stout/pull/22) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
-- [chore(README): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/11) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (1 week ago)
-- [chore(website): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/10) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (1 week ago)
+- [chore(README): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/11) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (2 weeks ago)
+- [chore(website): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/10) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (2 weeks ago)
 - [fix(services): properly parse launchctl output for status detection](https://github.com/neul-labs/stout/pull/21) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
-- [fix(deepseek): preserve reasoning_content for V4 thinking-mode multi-turn](https://github.com/Kuberwastaken/claurst/pull/165) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (2 weeks ago)
-- [Clean up UI metadata, error modal, and free model cost display](https://github.com/Kuberwastaken/claurst/pull/164) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (2 weeks ago)
+- [fix(deepseek): preserve reasoning_content for V4 thinking-mode multi-turn](https://github.com/Kuberwastaken/claurst/pull/165) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (3 weeks ago)
+- [Clean up UI metadata, error modal, and free model cost display](https://github.com/Kuberwastaken/claurst/pull/164) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (3 weeks ago)
 - [feat(tui): `@file` injection with typeahead autocomplete](https://github.com/Kuberwastaken/claurst/pull/163) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [neul-labs/stratafs](https://github.com/neul-labs/stratafs) - A semantic filesystem that transforms passive file storage into an intelligent, searchable knowledge base. (today)
-- [FiloSottile/captive-browser](https://github.com/FiloSottile/captive-browser) - A dedicated Chrome instance to log into captive portals without messing with DNS settings. (today)
-- [dinakars777/git-time-machine](https://github.com/dinakars777/git-time-machine) - 🕰️ Browse Git reflog visually and recover reachable local history with a TUI (1 day ago)
-- [prime-radiant-inc/llm-proxy](https://github.com/prime-radiant-inc/llm-proxy) - Transparent logging proxy for LLM API traffic that auto-configures clients and records every request and response to Claude, OpenAI, and other providers for debugging, auditing, and analysis. (1 day ago)
-- [andersmyrmel/claude-copy](https://github.com/andersmyrmel/claude-copy) - Auto-clean Claude Code clipboard artifacts on macOS (1 day ago)
-- [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) - TUI framework and developer productivity apps in Rust 🦀 (1 day ago)
-- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage! (1 day ago)
-- [prime-radiant-inc/hearthstone](https://github.com/prime-radiant-inc/hearthstone) - Hearthstone gives babysitters and family instant answers to household questions, grounded in your Google Docs with cited sources; Bun backend plus iOS app with PIN-based guest access. (1 day ago)
-- [prime-radiant-inc/stockyard](https://github.com/prime-radiant-inc/stockyard) - Coding-agent VM orchestrator: runs coding agents in isolated VMs — Firecracker micro-VMs on Linux (with ZFS-based audit-trail snapshots) and Apple&#39;s container tool on macOS. (1 day ago)
-- [prime-radiant-inc/sprout](https://github.com/prime-radiant-inc/sprout) - Experimental self-improving multi-agent coding system: a root agent recursively decomposes goals and delegates to specialist subagents, learning from failures by mutating a git-backed agent genome. Supports Claude, GPT, and Gemini. (1 day ago)
+- [aidankinzett/claude-git-pr-skill](https://github.com/aidankinzett/claude-git-pr-skill) - Professional GitHub PR review skill for Claude Code with pending reviews, code suggestions, and user approval workflow (1 day ago)
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 337 Claude Code skills &amp; agent skills &amp; plugins (30&#43; Agents, 70&#43; custom commands, 330&#43; skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills. (1 day ago)
+- [jianshuo/ccglass](https://github.com/jianshuo/ccglass) - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy &#43; web dashboard (1 day ago)
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code (1 day ago)
+- [kenn-io/middleman](https://github.com/kenn-io/middleman) - Local-first GitHub dashboard for maintainers to triage, review, and merge PRs and issues across repos without needing GitHub&#39;s built-in notification emails or dashboard (1 day ago)
+- [prime-radiant-inc/engineering-notebook](https://github.com/prime-radiant-inc/engineering-notebook) - A Bun CLI that ingests Claude Code and Codex session transcripts, generates LLM-powered daily summaries, and serves a browsable web UI for your engineering journal. (1 day ago)
+- [kenn-io/roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code. (1 day ago)
+- [xapian/xapian](https://github.com/xapian/xapian) - Mirror of the Xapian repository.  You&#39;re welcome to open pull requests on github (they&#39;ll just get merged indirectly). (1 day ago)
+- [neul-labs/agentvfs](https://github.com/neul-labs/agentvfs) - Workspace runtime and execution boundary for AI agents (1 day ago)
+- [neul-labs/ukkin](https://github.com/neul-labs/ukkin) - Create AI agents on your phone that automate your daily tasks. (1 day ago)
 
 #### 📫 How to reach me
 
