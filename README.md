@@ -20,23 +20,23 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (4 days ago)
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (3 weeks ago)
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (3 weeks ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 month ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (1 month ago)
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (1 month ago)
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (1 month ago)
-- [jhult/olcs-python-api](https://github.com/jhult/olcs-python-api) -  (1 month ago)
-- [jhult/ol-python-api](https://github.com/jhult/ol-python-api) -  (1 month ago)
+- [jhult/olcs-python-api](https://github.com/jhult/olcs-python-api) -  (2 months ago)
+- [jhult/ol-python-api](https://github.com/jhult/ol-python-api) -  (2 months ago)
 - [inko-lang/website](https://github.com/inko-lang/website) - The Inko Programming Language website. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.6.5](https://github.com/jdx/mise/releases/tag/v2026.6.5), 1 day ago) - dev tools, env vars, task runner
-- [jdx/hk](https://github.com/jdx/hk) ([v1.48.0](https://github.com/jdx/hk/releases/tag/v1.48.0), 2 days ago) - git hooks and project lints
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.5](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.5), 2 days ago) - Agentic Coding for Builders who Ship
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.2), 3 days ago) - Modern Android client for Hacker News
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.6.6](https://github.com/jdx/mise/releases/tag/v2026.6.6), 1 day ago) - dev tools, env vars, task runner
+- [jdx/hk](https://github.com/jdx/hk) ([v1.48.0](https://github.com/jdx/hk/releases/tag/v1.48.0), 3 days ago) - git hooks and project lints
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.5](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.5), 3 days ago) - Agentic Coding for Builders who Ship
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.2), 4 days ago) - Modern Android client for Hacker News
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.37.0](https://github.com/aaif-goose/goose/releases/tag/v1.37.0), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.5](https://github.com/gastownhall/beads/releases/tag/v1.0.5), 2 weeks ago) - Beads - A memory upgrade for your coding agent
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.3](https://github.com/rust-lang/mdBook/releases/tag/v0.5.3), 3 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -46,7 +46,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (2 days ago)
+- [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (3 days ago)
 - [Add MIT license](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor/pull/2) on [Renvect/X-Ray-Claude-Code-Interceptor](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor) (1 week ago)
 - [fix(link): detect broken same-package symlinks and add --overwrite flag](https://github.com/neul-labs/stout/pull/23) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [fix(upgrade): sync state, deduplicate casks, and auto-repair on errors](https://github.com/neul-labs/stout/pull/22) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [aidankinzett/claude-git-pr-skill](https://github.com/aidankinzett/claude-git-pr-skill) - Professional GitHub PR review skill for Claude Code with pending reviews, code suggestions, and user approval workflow (2 days ago)
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 337 Claude Code skills &amp; agent skills &amp; plugins (30&#43; Agents, 70&#43; custom commands, 330&#43; skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills. (2 days ago)
-- [jianshuo/ccglass](https://github.com/jianshuo/ccglass) - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy &#43; web dashboard (2 days ago)
-- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code (2 days ago)
-- [kenn-io/middleman](https://github.com/kenn-io/middleman) - Local-first GitHub dashboard for maintainers to triage, review, and merge PRs and issues across repos without needing GitHub&#39;s built-in notification emails or dashboard (2 days ago)
-- [prime-radiant-inc/engineering-notebook](https://github.com/prime-radiant-inc/engineering-notebook) - A Bun CLI that ingests Claude Code and Codex session transcripts, generates LLM-powered daily summaries, and serves a browsable web UI for your engineering journal. (2 days ago)
-- [kenn-io/roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code. (2 days ago)
-- [xapian/xapian](https://github.com/xapian/xapian) - Mirror of the Xapian repository.  You&#39;re welcome to open pull requests on github (they&#39;ll just get merged indirectly). (2 days ago)
-- [neul-labs/agentvfs](https://github.com/neul-labs/agentvfs) - Workspace runtime and execution boundary for AI agents (2 days ago)
-- [neul-labs/ukkin](https://github.com/neul-labs/ukkin) - Create AI agents on your phone that automate your daily tasks. (2 days ago)
+- [torbiak/git-autofixup](https://github.com/torbiak/git-autofixup) - create fixup commits for topic branches (today)
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection (1 day ago)
+- [trailofbits/claude-code-config](https://github.com/trailofbits/claude-code-config) - Opinionated defaults, documentation, and workflows for Claude Code at Trail of Bits (1 day ago)
+- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows (1 day ago)
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go (1 day ago)
+- [jthack/ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill) - This is a &#34;skill&#34; for claude to use FFUF. (1 day ago)
+- [obra/superpowers-lab](https://github.com/obra/superpowers-lab) - Experimental skills for Claude Code Superpowers - new techniques and tools (1 day ago)
+- [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container. (1 day ago)
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (1 day ago)
+- [aidankinzett/claude-git-pr-skill](https://github.com/aidankinzett/claude-git-pr-skill) - Professional GitHub PR review skill for Claude Code with pending reviews, code suggestions, and user approval workflow (3 days ago)
 
 #### 📫 How to reach me
 
