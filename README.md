@@ -20,7 +20,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (2 days ago)
+- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (3 days ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 week ago)
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (3 weeks ago)
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (3 weeks ago)
@@ -33,22 +33,22 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.6.11](https://github.com/jdx/mise/releases/tag/v2026.6.11), 1 day ago) - dev tools, env vars, task runner
-- [jdx/hk](https://github.com/jdx/hk) ([v1.48.0](https://github.com/jdx/hk/releases/tag/v1.48.0), 6 days ago) - git hooks and project lints
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.5](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.5), 6 days ago) - Agentic Coding for Builders who Ship
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.0](https://github.com/objective-see/LuLu/releases/tag/v4.4.0), 1 day ago) - LuLu is the free open-source macOS firewall
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.38.0](https://github.com/aaif-goose/goose/releases/tag/v1.38.0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.6.11](https://github.com/jdx/mise/releases/tag/v2026.6.11), 2 days ago) - dev tools, env vars, task runner
+- [jdx/hk](https://github.com/jdx/hk) ([v1.48.0](https://github.com/jdx/hk/releases/tag/v1.48.0), 1 week ago) - git hooks and project lints
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.5](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.5), 1 week ago) - Agentic Coding for Builders who Ship
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.2), 1 week ago) - Modern Android client for Hacker News
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.37.0](https://github.com/aaif-goose/goose/releases/tag/v1.37.0), 2 weeks ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.5](https://github.com/gastownhall/beads/releases/tag/v1.0.5), 2 weeks ago) - Beads - A memory upgrade for your coding agent
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.3](https://github.com/rust-lang/mdBook/releases/tag/v0.5.3), 4 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.3](https://github.com/rust-lang/mdBook/releases/tag/v0.5.3), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.2](https://github.com/jhult/recalldory/releases/tag/v0.0.2), 1 month ago) - A learning memory system for AI coding assistants, written in Inko.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.1](https://github.com/atuinsh/atuin/releases/tag/v18.16.1), 1 month ago) - ✨ Making your shell magical
-- [neul-labs/stout](https://github.com/neul-labs/stout) ([v0.2.2](https://github.com/neul-labs/stout/releases/tag/v0.2.2), 1 month ago) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(casks): show which app needs admin privileges and cache sudo for session](https://github.com/neul-labs/stout/pull/25) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
-- [fix(update): skip re-downloading index when already up to date](https://github.com/neul-labs/stout/pull/24) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
-- [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (6 days ago)
+- [fix(casks): show which app needs admin privileges and cache sudo for session](https://github.com/neul-labs/stout/pull/25) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
+- [fix(update): skip re-downloading index when already up to date](https://github.com/neul-labs/stout/pull/24) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
+- [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (1 week ago)
 - [Add MIT license](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor/pull/2) on [Renvect/X-Ray-Claude-Code-Interceptor](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor) (2 weeks ago)
 - [fix(link): detect broken same-package symlinks and add --overwrite flag](https://github.com/neul-labs/stout/pull/23) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
 - [fix(upgrade): sync state, deduplicate casks, and auto-repair on errors](https://github.com/neul-labs/stout/pull/22) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows (1 day ago)
-- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out (1 day ago)
-- [MrMarble/termsvg](https://github.com/MrMarble/termsvg) - Record, share and export your terminal as a animated SVG image. (1 day ago)
-- [AnthonySturdy/micro-radar](https://github.com/AnthonySturdy/micro-radar) - A tiny open-source flight radar for your desk (1 day ago)
-- [hagan/claudia-statusline](https://github.com/hagan/claudia-statusline) - A project around statusline.rs (1 day ago)
-- [JuliusBrussee/revu-swift](https://github.com/JuliusBrussee/revu-swift) - Local-first macOS study app with FSRS review, decks, study guides, exams, import/export, and a polished SwiftUI desktop interface. (1 day ago)
-- [JuliusBrussee/skills](https://github.com/JuliusBrussee/skills) -  (1 day ago)
-- [JuliusBrussee/cavemem](https://github.com/JuliusBrussee/cavemem) - Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default. (1 day ago)
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source &amp; free — Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1 day ago)
-- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. (1 day ago)
+- [JaCraig/SQLParser](https://github.com/JaCraig/SQLParser) - An SQL Parser/Lexer for C# (today)
+- [randommysticalperson/tsql-parser](https://github.com/randommysticalperson/tsql-parser) - An interactive T-SQL parser website powered by Microsoft&#39;s SqlScriptDOM library. Users can input T-SQL statements and see the parsed AST, tokens, formatting errors, and more. · Built with Manus (today)
+- [ha1tch/tsqlparser](https://github.com/ha1tch/tsqlparser) - A T-SQL parser written in Go. Parses Microsoft SQL Server T-SQL syntax into an abstract syntax tree (AST). (today)
+- [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode) into self-contained, embeddable HTML  replays (1 day ago)
+- [clkao/agentlore](https://github.com/clkao/agentlore) - Team visibility layer for AI agent conversations (1 day ago)
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows (2 days ago)
+- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out (2 days ago)
+- [MrMarble/termsvg](https://github.com/MrMarble/termsvg) - Record, share and export your terminal as a animated SVG image. (2 days ago)
+- [AnthonySturdy/micro-radar](https://github.com/AnthonySturdy/micro-radar) - A tiny open-source flight radar for your desk (2 days ago)
+- [hagan/claudia-statusline](https://github.com/hagan/claudia-statusline) - A project around statusline.rs (2 days ago)
 
 #### 📫 How to reach me
 
