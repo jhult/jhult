@@ -20,7 +20,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (6 days ago)
+- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 week ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 week ago)
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (1 month ago)
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (1 month ago)
@@ -33,9 +33,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.0](https://github.com/objective-see/LuLu/releases/tag/v4.4.0), 4 days ago) - LuLu is the free open-source macOS firewall
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.38.0](https://github.com/aaif-goose/goose/releases/tag/v1.38.0), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.6.11](https://github.com/jdx/mise/releases/tag/v2026.6.11), 5 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.6.12](https://github.com/jdx/mise/releases/tag/v2026.6.12), today) - dev tools, env vars, task runner
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.0](https://github.com/objective-see/LuLu/releases/tag/v4.4.0), 5 days ago) - LuLu is the free open-source macOS firewall
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.38.0](https://github.com/aaif-goose/goose/releases/tag/v1.38.0), 5 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [jdx/hk](https://github.com/jdx/hk) ([v1.48.0](https://github.com/jdx/hk/releases/tag/v1.48.0), 1 week ago) - git hooks and project lints
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.5](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.5), 1 week ago) - Agentic Coding for Builders who Ship
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.2), 1 week ago) - Modern Android client for Hacker News
@@ -50,7 +50,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [fix(update): skip re-downloading index when already up to date](https://github.com/neul-labs/stout/pull/24) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (1 week ago)
 - [Add MIT license](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor/pull/2) on [Renvect/X-Ray-Claude-Code-Interceptor](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor) (2 weeks ago)
-- [fix(link): detect broken same-package symlinks and add --overwrite flag](https://github.com/neul-labs/stout/pull/23) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
+- [fix(link): detect broken same-package symlinks and add --overwrite flag](https://github.com/neul-labs/stout/pull/23) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
 - [fix(upgrade): sync state, deduplicate casks, and auto-repair on errors](https://github.com/neul-labs/stout/pull/22) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
 - [chore(README): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/11) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (3 weeks ago)
 - [chore(website): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/10) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (3 weeks ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [man-consult/code-mapper](https://github.com/man-consult/code-mapper) - A tool to parse code and generate a graph to highlight read, write and authentication links (today)
-- [anthropics/buffa](https://github.com/anthropics/buffa) - Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views (today)
-- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) - Fast, cross-platform, real-time token usage tracker and cost monitor for Gemini CLI / Claude Code / Codex CLI / Qwen Code / Cline / Roo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / Piebald. (today)
-- [arnica/depsguard](https://github.com/arnica/depsguard) - Harden your package manager configs against supply chain attacks. (today)
-- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute. (today)
-- [arjan/awesome-agent-sandboxes](https://github.com/arjan/awesome-agent-sandboxes) - A curated list of code-execution sandboxing solutions for AI/LLM agents (1 day ago)
-- [nikitadoudikov/claude-pulse](https://github.com/nikitadoudikov/claude-pulse) - Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone. (1 day ago)
-- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter (1 day ago)
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK. (1 day ago)
-- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI (1 day ago)
+- [jjmschofield/github-codeowners](https://github.com/jjmschofield/github-codeowners) -  (today)
+- [toptal/codeowners-checker](https://github.com/toptal/codeowners-checker) - Check .github/CODEOWNERS consistency (today)
+- [sbt/zinc](https://github.com/sbt/zinc) - Scala incremental compiler library, used by sbt and other build tools (1 day ago)
+- [stanford-scs/jai](https://github.com/stanford-scs/jai) - Jail your AI agent (1 day ago)
+- [butter-dot-dev/bVisor](https://github.com/butter-dot-dev/bVisor) - Embedded bash sandbox for agents, inspired by gVisor (1 day ago)
+- [eryx-org/eryx](https://github.com/eryx-org/eryx) - A Python sandbox using Wasmtime (1 day ago)
+- [sd2k/conch](https://github.com/sd2k/conch) - Bash in WebAssembly (1 day ago)
+- [Eugeny/russh](https://github.com/Eugeny/russh) - Rust SSH client &amp; server library (1 day ago)
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development (1 day ago)
+- [rcarmo/webterm](https://github.com/rcarmo/webterm) - Yet another web terminal, but with style (1 day ago)
 
 #### 📫 How to reach me
 
