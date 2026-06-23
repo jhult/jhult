@@ -22,27 +22,27 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 week ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 week ago)
-- [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (1 month ago)
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (1 month ago)
+- [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (1 month ago)
+- [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (1 month ago)
+- [neul-labs/homebrew-tap](https://github.com/neul-labs/homebrew-tap) -  (1 month ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (2 months ago)
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (2 months ago)
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (2 months ago)
-- [jhult/ol-python-api](https://github.com/jhult/ol-python-api) -  (2 months ago)
 - [jhult/olcs-python-api](https://github.com/jhult/olcs-python-api) -  (2 months ago)
-- [inko-lang/website](https://github.com/inko-lang/website) - The Inko Programming Language website. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.6.12](https://github.com/jdx/mise/releases/tag/v2026.6.12), today) - dev tools, env vars, task runner
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.0](https://github.com/objective-see/LuLu/releases/tag/v4.4.0), 5 days ago) - LuLu is the free open-source macOS firewall
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.38.0](https://github.com/aaif-goose/goose/releases/tag/v1.38.0), 5 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.6.12](https://github.com/jdx/mise/releases/tag/v2026.6.12), 1 day ago) - dev tools, env vars, task runner
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.0](https://github.com/objective-see/LuLu/releases/tag/v4.4.0), 6 days ago) - LuLu is the free open-source macOS firewall
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.38.0](https://github.com/aaif-goose/goose/releases/tag/v1.38.0), 6 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [jdx/hk](https://github.com/jdx/hk) ([v1.48.0](https://github.com/jdx/hk/releases/tag/v1.48.0), 1 week ago) - git hooks and project lints
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.5](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.5), 1 week ago) - Agentic Coding for Builders who Ship
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.2), 1 week ago) - Modern Android client for Hacker News
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.5](https://github.com/gastownhall/beads/releases/tag/v1.0.5), 3 weeks ago) - Beads - A memory upgrade for your coding agent
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.3](https://github.com/rust-lang/mdBook/releases/tag/v0.5.3), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.2](https://github.com/jhult/recalldory/releases/tag/v0.0.2), 1 month ago) - A learning memory system for AI coding assistants, written in Inko.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.1](https://github.com/atuinsh/atuin/releases/tag/v18.16.1), 1 month ago) - ✨ Making your shell magical
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.4](https://github.com/gastownhall/beads/releases/tag/v1.0.4), 1 month ago) - Beads - A memory upgrade for your coding agent
 
 #### 🔨 My recent Pull Requests
 
@@ -54,21 +54,21 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [fix(upgrade): sync state, deduplicate casks, and auto-repair on errors](https://github.com/neul-labs/stout/pull/22) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
 - [chore(README): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/11) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (3 weeks ago)
 - [chore(website): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/10) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (3 weeks ago)
-- [fix(services): properly parse launchctl output for status detection](https://github.com/neul-labs/stout/pull/21) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
+- [fix(services): properly parse launchctl output for status detection](https://github.com/neul-labs/stout/pull/21) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 weeks ago)
 - [fix(deepseek): preserve reasoning_content for V4 thinking-mode multi-turn](https://github.com/Kuberwastaken/claurst/pull/165) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [jjmschofield/github-codeowners](https://github.com/jjmschofield/github-codeowners) -  (today)
-- [toptal/codeowners-checker](https://github.com/toptal/codeowners-checker) - Check .github/CODEOWNERS consistency (today)
-- [sbt/zinc](https://github.com/sbt/zinc) - Scala incremental compiler library, used by sbt and other build tools (1 day ago)
-- [stanford-scs/jai](https://github.com/stanford-scs/jai) - Jail your AI agent (1 day ago)
-- [butter-dot-dev/bVisor](https://github.com/butter-dot-dev/bVisor) - Embedded bash sandbox for agents, inspired by gVisor (1 day ago)
-- [eryx-org/eryx](https://github.com/eryx-org/eryx) - A Python sandbox using Wasmtime (1 day ago)
-- [sd2k/conch](https://github.com/sd2k/conch) - Bash in WebAssembly (1 day ago)
-- [Eugeny/russh](https://github.com/Eugeny/russh) - Rust SSH client &amp; server library (1 day ago)
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development (1 day ago)
-- [rcarmo/webterm](https://github.com/rcarmo/webterm) - Yet another web terminal, but with style (1 day ago)
+- [jjmschofield/github-codeowners](https://github.com/jjmschofield/github-codeowners) -  (1 day ago)
+- [toptal/codeowners-checker](https://github.com/toptal/codeowners-checker) - Check .github/CODEOWNERS consistency (1 day ago)
+- [sbt/zinc](https://github.com/sbt/zinc) - Scala incremental compiler library, used by sbt and other build tools (2 days ago)
+- [stanford-scs/jai](https://github.com/stanford-scs/jai) - Jail your AI agent (2 days ago)
+- [butter-dot-dev/bVisor](https://github.com/butter-dot-dev/bVisor) - Embedded bash sandbox for agents, inspired by gVisor (2 days ago)
+- [eryx-org/eryx](https://github.com/eryx-org/eryx) - A Python sandbox using Wasmtime (2 days ago)
+- [sd2k/conch](https://github.com/sd2k/conch) - Bash in WebAssembly (2 days ago)
+- [Eugeny/russh](https://github.com/Eugeny/russh) - Rust SSH client &amp; server library (2 days ago)
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development (2 days ago)
+- [rcarmo/webterm](https://github.com/rcarmo/webterm) - Yet another web terminal, but with style (2 days ago)
 
 #### 📫 How to reach me
 
