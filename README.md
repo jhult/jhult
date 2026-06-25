@@ -20,6 +20,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 day ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 week ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 weeks ago)
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (1 month ago)
@@ -29,46 +30,45 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (2 months ago)
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (2 months ago)
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (2 months ago)
-- [jhult/olcs-python-api](https://github.com/jhult/olcs-python-api) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.6.13](https://github.com/jdx/mise/releases/tag/v2026.6.13), 1 day ago) - dev tools, env vars, task runner
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.528.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.528.0), 1 day ago) - aqua&#39;s Standard Registry
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.6.13](https://github.com/jdx/mise/releases/tag/v2026.6.13), 2 days ago) - dev tools, env vars, task runner
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.0](https://github.com/objective-see/LuLu/releases/tag/v4.4.0), 1 week ago) - LuLu is the free open-source macOS firewall
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.38.0](https://github.com/aaif-goose/goose/releases/tag/v1.38.0), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [jdx/hk](https://github.com/jdx/hk) ([v1.48.0](https://github.com/jdx/hk/releases/tag/v1.48.0), 1 week ago) - git hooks and project lints
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.5](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.5), 1 week ago) - Agentic Coding for Builders who Ship
+- [jdx/hk](https://github.com/jdx/hk) ([v1.48.0](https://github.com/jdx/hk/releases/tag/v1.48.0), 2 weeks ago) - git hooks and project lints
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.5](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.5), 2 weeks ago) - Agentic Coding for Builders who Ship
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.2), 2 weeks ago) - Modern Android client for Hacker News
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.3](https://github.com/rust-lang/mdBook/releases/tag/v0.5.3), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.2](https://github.com/jhult/recalldory/releases/tag/v0.0.2), 1 month ago) - A learning memory system for AI coding assistants, written in Inko.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.16.1](https://github.com/atuinsh/atuin/releases/tag/v18.16.1), 1 month ago) - ✨ Making your shell magical
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.0.4](https://github.com/gastownhall/beads/releases/tag/v1.0.4), 1 month ago) - Beads - A memory upgrade for your coding agent
 
 #### 🔨 My recent Pull Requests
 
+- [fix(doggo): use github backend for v1.2.0 asset naming](https://github.com/jdx/mise/pull/10601) on [jdx/mise](https://github.com/jdx/mise) (1 day ago)
+- [fix(mr-karan/doggo): add version override for v1.2.0 asset naming change](https://github.com/aquaproj/aqua-registry/pull/55890) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 day ago)
+- [fix(aqua): support doggo v1.2.0 asset naming in vendored registry](https://github.com/jdx/mise/pull/10600) on [jdx/mise](https://github.com/jdx/mise) (1 day ago)
 - [fix(casks): show which app needs admin privileges and cache sudo for session](https://github.com/neul-labs/stout/pull/25) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [fix(update): skip re-downloading index when already up to date](https://github.com/neul-labs/stout/pull/24) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
-- [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (1 week ago)
+- [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (2 weeks ago)
 - [Add MIT license](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor/pull/2) on [Renvect/X-Ray-Claude-Code-Interceptor](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor) (3 weeks ago)
 - [fix(link): detect broken same-package symlinks and add --overwrite flag](https://github.com/neul-labs/stout/pull/23) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
 - [fix(upgrade): sync state, deduplicate casks, and auto-repair on errors](https://github.com/neul-labs/stout/pull/22) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
 - [chore(README): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/11) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (3 weeks ago)
-- [chore(website): update username from imshvc -&gt; nurudinimsirovic](https://github.com/NurudinImsirovic/windows-cursors-modern/pull/10) on [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) (3 weeks ago)
-- [fix(services): properly parse launchctl output for status detection](https://github.com/neul-labs/stout/pull/21) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 weeks ago)
-- [fix(deepseek): preserve reasoning_content for V4 thinking-mode multi-turn](https://github.com/Kuberwastaken/claurst/pull/165) on [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [JeremyMorgan/code-review-skills](https://github.com/JeremyMorgan/code-review-skills) - Code Review Skills (today)
-- [wang33550/splice](https://github.com/wang33550/splice) - Local compaction safety net for Claude Code and Codex (today)
-- [zzallirog/weighted-compact](https://github.com/zzallirog/weighted-compact) - Substrate-based context compaction for Claude Code. Inspectable signal weights, local-only, MCP-ready. Alternative to /compact &#43; hook-based capture (claude-mem, etc.). (today)
-- [vignesh07/compaction-advisor](https://github.com/vignesh07/compaction-advisor) - Automatic context monitoring for Claude Code — never get interrupted by mid-task compaction again. (today)
-- [jjmschofield/github-codeowners](https://github.com/jjmschofield/github-codeowners) -  (2 days ago)
-- [toptal/codeowners-checker](https://github.com/toptal/codeowners-checker) - Check .github/CODEOWNERS consistency (2 days ago)
-- [sbt/zinc](https://github.com/sbt/zinc) - Scala incremental compiler library, used by sbt and other build tools (3 days ago)
-- [stanford-scs/jai](https://github.com/stanford-scs/jai) - Jail your AI agent (3 days ago)
-- [butter-dot-dev/bVisor](https://github.com/butter-dot-dev/bVisor) - Embedded bash sandbox for agents, inspired by gVisor (3 days ago)
-- [eryx-org/eryx](https://github.com/eryx-org/eryx) - A Python sandbox using Wasmtime (3 days ago)
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 day ago)
+- [jms830/wezterm-settings-gui](https://github.com/jms830/wezterm-settings-gui) - A visual configuration editor for WezTerm terminal emulator (1 day ago)
+- [alexander-castro/smart-brevity-on-claude](https://github.com/alexander-castro/smart-brevity-on-claude) - Applied the principles of the book Smart Brevity on Claude answers (1 day ago)
+- [JeremyMorgan/code-review-skills](https://github.com/JeremyMorgan/code-review-skills) - Code Review Skills (1 day ago)
+- [wang33550/splice](https://github.com/wang33550/splice) - Local compaction safety net for Claude Code and Codex (1 day ago)
+- [zzallirog/weighted-compact](https://github.com/zzallirog/weighted-compact) - Substrate-based context compaction for Claude Code. Inspectable signal weights, local-only, MCP-ready. Alternative to /compact &#43; hook-based capture (claude-mem, etc.). (1 day ago)
+- [vignesh07/compaction-advisor](https://github.com/vignesh07/compaction-advisor) - Automatic context monitoring for Claude Code — never get interrupted by mid-task compaction again. (1 day ago)
+- [jjmschofield/github-codeowners](https://github.com/jjmschofield/github-codeowners) -  (3 days ago)
+- [toptal/codeowners-checker](https://github.com/toptal/codeowners-checker) - Check .github/CODEOWNERS consistency (3 days ago)
+- [sbt/zinc](https://github.com/sbt/zinc) - Scala incremental compiler library, used by sbt and other build tools (4 days ago)
 
 #### 📫 How to reach me
 
