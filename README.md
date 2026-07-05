@@ -20,7 +20,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (5 days ago)
+- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (6 days ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 week ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 weeks ago)
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (1 month ago)
@@ -33,11 +33,11 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.531.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.531.0), 1 day ago) - aqua&#39;s Standard Registry
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.41.0](https://github.com/aaif-goose/goose/releases/tag/v1.41.0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.0](https://github.com/jdx/mise/releases/tag/v2026.7.0), 2 days ago) - dev tools, env vars, task runner
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0-rc.2](https://github.com/gastownhall/beads/releases/tag/v1.1.0-rc.2), 2 days ago) - Beads - A memory upgrade for your coding agent
-- [jdx/hk](https://github.com/jdx/hk) ([v1.49.0](https://github.com/jdx/hk/releases/tag/v1.49.0), 3 days ago) - git hooks and project lints
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 1 day ago) - Beads - A memory upgrade for your coding agent
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.531.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.531.0), 2 days ago) - aqua&#39;s Standard Registry
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.41.0](https://github.com/aaif-goose/goose/releases/tag/v1.41.0), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.0](https://github.com/jdx/mise/releases/tag/v2026.7.0), 3 days ago) - dev tools, env vars, task runner
+- [jdx/hk](https://github.com/jdx/hk) ([v1.49.0](https://github.com/jdx/hk/releases/tag/v1.49.0), 4 days ago) - git hooks and project lints
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.6](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.6), 1 week ago) - Agentic Coding for Builders who Ship
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.0](https://github.com/objective-see/LuLu/releases/tag/v4.4.0), 2 weeks ago) - LuLu is the free open-source macOS firewall
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.2), 3 weeks ago) - Modern Android client for Hacker News
@@ -46,12 +46,12 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(link): use overwrite=true in upgrade/reinstall and surface conflicts](https://github.com/neul-labs/stout/pull/26) on [neul-labs/stout](https://github.com/neul-labs/stout) (5 days ago)
+- [fix(link): use overwrite=true in upgrade/reinstall and surface conflicts](https://github.com/neul-labs/stout/pull/26) on [neul-labs/stout](https://github.com/neul-labs/stout) (6 days ago)
 - [fix(doggo): use github backend for v1.2.0 asset naming](https://github.com/jdx/mise/pull/10601) on [jdx/mise](https://github.com/jdx/mise) (1 week ago)
 - [fix(mr-karan/doggo): add version override for v1.2.0 asset naming change](https://github.com/aquaproj/aqua-registry/pull/55890) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 week ago)
 - [fix(aqua): support doggo v1.2.0 asset naming in vendored registry](https://github.com/jdx/mise/pull/10600) on [jdx/mise](https://github.com/jdx/mise) (1 week ago)
-- [fix(casks): show which app needs admin privileges and cache sudo for session](https://github.com/neul-labs/stout/pull/25) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
-- [fix(update): skip re-downloading index when already up to date](https://github.com/neul-labs/stout/pull/24) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
+- [fix(casks): show which app needs admin privileges and cache sudo for session](https://github.com/neul-labs/stout/pull/25) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
+- [fix(update): skip re-downloading index when already up to date](https://github.com/neul-labs/stout/pull/24) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
 - [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (3 weeks ago)
 - [Add MIT license](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor/pull/2) on [Renvect/X-Ray-Claude-Code-Interceptor](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor) (1 month ago)
 - [fix(link): detect broken same-package symlinks and add --overwrite flag](https://github.com/neul-labs/stout/pull/23) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 month ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified! (1 day ago)
-- [deepeshBodh/human-in-loop](https://github.com/deepeshBodh/human-in-loop) - SPEC-first multi-agent framework for Claude Code. (1 day ago)
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - Write context once. Run agents anywhere. Own your data and the models. (1 day ago)
-- [stbenjam/skillsaw](https://github.com/stbenjam/skillsaw) - Keep your skills sharp. Intelligence for agent context. (1 day ago)
-- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders &amp; more. One command. (1 day ago)
-- [labzink/cc-probeline](https://github.com/labzink/cc-probeline) - See where it leaks, stop paying for it — a live Claude Code status line that prices every turn, your subagents, cache rebuilds, plus limits, context and git. (1 day ago)
-- [artemave/assert-raisins](https://github.com/artemave/assert-raisins) - Minimalistic, debugger friendly test runner for Node (1 day ago)
-- [artemave/node-test-runners-performance-comparison](https://github.com/artemave/node-test-runners-performance-comparison) - Node test runners performance comparison (1 day ago)
-- [rafal-qa/slopo](https://github.com/rafal-qa/slopo) - Embedding-based code duplication detector (1 day ago)
-- [MinishLab/semhash](https://github.com/MinishLab/semhash) - Fast Multimodal Semantic Deduplication &amp; Filtering (1 day ago)
+- [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified! (2 days ago)
+- [deepeshBodh/human-in-loop](https://github.com/deepeshBodh/human-in-loop) - SPEC-first multi-agent framework for Claude Code. (2 days ago)
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - Write context once. Run agents anywhere. Own your data and the models. (2 days ago)
+- [stbenjam/skillsaw](https://github.com/stbenjam/skillsaw) - Keep your skills sharp. Intelligence for agent context. (2 days ago)
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders &amp; more. One command. (2 days ago)
+- [labzink/cc-probeline](https://github.com/labzink/cc-probeline) - See where it leaks, stop paying for it — a live Claude Code status line that prices every turn, your subagents, cache rebuilds, plus limits, context and git. (2 days ago)
+- [artemave/assert-raisins](https://github.com/artemave/assert-raisins) - Minimalistic, debugger friendly test runner for Node (2 days ago)
+- [artemave/node-test-runners-performance-comparison](https://github.com/artemave/node-test-runners-performance-comparison) - Node test runners performance comparison (2 days ago)
+- [rafal-qa/slopo](https://github.com/rafal-qa/slopo) - Embedding-based code duplication detector (2 days ago)
+- [MinishLab/semhash](https://github.com/MinishLab/semhash) - Fast Multimodal Semantic Deduplication &amp; Filtering (2 days ago)
 
 #### 📫 How to reach me
 
