@@ -33,15 +33,15 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 2 days ago) - Beads - A memory upgrade for your coding agent
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.531.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.531.0), 3 days ago) - aqua&#39;s Standard Registry
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.41.0](https://github.com/aaif-goose/goose/releases/tag/v1.41.0), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.0](https://github.com/jdx/mise/releases/tag/v2026.7.0), 4 days ago) - dev tools, env vars, task runner
-- [jdx/hk](https://github.com/jdx/hk) ([v1.49.0](https://github.com/jdx/hk/releases/tag/v1.49.0), 5 days ago) - git hooks and project lints
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.6](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.6), 1 week ago) - Agentic Coding for Builders who Ship
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 1 day ago) - Agentic Coding for Builders who Ship
+- [jdx/hk](https://github.com/jdx/hk) ([v1.50.0](https://github.com/jdx/hk/releases/tag/v1.50.0), 1 day ago) - git hooks and project lints
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.4](https://github.com/rust-lang/mdBook/releases/tag/v0.5.4), 1 day ago) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.532.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.532.0), 1 day ago) - aqua&#39;s Standard Registry
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 3 days ago) - Beads - A memory upgrade for your coding agent
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.41.0](https://github.com/aaif-goose/goose/releases/tag/v1.41.0), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.0](https://github.com/jdx/mise/releases/tag/v2026.7.0), 5 days ago) - dev tools, env vars, task runner
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.0](https://github.com/objective-see/LuLu/releases/tag/v4.4.0), 2 weeks ago) - LuLu is the free open-source macOS firewall
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.2), 3 weeks ago) - Modern Android client for Hacker News
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.3](https://github.com/rust-lang/mdBook/releases/tag/v0.5.3), 1 month ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.2](https://github.com/jhult/recalldory/releases/tag/v0.0.2), 1 month ago) - A learning memory system for AI coding assistants, written in Inko.
 
 #### 🔨 My recent Pull Requests
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [neul-labs/gity](https://github.com/neul-labs/gity) - Make large Git repositories feel instant. (1 day ago)
-- [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified! (3 days ago)
-- [deepeshBodh/human-in-loop](https://github.com/deepeshBodh/human-in-loop) - SPEC-first multi-agent framework for Claude Code. (3 days ago)
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - Write context once. Run agents anywhere. Own your data and the models. (3 days ago)
-- [stbenjam/skillsaw](https://github.com/stbenjam/skillsaw) - Keep your skills sharp. Intelligence for agent context. (3 days ago)
-- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders &amp; more. One command. (3 days ago)
-- [labzink/cc-probeline](https://github.com/labzink/cc-probeline) - See where it leaks, stop paying for it — a live Claude Code status line that prices every turn, your subagents, cache rebuilds, plus limits, context and git. (3 days ago)
-- [artemave/assert-raisins](https://github.com/artemave/assert-raisins) - Minimalistic, debugger friendly test runner for Node (3 days ago)
-- [artemave/node-test-runners-performance-comparison](https://github.com/artemave/node-test-runners-performance-comparison) - Node test runners performance comparison (3 days ago)
-- [rafal-qa/slopo](https://github.com/rafal-qa/slopo) - Embedding-based code duplication detector (3 days ago)
+- [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core (today)
+- [Priivacy-ai/spec-kitty](https://github.com/Priivacy-ai/spec-kitty) - Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban dashboard, git worktrees, auto-merge and more. (today)
+- [strands-agents/agent-sop](https://github.com/strands-agents/agent-sop) - Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability. (today)
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework (today)
+- [TNO-S3/WuppieFuzz](https://github.com/TNO-S3/WuppieFuzz) - A coverage-guided REST API fuzzer developed on top of LibAFL (today)
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (today)
+- [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning. (today)
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative. (today)
+- [hmans/beans](https://github.com/hmans/beans) - A CLI-based, flat-file issue tracker for humans and robots. 🤖 (today)
+- [obsfx/trekker](https://github.com/obsfx/trekker) - Simple opinionated issue tracker for AI Agents (today)
 
 #### 📫 How to reach me
 
