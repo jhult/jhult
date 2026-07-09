@@ -33,16 +33,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.533.1](https://github.com/aquaproj/aqua-registry/releases/tag/v4.533.1), today) - aqua&#39;s Standard Registry
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.2](https://github.com/jdx/mise/releases/tag/v2026.7.2), 1 day ago) - dev tools, env vars, task runner
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 2 days ago) - Agentic Coding for Builders who Ship
-- [jdx/hk](https://github.com/jdx/hk) ([v1.50.0](https://github.com/jdx/hk/releases/tag/v1.50.0), 2 days ago) - git hooks and project lints
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.4](https://github.com/rust-lang/mdBook/releases/tag/v0.5.4), 2 days ago) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 4 days ago) - Beads - A memory upgrade for your coding agent
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.41.0](https://github.com/aaif-goose/goose/releases/tag/v1.41.0), 5 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.17.0](https://github.com/atuinsh/atuin/releases/tag/v18.17.0), today) - ✨ Making your shell magical
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.3](https://github.com/jdx/mise/releases/tag/v2026.7.3), 1 day ago) - dev tools, env vars, task runner
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.533.1](https://github.com/aquaproj/aqua-registry/releases/tag/v4.533.1), 1 day ago) - aqua&#39;s Standard Registry
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 3 days ago) - Agentic Coding for Builders who Ship
+- [jdx/hk](https://github.com/jdx/hk) ([v1.50.0](https://github.com/jdx/hk/releases/tag/v1.50.0), 3 days ago) - git hooks and project lints
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.4](https://github.com/rust-lang/mdBook/releases/tag/v0.5.4), 3 days ago) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 5 days ago) - Beads - A memory upgrade for your coding agent
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.41.0](https://github.com/aaif-goose/goose/releases/tag/v1.41.0), 6 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.0](https://github.com/objective-see/LuLu/releases/tag/v4.4.0), 3 weeks ago) - LuLu is the free open-source macOS firewall
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.2), 4 weeks ago) - Modern Android client for Hacker News
-- [jhult/recalldory](https://github.com/jhult/recalldory) ([v0.0.2](https://github.com/jhult/recalldory/releases/tag/v0.0.2), 1 month ago) - A learning memory system for AI coding assistants, written in Inko.
 
 #### 🔨 My recent Pull Requests
 
@@ -52,23 +52,23 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [fix(aqua): support doggo v1.2.0 asset naming in vendored registry](https://github.com/jdx/mise/pull/10600) on [jdx/mise](https://github.com/jdx/mise) (2 weeks ago)
 - [fix(casks): show which app needs admin privileges and cache sudo for session](https://github.com/neul-labs/stout/pull/25) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
 - [fix(update): skip re-downloading index when already up to date](https://github.com/neul-labs/stout/pull/24) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
-- [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (3 weeks ago)
+- [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (4 weeks ago)
 - [Add MIT license](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor/pull/2) on [Renvect/X-Ray-Claude-Code-Interceptor](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor) (1 month ago)
 - [fix(link): detect broken same-package symlinks and add --overwrite flag](https://github.com/neul-labs/stout/pull/23) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 month ago)
 - [fix(upgrade): sync state, deduplicate casks, and auto-repair on errors](https://github.com/neul-labs/stout/pull/22) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [petergombos/contentdrip](https://github.com/petergombos/contentdrip) -  (today)
-- [cpuguy83/crucible](https://github.com/cpuguy83/crucible) -  (today)
-- [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple&#39;s platform (today)
-- [luxury-yacht/app](https://github.com/luxury-yacht/app) - Luxury Yacht - A cross-platform app for managing Kubernetes clusters and resources (today)
-- [Beaulewis1977/claude-code-context-command](https://github.com/Beaulewis1977/claude-code-context-command) - Universal context usage analyzer for Claude Code - works from any directory in any project (1 day ago)
-- [Claudate/claude-code-context-sync](https://github.com/Claudate/claude-code-context-sync) - Save and resume Claude Code session context across multiple windows (1 day ago)
-- [mikaelvesavuori/figmagic](https://github.com/mikaelvesavuori/figmagic) - Figmagic is the missing piece between DevOps and design: Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents. (1 day ago)
-- [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core (1 day ago)
-- [Priivacy-ai/spec-kitty](https://github.com/Priivacy-ai/spec-kitty) - Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban dashboard, git worktrees, auto-merge and more. (1 day ago)
-- [strands-agents/agent-sop](https://github.com/strands-agents/agent-sop) - Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability. (1 day ago)
+- [rynfar/meridian](https://github.com/rynfar/meridian) - Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline. Proxy that bridges Anthropic&#39;s official SDK to enable Claude Max in third-party tools. (1 day ago)
+- [smithersai/zmux](https://github.com/smithersai/zmux) - tmux-style PTY session multiplexer as a Zig package. Long-lived daemon owns sessions and PTY child processes; clients attach over UNIX-domain JSON-RPC. (1 day ago)
+- [prime-radiant-inc/serf](https://github.com/prime-radiant-inc/serf) - A non-interactive coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models. (1 day ago)
+- [petergombos/contentdrip](https://github.com/petergombos/contentdrip) -  (1 day ago)
+- [cpuguy83/crucible](https://github.com/cpuguy83/crucible) -  (1 day ago)
+- [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple&#39;s platform (1 day ago)
+- [luxury-yacht/app](https://github.com/luxury-yacht/app) - Luxury Yacht - A cross-platform app for managing Kubernetes clusters and resources (1 day ago)
+- [Beaulewis1977/claude-code-context-command](https://github.com/Beaulewis1977/claude-code-context-command) - Universal context usage analyzer for Claude Code - works from any directory in any project (2 days ago)
+- [Claudate/claude-code-context-sync](https://github.com/Claudate/claude-code-context-sync) - Save and resume Claude Code session context across multiple windows (2 days ago)
+- [mikaelvesavuori/figmagic](https://github.com/mikaelvesavuori/figmagic) - Figmagic is the missing piece between DevOps and design: Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents. (2 days ago)
 
 #### 📫 How to reach me
 
