@@ -26,20 +26,20 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (1 month ago)
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (1 month ago)
 - [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (1 month ago)
-- [neul-labs/homebrew-tap](https://github.com/neul-labs/homebrew-tap) -  (1 month ago)
+- [neul-labs/homebrew-tap](https://github.com/neul-labs/homebrew-tap) -  (2 months ago)
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (2 months ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (2 months ago)
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.534.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.534.0), 1 day ago) - aqua&#39;s Standard Registry
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.5](https://github.com/jdx/mise/releases/tag/v2026.7.5), 1 day ago) - dev tools, env vars, task runner
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.17.0](https://github.com/atuinsh/atuin/releases/tag/v18.17.0), 1 day ago) - ✨ Making your shell magical
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 4 days ago) - Agentic Coding for Builders who Ship
-- [jdx/hk](https://github.com/jdx/hk) ([v1.50.0](https://github.com/jdx/hk/releases/tag/v1.50.0), 4 days ago) - git hooks and project lints
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.4](https://github.com/rust-lang/mdBook/releases/tag/v0.5.4), 4 days ago) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 6 days ago) - Beads - A memory upgrade for your coding agent
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.534.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.534.0), 2 days ago) - aqua&#39;s Standard Registry
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.5](https://github.com/jdx/mise/releases/tag/v2026.7.5), 2 days ago) - dev tools, env vars, task runner
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.17.0](https://github.com/atuinsh/atuin/releases/tag/v18.17.0), 2 days ago) - ✨ Making your shell magical
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 5 days ago) - Agentic Coding for Builders who Ship
+- [jdx/hk](https://github.com/jdx/hk) ([v1.50.0](https://github.com/jdx/hk/releases/tag/v1.50.0), 5 days ago) - git hooks and project lints
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.4](https://github.com/rust-lang/mdBook/releases/tag/v0.5.4), 5 days ago) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 1 week ago) - Beads - A memory upgrade for your coding agent
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.41.0](https://github.com/aaif-goose/goose/releases/tag/v1.41.0), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.0](https://github.com/objective-see/LuLu/releases/tag/v4.4.0), 3 weeks ago) - LuLu is the free open-source macOS firewall
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.2), 1 month ago) - Modern Android client for Hacker News
@@ -52,23 +52,23 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [fix(aqua): support doggo v1.2.0 asset naming in vendored registry](https://github.com/jdx/mise/pull/10600) on [jdx/mise](https://github.com/jdx/mise) (2 weeks ago)
 - [fix(casks): show which app needs admin privileges and cache sudo for session](https://github.com/neul-labs/stout/pull/25) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
 - [fix(update): skip re-downloading index when already up to date](https://github.com/neul-labs/stout/pull/24) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
-- [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (4 weeks ago)
+- [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (1 month ago)
 - [Add MIT license](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor/pull/2) on [Renvect/X-Ray-Claude-Code-Interceptor](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor) (1 month ago)
 - [fix(link): detect broken same-package symlinks and add --overwrite flag](https://github.com/neul-labs/stout/pull/23) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 month ago)
 - [fix(upgrade): sync state, deduplicate casks, and auto-repair on errors](https://github.com/neul-labs/stout/pull/22) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) - Beautiful vim-style powerline for Claude Code (1 day ago)
-- [jalaalrd/anti-ai-slop-writing](https://github.com/jalaalrd/anti-ai-slop-writing) - AI writing skill that eliminates detectable AI patterns. Works with Claude Code, Codex, Cursor, Gemini CLI, and 8&#43; other agents. (1 day ago)
-- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose (1 day ago)
-- [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time. (1 day ago)
-- [rynfar/meridian](https://github.com/rynfar/meridian) - Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline. Proxy that bridges Anthropic&#39;s official SDK to enable Claude Max in third-party tools. (2 days ago)
-- [smithersai/zmux](https://github.com/smithersai/zmux) - tmux-style PTY session multiplexer as a Zig package. Long-lived daemon owns sessions and PTY child processes; clients attach over UNIX-domain JSON-RPC. (2 days ago)
-- [prime-radiant-inc/serf](https://github.com/prime-radiant-inc/serf) - A non-interactive coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models. (2 days ago)
-- [petergombos/contentdrip](https://github.com/petergombos/contentdrip) -  (2 days ago)
-- [cpuguy83/crucible](https://github.com/cpuguy83/crucible) -  (2 days ago)
-- [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple&#39;s platform (2 days ago)
+- [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skills with Lore. Sync your conversations to the cloud. File issues and requests. (1 day ago)
+- [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) - Beautiful vim-style powerline for Claude Code (2 days ago)
+- [jalaalrd/anti-ai-slop-writing](https://github.com/jalaalrd/anti-ai-slop-writing) - AI writing skill that eliminates detectable AI patterns. Works with Claude Code, Codex, Cursor, Gemini CLI, and 8&#43; other agents. (2 days ago)
+- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose (2 days ago)
+- [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time. (2 days ago)
+- [rynfar/meridian](https://github.com/rynfar/meridian) - Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline. Proxy that bridges Anthropic&#39;s official SDK to enable Claude Max in third-party tools. (3 days ago)
+- [smithersai/zmux](https://github.com/smithersai/zmux) - tmux-style PTY session multiplexer as a Zig package. Long-lived daemon owns sessions and PTY child processes; clients attach over UNIX-domain JSON-RPC. (3 days ago)
+- [prime-radiant-inc/serf](https://github.com/prime-radiant-inc/serf) - A non-interactive coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models. (3 days ago)
+- [petergombos/contentdrip](https://github.com/petergombos/contentdrip) -  (3 days ago)
+- [cpuguy83/crucible](https://github.com/cpuguy83/crucible) -  (3 days ago)
 
 #### 📫 How to reach me
 
