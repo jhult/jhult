@@ -25,7 +25,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 month ago)
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (1 month ago)
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (1 month ago)
-- [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (1 month ago)
+- [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (2 months ago)
 - [neul-labs/homebrew-tap](https://github.com/neul-labs/homebrew-tap) -  (2 months ago)
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (2 months ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (2 months ago)
@@ -33,42 +33,42 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.536.1](https://github.com/aquaproj/aqua-registry/releases/tag/v4.536.1), 1 day ago) - aqua&#39;s Standard Registry
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.5](https://github.com/jdx/mise/releases/tag/v2026.7.5), 4 days ago) - dev tools, env vars, task runner
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.17.0](https://github.com/atuinsh/atuin/releases/tag/v18.17.0), 4 days ago) - ✨ Making your shell magical
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.537.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.537.0), 1 day ago) - aqua&#39;s Standard Registry
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.42.0](https://github.com/aaif-goose/goose/releases/tag/v1.42.0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.5](https://github.com/jdx/mise/releases/tag/v2026.7.5), 5 days ago) - dev tools, env vars, task runner
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.17.0](https://github.com/atuinsh/atuin/releases/tag/v18.17.0), 5 days ago) - ✨ Making your shell magical
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 1 week ago) - Agentic Coding for Builders who Ship
 - [jdx/hk](https://github.com/jdx/hk) ([v1.50.0](https://github.com/jdx/hk/releases/tag/v1.50.0), 1 week ago) - git hooks and project lints
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.4](https://github.com/rust-lang/mdBook/releases/tag/v0.5.4), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 1 week ago) - Beads - A memory upgrade for your coding agent
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.41.0](https://github.com/aaif-goose/goose/releases/tag/v1.41.0), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.0](https://github.com/objective-see/LuLu/releases/tag/v4.4.0), 3 weeks ago) - LuLu is the free open-source macOS firewall
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.2), 1 month ago) - Modern Android client for Hacker News
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/AgentWorkforce/burn/pull/496) on [AgentWorkforce/burn](https://github.com/AgentWorkforce/burn) (2 days ago)
+- [Add MIT license](https://github.com/AgentWorkforce/burn/pull/496) on [AgentWorkforce/burn](https://github.com/AgentWorkforce/burn) (3 days ago)
 - [fix(link): use overwrite=true in upgrade/reinstall and surface conflicts](https://github.com/neul-labs/stout/pull/26) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
 - [fix(doggo): use github backend for v1.2.0 asset naming](https://github.com/jdx/mise/pull/10601) on [jdx/mise](https://github.com/jdx/mise) (2 weeks ago)
 - [fix(mr-karan/doggo): add version override for v1.2.0 asset naming change](https://github.com/aquaproj/aqua-registry/pull/55890) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (2 weeks ago)
 - [fix(aqua): support doggo v1.2.0 asset naming in vendored registry](https://github.com/jdx/mise/pull/10600) on [jdx/mise](https://github.com/jdx/mise) (2 weeks ago)
-- [fix(casks): show which app needs admin privileges and cache sudo for session](https://github.com/neul-labs/stout/pull/25) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 weeks ago)
-- [fix(update): skip re-downloading index when already up to date](https://github.com/neul-labs/stout/pull/24) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 weeks ago)
+- [fix(casks): show which app needs admin privileges and cache sudo for session](https://github.com/neul-labs/stout/pull/25) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 month ago)
+- [fix(update): skip re-downloading index when already up to date](https://github.com/neul-labs/stout/pull/24) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 month ago)
 - [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (1 month ago)
 - [Add MIT license](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor/pull/2) on [Renvect/X-Ray-Claude-Code-Interceptor](https://github.com/Renvect/X-Ray-Claude-Code-Interceptor) (1 month ago)
 - [fix(link): detect broken same-package symlinks and add --overwrite flag](https://github.com/neul-labs/stout/pull/23) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher &amp; command palette (1 day ago)
-- [ainto-labs/ainto-app](https://github.com/ainto-labs/ainto-app) - Fast, open-source macOS launcher for app search, clipboard history, and snippets — a native Spotlight &amp; Raycast alternative with built-in AI, written in Swift and Rust. (1 day ago)
-- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works (1 day ago)
-- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳 (1 day ago)
-- [arjunkomath/trace](https://github.com/arjunkomath/trace) - Spotlight alternative and shortcut toolkit for macOS (1 day ago)
-- [cameronsjo/spec-compare](https://github.com/cameronsjo/spec-compare) - Research comparing 6 spec-driven development tools (Spec-Kit, Spec Kitty, BMad, OpenSpec, Kiro, Tessl) with git worktree analysis and decision frameworks (1 day ago)
-- [yuritoledo/openspec-tdd](https://github.com/yuritoledo/openspec-tdd) - Adds a solid-RED opsx:tdd gate to OpenSpec — real failing tests, not expect.fail placeholders (2 days ago)
-- [clay-good/OpenLore](https://github.com/clay-good/OpenLore) - Deterministic, local-first memory and guardrails for AI coding agents with no LLM in the hot path. (2 days ago)
-- [speclib/awesome-openspec](https://github.com/speclib/awesome-openspec) - Curated list of awesome OpenSpec resources and some genereric Spec-Driven-Development resources. (2 days ago)
-- [zayeagle/omnidev-kit](https://github.com/zayeagle/omnidev-kit) - OmniDev Kit is an advanced AI coding assistant enhancement toolkit that integrates the core essence of top open-source AI frameworks (such as `obra/superpowers`, `OpenSpec`, `planning-with-files`, and `everything-claude-code`) (2 days ago)
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1 day ago)
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (1 day ago)
+- [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever. (1 day ago)
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher &amp; command palette (2 days ago)
+- [ainto-labs/ainto-app](https://github.com/ainto-labs/ainto-app) - Fast, open-source macOS launcher for app search, clipboard history, and snippets — a native Spotlight &amp; Raycast alternative with built-in AI, written in Swift and Rust. (2 days ago)
+- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works (2 days ago)
+- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳 (2 days ago)
+- [arjunkomath/trace](https://github.com/arjunkomath/trace) - Spotlight alternative and shortcut toolkit for macOS (2 days ago)
+- [cameronsjo/spec-compare](https://github.com/cameronsjo/spec-compare) - Research comparing 6 spec-driven development tools (Spec-Kit, Spec Kitty, BMad, OpenSpec, Kiro, Tessl) with git worktree analysis and decision frameworks (2 days ago)
+- [yuritoledo/openspec-tdd](https://github.com/yuritoledo/openspec-tdd) - Adds a solid-RED opsx:tdd gate to OpenSpec — real failing tests, not expect.fail placeholders (3 days ago)
 
 #### 📫 How to reach me
 
