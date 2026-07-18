@@ -33,20 +33,20 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.538.1](https://github.com/aquaproj/aqua-registry/releases/tag/v4.538.1), 1 day ago) - aqua&#39;s Standard Registry
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.7](https://github.com/jdx/mise/releases/tag/v2026.7.7), 2 days ago) - dev tools, env vars, task runner
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.17.1](https://github.com/atuinsh/atuin/releases/tag/v18.17.1), 3 days ago) - ✨ Making your shell magical
-- [jdx/hk](https://github.com/jdx/hk) ([v1.51.0](https://github.com/jdx/hk/releases/tag/v1.51.0), 3 days ago) - git hooks and project lints
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.43.0](https://github.com/aaif-goose/goose/releases/tag/v1.43.0), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.539.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.539.0), 1 day ago) - aqua&#39;s Standard Registry
+- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.0](https://github.com/hovancik/stretchly/releases/tag/v1.22.0), 1 day ago) - The break time reminder app
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.7](https://github.com/jdx/mise/releases/tag/v2026.7.7), 3 days ago) - dev tools, env vars, task runner
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.17.1](https://github.com/atuinsh/atuin/releases/tag/v18.17.1), 4 days ago) - ✨ Making your shell magical
+- [jdx/hk](https://github.com/jdx/hk) ([v1.51.0](https://github.com/jdx/hk/releases/tag/v1.51.0), 4 days ago) - git hooks and project lints
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.43.0](https://github.com/aaif-goose/goose/releases/tag/v1.43.0), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 1 week ago) - Agentic Coding for Builders who Ship
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.4](https://github.com/rust-lang/mdBook/releases/tag/v0.5.4), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 1 week ago) - Beads - A memory upgrade for your coding agent
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 2 weeks ago) - Beads - A memory upgrade for your coding agent
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.0](https://github.com/objective-see/LuLu/releases/tag/v4.4.0), 1 month ago) - LuLu is the free open-source macOS firewall
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.0.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.0.2), 1 month ago) - Modern Android client for Hacker News
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/AgentWorkforce/burn/pull/496) on [AgentWorkforce/burn](https://github.com/AgentWorkforce/burn) (6 days ago)
+- [Add MIT license](https://github.com/AgentWorkforce/burn/pull/496) on [AgentWorkforce/burn](https://github.com/AgentWorkforce/burn) (1 week ago)
 - [fix(link): use overwrite=true in upgrade/reinstall and surface conflicts](https://github.com/neul-labs/stout/pull/26) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
 - [fix(doggo): use github backend for v1.2.0 asset naming](https://github.com/jdx/mise/pull/10601) on [jdx/mise](https://github.com/jdx/mise) (3 weeks ago)
 - [fix(mr-karan/doggo): add version override for v1.2.0 asset naming change](https://github.com/aquaproj/aqua-registry/pull/55890) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (3 weeks ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [garrettmoss/restore-claude-history](https://github.com/garrettmoss/restore-claude-history) - Recover deleted Claude Code chats on macOS — and back them up so they don&#39;t disappear again (2 days ago)
-- [ojura/claude-skills](https://github.com/ojura/claude-skills) - A collection of Claude Code skills. (2 days ago)
-- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (2 days ago)
-- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (4 days ago)
-- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (4 days ago)
-- [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever. (4 days ago)
-- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher &amp; command palette (5 days ago)
-- [ainto-labs/ainto-app](https://github.com/ainto-labs/ainto-app) - Fast, open-source macOS launcher for app search, clipboard history, and snippets — a native Spotlight &amp; Raycast alternative with built-in AI commands, written in Swift and Rust. (5 days ago)
-- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works (5 days ago)
-- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳 (5 days ago)
+- [olup/open-jj](https://github.com/olup/open-jj) -  (1 day ago)
+- [keanemind/jjk](https://github.com/keanemind/jjk) - Jujutsu (jj) VCS support for VS Code (1 day ago)
+- [laulauland/jj-hunk](https://github.com/laulauland/jj-hunk) - Non-interactive hunk distribution in jj CLI (1 day ago)
+- [google/or-tools](https://github.com/google/or-tools) - Google&#39;s Operations Research tools: (1 day ago)
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀 (1 day ago)
+- [garrettmoss/restore-claude-history](https://github.com/garrettmoss/restore-claude-history) - Recover deleted Claude Code chats on macOS — and back them up so they don&#39;t disappear again (3 days ago)
+- [ojura/claude-skills](https://github.com/ojura/claude-skills) - A collection of Claude Code skills. (3 days ago)
+- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (3 days ago)
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (5 days ago)
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (5 days ago)
 
 #### 📫 How to reach me
 
