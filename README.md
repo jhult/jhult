@@ -23,22 +23,22 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (3 weeks ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (3 weeks ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 month ago)
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (1 month ago)
-- [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (1 month ago)
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (2 months ago)
+- [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (2 months ago)
 - [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (2 months ago)
 - [neul-labs/homebrew-tap](https://github.com/neul-labs/homebrew-tap) -  (2 months ago)
-- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (2 months ago)
-- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (2 months ago)
+- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (3 months ago)
+- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (3 months ago)
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.539.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.539.0), 3 days ago) - aqua&#39;s Standard Registry
-- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.0](https://github.com/hovancik/stretchly/releases/tag/v1.22.0), 3 days ago) - The break time reminder app
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.7](https://github.com/jdx/mise/releases/tag/v2026.7.7), 5 days ago) - dev tools, env vars, task runner
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.17.1](https://github.com/atuinsh/atuin/releases/tag/v18.17.1), 6 days ago) - ✨ Making your shell magical
-- [jdx/hk](https://github.com/jdx/hk) ([v1.51.0](https://github.com/jdx/hk/releases/tag/v1.51.0), 6 days ago) - git hooks and project lints
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.43.0](https://github.com/aaif-goose/goose/releases/tag/v1.43.0), 6 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.11](https://github.com/jdx/mise/releases/tag/v2026.7.11), 1 day ago) - dev tools, env vars, task runner
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.539.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.539.0), 4 days ago) - aqua&#39;s Standard Registry
+- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.0](https://github.com/hovancik/stretchly/releases/tag/v1.22.0), 4 days ago) - The break time reminder app
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.17.1](https://github.com/atuinsh/atuin/releases/tag/v18.17.1), 1 week ago) - ✨ Making your shell magical
+- [jdx/hk](https://github.com/jdx/hk) ([v1.51.0](https://github.com/jdx/hk/releases/tag/v1.51.0), 1 week ago) - git hooks and project lints
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.43.0](https://github.com/aaif-goose/goose/releases/tag/v1.43.0), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 2 weeks ago) - Agentic Coding for Builders who Ship
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.4](https://github.com/rust-lang/mdBook/releases/tag/v0.5.4), 2 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 2 weeks ago) - Beads - A memory upgrade for your coding agent
@@ -59,14 +59,14 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [olup/open-jj](https://github.com/olup/open-jj) -  (3 days ago)
-- [keanemind/jjk](https://github.com/keanemind/jjk) - Jujutsu (jj) VCS support for VS Code (3 days ago)
-- [laulauland/jj-hunk](https://github.com/laulauland/jj-hunk) - Non-interactive hunk distribution in jj CLI (3 days ago)
-- [google/or-tools](https://github.com/google/or-tools) - Google&#39;s Operations Research tools: (3 days ago)
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀 (3 days ago)
-- [garrettmoss/restore-claude-history](https://github.com/garrettmoss/restore-claude-history) - Recover deleted Claude Code chats on macOS — and back them up so they don&#39;t disappear again (5 days ago)
-- [ojura/claude-skills](https://github.com/ojura/claude-skills) - A collection of Claude Code skills. (5 days ago)
-- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (5 days ago)
+- [olup/open-jj](https://github.com/olup/open-jj) -  (4 days ago)
+- [keanemind/jjk](https://github.com/keanemind/jjk) - Jujutsu (jj) VCS support for VS Code (4 days ago)
+- [laulauland/jj-hunk](https://github.com/laulauland/jj-hunk) - Non-interactive hunk distribution in jj CLI (4 days ago)
+- [google/or-tools](https://github.com/google/or-tools) - Google&#39;s Operations Research tools: (4 days ago)
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀 (4 days ago)
+- [garrettmoss/restore-claude-history](https://github.com/garrettmoss/restore-claude-history) - Recover deleted Claude Code chats on macOS — and back them up so they don&#39;t disappear again (6 days ago)
+- [ojura/claude-skills](https://github.com/ojura/claude-skills) - A collection of Claude Code skills. (6 days ago)
+- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (6 days ago)
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1 week ago)
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (1 week ago)
 
