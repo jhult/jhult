@@ -33,16 +33,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/hk](https://github.com/jdx/hk) ([v1.52.0](https://github.com/jdx/hk/releases/tag/v1.52.0), 1 day ago) - git hooks and project lints
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.540.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.540.0), 1 day ago) - aqua&#39;s Standard Registry
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.18.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/v18.18.0-beta.1), 1 day ago) - ✨ Making your shell magical
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.11](https://github.com/jdx/mise/releases/tag/v2026.7.11), 2 days ago) - dev tools, env vars, task runner
-- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.0](https://github.com/hovancik/stretchly/releases/tag/v1.22.0), 5 days ago) - The break time reminder app
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.12](https://github.com/jdx/mise/releases/tag/v2026.7.12), today) - dev tools, env vars, task runner
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.18.0-beta.2](https://github.com/atuinsh/atuin/releases/tag/v18.18.0-beta.2), 1 day ago) - ✨ Making your shell magical
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.1), 1 day ago) - Modern Android client for Hacker News
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.541.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.541.0), 1 day ago) - aqua&#39;s Standard Registry
+- [jdx/hk](https://github.com/jdx/hk) ([v1.52.0](https://github.com/jdx/hk/releases/tag/v1.52.0), 2 days ago) - git hooks and project lints
+- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.0](https://github.com/hovancik/stretchly/releases/tag/v1.22.0), 6 days ago) - The break time reminder app
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.43.0](https://github.com/aaif-goose/goose/releases/tag/v1.43.0), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 2 weeks ago) - Agentic Coding for Builders who Ship
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.4](https://github.com/rust-lang/mdBook/releases/tag/v0.5.4), 2 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 2 weeks ago) - Beads - A memory upgrade for your coding agent
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.0](https://github.com/objective-see/LuLu/releases/tag/v4.4.0), 1 month ago) - LuLu is the free open-source macOS firewall
 
 #### 🔨 My recent Pull Requests
 
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [olup/open-jj](https://github.com/olup/open-jj) -  (5 days ago)
-- [keanemind/jjk](https://github.com/keanemind/jjk) - Jujutsu (jj) VCS support for VS Code (5 days ago)
-- [laulauland/jj-hunk](https://github.com/laulauland/jj-hunk) - Non-interactive hunk distribution in jj CLI (5 days ago)
-- [google/or-tools](https://github.com/google/or-tools) - Google&#39;s Operations Research tools: (5 days ago)
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀 (5 days ago)
+- [naseridev/memz](https://github.com/naseridev/memz) - Advanced Linux memory analyzer (1 day ago)
+- [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool (1 day ago)
+- [olup/open-jj](https://github.com/olup/open-jj) -  (6 days ago)
+- [keanemind/jjk](https://github.com/keanemind/jjk) - Jujutsu (jj) VCS support for VS Code (6 days ago)
+- [laulauland/jj-hunk](https://github.com/laulauland/jj-hunk) - Non-interactive hunk distribution in jj CLI (6 days ago)
+- [google/or-tools](https://github.com/google/or-tools) - Google&#39;s Operations Research tools: (6 days ago)
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀 (6 days ago)
 - [garrettmoss/restore-claude-history](https://github.com/garrettmoss/restore-claude-history) - Recover deleted Claude Code chats on macOS — and back them up so they don&#39;t disappear again (1 week ago)
 - [ojura/claude-skills](https://github.com/ojura/claude-skills) - A collection of Claude Code skills. (1 week ago)
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (1 week ago)
-- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1 week ago)
-- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (1 week ago)
 
 #### 📫 How to reach me
 
