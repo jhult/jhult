@@ -33,20 +33,20 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.542.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.542.0), today) - aqua&#39;s Standard Registry
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.44.0](https://github.com/aaif-goose/goose/releases/tag/v1.44.0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [jdx/hk](https://github.com/jdx/hk) ([v1.53.0](https://github.com/jdx/hk/releases/tag/v1.53.0), 1 day ago) - git hooks and project lints
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.12](https://github.com/jdx/mise/releases/tag/v2026.7.12), 1 day ago) - dev tools, env vars, task runner
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.18.0-beta.2](https://github.com/atuinsh/atuin/releases/tag/v18.18.0-beta.2), 2 days ago) - ✨ Making your shell magical
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.1), 2 days ago) - Modern Android client for Hacker News
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.13](https://github.com/jdx/mise/releases/tag/v2026.7.13), 1 day ago) - dev tools, env vars, task runner
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.542.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.542.0), 1 day ago) - aqua&#39;s Standard Registry
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.44.0](https://github.com/aaif-goose/goose/releases/tag/v1.44.0), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/hk](https://github.com/jdx/hk) ([v1.53.0](https://github.com/jdx/hk/releases/tag/v1.53.0), 2 days ago) - git hooks and project lints
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.18.0-beta.2](https://github.com/atuinsh/atuin/releases/tag/v18.18.0-beta.2), 3 days ago) - ✨ Making your shell magical
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.1), 3 days ago) - Modern Android client for Hacker News
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.0](https://github.com/hovancik/stretchly/releases/tag/v1.22.0), 1 week ago) - The break time reminder app
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 2 weeks ago) - Agentic Coding for Builders who Ship
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.4](https://github.com/rust-lang/mdBook/releases/tag/v0.5.4), 2 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 2 weeks ago) - Beads - A memory upgrade for your coding agent
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 3 weeks ago) - Beads - A memory upgrade for your coding agent
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/AgentWorkforce/burn/pull/496) on [AgentWorkforce/burn](https://github.com/AgentWorkforce/burn) (1 week ago)
+- [Add MIT license](https://github.com/AgentWorkforce/burn/pull/496) on [AgentWorkforce/burn](https://github.com/AgentWorkforce/burn) (2 weeks ago)
 - [fix(link): use overwrite=true in upgrade/reinstall and surface conflicts](https://github.com/neul-labs/stout/pull/26) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
 - [fix(doggo): use github backend for v1.2.0 asset naming](https://github.com/jdx/mise/pull/10601) on [jdx/mise](https://github.com/jdx/mise) (1 month ago)
 - [fix(mr-karan/doggo): add version override for v1.2.0 asset naming change](https://github.com/aquaproj/aqua-registry/pull/55890) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 month ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [vitali87/pr-split](https://github.com/vitali87/pr-split) - Decompose large PRs into a DAG of small, reviewable PRs (today)
-- [nyblnet/bento](https://github.com/nyblnet/bento) -  (1 day ago)
-- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (1 day ago)
-- [solenopsys/cruller](https://github.com/solenopsys/cruller) - fork of Bun  (1 day ago)
-- [naseridev/memz](https://github.com/naseridev/memz) - Advanced Linux memory analyzer (2 days ago)
-- [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool (2 days ago)
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search (1 day ago)
+- [vitali87/pr-split](https://github.com/vitali87/pr-split) - Decompose large PRs into a DAG of small, reviewable PRs (1 day ago)
+- [nyblnet/bento](https://github.com/nyblnet/bento) -  (2 days ago)
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (2 days ago)
+- [solenopsys/cruller](https://github.com/solenopsys/cruller) - fork of Bun  (2 days ago)
+- [naseridev/memz](https://github.com/naseridev/memz) - Advanced Linux memory analyzer (3 days ago)
+- [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool (3 days ago)
 - [olup/open-jj](https://github.com/olup/open-jj) -  (1 week ago)
 - [keanemind/jjk](https://github.com/keanemind/jjk) - Jujutsu (jj) VCS support for VS Code (1 week ago)
 - [laulauland/jj-hunk](https://github.com/laulauland/jj-hunk) - Non-interactive hunk distribution in jj CLI (1 week ago)
-- [google/or-tools](https://github.com/google/or-tools) - Google&#39;s Operations Research tools: (1 week ago)
 
 #### 📫 How to reach me
 
