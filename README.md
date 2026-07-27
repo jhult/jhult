@@ -20,7 +20,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (3 weeks ago)
+- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (4 weeks ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 month ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 month ago)
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (2 months ago)
@@ -33,21 +33,21 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.543.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.543.0), 1 day ago) - aqua&#39;s Standard Registry
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.13](https://github.com/jdx/mise/releases/tag/v2026.7.13), 2 days ago) - dev tools, env vars, task runner
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.44.0](https://github.com/aaif-goose/goose/releases/tag/v1.44.0), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [jdx/hk](https://github.com/jdx/hk) ([v1.53.0](https://github.com/jdx/hk/releases/tag/v1.53.0), 3 days ago) - git hooks and project lints
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.18.0-beta.2](https://github.com/atuinsh/atuin/releases/tag/v18.18.0-beta.2), 4 days ago) - ✨ Making your shell magical
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.1), 4 days ago) - Modern Android client for Hacker News
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.544.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.544.0), 1 day ago) - aqua&#39;s Standard Registry
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.2](https://github.com/gastownhall/beads/releases/tag/v1.1.2), 1 day ago) - Beads - A memory upgrade for your coding agent
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.14](https://github.com/jdx/mise/releases/tag/v2026.7.14), 1 day ago) - dev tools, env vars, task runner
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.44.0](https://github.com/aaif-goose/goose/releases/tag/v1.44.0), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/hk](https://github.com/jdx/hk) ([v1.53.0](https://github.com/jdx/hk/releases/tag/v1.53.0), 4 days ago) - git hooks and project lints
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.18.0-beta.2](https://github.com/atuinsh/atuin/releases/tag/v18.18.0-beta.2), 5 days ago) - ✨ Making your shell magical
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.1](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.1), 5 days ago) - Modern Android client for Hacker News
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.0](https://github.com/hovancik/stretchly/releases/tag/v1.22.0), 1 week ago) - The break time reminder app
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 2 weeks ago) - Agentic Coding for Builders who Ship
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.4](https://github.com/rust-lang/mdBook/releases/tag/v0.5.4), 2 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.0](https://github.com/gastownhall/beads/releases/tag/v1.1.0), 3 weeks ago) - Beads - A memory upgrade for your coding agent
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 3 weeks ago) - Agentic Coding for Builders who Ship
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.5.4](https://github.com/rust-lang/mdBook/releases/tag/v0.5.4), 3 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
 
 #### 🔨 My recent Pull Requests
 
 - [Add MIT license](https://github.com/AgentWorkforce/burn/pull/496) on [AgentWorkforce/burn](https://github.com/AgentWorkforce/burn) (2 weeks ago)
-- [fix(link): use overwrite=true in upgrade/reinstall and surface conflicts](https://github.com/neul-labs/stout/pull/26) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
+- [fix(link): use overwrite=true in upgrade/reinstall and surface conflicts](https://github.com/neul-labs/stout/pull/26) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 weeks ago)
 - [fix(doggo): use github backend for v1.2.0 asset naming](https://github.com/jdx/mise/pull/10601) on [jdx/mise](https://github.com/jdx/mise) (1 month ago)
 - [fix(mr-karan/doggo): add version override for v1.2.0 asset naming change](https://github.com/aquaproj/aqua-registry/pull/55890) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 month ago)
 - [fix(aqua): support doggo v1.2.0 asset naming in vendored registry](https://github.com/jdx/mise/pull/10600) on [jdx/mise](https://github.com/jdx/mise) (1 month ago)
@@ -59,15 +59,15 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel (1 day ago)
-- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper. (1 day ago)
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search (2 days ago)
-- [vitali87/pr-split](https://github.com/vitali87/pr-split) - Decompose large PRs into a DAG of small, reviewable PRs (2 days ago)
-- [nyblnet/bento](https://github.com/nyblnet/bento) -  (3 days ago)
-- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (3 days ago)
-- [solenopsys/cruller](https://github.com/solenopsys/cruller) - fork of Bun  (3 days ago)
-- [naseridev/memz](https://github.com/naseridev/memz) - Advanced Linux memory analyzer (4 days ago)
-- [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool (4 days ago)
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel (2 days ago)
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper. (2 days ago)
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search (3 days ago)
+- [vitali87/pr-split](https://github.com/vitali87/pr-split) - Decompose large PRs into a DAG of small, reviewable PRs (3 days ago)
+- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file (4 days ago)
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (4 days ago)
+- [solenopsys/cruller](https://github.com/solenopsys/cruller) - fork of Bun  (4 days ago)
+- [naseridev/memz](https://github.com/naseridev/memz) - Advanced Linux memory analyzer (5 days ago)
+- [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool (5 days ago)
 - [olup/open-jj](https://github.com/olup/open-jj) -  (1 week ago)
 
 #### 📫 How to reach me
