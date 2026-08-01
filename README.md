@@ -33,22 +33,22 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/hk](https://github.com/jdx/hk) ([v1.54.0](https://github.com/jdx/hk/releases/tag/v1.54.0), today) - git hooks and project lints
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.19.0-beta.2](https://github.com/atuinsh/atuin/releases/tag/v18.19.0-beta.2), 1 day ago) - ✨ Making your shell magical
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.18](https://github.com/jdx/mise/releases/tag/v2026.7.18), 1 day ago) - dev tools, env vars, task runner
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.1.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.1.2), 1 day ago) - Modern Android client for Hacker News
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.545.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.545.0), 2 days ago) - aqua&#39;s Standard Registry
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.45.0](https://github.com/aaif-goose/goose/releases/tag/v1.45.0), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.3](https://github.com/objective-see/LuLu/releases/tag/v4.4.3), 3 days ago) - LuLu is the free open-source macOS firewall
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.2](https://github.com/gastownhall/beads/releases/tag/v1.1.2), 5 days ago) - Beads - A memory upgrade for your coding agent
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.19.0-beta.3](https://github.com/atuinsh/atuin/releases/tag/v18.19.0-beta.3), 1 day ago) - ✨ Making your shell magical
+- [jdx/hk](https://github.com/jdx/hk) ([v1.54.0](https://github.com/jdx/hk/releases/tag/v1.54.0), 1 day ago) - git hooks and project lints
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.7.18](https://github.com/jdx/mise/releases/tag/v2026.7.18), 2 days ago) - dev tools, env vars, task runner
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.1.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.1.2), 2 days ago) - Modern Android client for Hacker News
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.545.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.545.0), 3 days ago) - aqua&#39;s Standard Registry
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.45.0](https://github.com/aaif-goose/goose/releases/tag/v1.45.0), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.4.3](https://github.com/objective-see/LuLu/releases/tag/v4.4.3), 4 days ago) - LuLu is the free open-source macOS firewall
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.2](https://github.com/gastownhall/beads/releases/tag/v1.1.2), 6 days ago) - Beads - A memory upgrade for your coding agent
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.0](https://github.com/hovancik/stretchly/releases/tag/v1.22.0), 2 weeks ago) - The break time reminder app
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 3 weeks ago) - Agentic Coding for Builders who Ship
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/emilhe/split-pr/pull/2) on [emilhe/split-pr](https://github.com/emilhe/split-pr) (4 days ago)
-- [Add MIT license](https://github.com/piyushsingariya/split-pr/pull/1) on [piyushsingariya/split-pr](https://github.com/piyushsingariya/split-pr) (4 days ago)
-- [Add MIT license](https://github.com/AgentWorkforce/burn/pull/496) on [AgentWorkforce/burn](https://github.com/AgentWorkforce/burn) (2 weeks ago)
+- [Add MIT license](https://github.com/emilhe/split-pr/pull/2) on [emilhe/split-pr](https://github.com/emilhe/split-pr) (5 days ago)
+- [Add MIT license](https://github.com/piyushsingariya/split-pr/pull/1) on [piyushsingariya/split-pr](https://github.com/piyushsingariya/split-pr) (5 days ago)
+- [Add MIT license](https://github.com/AgentWorkforce/burn/pull/496) on [AgentWorkforce/burn](https://github.com/AgentWorkforce/burn) (3 weeks ago)
 - [fix(link): use overwrite=true in upgrade/reinstall and surface conflicts](https://github.com/neul-labs/stout/pull/26) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 month ago)
 - [fix(doggo): use github backend for v1.2.0 asset naming](https://github.com/jdx/mise/pull/10601) on [jdx/mise](https://github.com/jdx/mise) (1 month ago)
 - [fix(mr-karan/doggo): add version override for v1.2.0 asset naming change](https://github.com/aquaproj/aqua-registry/pull/55890) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 month ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [raine/claude-history](https://github.com/raine/claude-history) - Fuzzy-search Claude Code conversation history (4 days ago)
-- [raine/git-surgeon](https://github.com/raine/git-surgeon) - Git primitives for autonomous coding agents (4 days ago)
-- [mvzink/jj-hunk-tool](https://github.com/mvzink/jj-hunk-tool) - Non-interactive hunk level jj operations (4 days ago)
-- [matiasb/python-unidiff](https://github.com/matiasb/python-unidiff) - Unified diff python parsing/metadata extraction library (4 days ago)
-- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints. (4 days ago)
-- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel (6 days ago)
-- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper. (6 days ago)
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search (1 week ago)
-- [vitali87/pr-split](https://github.com/vitali87/pr-split) - Decompose large PRs into a DAG of small, reviewable PRs (1 week ago)
-- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file (1 week ago)
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (1 day ago)
+- [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor) - AI-friendly build analyzer for Rspack (1 day ago)
+- [web-infra-dev/rslint](https://github.com/web-infra-dev/rslint) - High-performance, ESLint-compatible linter for JavaScript and TypeScript. (1 day ago)
+- [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance (1 day ago)
+- [raine/claude-history](https://github.com/raine/claude-history) - Fuzzy-search Claude Code conversation history (5 days ago)
+- [raine/git-surgeon](https://github.com/raine/git-surgeon) - Git primitives for autonomous coding agents (5 days ago)
+- [mvzink/jj-hunk-tool](https://github.com/mvzink/jj-hunk-tool) - Non-interactive hunk level jj operations (5 days ago)
+- [matiasb/python-unidiff](https://github.com/matiasb/python-unidiff) - Unified diff python parsing/metadata extraction library (5 days ago)
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints. (5 days ago)
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel (1 week ago)
 
 #### 📫 How to reach me
 
