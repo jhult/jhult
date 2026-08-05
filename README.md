@@ -33,19 +33,20 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.19.0](https://github.com/atuinsh/atuin/releases/tag/v18.19.0), 1 day ago) - ✨ Making your shell magical
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.1](https://github.com/jdx/mise/releases/tag/v2026.8.1), 1 day ago) - dev tools, env vars, task runner
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.0](https://github.com/objective-see/LuLu/releases/tag/v4.5.0), 1 day ago) - LuLu is the free open-source macOS firewall
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.547.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.547.0), 2 days ago) - aqua&#39;s Standard Registry
-- [jdx/hk](https://github.com/jdx/hk) ([v1.54.0](https://github.com/jdx/hk/releases/tag/v1.54.0), 4 days ago) - git hooks and project lints
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.1.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.1.2), 5 days ago) - Modern Android client for Hacker News
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.45.0](https://github.com/aaif-goose/goose/releases/tag/v1.45.0), 6 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.2](https://github.com/jdx/mise/releases/tag/v2026.8.2), today) - dev tools, env vars, task runner
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.20.0-beta.1](https://github.com/atuinsh/atuin/releases/tag/v18.20.0-beta.1), 1 day ago) - ✨ Making your shell magical
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.0](https://github.com/objective-see/LuLu/releases/tag/v4.5.0), 2 days ago) - LuLu is the free open-source macOS firewall
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.547.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.547.0), 3 days ago) - aqua&#39;s Standard Registry
+- [jdx/hk](https://github.com/jdx/hk) ([v1.54.0](https://github.com/jdx/hk/releases/tag/v1.54.0), 5 days ago) - git hooks and project lints
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.1.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.1.2), 6 days ago) - Modern Android client for Hacker News
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.45.0](https://github.com/aaif-goose/goose/releases/tag/v1.45.0), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.2](https://github.com/gastownhall/beads/releases/tag/v1.1.2), 1 week ago) - Beads - A memory upgrade for your coding agent
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.0](https://github.com/hovancik/stretchly/releases/tag/v1.22.0), 2 weeks ago) - The break time reminder app
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 4 weeks ago) - Agentic Coding for Builders who Ship
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 1 month ago) - Agentic Coding for Builders who Ship
 
 #### 🔨 My recent Pull Requests
 
+- [Add branches --recursive and forks commands to clean up fully-merged repos](https://github.com/seachicken/gh-poi/pull/194) on [seachicken/gh-poi](https://github.com/seachicken/gh-poi) (1 day ago)
 - [Add MIT license](https://github.com/emilhe/split-pr/pull/2) on [emilhe/split-pr](https://github.com/emilhe/split-pr) (1 week ago)
 - [Add MIT license](https://github.com/piyushsingariya/split-pr/pull/1) on [piyushsingariya/split-pr](https://github.com/piyushsingariya/split-pr) (1 week ago)
 - [Add MIT license](https://github.com/AgentWorkforce/burn/pull/496) on [AgentWorkforce/burn](https://github.com/AgentWorkforce/burn) (3 weeks ago)
@@ -55,20 +56,19 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [fix(aqua): support doggo v1.2.0 asset naming in vendored registry](https://github.com/jdx/mise/pull/10600) on [jdx/mise](https://github.com/jdx/mise) (1 month ago)
 - [fix(casks): show which app needs admin privileges and cache sudo for session](https://github.com/neul-labs/stout/pull/25) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 month ago)
 - [fix(update): skip re-downloading index when already up to date](https://github.com/neul-labs/stout/pull/24) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 month ago)
-- [fix: retry rename on Windows transient file locks during install](https://github.com/jdx/mise/pull/10300) on [jdx/mise](https://github.com/jdx/mise) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (4 days ago)
-- [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor) - AI-friendly build analyzer for Rspack (4 days ago)
-- [web-infra-dev/rslint](https://github.com/web-infra-dev/rslint) - High-performance, ESLint-compatible linter for JavaScript and TypeScript. (4 days ago)
-- [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance (4 days ago)
+- [wdes/tab-atelier](https://github.com/wdes/tab-atelier) - The TabAtelier app (today)
+- [kem-a/AppManager](https://github.com/kem-a/AppManager) - MacOS style AppImage installer and management application (today)
+- [FusionbaseHQ/agents-ui](https://github.com/FusionbaseHQ/agents-ui) -  (today)
+- [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare (1 day ago)
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (5 days ago)
+- [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor) - AI-friendly build analyzer for Rspack (5 days ago)
+- [web-infra-dev/rslint](https://github.com/web-infra-dev/rslint) - High-performance, ESLint-compatible linter for JavaScript and TypeScript. (5 days ago)
+- [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance (5 days ago)
 - [raine/claude-history](https://github.com/raine/claude-history) - Fuzzy-search Claude Code conversation history (1 week ago)
 - [raine/git-surgeon](https://github.com/raine/git-surgeon) - Git primitives for autonomous coding agents (1 week ago)
-- [mvzink/jj-hunk-tool](https://github.com/mvzink/jj-hunk-tool) - Non-interactive hunk level jj operations (1 week ago)
-- [matiasb/python-unidiff](https://github.com/matiasb/python-unidiff) - Unified diff python parsing/metadata extraction library (1 week ago)
-- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints. (1 week ago)
-- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel (1 week ago)
 
 #### 📫 How to reach me
 
