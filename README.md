@@ -20,6 +20,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js (2 days ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 month ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 month ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 month ago)
@@ -27,27 +28,27 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (2 months ago)
 - [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (2 months ago)
 - [neul-labs/homebrew-tap](https://github.com/neul-labs/homebrew-tap) -  (2 months ago)
-- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (3 months ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (3 months ago)
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (3 months ago)
+- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.549.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.549.0), today) - aqua&#39;s Standard Registry
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.20.0-beta.2](https://github.com/atuinsh/atuin/releases/tag/v18.20.0-beta.2), 1 day ago) - ✨ Making your shell magical
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.1](https://github.com/objective-see/LuLu/releases/tag/v4.5.1), 1 day ago) - LuLu is the free open-source macOS firewall
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.2](https://github.com/jdx/mise/releases/tag/v2026.8.2), 1 day ago) - dev tools, env vars, task runner
-- [jdx/hk](https://github.com/jdx/hk) ([v1.54.0](https://github.com/jdx/hk/releases/tag/v1.54.0), 6 days ago) - git hooks and project lints
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.549.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.549.0), 1 day ago) - aqua&#39;s Standard Registry
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.20.0-beta.2](https://github.com/atuinsh/atuin/releases/tag/v18.20.0-beta.2), 2 days ago) - ✨ Making your shell magical
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.1](https://github.com/objective-see/LuLu/releases/tag/v4.5.1), 2 days ago) - LuLu is the free open-source macOS firewall
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.2](https://github.com/jdx/mise/releases/tag/v2026.8.2), 2 days ago) - dev tools, env vars, task runner
+- [jdx/hk](https://github.com/jdx/hk) ([v1.54.0](https://github.com/jdx/hk/releases/tag/v1.54.0), 1 week ago) - git hooks and project lints
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.1.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.1.2), 1 week ago) - Modern Android client for Hacker News
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.45.0](https://github.com/aaif-goose/goose/releases/tag/v1.45.0), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v30.0.1](https://github.com/jsdom/jsdom/releases/tag/v30.0.1), 1 week ago) - A JavaScript implementation of various web standards, for use with Node.js
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.1.2](https://github.com/gastownhall/beads/releases/tag/v1.1.2), 1 week ago) - Beads - A memory upgrade for your coding agent
-- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.0](https://github.com/hovancik/stretchly/releases/tag/v1.22.0), 2 weeks ago) - The break time reminder app
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.1.7](https://github.com/Kuberwastaken/claurst/releases/tag/v0.1.7), 1 month ago) - Agentic Coding for Builders who Ship
+- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.0](https://github.com/hovancik/stretchly/releases/tag/v1.22.0), 3 weeks ago) - The break time reminder app
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ui): click in input to position the text cursor](https://github.com/tontinton/maki/pull/736) on [tontinton/maki](https://github.com/tontinton/maki) (today)
-- [Add branches --recursive and forks commands to clean up fully-merged repos](https://github.com/seachicken/gh-poi/pull/194) on [seachicken/gh-poi](https://github.com/seachicken/gh-poi) (2 days ago)
+- [Compute selector specificity once per rule](https://github.com/jsdom/jsdom/pull/4226) on [jsdom/jsdom](https://github.com/jsdom/jsdom) (1 day ago)
+- [feat(ui): click in input to position the text cursor](https://github.com/tontinton/maki/pull/736) on [tontinton/maki](https://github.com/tontinton/maki) (1 day ago)
+- [Add branches --recursive and forks commands to clean up fully-merged repos](https://github.com/seachicken/gh-poi/pull/194) on [seachicken/gh-poi](https://github.com/seachicken/gh-poi) (3 days ago)
 - [Add MIT license](https://github.com/emilhe/split-pr/pull/2) on [emilhe/split-pr](https://github.com/emilhe/split-pr) (1 week ago)
 - [Add MIT license](https://github.com/piyushsingariya/split-pr/pull/1) on [piyushsingariya/split-pr](https://github.com/piyushsingariya/split-pr) (1 week ago)
 - [Add MIT license](https://github.com/AgentWorkforce/burn/pull/496) on [AgentWorkforce/burn](https://github.com/AgentWorkforce/burn) (3 weeks ago)
@@ -55,20 +56,19 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [fix(doggo): use github backend for v1.2.0 asset naming](https://github.com/jdx/mise/pull/10601) on [jdx/mise](https://github.com/jdx/mise) (1 month ago)
 - [fix(mr-karan/doggo): add version override for v1.2.0 asset naming change](https://github.com/aquaproj/aqua-registry/pull/55890) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 month ago)
 - [fix(aqua): support doggo v1.2.0 asset naming in vendored registry](https://github.com/jdx/mise/pull/10600) on [jdx/mise](https://github.com/jdx/mise) (1 month ago)
-- [fix(casks): show which app needs admin privileges and cache sudo for session](https://github.com/neul-labs/stout/pull/25) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux &amp; Windows. (today)
-- [RedBearAK/Toshy](https://github.com/RedBearAK/Toshy) - Keymapper config to make Linux keyboard shortcuts work like a &#39;Tosh! And more. (A Kinto alternative.) (today)
-- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface (today)
-- [wdes/tab-atelier](https://github.com/wdes/tab-atelier) - The TabAtelier app (1 day ago)
-- [kem-a/AppManager](https://github.com/kem-a/AppManager) - MacOS style AppImage installer and management application (1 day ago)
-- [FusionbaseHQ/agents-ui](https://github.com/FusionbaseHQ/agents-ui) -  (1 day ago)
-- [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare (2 days ago)
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (6 days ago)
-- [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor) - AI-friendly build analyzer for Rspack (6 days ago)
-- [web-infra-dev/rslint](https://github.com/web-infra-dev/rslint) - High-performance, ESLint-compatible linter for JavaScript and TypeScript. (6 days ago)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (today)
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js (1 day ago)
+- [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux &amp; Windows. (1 day ago)
+- [RedBearAK/Toshy](https://github.com/RedBearAK/Toshy) - Keymapper config to make Linux keyboard shortcuts work like a &#39;Tosh! And more. (A Kinto alternative.) (1 day ago)
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface (1 day ago)
+- [wdes/tab-atelier](https://github.com/wdes/tab-atelier) - The TabAtelier app (2 days ago)
+- [kem-a/AppManager](https://github.com/kem-a/AppManager) - MacOS style AppImage installer and management application (2 days ago)
+- [FusionbaseHQ/agents-ui](https://github.com/FusionbaseHQ/agents-ui) -  (2 days ago)
+- [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare (3 days ago)
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (1 week ago)
 
 #### 📫 How to reach me
 
