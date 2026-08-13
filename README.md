@@ -20,8 +20,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (3 days ago)
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (3 days ago)
+- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (4 days ago)
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (4 days ago)
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js (1 week ago)
 - [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim like Lua plugins (1 week ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 month ago)
@@ -29,29 +29,29 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [NurudinImsirovic/windows-cursors-modern](https://github.com/NurudinImsirovic/windows-cursors-modern) - Windows Modern Cursors – Improved Aero for DPI and Dark Mode (2 months ago)
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship (2 months ago)
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (2 months ago)
-- [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (2 months ago)
+- [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans. (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/hk](https://github.com/jdx/hk) ([v1.55.0](https://github.com/jdx/hk/releases/tag/v1.55.0), 1 day ago) - git hooks and project lints
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.2.1](https://github.com/gastownhall/beads/releases/tag/v1.2.1), 1 day ago) - Beads - A memory upgrade for your coding agent
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.4.6](https://github.com/tontinton/maki/releases/tag/v0.4.6), 1 day ago) - An efficient AI coding agent extendable by neovim like Lua plugins
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.4](https://github.com/jdx/mise/releases/tag/v2026.8.4), 1 day ago) - dev tools, env vars, task runner
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.20.0-beta.3](https://github.com/atuinsh/atuin/releases/tag/v18.20.0-beta.3), 5 days ago) - ✨ Making your shell magical
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.550.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.550.0), 5 days ago) - aqua&#39;s Standard Registry
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.4.7](https://github.com/tontinton/maki/releases/tag/v0.4.7), 1 day ago) - An efficient AI coding agent extendable by neovim like Lua plugins
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.46.0](https://github.com/aaif-goose/goose/releases/tag/v1.46.0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.5](https://github.com/jdx/mise/releases/tag/v2026.8.5), 1 day ago) - dev tools, env vars, task runner
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.551.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.551.0), 1 day ago) - aqua&#39;s Standard Registry
+- [jdx/hk](https://github.com/jdx/hk) ([v1.55.0](https://github.com/jdx/hk/releases/tag/v1.55.0), 2 days ago) - git hooks and project lints
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.2.1](https://github.com/gastownhall/beads/releases/tag/v1.2.1), 2 days ago) - Beads - A memory upgrade for your coding agent
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.20.0-beta.3](https://github.com/atuinsh/atuin/releases/tag/v18.20.0-beta.3), 6 days ago) - ✨ Making your shell magical
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.1](https://github.com/objective-see/LuLu/releases/tag/v4.5.1), 1 week ago) - LuLu is the free open-source macOS firewall
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.1.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.1.2), 1 week ago) - Modern Android client for Hacker News
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.45.0](https://github.com/aaif-goose/goose/releases/tag/v1.45.0), 2 weeks ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.1.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.1.2), 2 weeks ago) - Modern Android client for Hacker News
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v30.0.1](https://github.com/jsdom/jsdom/releases/tag/v30.0.1), 2 weeks ago) - A JavaScript implementation of various web standards, for use with Node.js
 
 #### 🔨 My recent Pull Requests
 
-- [Add LICENSE](https://github.com/prime-radiant-inc/sprout/pull/4) on [prime-radiant-inc/sprout](https://github.com/prime-radiant-inc/sprout) (1 day ago)
-- [release: 0.3.0](https://github.com/neul-labs/stout/pull/29) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
-- [chore(CI): upgrade and pin CI actions](https://github.com/neul-labs/stout/pull/28) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 days ago)
-- [fix(state): fix root-owned state and installed files after sudo runs](https://github.com/neul-labs/stout/pull/27) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
-- [Compute selector specificity once per rule](https://github.com/jsdom/jsdom/pull/4226) on [jsdom/jsdom](https://github.com/jsdom/jsdom) (6 days ago)
-- [feat(ui): click in input to position the text cursor](https://github.com/tontinton/maki/pull/736) on [tontinton/maki](https://github.com/tontinton/maki) (6 days ago)
+- [Add LICENSE](https://github.com/prime-radiant-inc/sprout/pull/4) on [prime-radiant-inc/sprout](https://github.com/prime-radiant-inc/sprout) (2 days ago)
+- [release: 0.3.0](https://github.com/neul-labs/stout/pull/29) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
+- [chore(CI): upgrade and pin CI actions](https://github.com/neul-labs/stout/pull/28) on [neul-labs/stout](https://github.com/neul-labs/stout) (4 days ago)
+- [fix(state): fix root-owned state and installed files after sudo runs](https://github.com/neul-labs/stout/pull/27) on [neul-labs/stout](https://github.com/neul-labs/stout) (5 days ago)
+- [Compute selector specificity once per rule](https://github.com/jsdom/jsdom/pull/4226) on [jsdom/jsdom](https://github.com/jsdom/jsdom) (1 week ago)
+- [feat(ui): click in input to position the text cursor](https://github.com/tontinton/maki/pull/736) on [tontinton/maki](https://github.com/tontinton/maki) (1 week ago)
 - [Add branches --recursive and forks commands to clean up fully-merged repos](https://github.com/seachicken/gh-poi/pull/194) on [seachicken/gh-poi](https://github.com/seachicken/gh-poi) (1 week ago)
 - [Add MIT license](https://github.com/emilhe/split-pr/pull/2) on [emilhe/split-pr](https://github.com/emilhe/split-pr) (2 weeks ago)
 - [Add MIT license](https://github.com/piyushsingariya/split-pr/pull/1) on [piyushsingariya/split-pr](https://github.com/piyushsingariya/split-pr) (2 weeks ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep&#43;read (1 day ago)
-- [prime-radiant-inc/obol](https://github.com/prime-radiant-inc/obol) - Read an AI-agent transcript and estimate what it cost — a Rust core with C-ABI bindings for Python, Go, and TypeScript (Bun &#43; Node). (1 day ago)
-- [tontinton/miso](https://github.com/tontinton/miso) - A query engine over semi-structured logs (1 day ago)
-- [tontinton/panther](https://github.com/tontinton/panther) - A shellcode compiler (1 day ago)
-- [tontinton/dbeel](https://github.com/tontinton/dbeel) - A distributed thread-per-core document database (1 day ago)
-- [OleksandrChekhovskyi/hax](https://github.com/OleksandrChekhovskyi/hax) - A minimalist, terminal-native coding agent written in C. (2 days ago)
-- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (2 days ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. (2 days ago)
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (2 days ago)
-- [zibo-chen/rust-paddle-ocr](https://github.com/zibo-chen/rust-paddle-ocr) - 高性能OCR识别库，支持上百种语言，提供命令行、图形界面及C API多种调用方式，使用便捷高效。  High-performance OCR library powered by PaddleOCR v4/v5/v6 with MNN backend. Supports 10&#43; languages (Chinese, English, Japanese, Korean, Arabic, Cyrillic, Thai, etc). Provides Rust crate &#43; C API &#43; CLI tools. Fast, lightweight, easy-to-integrate. (3 days ago)
+- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep&#43;read (2 days ago)
+- [prime-radiant-inc/obol](https://github.com/prime-radiant-inc/obol) - Read an AI-agent transcript and estimate what it cost — a Rust core with C-ABI bindings for Python, Go, and TypeScript (Bun &#43; Node). (2 days ago)
+- [tontinton/miso](https://github.com/tontinton/miso) - A query engine over semi-structured logs (2 days ago)
+- [tontinton/panther](https://github.com/tontinton/panther) - A shellcode compiler (2 days ago)
+- [tontinton/dbeel](https://github.com/tontinton/dbeel) - A distributed thread-per-core document database (2 days ago)
+- [OleksandrChekhovskyi/hax](https://github.com/OleksandrChekhovskyi/hax) - A minimalist, terminal-native coding agent written in C. (3 days ago)
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (3 days ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. (3 days ago)
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (3 days ago)
+- [zibo-chen/rust-paddle-ocr](https://github.com/zibo-chen/rust-paddle-ocr) - 高性能OCR识别库，支持上百种语言，提供命令行、图形界面及C API多种调用方式，使用便捷高效。  High-performance OCR library powered by PaddleOCR v4/v5/v6 with MNN backend. Supports 10&#43; languages (Chinese, English, Japanese, Korean, Arabic, Cyrillic, Thai, etc). Provides Rust crate &#43; C API &#43; CLI tools. Fast, lightweight, easy-to-integrate. (4 days ago)
 
 #### 📫 How to reach me
 
