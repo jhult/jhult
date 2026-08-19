@@ -20,9 +20,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (4 days ago)
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (5 days ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 week ago)
-- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js (1 week ago)
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js (2 weeks ago)
 - [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim like Lua plugins (2 weeks ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 month ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 months ago)
@@ -33,20 +33,20 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.553.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.553.0), 1 day ago) - aqua&#39;s Standard Registry
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.8](https://github.com/jdx/mise/releases/tag/v2026.8.8), 1 day ago) - dev tools, env vars, task runner
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.4.8](https://github.com/tontinton/maki/releases/tag/v0.4.8), 3 days ago) - An efficient AI coding agent extendable by neovim like Lua plugins
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.5.9](https://github.com/jhult/cap-releases/releases/tag/cap-v0.5.9), 3 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.2.2](https://github.com/gastownhall/beads/releases/tag/v1.2.2), 3 days ago) - Beads - A memory upgrade for your coding agent
-- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.1](https://github.com/hovancik/stretchly/releases/tag/v1.22.1), 5 days ago) - The break time reminder app
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.46.0](https://github.com/aaif-goose/goose/releases/tag/v1.46.0), 6 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.4.9](https://github.com/tontinton/maki/releases/tag/v0.4.9), 1 day ago) - An efficient AI coding agent extendable by neovim like Lua plugins
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.553.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.553.0), 2 days ago) - aqua&#39;s Standard Registry
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.8](https://github.com/jdx/mise/releases/tag/v2026.8.8), 2 days ago) - dev tools, env vars, task runner
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.5.9](https://github.com/jhult/cap-releases/releases/tag/cap-v0.5.9), 4 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.2.2](https://github.com/gastownhall/beads/releases/tag/v1.2.2), 4 days ago) - Beads - A memory upgrade for your coding agent
+- [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.1](https://github.com/hovancik/stretchly/releases/tag/v1.22.1), 6 days ago) - The break time reminder app
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.46.0](https://github.com/aaif-goose/goose/releases/tag/v1.46.0), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [jdx/hk](https://github.com/jdx/hk) ([v1.55.0](https://github.com/jdx/hk/releases/tag/v1.55.0), 1 week ago) - git hooks and project lints
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.20.0-beta.3](https://github.com/atuinsh/atuin/releases/tag/v18.20.0-beta.3), 1 week ago) - ✨ Making your shell magical
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.1](https://github.com/objective-see/LuLu/releases/tag/v4.5.1), 1 week ago) - LuLu is the free open-source macOS firewall
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.1](https://github.com/objective-see/LuLu/releases/tag/v4.5.1), 2 weeks ago) - LuLu is the free open-source macOS firewall
 
 #### 🔨 My recent Pull Requests
 
-- [Add Apache 2.0 license](https://github.com/contember/typokat/pull/1) on [contember/typokat](https://github.com/contember/typokat) (4 days ago)
+- [Add Apache 2.0 license](https://github.com/contember/typokat/pull/1) on [contember/typokat](https://github.com/contember/typokat) (5 days ago)
 - [Add LICENSE](https://github.com/prime-radiant-inc/sprout/pull/4) on [prime-radiant-inc/sprout](https://github.com/prime-radiant-inc/sprout) (1 week ago)
 - [release: 0.3.0](https://github.com/neul-labs/stout/pull/29) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
 - [chore(CI): upgrade and pin CI actions](https://github.com/neul-labs/stout/pull/28) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 week ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) - Official SonarQube MCP Server for code quality and security in AI agents (1 day ago)
-- [scosman/vibe-crafting](https://github.com/scosman/vibe-crafting) - Not quite vibe-coding. Not quite boomer coding. Something else. (2 days ago)
-- [contember/typokat](https://github.com/contember/typokat) - A from-scratch TypeScript type checker written in Rust — parses, binds, and type-checks TS with tsc-style diagnostics (3 days ago)
-- [withmartian/code-review-benchmark](https://github.com/withmartian/code-review-benchmark) -  (3 days ago)
-- [rustmailer/zadok](https://github.com/rustmailer/zadok) - Connect your Gmail or Outlook to any webhook in real time. No polling, no IMAP, no delays. (3 days ago)
-- [tsz-org/tsz](https://github.com/tsz-org/tsz) - An experiment in fully hand-off software engineering: A performance-first TypeScript checker (4 days ago)
-- [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint (4 days ago)
+- [therepanic/openleetcode](https://github.com/therepanic/openleetcode) - we have democratized the LeetCode tests (1 day ago)
+- [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent (1 day ago)
+- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) - Official SonarQube MCP Server for code quality and security in AI agents (2 days ago)
+- [scosman/vibe-crafting](https://github.com/scosman/vibe-crafting) - Not quite vibe-coding. Not quite boomer coding. Something else. (3 days ago)
+- [contember/typokat](https://github.com/contember/typokat) - A from-scratch TypeScript type checker written in Rust — parses, binds, and type-checks TS with tsc-style diagnostics (4 days ago)
+- [withmartian/code-review-benchmark](https://github.com/withmartian/code-review-benchmark) -  (4 days ago)
+- [rustmailer/zadok](https://github.com/rustmailer/zadok) - Connect your Gmail or Outlook to any webhook in real time. No polling, no IMAP, no delays. (4 days ago)
+- [tsz-org/tsz](https://github.com/tsz-org/tsz) - An experiment in fully hand-off software engineering: A performance-first TypeScript checker (5 days ago)
+- [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint (5 days ago)
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep&#43;read (1 week ago)
-- [prime-radiant-inc/obol](https://github.com/prime-radiant-inc/obol) - Read an AI-agent transcript and estimate what it cost — a Rust core with C-ABI bindings for Python, Go, and TypeScript (Bun &#43; Node). (1 week ago)
-- [tontinton/miso](https://github.com/tontinton/miso) - A query engine over semi-structured logs (1 week ago)
 
 #### 📫 How to reach me
 
