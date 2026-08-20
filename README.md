@@ -1,4 +1,4 @@
-Backend engineer with 15+ years of experience in software engineering, consulting, and pre-sales, delivering scalable solutions across finance, tech, retail, and government sectors for organizations ranging from startups to Fortune 100 companies.
+Backend engineer with 16+ years of experience in software engineering, consulting, and pre-sales, delivering scalable solutions across finance, tech, retail, and government sectors for organizations ranging from startups to Fortune 100 companies.
 
 Java and [Kotlin](https://kotlinlang.org/) specialist focused on backend development leveraging cloud infrastructure (AWS, OCI, Cloudflare), CI/CD automation, and [trunk-based development](https://trunkbaseddevelopment.com).
 
@@ -6,7 +6,7 @@ Experienced in async, remote-first [teams](https://unfix.com/what-is-unfix) sinc
 
 Graduated from [Iowa State University](https://www.iastate.edu) in 3 years with a BS in Management Information Systems.
 
-Follower of Jesus at [The Austin Stone Community Church](http://austinstone.org).
+Joyfully devoted disciple of Jesus striving to love others through community at [The Austin Stone](http://austinstone.org).
 
 Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
@@ -33,10 +33,10 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.9](https://github.com/jdx/mise/releases/tag/v2026.8.9), 1 day ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.10](https://github.com/jdx/mise/releases/tag/v2026.8.10), today) - dev tools, env vars, task runner
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.554.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.554.0), today) - aqua&#39;s Standard Registry
 - [tontinton/maki](https://github.com/tontinton/maki) ([v0.4.10](https://github.com/tontinton/maki/releases/tag/v0.4.10), 1 day ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
 - [jdx/hk](https://github.com/jdx/hk) ([v1.56.0](https://github.com/jdx/hk/releases/tag/v1.56.0), 1 day ago) - git hooks and project lints
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.553.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.553.0), 3 days ago) - aqua&#39;s Standard Registry
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.5.9](https://github.com/jhult/cap-releases/releases/tag/cap-v0.5.9), 5 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.2.2](https://github.com/gastownhall/beads/releases/tag/v1.2.2), 5 days ago) - Beads - A memory upgrade for your coding agent
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.1](https://github.com/hovancik/stretchly/releases/tag/v1.22.1), 1 week ago) - The break time reminder app
@@ -59,6 +59,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
+- [MorpheApp/morphe-desktop](https://github.com/MorpheApp/morphe-desktop) - Morphe desktop patching tool (today)
 - [tommyyzhao/syncorda](https://github.com/tommyyzhao/syncorda) - Driverless macOS app audio router with per-output delay (1 day ago)
 - [therepanic/openleetcode](https://github.com/therepanic/openleetcode) - we have democratized the LeetCode tests (2 days ago)
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent (2 days ago)
@@ -68,7 +69,6 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [withmartian/code-review-benchmark](https://github.com/withmartian/code-review-benchmark) -  (5 days ago)
 - [rustmailer/zadok](https://github.com/rustmailer/zadok) - Connect your Gmail or Outlook to any webhook in real time. No polling, no IMAP, no delays. (5 days ago)
 - [tsz-org/tsz](https://github.com/tsz-org/tsz) - An experiment in fully hand-off software engineering: A performance-first TypeScript checker (6 days ago)
-- [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint (6 days ago)
 
 #### 📫 How to reach me
 
