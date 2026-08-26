@@ -20,9 +20,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (6 days ago)
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (1 week ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (2 weeks ago)
-- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js (2 weeks ago)
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js (3 weeks ago)
 - [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim-like Lua plugins (3 weeks ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (2 months ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 months ago)
@@ -33,20 +33,20 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.555.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.555.0), 1 day ago) - aqua&#39;s Standard Registry
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.12](https://github.com/jdx/mise/releases/tag/v2026.8.12), 1 day ago) - dev tools, env vars, task runner
-- [jdx/hk](https://github.com/jdx/hk) ([v1.56.1](https://github.com/jdx/hk/releases/tag/v1.56.1), 2 days ago) - git hooks and project lints
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.47.0](https://github.com/aaif-goose/goose/releases/tag/v1.47.0), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.4.11](https://github.com/tontinton/maki/releases/tag/v0.4.11), 5 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.13](https://github.com/jdx/mise/releases/tag/v2026.8.13), 1 day ago) - dev tools, env vars, task runner
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.20.0](https://github.com/atuinsh/atuin/releases/tag/v18.20.0), 1 day ago) - ✨ Making your shell magical
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.4.12](https://github.com/tontinton/maki/releases/tag/v0.4.12), 1 day ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.555.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.555.0), 2 days ago) - aqua&#39;s Standard Registry
+- [jdx/hk](https://github.com/jdx/hk) ([v1.56.1](https://github.com/jdx/hk/releases/tag/v1.56.1), 3 days ago) - git hooks and project lints
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.47.0](https://github.com/aaif-goose/goose/releases/tag/v1.47.0), 5 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.5.9](https://github.com/jhult/cap-releases/releases/tag/cap-v0.5.9), 1 week ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.2.2](https://github.com/gastownhall/beads/releases/tag/v1.2.2), 1 week ago) - Beads - A memory upgrade for your coding agent
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.1](https://github.com/hovancik/stretchly/releases/tag/v1.22.1), 1 week ago) - The break time reminder app
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.20.0-beta.3](https://github.com/atuinsh/atuin/releases/tag/v18.20.0-beta.3), 2 weeks ago) - ✨ Making your shell magical
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.1](https://github.com/objective-see/LuLu/releases/tag/v4.5.1), 2 weeks ago) - LuLu is the free open-source macOS firewall
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.1](https://github.com/objective-see/LuLu/releases/tag/v4.5.1), 3 weeks ago) - LuLu is the free open-source macOS firewall
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/gboutte/audio-delay-mac/pull/1) on [gboutte/audio-delay-mac](https://github.com/gboutte/audio-delay-mac) (6 days ago)
+- [Add MIT license](https://github.com/gboutte/audio-delay-mac/pull/1) on [gboutte/audio-delay-mac](https://github.com/gboutte/audio-delay-mac) (1 week ago)
 - [Add Apache 2.0 license](https://github.com/contember/typokat/pull/1) on [contember/typokat](https://github.com/contember/typokat) (1 week ago)
 - [Add LICENSE](https://github.com/prime-radiant-inc/sprout/pull/4) on [prime-radiant-inc/sprout](https://github.com/prime-radiant-inc/sprout) (2 weeks ago)
 - [release: 0.3.0](https://github.com/neul-labs/stout/pull/29) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
@@ -55,20 +55,20 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [Compute selector specificity once per rule](https://github.com/jsdom/jsdom/pull/4226) on [jsdom/jsdom](https://github.com/jsdom/jsdom) (2 weeks ago)
 - [feat(ui): click in input to position the text cursor](https://github.com/tontinton/maki/pull/736) on [tontinton/maki](https://github.com/tontinton/maki) (2 weeks ago)
 - [Add branches --recursive and forks commands to clean up fully-merged repos](https://github.com/seachicken/gh-poi/pull/194) on [seachicken/gh-poi](https://github.com/seachicken/gh-poi) (3 weeks ago)
-- [Add MIT license](https://github.com/emilhe/split-pr/pull/2) on [emilhe/split-pr](https://github.com/emilhe/split-pr) (4 weeks ago)
+- [Add MIT license](https://github.com/emilhe/split-pr/pull/2) on [emilhe/split-pr](https://github.com/emilhe/split-pr) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [Nai64/Nai64Patches](https://github.com/Nai64/Nai64Patches) - A curated collection of Morphe patches that tune, unlock and declutter Android games. Skip ads, bypass license checks, hide root, force orientations and more, all from a single patcher. (1 day ago)
-- [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner. (2 days ago)
-- [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A rootless Xposed framework that embeds Vector into an app by patching its APK — no root, no Zygisk. (3 days ago)
-- [danielvaughn/hz](https://github.com/danielvaughn/hz) - An experimental editor that offers a novel way to write software with AI. (3 days ago)
-- [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. (4 days ago)
-- [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - A clean and easy workflow that automatically builds Morphe APKs every 24 hours. (4 days ago)
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem. (4 days ago)
-- [masseyzachery57/paywall-filter-extension](https://github.com/masseyzachery57/paywall-filter-extension) - Badges paywalled search results, except sites you already subscribe to. (4 days ago)
-- [ptsochantaris/trailer-ql](https://github.com/ptsochantaris/trailer-ql) - A GraphQL query generator and response parser in Swift (4 days ago)
-- [ptsochantaris/trailer-json](https://github.com/ptsochantaris/trailer-json) - A feather-weight JSON decoder in Swift (4 days ago)
+- [runetes/maiao](https://github.com/runetes/maiao) - Seamless GitHub PR management from the command-line (today)
+- [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings (1 day ago)
+- [brvier/Gjallar](https://github.com/brvier/Gjallar) - Gjallar is a modern monitoring and observability platform inspired by Gjallarhorn, the legendary horn of Heimdall in Norse mythology.  Built for reliability and speed, Gjallar continuously watches your infrastructure, services, and applications, detecting anomalies and sounding the alarm before issues become incidents.  Observe. Detect. Alert. (1 day ago)
+- [neocanable/garlic](https://github.com/neocanable/garlic) - The world&#39;s fastest apk (android)/java open source decompiler (1 day ago)
+- [AppsYogi-com/ComposeYogi](https://github.com/AppsYogi-com/ComposeYogi) - The open-source Ableton-style music composer for the web. (1 day ago)
+- [PicoMQ/picomq](https://github.com/PicoMQ/picomq) - Durable streams (1 day ago)
+- [Nai64/Nai64Patches](https://github.com/Nai64/Nai64Patches) - A curated collection of Morphe patches that tune, unlock and declutter Android games. Skip ads, bypass license checks, hide root, force orientations and more, all from a single patcher. (2 days ago)
+- [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner. (3 days ago)
+- [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A rootless Xposed framework that embeds Vector into an app by patching its APK — no root, no Zygisk. (4 days ago)
+- [danielvaughn/hz](https://github.com/danielvaughn/hz) - An experimental editor that offers a novel way to write software with AI. (4 days ago)
 
 #### 📫 How to reach me
 
