@@ -33,12 +33,12 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.20.1](https://github.com/atuinsh/atuin/releases/tag/v18.20.1), today) - ✨ Making your shell magical
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.556.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.556.0), today) - aqua&#39;s Standard Registry
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.14](https://github.com/jdx/mise/releases/tag/v2026.8.14), 1 day ago) - dev tools, env vars, task runner
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.4.12](https://github.com/tontinton/maki/releases/tag/v0.4.12), 2 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [jdx/hk](https://github.com/jdx/hk) ([v1.56.1](https://github.com/jdx/hk/releases/tag/v1.56.1), 4 days ago) - git hooks and project lints
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.47.0](https://github.com/aaif-goose/goose/releases/tag/v1.47.0), 6 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.48.0](https://github.com/aaif-goose/goose/releases/tag/v1.48.0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.20.1](https://github.com/atuinsh/atuin/releases/tag/v18.20.1), 1 day ago) - ✨ Making your shell magical
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.556.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.556.0), 1 day ago) - aqua&#39;s Standard Registry
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.14](https://github.com/jdx/mise/releases/tag/v2026.8.14), 2 days ago) - dev tools, env vars, task runner
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.4.12](https://github.com/tontinton/maki/releases/tag/v0.4.12), 3 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [jdx/hk](https://github.com/jdx/hk) ([v1.56.1](https://github.com/jdx/hk/releases/tag/v1.56.1), 5 days ago) - git hooks and project lints
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.5.9](https://github.com/jhult/cap-releases/releases/tag/cap-v0.5.9), 1 week ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.2.2](https://github.com/gastownhall/beads/releases/tag/v1.2.2), 1 week ago) - Beads - A memory upgrade for your coding agent
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.1](https://github.com/hovancik/stretchly/releases/tag/v1.22.1), 2 weeks ago) - The break time reminder app
@@ -47,7 +47,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 #### 🔨 My recent Pull Requests
 
 - [Add MIT license](https://github.com/gboutte/audio-delay-mac/pull/1) on [gboutte/audio-delay-mac](https://github.com/gboutte/audio-delay-mac) (1 week ago)
-- [Add Apache 2.0 license](https://github.com/contember/typokat/pull/1) on [contember/typokat](https://github.com/contember/typokat) (1 week ago)
+- [Add Apache 2.0 license](https://github.com/contember/typokat/pull/1) on [contember/typokat](https://github.com/contember/typokat) (2 weeks ago)
 - [Add LICENSE](https://github.com/prime-radiant-inc/sprout/pull/4) on [prime-radiant-inc/sprout](https://github.com/prime-radiant-inc/sprout) (2 weeks ago)
 - [release: 0.3.0](https://github.com/neul-labs/stout/pull/29) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
 - [chore(CI): upgrade and pin CI actions](https://github.com/neul-labs/stout/pull/28) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (today)
-- [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client. (1 day ago)
-- [AurionMail/docs](https://github.com/AurionMail/docs) - It is ProtonMail UX, but really open-source and self-hostable (1 day ago)
-- [Asteski/WinMac](https://github.com/Asteski/WinMac) - Windows and macOS hybrid (1 day ago)
-- [runetes/maiao](https://github.com/runetes/maiao) - Seamless GitHub PR management from the command-line (1 day ago)
-- [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings (2 days ago)
-- [brvier/Gjallar](https://github.com/brvier/Gjallar) - Gjallar is a modern monitoring and observability platform inspired by Gjallarhorn, the legendary horn of Heimdall in Norse mythology.  Built for reliability and speed, Gjallar continuously watches your infrastructure, services, and applications, detecting anomalies and sounding the alarm before issues become incidents.  Observe. Detect. Alert. (2 days ago)
-- [neocanable/garlic](https://github.com/neocanable/garlic) - The world&#39;s fastest apk (android)/java open source decompiler (2 days ago)
-- [AppsYogi-com/ComposeYogi](https://github.com/AppsYogi-com/ComposeYogi) - The open-source Ableton-style music composer for the web. (2 days ago)
-- [PicoMQ/picomq](https://github.com/PicoMQ/picomq) - Durable streams (2 days ago)
+- [forasoft/video-testing-tool](https://github.com/forasoft/video-testing-tool) - Chrome extension for monitoring WebRTC connection health (1 day ago)
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (1 day ago)
+- [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client. (2 days ago)
+- [AurionMail/docs](https://github.com/AurionMail/docs) - It is ProtonMail UX, but really open-source and self-hostable (2 days ago)
+- [Asteski/WinMac](https://github.com/Asteski/WinMac) - Windows and macOS hybrid (2 days ago)
+- [runetes/maiao](https://github.com/runetes/maiao) - Seamless GitHub PR management from the command-line (2 days ago)
+- [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings (3 days ago)
+- [brvier/Gjallar](https://github.com/brvier/Gjallar) - Gjallar is a modern monitoring and observability platform inspired by Gjallarhorn, the legendary horn of Heimdall in Norse mythology.  Built for reliability and speed, Gjallar continuously watches your infrastructure, services, and applications, detecting anomalies and sounding the alarm before issues become incidents.  Observe. Detect. Alert. (3 days ago)
+- [neocanable/garlic](https://github.com/neocanable/garlic) - The world&#39;s fastest apk (android)/java open source decompiler (3 days ago)
+- [AppsYogi-com/ComposeYogi](https://github.com/AppsYogi-com/ComposeYogi) - The open-source Ableton-style music composer for the web. (3 days ago)
 
 #### 📫 How to reach me
 
