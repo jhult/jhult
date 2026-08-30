@@ -21,7 +21,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 #### 👷 Check out what I'm currently working on
 
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (1 week ago)
-- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (2 weeks ago)
+- [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (3 weeks ago)
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js (3 weeks ago)
 - [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim-like Lua plugins (3 weeks ago)
 - [piyushsingariya/split-pr](https://github.com/piyushsingariya/split-pr) - AI skill to split PRs (1 month ago)
@@ -33,12 +33,12 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.557.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.557.0), today) - aqua&#39;s Standard Registry
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.48.0](https://github.com/aaif-goose/goose/releases/tag/v1.48.0), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.20.1](https://github.com/atuinsh/atuin/releases/tag/v18.20.1), 2 days ago) - ✨ Making your shell magical
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.14](https://github.com/jdx/mise/releases/tag/v2026.8.14), 3 days ago) - dev tools, env vars, task runner
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.4.12](https://github.com/tontinton/maki/releases/tag/v0.4.12), 4 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [jdx/hk](https://github.com/jdx/hk) ([v1.56.1](https://github.com/jdx/hk/releases/tag/v1.56.1), 6 days ago) - git hooks and project lints
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.557.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.557.0), 1 day ago) - aqua&#39;s Standard Registry
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.48.0](https://github.com/aaif-goose/goose/releases/tag/v1.48.0), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.20.1](https://github.com/atuinsh/atuin/releases/tag/v18.20.1), 3 days ago) - ✨ Making your shell magical
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.8.14](https://github.com/jdx/mise/releases/tag/v2026.8.14), 4 days ago) - dev tools, env vars, task runner
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.4.12](https://github.com/tontinton/maki/releases/tag/v0.4.12), 5 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [jdx/hk](https://github.com/jdx/hk) ([v1.56.1](https://github.com/jdx/hk/releases/tag/v1.56.1), 1 week ago) - git hooks and project lints
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.5.9](https://github.com/jhult/cap-releases/releases/tag/cap-v0.5.9), 2 weeks ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.2.2](https://github.com/gastownhall/beads/releases/tag/v1.2.2), 2 weeks ago) - Beads - A memory upgrade for your coding agent
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) ([v1.22.1](https://github.com/hovancik/stretchly/releases/tag/v1.22.1), 2 weeks ago) - The break time reminder app
@@ -49,8 +49,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [Add MIT license](https://github.com/gboutte/audio-delay-mac/pull/1) on [gboutte/audio-delay-mac](https://github.com/gboutte/audio-delay-mac) (1 week ago)
 - [Add Apache 2.0 license](https://github.com/contember/typokat/pull/1) on [contember/typokat](https://github.com/contember/typokat) (2 weeks ago)
 - [Add LICENSE](https://github.com/prime-radiant-inc/sprout/pull/4) on [prime-radiant-inc/sprout](https://github.com/prime-radiant-inc/sprout) (2 weeks ago)
-- [release: 0.3.0](https://github.com/neul-labs/stout/pull/29) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
-- [chore(CI): upgrade and pin CI actions](https://github.com/neul-labs/stout/pull/28) on [neul-labs/stout](https://github.com/neul-labs/stout) (2 weeks ago)
+- [release: 0.3.0](https://github.com/neul-labs/stout/pull/29) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
+- [chore(CI): upgrade and pin CI actions](https://github.com/neul-labs/stout/pull/28) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
 - [fix(state): fix root-owned state and installed files after sudo runs](https://github.com/neul-labs/stout/pull/27) on [neul-labs/stout](https://github.com/neul-labs/stout) (3 weeks ago)
 - [Compute selector specificity once per rule](https://github.com/jsdom/jsdom/pull/4226) on [jsdom/jsdom](https://github.com/jsdom/jsdom) (3 weeks ago)
 - [feat(ui): click in input to position the text cursor](https://github.com/tontinton/maki/pull/736) on [tontinton/maki](https://github.com/tontinton/maki) (3 weeks ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [MorpheApp/PotHelper](https://github.com/MorpheApp/PotHelper) - A simple PoToken minter written in Java (1 day ago)
-- [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform (1 day ago)
-- [insidegui/ocrit](https://github.com/insidegui/ocrit) - Simple command-line utility for performing OCR using Apple&#39;s Vision framework (1 day ago)
-- [onmyway133/apple-intelligence-cli](https://github.com/onmyway133/apple-intelligence-cli) - 🎰 Apple Intelligence as a CLI service (1 day ago)
-- [contember/contember](https://github.com/contember/contember) - Contember is an open source platform that empowers developers to quickly build and manage data-driven web applications with TypeScript and React. (1 day ago)
-- [forasoft/video-testing-tool](https://github.com/forasoft/video-testing-tool) - Chrome extension for monitoring WebRTC connection health (2 days ago)
-- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (2 days ago)
-- [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client. (3 days ago)
-- [AurionMail/docs](https://github.com/AurionMail/docs) - It is ProtonMail UX, but really open-source and self-hostable (3 days ago)
-- [Asteski/WinMac](https://github.com/Asteski/WinMac) - Windows and macOS hybrid (3 days ago)
+- [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework (1 day ago)
+- [bulwarkmail/legacy-proxy](https://github.com/bulwarkmail/legacy-proxy) -  (1 day ago)
+- [bulwarkmail/relay](https://github.com/bulwarkmail/relay) -  (1 day ago)
+- [gvenzl/setup-oracle-free](https://github.com/gvenzl/setup-oracle-free) - :octocat: Oracle Database Free GitHub Action (1 day ago)
+- [gvenzl/oci-oracle-free](https://github.com/gvenzl/oci-oracle-free) - Build scripts for Oracle AI Database FREE container/docker images (1 day ago)
+- [MorpheApp/PotHelper](https://github.com/MorpheApp/PotHelper) - A simple PoToken minter written in Java (2 days ago)
+- [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform (2 days ago)
+- [insidegui/ocrit](https://github.com/insidegui/ocrit) - Simple command-line utility for performing OCR using Apple&#39;s Vision framework (2 days ago)
+- [onmyway133/apple-intelligence-cli](https://github.com/onmyway133/apple-intelligence-cli) - 🎰 Apple Intelligence as a CLI service (2 days ago)
+- [contember/contember](https://github.com/contember/contember) - Contember is an open source platform that empowers developers to quickly build and manage data-driven web applications with TypeScript and React. (2 days ago)
 
 #### 📫 How to reach me
 
