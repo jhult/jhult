@@ -20,8 +20,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [neocanable/garlic](https://github.com/neocanable/garlic) - The world&#39;s fastest apk (android)/java open source decompiler (3 days ago)
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (2 weeks ago)
+- [neocanable/garlic](https://github.com/neocanable/garlic) - The world&#39;s fastest apk (android)/java open source decompiler (4 days ago)
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (3 weeks ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 month ago)
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js (1 month ago)
 - [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim-like Lua plugins (1 month ago)
@@ -33,11 +33,11 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.9.2](https://github.com/jdx/mise/releases/tag/v2026.9.2), 1 day ago) - dev tools, env vars, task runner
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.5.2](https://github.com/tontinton/maki/releases/tag/v0.5.2), 2 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [jdx/hk](https://github.com/jdx/hk) ([v1.58.1](https://github.com/jdx/hk/releases/tag/v1.58.1), 3 days ago) - git hooks and project lints
-- [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) ([v0.14.0](https://github.com/gyscos/zstd-rs/releases/tag/v0.14.0), 4 days ago) - A rust binding for the zstd compression library.
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.49.0](https://github.com/aaif-goose/goose/releases/tag/v1.49.0), 5 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.50.0](https://github.com/aaif-goose/goose/releases/tag/v1.50.0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.9.3](https://github.com/jdx/mise/releases/tag/v2026.9.3), 1 day ago) - dev tools, env vars, task runner
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.5.2](https://github.com/tontinton/maki/releases/tag/v0.5.2), 3 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [jdx/hk](https://github.com/jdx/hk) ([v1.58.1](https://github.com/jdx/hk/releases/tag/v1.58.1), 4 days ago) - git hooks and project lints
+- [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) ([v0.14.0](https://github.com/gyscos/zstd-rs/releases/tag/v0.14.0), 5 days ago) - A rust binding for the zstd compression library.
 - [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) ([v0.9.0](https://github.com/apache/skywalking-eyes/releases/tag/v0.9.0), 1 week ago) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses.
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.558.1](https://github.com/aquaproj/aqua-registry/releases/tag/v4.558.1), 1 week ago) - aqua&#39;s Standard Registry
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.21.0](https://github.com/atuinsh/atuin/releases/tag/v18.21.0), 1 week ago) - ✨ Making your shell magical
@@ -46,11 +46,11 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(instagram): reflect effective toggle state in About patch list](https://github.com/crimera/piko/pull/1835) on [crimera/piko](https://github.com/crimera/piko) (3 days ago)
-- [feat: treat xapk/apks split-APK containers as APK files](https://github.com/neocanable/garlic/pull/101) on [neocanable/garlic](https://github.com/neocanable/garlic) (3 days ago)
-- [fix(todo_write): keep the todo panel updated across steps](https://github.com/tontinton/maki/pull/948) on [tontinton/maki](https://github.com/tontinton/maki) (3 days ago)
+- [feat(instagram): reflect effective toggle state in About patch list](https://github.com/crimera/piko/pull/1835) on [crimera/piko](https://github.com/crimera/piko) (4 days ago)
+- [feat: treat xapk/apks split-APK containers as APK files](https://github.com/neocanable/garlic/pull/101) on [neocanable/garlic](https://github.com/neocanable/garlic) (4 days ago)
+- [fix(todo_write): keep the todo panel updated across steps](https://github.com/tontinton/maki/pull/948) on [tontinton/maki](https://github.com/tontinton/maki) (4 days ago)
 - [fix(agent): guard repetitive-text loops and harden doom-loop detection](https://github.com/tontinton/maki/pull/924) on [tontinton/maki](https://github.com/tontinton/maki) (1 week ago)
-- [Add MIT license](https://github.com/gboutte/audio-delay-mac/pull/1) on [gboutte/audio-delay-mac](https://github.com/gboutte/audio-delay-mac) (2 weeks ago)
+- [Add MIT license](https://github.com/gboutte/audio-delay-mac/pull/1) on [gboutte/audio-delay-mac](https://github.com/gboutte/audio-delay-mac) (3 weeks ago)
 - [Add Apache 2.0 license](https://github.com/contember/typokat/pull/1) on [contember/typokat](https://github.com/contember/typokat) (3 weeks ago)
 - [Add LICENSE](https://github.com/prime-radiant-inc/sprout/pull/4) on [prime-radiant-inc/sprout](https://github.com/prime-radiant-inc/sprout) (4 weeks ago)
 - [release: 0.3.0](https://github.com/neul-labs/stout/pull/29) on [neul-labs/stout](https://github.com/neul-labs/stout) (1 month ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [davidgohel/officer](https://github.com/davidgohel/officer) - :cop: officer: office documents from R (1 day ago)
-- [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. (1 day ago)
-- [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report #json #generate #generation #template #create #pptx #docx #xlsx #react #vuejs #angularjs #browser #typescript #image #html #table #chart (1 day ago)
-- [EseToni/open-linkedin-api](https://github.com/EseToni/open-linkedin-api) - An open-source Python library that provides programmatic access to LinkedIn using web scraping. Inspired by the now-private linkedin-api, this project aims to offer a community-driven alternative for authentication, profile searches, messaging, and data extraction—ensuring an accessible and regularly updated LinkedIn integration. 🚀 (1 day ago)
-- [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally (1 day ago)
-- [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code (1 day ago)
-- [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser! (1 day ago)
-- [tontinton/makiconf](https://github.com/tontinton/makiconf) - My maki conf (2 days ago)
-- [CanineHQ/canine](https://github.com/CanineHQ/canine) - A developer friendly PaaS for your Kubernetes (2 days ago)
-- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (2 days ago)
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (1 day ago)
+- [azriel91/disposition](https://github.com/azriel91/disposition) - SVG diagram generator (1 day ago)
+- [miaskiewicz/turbo-dom](https://github.com/miaskiewicz/turbo-dom) - faster &#43; more accurate DOM library with native parser written in Rust (WASM fallback) (1 day ago)
+- [servo/html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser (1 day ago)
+- [davidgohel/officer](https://github.com/davidgohel/officer) - :cop: officer: office documents from R (2 days ago)
+- [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. (2 days ago)
+- [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report #json #generate #generation #template #create #pptx #docx #xlsx #react #vuejs #angularjs #browser #typescript #image #html #table #chart (2 days ago)
+- [EseToni/open-linkedin-api](https://github.com/EseToni/open-linkedin-api) - An open-source Python library that provides programmatic access to LinkedIn using web scraping. Inspired by the now-private linkedin-api, this project aims to offer a community-driven alternative for authentication, profile searches, messaging, and data extraction—ensuring an accessible and regularly updated LinkedIn integration. 🚀 (2 days ago)
+- [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally (2 days ago)
+- [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code (2 days ago)
 
 #### 📫 How to reach me
 
