@@ -20,8 +20,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/ladybird-builds](https://github.com/jhult/ladybird-builds) - Unofficial automated macOS arm64 builds of the Ladybird browser (AppKit GUI), packaged as DMG releases (2 days ago)
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (3 days ago)
+- [jhult/ladybird-builds](https://github.com/jhult/ladybird-builds) - Unofficial automated macOS arm64 builds of the Ladybird browser (AppKit GUI), packaged as DMG releases (3 days ago)
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (4 days ago)
 - [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim-like Lua plugins (1 week ago)
 - [neocanable/garlic](https://github.com/neocanable/garlic) - The world&#39;s fastest apk (android)/java open source decompiler (3 weeks ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 month ago)
@@ -33,15 +33,15 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.9.14](https://github.com/jdx/mise/releases/tag/v2026.9.14), 1 day ago) - dev tools, env vars, task runner
-- [jdx/hk](https://github.com/jdx/hk) ([v2.2.0](https://github.com/jdx/hk/releases/tag/v2.2.0), 1 day ago) - git hooks and project lints
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.567.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.567.0), 2 days ago) - aqua&#39;s Standard Registry
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.0](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.0), 2 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.52.0](https://github.com/aaif-goose/goose/releases/tag/v1.52.0), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.5.6](https://github.com/tontinton/maki/releases/tag/v0.5.6), 4 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v30.1.1](https://github.com/jsdom/jsdom/releases/tag/v30.1.1), 4 days ago) - A JavaScript implementation of various web standards, for use with Node.js
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.23.0](https://github.com/atuinsh/atuin/releases/tag/v18.23.0), 4 days ago) - ✨ Making your shell magical
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.1-rc.1](https://github.com/gastownhall/beads/releases/tag/v1.3.1-rc.1), 5 days ago) - Beads - A memory upgrade for your coding agent
+- [jdx/hk](https://github.com/jdx/hk) ([v2.3.0](https://github.com/jdx/hk/releases/tag/v2.3.0), 1 day ago) - git hooks and project lints
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.9.14](https://github.com/jdx/mise/releases/tag/v2026.9.14), 2 days ago) - dev tools, env vars, task runner
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.567.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.567.0), 3 days ago) - aqua&#39;s Standard Registry
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.0](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.0), 3 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.52.0](https://github.com/aaif-goose/goose/releases/tag/v1.52.0), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.5.6](https://github.com/tontinton/maki/releases/tag/v0.5.6), 5 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v30.1.1](https://github.com/jsdom/jsdom/releases/tag/v30.1.1), 5 days ago) - A JavaScript implementation of various web standards, for use with Node.js
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.23.0](https://github.com/atuinsh/atuin/releases/tag/v18.23.0), 5 days ago) - ✨ Making your shell magical
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.1-rc.1](https://github.com/gastownhall/beads/releases/tag/v1.3.1-rc.1), 6 days ago) - Beads - A memory upgrade for your coding agent
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) ([v0.14.0](https://github.com/gyscos/zstd-rs/releases/tag/v0.14.0), 3 weeks ago) - A rust binding for the zstd compression library.
 
 #### 🔨 My recent Pull Requests
@@ -59,7 +59,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [Syzygies/Compare](https://github.com/Syzygies/Compare) - Language comparison project (6 days ago)
+- [Syzygies/Compare](https://github.com/Syzygies/Compare) - Language comparison project (1 week ago)
 - [fastino-ai/GLiNER2](https://github.com/fastino-ai/GLiNER2) - Unified Schema-Based Information Extraction (1 week ago)
 - [omacom/omasnap](https://github.com/omacom/omasnap) - Native Wayland screenshot and annotation editor for Omarchy and Hyprland (1 week ago)
 - [frontier-harness-eval/eval](https://github.com/frontier-harness-eval/eval) - Public results and task definitions for FrontierHarness Eval (1 week ago)
