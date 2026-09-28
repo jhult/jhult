@@ -20,9 +20,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/ladybird-builds](https://github.com/jhult/ladybird-builds) - Unofficial automated macOS arm64 builds of the Ladybird browser (AppKit GUI), packaged as DMG releases (3 days ago)
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (4 days ago)
-- [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim-like Lua plugins (1 week ago)
+- [jhult/ladybird-builds](https://github.com/jhult/ladybird-builds) - Unofficial automated macOS arm64 builds of the Ladybird browser (AppKit GUI), packaged as DMG releases (4 days ago)
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (5 days ago)
+- [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim-like Lua plugins (2 weeks ago)
 - [neocanable/garlic](https://github.com/neocanable/garlic) - The world&#39;s fastest apk (android)/java open source decompiler (3 weeks ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 month ago)
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js (1 month ago)
@@ -33,15 +33,15 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/hk](https://github.com/jdx/hk) ([v2.3.0](https://github.com/jdx/hk/releases/tag/v2.3.0), 1 day ago) - git hooks and project lints
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.9.14](https://github.com/jdx/mise/releases/tag/v2026.9.14), 2 days ago) - dev tools, env vars, task runner
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.567.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.567.0), 3 days ago) - aqua&#39;s Standard Registry
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.0](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.0), 3 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.52.0](https://github.com/aaif-goose/goose/releases/tag/v1.52.0), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.5.6](https://github.com/tontinton/maki/releases/tag/v0.5.6), 5 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v30.1.1](https://github.com/jsdom/jsdom/releases/tag/v30.1.1), 5 days ago) - A JavaScript implementation of various web standards, for use with Node.js
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.23.0](https://github.com/atuinsh/atuin/releases/tag/v18.23.0), 5 days ago) - ✨ Making your shell magical
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.1-rc.1](https://github.com/gastownhall/beads/releases/tag/v1.3.1-rc.1), 6 days ago) - Beads - A memory upgrade for your coding agent
+- [jdx/hk](https://github.com/jdx/hk) ([v2.4.0](https://github.com/jdx/hk/releases/tag/v2.4.0), today) - git hooks and project lints
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.568.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.568.0), 1 day ago) - aqua&#39;s Standard Registry
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.9.15](https://github.com/jdx/mise/releases/tag/v2026.9.15), 1 day ago) - dev tools, env vars, task runner
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.0](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.0), 4 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.52.0](https://github.com/aaif-goose/goose/releases/tag/v1.52.0), 5 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.5.6](https://github.com/tontinton/maki/releases/tag/v0.5.6), 6 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v30.1.1](https://github.com/jsdom/jsdom/releases/tag/v30.1.1), 6 days ago) - A JavaScript implementation of various web standards, for use with Node.js
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.23.0](https://github.com/atuinsh/atuin/releases/tag/v18.23.0), 6 days ago) - ✨ Making your shell magical
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.1-rc.1](https://github.com/gastownhall/beads/releases/tag/v1.3.1-rc.1), 1 week ago) - Beads - A memory upgrade for your coding agent
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) ([v0.14.0](https://github.com/gyscos/zstd-rs/releases/tag/v0.14.0), 3 weeks ago) - A rust binding for the zstd compression library.
 
 #### 🔨 My recent Pull Requests
@@ -50,7 +50,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [Add MIT license](https://github.com/Asaf51/maki-review/pull/2) on [Asaf51/maki-review](https://github.com/Asaf51/maki-review) (1 week ago)
 - [Add MIT license](https://github.com/g4bwy/maki-plugins/pull/1) on [g4bwy/maki-plugins](https://github.com/g4bwy/maki-plugins) (1 week ago)
 - [feat: add --worktree flag to run maki inside a git worktree](https://github.com/tontinton/maki/pull/1018) on [tontinton/maki](https://github.com/tontinton/maki) (1 week ago)
-- [Fix flaky tests and a macOS APFS test fallout](https://github.com/tontinton/maki/pull/1015) on [tontinton/maki](https://github.com/tontinton/maki) (1 week ago)
+- [Fix flaky tests and a macOS APFS test fallout](https://github.com/tontinton/maki/pull/1015) on [tontinton/maki](https://github.com/tontinton/maki) (2 weeks ago)
 - [feat: configurable per-provider top_p sampling](https://github.com/tontinton/maki/pull/978) on [tontinton/maki](https://github.com/tontinton/maki) (2 weeks ago)
 - [feat(providers): configurable retry limit for provider errors](https://github.com/tontinton/maki/pull/977) on [tontinton/maki](https://github.com/tontinton/maki) (2 weeks ago)
 - [feat(instagram): reflect effective toggle state in About patch list](https://github.com/crimera/piko/pull/1835) on [crimera/piko](https://github.com/crimera/piko) (3 weeks ago)
@@ -59,6 +59,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
+- [xprivo/ai-chat](https://github.com/xprivo/ai-chat) - xPrivo is the privacy-first AI assistant that you can self-host. No accounts, never. Free as in freedom. (1 day ago)
 - [Syzygies/Compare](https://github.com/Syzygies/Compare) - Language comparison project (1 week ago)
 - [fastino-ai/GLiNER2](https://github.com/fastino-ai/GLiNER2) - Unified Schema-Based Information Extraction (1 week ago)
 - [omacom/omasnap](https://github.com/omacom/omasnap) - Native Wayland screenshot and annotation editor for Omarchy and Hyprland (1 week ago)
@@ -68,7 +69,6 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine (1 week ago)
 - [g4bwy/maki-plugins](https://github.com/g4bwy/maki-plugins) - various plugins for maki (1 week ago)
 - [basvk/maki-browser-plugin](https://github.com/basvk/maki-browser-plugin) - Browser tools for the Make coding agent (1 week ago)
-- [athos2113/fillvisa-os](https://github.com/athos2113/fillvisa-os) - Open-source platform for U.S. immigration forms. Fill DS-160 and USCIS forms in-browser, generate ready-to-review PDFs, and self-host anywhere. (1 week ago)
 
 #### 📫 How to reach me
 
