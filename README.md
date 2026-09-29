@@ -20,8 +20,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/ladybird-builds](https://github.com/jhult/ladybird-builds) - Unofficial automated macOS arm64 builds of the Ladybird browser (AppKit GUI), packaged as DMG releases (4 days ago)
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (5 days ago)
+- [jhult/ladybird-builds](https://github.com/jhult/ladybird-builds) - Unofficial automated macOS arm64 builds of the Ladybird browser (AppKit GUI), packaged as DMG releases (5 days ago)
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (6 days ago)
 - [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim-like Lua plugins (2 weeks ago)
 - [neocanable/garlic](https://github.com/neocanable/garlic) - The world&#39;s fastest apk (android)/java open source decompiler (3 weeks ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (1 month ago)
@@ -33,16 +33,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/hk](https://github.com/jdx/hk) ([v2.4.0](https://github.com/jdx/hk/releases/tag/v2.4.0), today) - git hooks and project lints
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.568.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.568.0), 1 day ago) - aqua&#39;s Standard Registry
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.9.15](https://github.com/jdx/mise/releases/tag/v2026.9.15), 1 day ago) - dev tools, env vars, task runner
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.0](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.0), 4 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.52.0](https://github.com/aaif-goose/goose/releases/tag/v1.52.0), 5 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.5.6](https://github.com/tontinton/maki/releases/tag/v0.5.6), 6 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v30.1.1](https://github.com/jsdom/jsdom/releases/tag/v30.1.1), 6 days ago) - A JavaScript implementation of various web standards, for use with Node.js
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.23.0](https://github.com/atuinsh/atuin/releases/tag/v18.23.0), 6 days ago) - ✨ Making your shell magical
+- [jdx/pklr](https://github.com/jdx/pklr) ([v3.0.3](https://github.com/jdx/pklr/releases/tag/v3.0.3), 1 day ago) - Pure Rust pkl configuration language parser and evaluator
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.5.7](https://github.com/tontinton/maki/releases/tag/v0.5.7), 1 day ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.9.16](https://github.com/jdx/mise/releases/tag/v2026.9.16), 1 day ago) - dev tools, env vars, task runner
+- [jdx/hk](https://github.com/jdx/hk) ([v2.4.0](https://github.com/jdx/hk/releases/tag/v2.4.0), 1 day ago) - git hooks and project lints
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.568.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.568.0), 2 days ago) - aqua&#39;s Standard Registry
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.0](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.0), 5 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.52.0](https://github.com/aaif-goose/goose/releases/tag/v1.52.0), 6 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v30.1.1](https://github.com/jsdom/jsdom/releases/tag/v30.1.1), 1 week ago) - A JavaScript implementation of various web standards, for use with Node.js
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.23.0](https://github.com/atuinsh/atuin/releases/tag/v18.23.0), 1 week ago) - ✨ Making your shell magical
 - [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.1-rc.1](https://github.com/gastownhall/beads/releases/tag/v1.3.1-rc.1), 1 week ago) - Beads - A memory upgrade for your coding agent
-- [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) ([v0.14.0](https://github.com/gyscos/zstd-rs/releases/tag/v0.14.0), 3 weeks ago) - A rust binding for the zstd compression library.
 
 #### 🔨 My recent Pull Requests
 
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [xprivo/ai-chat](https://github.com/xprivo/ai-chat) - xPrivo is the privacy-first AI assistant that you can self-host. No accounts, never. Free as in freedom. (1 day ago)
+- [skhoroshavin/pi-unflip](https://github.com/skhoroshavin/pi-unflip) - fix corrupted text (stray CJK, homoglyph flips) in pi assistant responses (1 day ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 day ago)
+- [bensyverson/jobs](https://github.com/bensyverson/jobs) - An agent-first CLI-based hierarchical task manager backed by SQLite (1 day ago)
+- [ljtn/epiq](https://github.com/ljtn/epiq) - Distributed, code-native issue tracker - audit workflows via time-travel (1 day ago)
+- [xprivo/ai-chat](https://github.com/xprivo/ai-chat) - xPrivo is the privacy-first AI assistant that you can self-host. No accounts, never. Free as in freedom. (2 days ago)
 - [Syzygies/Compare](https://github.com/Syzygies/Compare) - Language comparison project (1 week ago)
 - [fastino-ai/GLiNER2](https://github.com/fastino-ai/GLiNER2) - Unified Schema-Based Information Extraction (1 week ago)
 - [omacom/omasnap](https://github.com/omacom/omasnap) - Native Wayland screenshot and annotation editor for Omarchy and Hyprland (1 week ago)
 - [frontier-harness-eval/eval](https://github.com/frontier-harness-eval/eval) - Public results and task definitions for FrontierHarness Eval (1 week ago)
 - [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself (1 week ago)
-- [thepowersgang/mrustc](https://github.com/thepowersgang/mrustc) - Alternative rust compiler (re-implementation) (1 week ago)
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine (1 week ago)
-- [g4bwy/maki-plugins](https://github.com/g4bwy/maki-plugins) - various plugins for maki (1 week ago)
-- [basvk/maki-browser-plugin](https://github.com/basvk/maki-browser-plugin) - Browser tools for the Make coding agent (1 week ago)
 
 #### 📫 How to reach me
 
