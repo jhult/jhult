@@ -20,7 +20,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (6 days ago)
+- [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (1 week ago)
 - [jhult/ladybird-builds](https://github.com/jhult/ladybird-builds) - Unofficial automated macOS arm64 builds of the Ladybird browser (AppKit GUI), packaged as DMG releases (1 week ago)
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (1 week ago)
 - [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim-like Lua plugins (3 weeks ago)
@@ -33,20 +33,20 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.10.2](https://github.com/jdx/mise/releases/tag/v2026.10.2), 1 day ago) - dev tools, env vars, task runner
-- [jdx/hk](https://github.com/jdx/hk) ([v2.5.0](https://github.com/jdx/hk/releases/tag/v2.5.0), 1 day ago) - git hooks and project lints
-- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v30.1.2](https://github.com/jsdom/jsdom/releases/tag/v30.1.2), 1 day ago) - A JavaScript implementation of various web standards, for use with Node.js
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.6.0](https://github.com/tontinton/maki/releases/tag/v0.6.0), 2 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.571.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.571.0), 2 days ago) - aqua&#39;s Standard Registry
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.53.0](https://github.com/aaif-goose/goose/releases/tag/v1.53.0), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.1](https://github.com/gastownhall/beads/releases/tag/v1.3.1), 5 days ago) - Beads - A memory upgrade for your coding agent
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.572.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.572.0), 1 day ago) - aqua&#39;s Standard Registry
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.10.3](https://github.com/jdx/mise/releases/tag/v2026.10.3), 1 day ago) - dev tools, env vars, task runner
+- [neocanable/garlic](https://github.com/neocanable/garlic) ([v1.8-release-thyme](https://github.com/neocanable/garlic/releases/tag/v1.8-release-thyme), 1 day ago) - The world&#39;s fastest apk (android)/java open source decompiler
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.2-rc.1](https://github.com/gastownhall/beads/releases/tag/v1.3.2-rc.1), 1 day ago) - Beads - A memory upgrade for your coding agent
+- [jdx/hk](https://github.com/jdx/hk) ([v2.5.0](https://github.com/jdx/hk/releases/tag/v2.5.0), 2 days ago) - git hooks and project lints
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v30.1.2](https://github.com/jsdom/jsdom/releases/tag/v30.1.2), 2 days ago) - A JavaScript implementation of various web standards, for use with Node.js
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.6.0](https://github.com/tontinton/maki/releases/tag/v0.6.0), 3 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.53.0](https://github.com/aaif-goose/goose/releases/tag/v1.53.0), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [jdx/pklr](https://github.com/jdx/pklr) ([v3.0.3](https://github.com/jdx/pklr/releases/tag/v3.0.3), 1 week ago) - Pure Rust pkl configuration language parser and evaluator
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.0](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.0), 1 week ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.23.0](https://github.com/atuinsh/atuin/releases/tag/v18.23.0), 1 week ago) - ✨ Making your shell magical
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/jjcm/makefaster/pull/17) on [jjcm/makefaster](https://github.com/jjcm/makefaster) (6 days ago)
+- [Add MIT license](https://github.com/jjcm/makefaster/pull/17) on [jjcm/makefaster](https://github.com/jjcm/makefaster) (1 week ago)
 - [Add MIT license](https://github.com/tontinton/makiconf/pull/1) on [tontinton/makiconf](https://github.com/tontinton/makiconf) (2 weeks ago)
 - [Add MIT license](https://github.com/Asaf51/maki-review/pull/2) on [Asaf51/maki-review](https://github.com/Asaf51/maki-review) (2 weeks ago)
 - [Add MIT license](https://github.com/g4bwy/maki-plugins/pull/1) on [g4bwy/maki-plugins](https://github.com/g4bwy/maki-plugins) (2 weeks ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [flectar/mail](https://github.com/flectar/mail) - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM. (2 days ago)
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (2 days ago)
-- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (2 days ago)
-- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source. (3 days ago)
-- [hohum/imap_autosort_nilsimsa](https://github.com/hohum/imap_autosort_nilsimsa) - use nilsimsa on email headers to automatically sort your inbox into imap folders (4 days ago)
-- [jan-janssen/mailsort](https://github.com/jan-janssen/mailsort) - Random forest based email sorting for any IMAP based email service. (4 days ago)
-- [reserve-slosh/infermail](https://github.com/reserve-slosh/infermail) - ML-powered email organizer — fetches IMAP accounts, classifies emails with rules and a scikit-learn model, and       re-sorts them into the correct IMAP folders automatically. (4 days ago)
-- [outworlder/imap-filter](https://github.com/outworlder/imap-filter) - Rule-based and AI-powered email organizer that automatically sorts messages into IMAP folders (4 days ago)
-- [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.  (4 days ago)
-- [contember/okena](https://github.com/contember/okena) - A fast, native terminal multiplexer built in Rust with GPUI (the UI framework from Zed editor). Tabs, splits, detachable windows, command palette, and automatic workspace restore. (6 days ago)
+- [Krainium/DarkDex](https://github.com/Krainium/DarkDex) - powerful tool to bypass ijiami 4th Gen. android dex unpacker for iJiami and other packers (1 day ago)
+- [HermanMartinus/bear-plugins](https://github.com/HermanMartinus/bear-plugins) - Plugins for Bear Blog (1 day ago)
+- [flectar/mail](https://github.com/flectar/mail) - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM. (3 days ago)
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (3 days ago)
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (3 days ago)
+- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source. (4 days ago)
+- [hohum/imap_autosort_nilsimsa](https://github.com/hohum/imap_autosort_nilsimsa) - use nilsimsa on email headers to automatically sort your inbox into imap folders (5 days ago)
+- [jan-janssen/mailsort](https://github.com/jan-janssen/mailsort) - Random forest based email sorting for any IMAP based email service. (5 days ago)
+- [reserve-slosh/infermail](https://github.com/reserve-slosh/infermail) - ML-powered email organizer — fetches IMAP accounts, classifies emails with rules and a scikit-learn model, and       re-sorts them into the correct IMAP folders automatically. (5 days ago)
+- [outworlder/imap-filter](https://github.com/outworlder/imap-filter) - Rule-based and AI-powered email organizer that automatically sorts messages into IMAP folders (5 days ago)
 
 #### 📫 How to reach me
 
