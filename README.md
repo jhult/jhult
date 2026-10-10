@@ -33,42 +33,42 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.573.1](https://github.com/aquaproj/aqua-registry/releases/tag/v4.573.1), today) - aqua&#39;s Standard Registry
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.10.5](https://github.com/jdx/mise/releases/tag/v2026.10.5), 1 day ago) - dev tools, env vars, task runner
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.54.0](https://github.com/aaif-goose/goose/releases/tag/v1.54.0), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [neocanable/garlic](https://github.com/neocanable/garlic) ([v1.8-release-thyme](https://github.com/neocanable/garlic/releases/tag/v1.8-release-thyme), 4 days ago) - The world&#39;s fastest apk (android)/java open source decompiler
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.2-rc.1](https://github.com/gastownhall/beads/releases/tag/v1.3.2-rc.1), 4 days ago) - Beads - A memory upgrade for your coding agent
-- [jdx/hk](https://github.com/jdx/hk) ([v2.5.0](https://github.com/jdx/hk/releases/tag/v2.5.0), 5 days ago) - git hooks and project lints
-- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v30.1.2](https://github.com/jsdom/jsdom/releases/tag/v30.1.2), 5 days ago) - A JavaScript implementation of various web standards, for use with Node.js
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.6.0](https://github.com/tontinton/maki/releases/tag/v0.6.0), 6 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.10.7](https://github.com/jdx/mise/releases/tag/v2026.10.7), 1 day ago) - dev tools, env vars, task runner
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.6.1](https://github.com/tontinton/maki/releases/tag/v0.6.1), 1 day ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.573.1](https://github.com/aquaproj/aqua-registry/releases/tag/v4.573.1), 1 day ago) - aqua&#39;s Standard Registry
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.54.0](https://github.com/aaif-goose/goose/releases/tag/v1.54.0), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [neocanable/garlic](https://github.com/neocanable/garlic) ([v1.8-release-thyme](https://github.com/neocanable/garlic/releases/tag/v1.8-release-thyme), 5 days ago) - The world&#39;s fastest apk (android)/java open source decompiler
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.2-rc.1](https://github.com/gastownhall/beads/releases/tag/v1.3.2-rc.1), 5 days ago) - Beads - A memory upgrade for your coding agent
+- [jdx/hk](https://github.com/jdx/hk) ([v2.5.0](https://github.com/jdx/hk/releases/tag/v2.5.0), 6 days ago) - git hooks and project lints
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v30.1.2](https://github.com/jsdom/jsdom/releases/tag/v30.1.2), 6 days ago) - A JavaScript implementation of various web standards, for use with Node.js
 - [jdx/pklr](https://github.com/jdx/pklr) ([v3.0.3](https://github.com/jdx/pklr/releases/tag/v3.0.3), 1 week ago) - Pure Rust pkl configuration language parser and evaluator
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.0](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.0), 2 weeks ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/Srinivasa000/Smart-Email-Classifier-System/pull/1) on [Srinivasa000/Smart-Email-Classifier-System](https://github.com/Srinivasa000/Smart-Email-Classifier-System) (2 days ago)
-- [Add MIT license](https://github.com/akash-k-yadav/email-intelligence-system/pull/1) on [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) (2 days ago)
+- [Add MIT license](https://github.com/Srinivasa000/Smart-Email-Classifier-System/pull/1) on [Srinivasa000/Smart-Email-Classifier-System](https://github.com/Srinivasa000/Smart-Email-Classifier-System) (3 days ago)
+- [Add MIT license](https://github.com/akash-k-yadav/email-intelligence-system/pull/1) on [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) (3 days ago)
 - [Add MIT license](https://github.com/jjcm/makefaster/pull/17) on [jjcm/makefaster](https://github.com/jjcm/makefaster) (1 week ago)
 - [Add MIT license](https://github.com/tontinton/makiconf/pull/1) on [tontinton/makiconf](https://github.com/tontinton/makiconf) (3 weeks ago)
 - [Add MIT license](https://github.com/Asaf51/maki-review/pull/2) on [Asaf51/maki-review](https://github.com/Asaf51/maki-review) (3 weeks ago)
 - [Add MIT license](https://github.com/g4bwy/maki-plugins/pull/1) on [g4bwy/maki-plugins](https://github.com/g4bwy/maki-plugins) (3 weeks ago)
 - [feat: add --worktree flag to run maki in an isolated git worktree](https://github.com/tontinton/maki/pull/1018) on [tontinton/maki](https://github.com/tontinton/maki) (3 weeks ago)
 - [Fix flaky tests and a macOS APFS test fallout](https://github.com/tontinton/maki/pull/1015) on [tontinton/maki](https://github.com/tontinton/maki) (3 weeks ago)
-- [feat: configurable per-provider top_p sampling](https://github.com/tontinton/maki/pull/978) on [tontinton/maki](https://github.com/tontinton/maki) (4 weeks ago)
-- [feat(providers): configurable retry limit for provider errors](https://github.com/tontinton/maki/pull/977) on [tontinton/maki](https://github.com/tontinton/maki) (4 weeks ago)
+- [feat: configurable per-provider top_p sampling](https://github.com/tontinton/maki/pull/978) on [tontinton/maki](https://github.com/tontinton/maki) (1 month ago)
+- [feat(providers): configurable retry limit for provider errors](https://github.com/tontinton/maki/pull/977) on [tontinton/maki](https://github.com/tontinton/maki) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [lylo/pagecord](https://github.com/lylo/pagecord) - Blog without the slog (1 day ago)
-- [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that&#39;s just a textarea https://overtype.dev (2 days ago)
-- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS (2 days ago)
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way. (2 days ago)
-- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (2 days ago)
-- [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again! (2 days ago)
-- [fishman/notmutt](https://github.com/fishman/notmutt) - Async terminal mail client for notmuch: staged undoable tag ops, diff-and-insert refresh, HTML mail rendered in-terminal, easyjump link mode, dry-run filtering by default, optional MCP server (read-only thread metadata), TOML config, vim keys. Written in Go (tcell TUI). (2 days ago)
-- [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) - Machine learning based email classification system using IMAP, XGBoost and Random Forest (2 days ago)
-- [aurelienpierreeng/VirtualSecretary](https://github.com/aurelienpierreeng/VirtualSecretary) - A Python framework to connect to email/contacts/agendas servers and write automated rules for efficient workflows. (3 days ago)
-- [c9dev/penguin-mail](https://github.com/c9dev/penguin-mail) - Mail and calendar for Linux. Gmail and IMAP accounts, Google Calendar, contacts, OpenPGP and S/MIME. GTK4 and libadwaita, written in Rust. (3 days ago)
+- [lylo/pagecord](https://github.com/lylo/pagecord) - Blog without the slog (2 days ago)
+- [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that&#39;s just a textarea https://overtype.dev (3 days ago)
+- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS (3 days ago)
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way. (3 days ago)
+- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (3 days ago)
+- [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again! (3 days ago)
+- [fishman/notmutt](https://github.com/fishman/notmutt) - Async terminal mail client for notmuch: staged undoable tag ops, diff-and-insert refresh, HTML mail rendered in-terminal, easyjump link mode, dry-run filtering by default, optional MCP server (read-only thread metadata), TOML config, vim keys. Written in Go (tcell TUI). (3 days ago)
+- [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) - Machine learning based email classification system using IMAP, XGBoost and Random Forest (3 days ago)
+- [aurelienpierreeng/VirtualSecretary](https://github.com/aurelienpierreeng/VirtualSecretary) - A Python framework to connect to email/contacts/agendas servers and write automated rules for efficient workflows. (4 days ago)
+- [c9dev/penguin-mail](https://github.com/c9dev/penguin-mail) - Mail and calendar for Linux and macOS. Gmail and IMAP accounts, Google Calendar, contacts, OpenPGP and S/MIME. GTK4 and libadwaita, written in Rust. (4 days ago)
 
 #### 📫 How to reach me
 
