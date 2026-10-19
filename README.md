@@ -33,16 +33,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.10.13](https://github.com/jdx/mise/releases/tag/v2026.10.13), 1 day ago) - dev tools, env vars, task runner
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.6.4](https://github.com/tontinton/maki/releases/tag/v0.6.4), 1 day ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.1](https://github.com/atuinsh/atuin/releases/tag/v18.24.1), 2 days ago) - ✨ Making your shell magical
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.55.0](https://github.com/aaif-goose/goose/releases/tag/v1.55.0), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [jdx/hk](https://github.com/jdx/hk) ([v2.7.0](https://github.com/jdx/hk/releases/tag/v2.7.0), 2 days ago) - git hooks and project lints
-- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v30.1.3](https://github.com/jsdom/jsdom/releases/tag/v30.1.3), 3 days ago) - A JavaScript implementation of various web standards, for use with Node.js
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.575.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.575.0), 4 days ago) - aqua&#39;s Standard Registry
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.2.0](https://github.com/Kuberwastaken/claurst/releases/tag/v0.2.0), 4 days ago) - Agentic Coding for Builders who Ship
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.10.14](https://github.com/jdx/mise/releases/tag/v2026.10.14), 1 day ago) - dev tools, env vars, task runner
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.2](https://github.com/objective-see/LuLu/releases/tag/v4.5.2), 1 day ago) - LuLu is the free open-source macOS firewall
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.6.4](https://github.com/tontinton/maki/releases/tag/v0.6.4), 2 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.1](https://github.com/atuinsh/atuin/releases/tag/v18.24.1), 3 days ago) - ✨ Making your shell magical
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.55.0](https://github.com/aaif-goose/goose/releases/tag/v1.55.0), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/hk](https://github.com/jdx/hk) ([v2.7.0](https://github.com/jdx/hk/releases/tag/v2.7.0), 3 days ago) - git hooks and project lints
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v30.1.3](https://github.com/jsdom/jsdom/releases/tag/v30.1.3), 4 days ago) - A JavaScript implementation of various web standards, for use with Node.js
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.575.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.575.0), 5 days ago) - aqua&#39;s Standard Registry
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.2.0](https://github.com/Kuberwastaken/claurst/releases/tag/v0.2.0), 5 days ago) - Agentic Coding for Builders who Ship
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) ([v0.14.2](https://github.com/gyscos/zstd-rs/releases/tag/v0.14.2), 1 week ago) - A rust binding for the zstd compression library.
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.2-rc.2](https://github.com/gastownhall/beads/releases/tag/v1.3.2-rc.2), 1 week ago) - Beads - A memory upgrade for your coding agent
 
 #### 🔨 My recent Pull Requests
 
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [vercel-labs/tsc-ts](https://github.com/vercel-labs/tsc-ts) - TypeScript written in TypeScript (1 day ago)
-- [flschr/bearblog-plugins](https://github.com/flschr/bearblog-plugins) - A bunch of scripts and plugins for Bear Blog. (1 day ago)
-- [ventz/wombat-wireguard-mac-app](https://github.com/ventz/wombat-wireguard-mac-app) - WireGuard, AmneziaWG and Cisco AnyConnect in one native, free and open-source macOS VPN client: SwiftUI app, Network Extension, kill switch, on-demand, and a wombat CLI (1 day ago)
-- [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua (1 day ago)
-- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto&#39;s pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. (1 day ago)
-- [kiruna-labs/petal](https://github.com/kiruna-labs/petal) - Petal: low-latency, multi-window screensharing for macOS and Windows. Every shared window becomes a real native window on every participant&#39;s desktop. (2 days ago)
-- [deroverda/twitter-to-nitter](https://github.com/deroverda/twitter-to-nitter) - Firefox extension that redirects x.com/twitter.com to a working Nitter instance, chosen from live health data and instances that have worked for you before, with automatic fallback if it&#39;s rate-limited, broken, or errors out. (2 days ago)
-- [elia-orsini/kagi-privacy-redirects](https://github.com/elia-orsini/kagi-privacy-redirects) - Kagi redirects to preserve privacy while surfing the web (2 days ago)
-- [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability (2 days ago)
-- [MG1937/ASC](https://github.com/MG1937/ASC) - ASC is a super FAST and lightweight Android decompiler designed for Agents/Mobile Researchers. (1 week ago)
+- [thawkins/ragent](https://github.com/thawkins/ragent) - Ai coding harness, written in rust with a large number of Model Providers and complex orchistration of LLM agents.  (1 day ago)
+- [vercel-labs/tsc-ts](https://github.com/vercel-labs/tsc-ts) - TypeScript written in TypeScript (2 days ago)
+- [flschr/bearblog-plugins](https://github.com/flschr/bearblog-plugins) - A bunch of scripts and plugins for Bear Blog. (2 days ago)
+- [ventz/wombat-wireguard-mac-app](https://github.com/ventz/wombat-wireguard-mac-app) - WireGuard, AmneziaWG and Cisco AnyConnect in one native, free and open-source macOS VPN client: SwiftUI app, Network Extension, kill switch, on-demand, and a wombat CLI (2 days ago)
+- [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua (2 days ago)
+- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto&#39;s pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. (2 days ago)
+- [kiruna-labs/petal](https://github.com/kiruna-labs/petal) - Petal: low-latency, multi-window screensharing for macOS and Windows. Every shared window becomes a real native window on every participant&#39;s desktop. (3 days ago)
+- [deroverda/twitter-to-nitter](https://github.com/deroverda/twitter-to-nitter) - Firefox extension that redirects x.com/twitter.com to a working Nitter instance, chosen from live health data and instances that have worked for you before, with automatic fallback if it&#39;s rate-limited, broken, or errors out. (3 days ago)
+- [elia-orsini/kagi-privacy-redirects](https://github.com/elia-orsini/kagi-privacy-redirects) - Kagi redirects to preserve privacy while surfing the web (3 days ago)
+- [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability (3 days ago)
 
 #### 📫 How to reach me
 
