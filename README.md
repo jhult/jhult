@@ -33,16 +33,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.4](https://github.com/atuinsh/atuin/releases/tag/v18.24.4), today) - ✨ Making your shell magical
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.2](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.2), 1 day ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
-- [jdx/hk](https://github.com/jdx/hk) ([v2.10.0](https://github.com/jdx/hk/releases/tag/v2.10.0), 1 day ago) - git hooks and project lints
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.10.23](https://github.com/jdx/mise/releases/tag/v2026.10.23), 1 day ago) - dev tools, env vars, task runner
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.57.0](https://github.com/aaif-goose/goose/releases/tag/v1.57.0), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.579.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.579.0), 2 days ago) - aqua&#39;s Standard Registry
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.4](https://github.com/objective-see/LuLu/releases/tag/v4.5.4), 3 days ago) - LuLu is the free open-source macOS firewall
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.2.1](https://github.com/Kuberwastaken/claurst/releases/tag/v0.2.1), 4 days ago) - Agentic Coding for Builders who Ship
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2), 5 days ago) - Modern Android client for Hacker News
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.2](https://github.com/gastownhall/beads/releases/tag/v1.3.2), 6 days ago) - Beads - A memory upgrade for your coding agent
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.10.24](https://github.com/jdx/mise/releases/tag/v2026.10.24), 1 day ago) - dev tools, env vars, task runner
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.5](https://github.com/objective-see/LuLu/releases/tag/v4.5.5), 1 day ago) - LuLu is the free open-source macOS firewall
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.4](https://github.com/atuinsh/atuin/releases/tag/v18.24.4), 1 day ago) - ✨ Making your shell magical
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.2](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.2), 2 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
+- [jdx/hk](https://github.com/jdx/hk) ([v2.10.0](https://github.com/jdx/hk/releases/tag/v2.10.0), 2 days ago) - git hooks and project lints
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.57.0](https://github.com/aaif-goose/goose/releases/tag/v1.57.0), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.579.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.579.0), 3 days ago) - aqua&#39;s Standard Registry
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.2.1](https://github.com/Kuberwastaken/claurst/releases/tag/v0.2.1), 5 days ago) - Agentic Coding for Builders who Ship
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2), 6 days ago) - Modern Android client for Hacker News
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.2](https://github.com/gastownhall/beads/releases/tag/v1.3.2), 1 week ago) - Beads - A memory upgrade for your coding agent
 
 #### 🔨 My recent Pull Requests
 
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [emmilco/us-tax-model](https://github.com/emmilco/us-tax-model) - US federal income tax forms and instructions as cited, executable, machine-checkable data. (2 days ago)
-- [column-tax/tax-calc-bench](https://github.com/column-tax/tax-calc-bench) - Code &amp; data for TaxCalcBench (2 days ago)
-- [epthewizard/Export-Authy-Tokens](https://github.com/epthewizard/Export-Authy-Tokens) - I was having trouble following the guides and they were all more convoluted than they needed to be. So I created this repo to hopefully help some people export their Authy tokens a bit easier.  (2 days ago)
-- [tals/corgi](https://github.com/tals/corgi) - Happy helper for your terminal (6 days ago)
-- [qxoticai/qxotic](https://github.com/qxoticai/qxotic) - AI sovereignty for the world&#39;s most trusted runtime. (6 days ago)
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases. (6 days ago)
+- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust (today)
+- [emmilco/us-tax-model](https://github.com/emmilco/us-tax-model) - US federal income tax forms and instructions as cited, executable, machine-checkable data. (3 days ago)
+- [column-tax/tax-calc-bench](https://github.com/column-tax/tax-calc-bench) - Code &amp; data for TaxCalcBench (3 days ago)
+- [epthewizard/Export-Authy-Tokens](https://github.com/epthewizard/Export-Authy-Tokens) - I was having trouble following the guides and they were all more convoluted than they needed to be. So I created this repo to hopefully help some people export their Authy tokens a bit easier.  (3 days ago)
+- [tals/corgi](https://github.com/tals/corgi) - Happy helper for your terminal (1 week ago)
+- [qxoticai/qxotic](https://github.com/qxoticai/qxotic) - AI sovereignty for the world&#39;s most trusted runtime. (1 week ago)
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases. (1 week ago)
 - [crmne/fastframe](https://github.com/crmne/fastframe) - egui on rails: the shared foundation for native Rust apps built with egui (1 week ago)
 - [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui (1 week ago)
 - [crmne/tonepush](https://github.com/crmne/tonepush) - Open-source editor and tone library for Line 6 HX pedals and the StompStation PRO. Shared GUI, CLI, cloud library, and reverse-engineered USB protocols. (1 week ago)
-- [sinelaw/inty](https://github.com/sinelaw/inty) - Type checker for dynamic languages like JavaScript &amp; Python, with full type inference and no transpilation (1 week ago)
 
 #### 📫 How to reach me
 
