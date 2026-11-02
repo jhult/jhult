@@ -33,15 +33,15 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.0](https://github.com/tontinton/maki/releases/tag/v0.7.0), 1 day ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.10.25](https://github.com/jdx/mise/releases/tag/v2026.10.25), 1 day ago) - dev tools, env vars, task runner
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.5](https://github.com/objective-see/LuLu/releases/tag/v4.5.5), 2 days ago) - LuLu is the free open-source macOS firewall
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.4](https://github.com/atuinsh/atuin/releases/tag/v18.24.4), 2 days ago) - ✨ Making your shell magical
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.2](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.2), 3 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
-- [jdx/hk](https://github.com/jdx/hk) ([v2.10.0](https://github.com/jdx/hk/releases/tag/v2.10.0), 3 days ago) - git hooks and project lints
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.57.0](https://github.com/aaif-goose/goose/releases/tag/v1.57.0), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.579.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.579.0), 4 days ago) - aqua&#39;s Standard Registry
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.2.1](https://github.com/Kuberwastaken/claurst/releases/tag/v0.2.1), 6 days ago) - Agentic Coding for Builders who Ship
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.581.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.581.0), today) - aqua&#39;s Standard Registry
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.6](https://github.com/objective-see/LuLu/releases/tag/v4.5.6), 1 day ago) - LuLu is the free open-source macOS firewall
+- [jdx/hk](https://github.com/jdx/hk) ([v2.11.0](https://github.com/jdx/hk/releases/tag/v2.11.0), 1 day ago) - git hooks and project lints
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.0](https://github.com/tontinton/maki/releases/tag/v0.7.0), 2 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.10.25](https://github.com/jdx/mise/releases/tag/v2026.10.25), 2 days ago) - dev tools, env vars, task runner
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.4](https://github.com/atuinsh/atuin/releases/tag/v18.24.4), 3 days ago) - ✨ Making your shell magical
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.2](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.2), 4 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.57.0](https://github.com/aaif-goose/goose/releases/tag/v1.57.0), 5 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.2.1](https://github.com/Kuberwastaken/claurst/releases/tag/v0.2.1), 1 week ago) - Agentic Coding for Builders who Ship
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2), 1 week ago) - Modern Android client for Hacker News
 
 #### 🔨 My recent Pull Requests
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [chris124567/cfsolve](https://github.com/chris124567/cfsolve) - Cloudflare turnstile and challenge page solver in Rust (full reverse, request based) (1 day ago)
-- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust (1 day ago)
-- [emmilco/us-tax-model](https://github.com/emmilco/us-tax-model) - US federal income tax forms and instructions as cited, executable, machine-checkable data. (4 days ago)
-- [column-tax/tax-calc-bench](https://github.com/column-tax/tax-calc-bench) - Code &amp; data for TaxCalcBench (4 days ago)
-- [epthewizard/Export-Authy-Tokens](https://github.com/epthewizard/Export-Authy-Tokens) - I was having trouble following the guides and they were all more convoluted than they needed to be. So I created this repo to hopefully help some people export their Authy tokens a bit easier.  (4 days ago)
-- [tals/corgi](https://github.com/tals/corgi) - Happy helper for your terminal (1 week ago)
-- [qxoticai/qxotic](https://github.com/qxoticai/qxotic) - AI sovereignty for the world&#39;s most trusted runtime. (1 week ago)
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases. (1 week ago)
-- [crmne/fastframe](https://github.com/crmne/fastframe) - egui on rails: the shared foundation for native Rust apps built with egui (1 week ago)
-- [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui (1 week ago)
+- [LiberNT/LiberNT](https://github.com/LiberNT/LiberNT) - A free Windows-compatible Operating System (today)
+- [VibeDarling/darling](https://github.com/VibeDarling/darling) - Darwin/macOS emulation layer for Linux (today)
+- [replicraft/remade](https://github.com/replicraft/remade) - A community-curated directory for exploring, requesting, and supporting independently recreated software (today)
+- [jlelse/GoBlog](https://github.com/jlelse/GoBlog) - Simple blogging system written in Go (today)
+- [0install/0install-win](https://github.com/0install/0install-win) - Windows version of Zero Install (1 day ago)
+- [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff) - Fast, robust, accurate diffing  (1 day ago)
+- [chris124567/cfsolve](https://github.com/chris124567/cfsolve) - Cloudflare turnstile and challenge page solver in Rust (full reverse, request based) (2 days ago)
+- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust (2 days ago)
+- [emmilco/us-tax-model](https://github.com/emmilco/us-tax-model) - US federal income tax forms and instructions as cited, executable, machine-checkable data. (5 days ago)
+- [column-tax/tax-calc-bench](https://github.com/column-tax/tax-calc-bench) - Code &amp; data for TaxCalcBench (5 days ago)
 
 #### 📫 How to reach me
 
