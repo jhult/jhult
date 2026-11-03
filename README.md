@@ -20,27 +20,27 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) - Machine learning based email classification system using IMAP, XGBoost and Random Forest (3 weeks ago)
+- [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) - Machine learning based email classification system using IMAP, XGBoost and Random Forest (4 weeks ago)
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (1 month ago)
 - [jhult/ladybird-builds](https://github.com/jhult/ladybird-builds) - Unofficial automated macOS arm64 builds of the Ladybird browser (AppKit GUI), packaged as DMG releases (1 month ago)
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (1 month ago)
 - [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim-like Lua plugins (1 month ago)
 - [neocanable/garlic](https://github.com/neocanable/garlic) - The world&#39;s fastest apk (android)/java open source decompiler (1 month ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (2 months ago)
-- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js (2 months ago)
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js (3 months ago)
 - [piyushsingariya/split-pr](https://github.com/piyushsingariya/split-pr) - AI skill to split PRs (3 months ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.581.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.581.0), today) - aqua&#39;s Standard Registry
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.6](https://github.com/objective-see/LuLu/releases/tag/v4.5.6), 1 day ago) - LuLu is the free open-source macOS firewall
-- [jdx/hk](https://github.com/jdx/hk) ([v2.11.0](https://github.com/jdx/hk/releases/tag/v2.11.0), 1 day ago) - git hooks and project lints
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.0](https://github.com/tontinton/maki/releases/tag/v0.7.0), 2 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.10.25](https://github.com/jdx/mise/releases/tag/v2026.10.25), 2 days ago) - dev tools, env vars, task runner
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.4](https://github.com/atuinsh/atuin/releases/tag/v18.24.4), 3 days ago) - ✨ Making your shell magical
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.2](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.2), 4 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.57.0](https://github.com/aaif-goose/goose/releases/tag/v1.57.0), 5 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.7](https://github.com/objective-see/LuLu/releases/tag/v4.5.7), 1 day ago) - LuLu is the free open-source macOS firewall
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.581.1](https://github.com/aquaproj/aqua-registry/releases/tag/v4.581.1), 1 day ago) - aqua&#39;s Standard Registry
+- [jdx/hk](https://github.com/jdx/hk) ([v2.11.0](https://github.com/jdx/hk/releases/tag/v2.11.0), 2 days ago) - git hooks and project lints
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.0](https://github.com/tontinton/maki/releases/tag/v0.7.0), 3 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.10.25](https://github.com/jdx/mise/releases/tag/v2026.10.25), 3 days ago) - dev tools, env vars, task runner
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.4](https://github.com/atuinsh/atuin/releases/tag/v18.24.4), 4 days ago) - ✨ Making your shell magical
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.2](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.2), 5 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.57.0](https://github.com/aaif-goose/goose/releases/tag/v1.57.0), 6 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.2.1](https://github.com/Kuberwastaken/claurst/releases/tag/v0.2.1), 1 week ago) - Agentic Coding for Builders who Ship
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2), 1 week ago) - Modern Android client for Hacker News
 
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [LiberNT/LiberNT](https://github.com/LiberNT/LiberNT) - A free Windows-compatible Operating System (today)
-- [VibeDarling/darling](https://github.com/VibeDarling/darling) - Darwin/macOS emulation layer for Linux (today)
-- [replicraft/remade](https://github.com/replicraft/remade) - A community-curated directory for exploring, requesting, and supporting independently recreated software (today)
-- [jlelse/GoBlog](https://github.com/jlelse/GoBlog) - Simple blogging system written in Go (today)
-- [0install/0install-win](https://github.com/0install/0install-win) - Windows version of Zero Install (1 day ago)
-- [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff) - Fast, robust, accurate diffing  (1 day ago)
-- [chris124567/cfsolve](https://github.com/chris124567/cfsolve) - Cloudflare turnstile and challenge page solver in Rust (full reverse, request based) (2 days ago)
-- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust (2 days ago)
-- [emmilco/us-tax-model](https://github.com/emmilco/us-tax-model) - US federal income tax forms and instructions as cited, executable, machine-checkable data. (5 days ago)
-- [column-tax/tax-calc-bench](https://github.com/column-tax/tax-calc-bench) - Code &amp; data for TaxCalcBench (5 days ago)
+- [p1di/spotifusion](https://github.com/p1di/spotifusion) - Ad-free fork of MySpoti with better UI and a refined download engine (1 day ago)
+- [LiberNT/LiberNT](https://github.com/LiberNT/LiberNT) - A free Windows-compatible Operating System (1 day ago)
+- [VibeDarling/darling](https://github.com/VibeDarling/darling) - Darwin/macOS emulation layer for Linux (1 day ago)
+- [replicraft/remade](https://github.com/replicraft/remade) - A community-curated directory for exploring, requesting, and supporting independently recreated software (1 day ago)
+- [jlelse/GoBlog](https://github.com/jlelse/GoBlog) - Simple blogging system written in Go (1 day ago)
+- [0install/0install-win](https://github.com/0install/0install-win) - Windows version of Zero Install (2 days ago)
+- [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff) - Fast, robust, accurate diffing  (2 days ago)
+- [chris124567/cfsolve](https://github.com/chris124567/cfsolve) - Cloudflare turnstile and challenge page solver in Rust (full reverse, request based) (currently broken due to update am fixing) (3 days ago)
+- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust (3 days ago)
+- [emmilco/us-tax-model](https://github.com/emmilco/us-tax-model) - US federal income tax forms and instructions as cited, executable, machine-checkable data. (6 days ago)
 
 #### 📫 How to reach me
 
