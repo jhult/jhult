@@ -20,7 +20,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) - Machine learning based email classification system using IMAP, XGBoost and Random Forest (4 weeks ago)
+- [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) - Machine learning based email classification system using IMAP, XGBoost and Random Forest (1 month ago)
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (1 month ago)
 - [jhult/ladybird-builds](https://github.com/jhult/ladybird-builds) - Unofficial automated macOS arm64 builds of the Ladybird browser (AppKit GUI), packaged as DMG releases (1 month ago)
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (1 month ago)
@@ -33,16 +33,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.5](https://github.com/atuinsh/atuin/releases/tag/v18.24.5), today) - ✨ Making your shell magical
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.3](https://github.com/gastownhall/beads/releases/tag/v1.3.3), 1 day ago) - Beads - A memory upgrade for your coding agent
-- [jdx/hk](https://github.com/jdx/hk) ([v2.11.1](https://github.com/jdx/hk/releases/tag/v2.11.1), 1 day ago) - git hooks and project lints
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.0](https://github.com/jdx/mise/releases/tag/v2026.11.0), 1 day ago) - dev tools, env vars, task runner
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.7](https://github.com/objective-see/LuLu/releases/tag/v4.5.7), 2 days ago) - LuLu is the free open-source macOS firewall
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.581.1](https://github.com/aquaproj/aqua-registry/releases/tag/v4.581.1), 2 days ago) - aqua&#39;s Standard Registry
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.0](https://github.com/tontinton/maki/releases/tag/v0.7.0), 4 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.2](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.2), 6 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.1](https://github.com/jdx/mise/releases/tag/v2026.11.1), 1 day ago) - dev tools, env vars, task runner
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v31.0.0](https://github.com/jsdom/jsdom/releases/tag/v31.0.0), 1 day ago) - A JavaScript implementation of various web standards, for use with Node.js
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.4](https://github.com/gastownhall/beads/releases/tag/v1.3.4), 1 day ago) - Beads - A memory upgrade for your coding agent
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.5](https://github.com/atuinsh/atuin/releases/tag/v18.24.5), 1 day ago) - ✨ Making your shell magical
+- [jdx/hk](https://github.com/jdx/hk) ([v2.11.1](https://github.com/jdx/hk/releases/tag/v2.11.1), 2 days ago) - git hooks and project lints
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.7](https://github.com/objective-see/LuLu/releases/tag/v4.5.7), 3 days ago) - LuLu is the free open-source macOS firewall
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.581.1](https://github.com/aquaproj/aqua-registry/releases/tag/v4.581.1), 3 days ago) - aqua&#39;s Standard Registry
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.0](https://github.com/tontinton/maki/releases/tag/v0.7.0), 5 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.2](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.2), 1 week ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.57.0](https://github.com/aaif-goose/goose/releases/tag/v1.57.0), 1 week ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) ([v0.2.1](https://github.com/Kuberwastaken/claurst/releases/tag/v0.2.1), 1 week ago) - Agentic Coding for Builders who Ship
 
 #### 🔨 My recent Pull Requests
 
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [p1di/spotifusion](https://github.com/p1di/spotifusion) - Ad-free fork of MySpoti with better UI and a refined download engine (2 days ago)
-- [LiberNT/LiberNT](https://github.com/LiberNT/LiberNT) - A free Windows-compatible Operating System (2 days ago)
-- [VibeDarling/darling](https://github.com/VibeDarling/darling) - Darwin/macOS emulation layer for Linux (2 days ago)
-- [replicraft/remade](https://github.com/replicraft/remade) - A community-curated directory for exploring, requesting, and supporting independently recreated software (2 days ago)
-- [jlelse/GoBlog](https://github.com/jlelse/GoBlog) - Simple blogging system written in Go (2 days ago)
-- [0install/0install-win](https://github.com/0install/0install-win) - Windows version of Zero Install (3 days ago)
-- [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff) - Fast, robust, accurate diffing  (3 days ago)
-- [chris124567/cfsolve](https://github.com/chris124567/cfsolve) - Cloudflare turnstile and challenge page solver in Rust (full reverse, request based) (4 days ago)
-- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust (4 days ago)
-- [emmilco/us-tax-model](https://github.com/emmilco/us-tax-model) - US federal income tax forms and instructions as cited, executable, machine-checkable data. (1 week ago)
+- [svenuks/ImsForPixel](https://github.com/svenuks/ImsForPixel) - Rootless VoLTE/VoNR/VoWiFi enabler for Google Pixel — no root, no Shizuku required. Tested on Android 10-17. (1 day ago)
+- [fzakaria/rewindvm](https://github.com/fzakaria/rewindvm) - Deterministic Linux VMs you can scrub, rewind and fork. Find and replay flaky builds and tests. (1 day ago)
+- [flyfishxu/Kadb](https://github.com/flyfishxu/Kadb) - A Kotlin Multiplatform library to connect Android devices directly without ADB binary file. (1 day ago)
+- [laudney/maki-essential-plugins](https://github.com/laudney/maki-essential-plugins) - Essential Lua plugins for Maki (1 day ago)
+- [p1di/spotifusion](https://github.com/p1di/spotifusion) - Ad-free fork of MySpoti with better UI and a refined download engine (3 days ago)
+- [LiberNT/LiberNT](https://github.com/LiberNT/LiberNT) - A free Windows-compatible Operating System (3 days ago)
+- [VibeDarling/darling](https://github.com/VibeDarling/darling) - Darwin/macOS emulation layer for Linux (3 days ago)
+- [replicraft/remade](https://github.com/replicraft/remade) - A community-curated directory for exploring, requesting, and supporting independently recreated software (3 days ago)
+- [jlelse/GoBlog](https://github.com/jlelse/GoBlog) - Simple blogging system written in Go (3 days ago)
+- [0install/0install-win](https://github.com/0install/0install-win) - Windows version of Zero Install (4 days ago)
 
 #### 📫 How to reach me
 
