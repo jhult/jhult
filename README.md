@@ -24,30 +24,30 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (1 month ago)
 - [jhult/ladybird-builds](https://github.com/jhult/ladybird-builds) - Unofficial automated macOS arm64 builds of the Ladybird browser (AppKit GUI), packaged as DMG releases (1 month ago)
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (1 month ago)
+- [tontinton/makiconf](https://github.com/tontinton/makiconf) - My maki conf (1 month ago)
 - [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim-like Lua plugins (1 month ago)
 - [neocanable/garlic](https://github.com/neocanable/garlic) - The world&#39;s fastest apk (android)/java open source decompiler (2 months ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (3 months ago)
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js (3 months ago)
 - [piyushsingariya/split-pr](https://github.com/piyushsingariya/split-pr) - AI skill to split PRs (3 months ago)
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.1](https://github.com/tontinton/maki/releases/tag/v0.7.1), 1 day ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2.3](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2.3), 1 day ago) - Modern Android client for Hacker News
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.582.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.582.0), 1 day ago) - aqua&#39;s Standard Registry
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.3](https://github.com/jdx/mise/releases/tag/v2026.11.3), 1 day ago) - dev tools, env vars, task runner
-- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v31.0.0](https://github.com/jsdom/jsdom/releases/tag/v31.0.0), 2 days ago) - A JavaScript implementation of various web standards, for use with Node.js
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.4](https://github.com/gastownhall/beads/releases/tag/v1.3.4), 3 days ago) - Beads - A memory upgrade for your coding agent
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.5](https://github.com/atuinsh/atuin/releases/tag/v18.24.5), 3 days ago) - ✨ Making your shell magical
-- [jdx/hk](https://github.com/jdx/hk) ([v2.11.1](https://github.com/jdx/hk/releases/tag/v2.11.1), 4 days ago) - git hooks and project lints
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.7](https://github.com/objective-see/LuLu/releases/tag/v4.5.7), 5 days ago) - LuLu is the free open-source macOS firewall
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2.4](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2.4), 1 day ago) - Modern Android client for Hacker News
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.4](https://github.com/jdx/mise/releases/tag/v2026.11.4), 1 day ago) - dev tools, env vars, task runner
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.583.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.583.0), 1 day ago) - aqua&#39;s Standard Registry
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.1](https://github.com/tontinton/maki/releases/tag/v0.7.1), 2 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v31.0.0](https://github.com/jsdom/jsdom/releases/tag/v31.0.0), 3 days ago) - A JavaScript implementation of various web standards, for use with Node.js
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.4](https://github.com/gastownhall/beads/releases/tag/v1.3.4), 4 days ago) - Beads - A memory upgrade for your coding agent
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.5](https://github.com/atuinsh/atuin/releases/tag/v18.24.5), 4 days ago) - ✨ Making your shell magical
+- [jdx/hk](https://github.com/jdx/hk) ([v2.11.1](https://github.com/jdx/hk/releases/tag/v2.11.1), 5 days ago) - git hooks and project lints
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.7](https://github.com/objective-see/LuLu/releases/tag/v4.5.7), 6 days ago) - LuLu is the free open-source macOS firewall
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.2](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.2), 1 week ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/zipadoodlez/a_swaybar/pull/1) on [zipadoodlez/a_swaybar](https://github.com/zipadoodlez/a_swaybar) (1 day ago)
-- [Add MIT license](https://github.com/zipadoodlez/maki-session-status/pull/1) on [zipadoodlez/maki-session-status](https://github.com/zipadoodlez/maki-session-status) (1 day ago)
+- [Add MIT license](https://github.com/zipadoodlez/a_swaybar/pull/1) on [zipadoodlez/a_swaybar](https://github.com/zipadoodlez/a_swaybar) (2 days ago)
+- [Add MIT license](https://github.com/zipadoodlez/maki-session-status/pull/1) on [zipadoodlez/maki-session-status](https://github.com/zipadoodlez/maki-session-status) (2 days ago)
 - [Add MIT license](https://github.com/Srinivasa000/Smart-Email-Classifier-System/pull/1) on [Srinivasa000/Smart-Email-Classifier-System](https://github.com/Srinivasa000/Smart-Email-Classifier-System) (1 month ago)
 - [Add MIT license](https://github.com/akash-k-yadav/email-intelligence-system/pull/1) on [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) (1 month ago)
 - [Add MIT license](https://github.com/jjcm/makefaster/pull/17) on [jjcm/makefaster](https://github.com/jjcm/makefaster) (1 month ago)
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [pederbe/udpstp](https://github.com/pederbe/udpstp) - udpstp measures network-path capacity, loss and delay with authenticated tests and text or JSON results. A Rust implementation of RFC 9946. (today)
-- [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) - A macOS menu-bar app that dresses your windows in knitted borders. (1 day ago)
-- [y4my4my4m/harmony](https://github.com/y4my4my4m/harmony) - Federated social app: Discord-style servers and chat with ActivityPub. Vue 3 &#43; Supabase &#43; Tauri. (2 days ago)
-- [svenuks/ImsForPixel](https://github.com/svenuks/ImsForPixel) - Rootless VoLTE/VoNR/VoWiFi enabler for Google Pixel — no root, no Shizuku required. Tested on Android 10-17. (3 days ago)
-- [fzakaria/rewindvm](https://github.com/fzakaria/rewindvm) - Deterministic Linux VMs you can scrub, rewind and fork. Find and replay flaky builds and tests. (3 days ago)
-- [flyfishxu/Kadb](https://github.com/flyfishxu/Kadb) - A Kotlin Multiplatform library to connect Android devices directly without ADB binary file. (3 days ago)
-- [laudney/maki-essential-plugins](https://github.com/laudney/maki-essential-plugins) - Essential Lua plugins for Maki (3 days ago)
-- [p1di/spotifusion](https://github.com/p1di/spotifusion) - Ad-free fork of MySpoti with better UI and a refined download engine (5 days ago)
-- [LiberNT/LiberNT](https://github.com/LiberNT/LiberNT) - A free Windows-compatible Operating System (5 days ago)
-- [VibeDarling/darling](https://github.com/VibeDarling/darling) - Darwin/macOS emulation layer for Linux (5 days ago)
+- [pederbe/udpstp](https://github.com/pederbe/udpstp) - udpstp measures network-path capacity, loss and delay with authenticated tests and text or JSON results. A Rust implementation of RFC 9946. (1 day ago)
+- [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) - A macOS menu-bar app that dresses your windows in knitted borders. (2 days ago)
+- [y4my4my4m/harmony](https://github.com/y4my4my4m/harmony) - Federated social app: Discord-style servers and chat with ActivityPub. Vue 3 &#43; Supabase &#43; Tauri. (3 days ago)
+- [svenuks/ImsForPixel](https://github.com/svenuks/ImsForPixel) - Rootless VoLTE/VoNR/VoWiFi enabler for Google Pixel — no root, no Shizuku required. Tested on Android 10-17. (4 days ago)
+- [fzakaria/rewindvm](https://github.com/fzakaria/rewindvm) - Deterministic Linux VMs you can scrub, rewind and fork. Find and replay flaky builds and tests. (4 days ago)
+- [flyfishxu/Kadb](https://github.com/flyfishxu/Kadb) - A Kotlin Multiplatform library to connect Android devices directly without ADB binary file. (4 days ago)
+- [laudney/maki-essential-plugins](https://github.com/laudney/maki-essential-plugins) - Essential Lua plugins for Maki (4 days ago)
+- [p1di/spotifusion](https://github.com/p1di/spotifusion) - Ad-free fork of MySpoti with better UI and a refined download engine (6 days ago)
+- [LiberNT/LiberNT](https://github.com/LiberNT/LiberNT) - A free Windows-compatible Operating System (6 days ago)
+- [VibeDarling/darling](https://github.com/VibeDarling/darling) - Darwin/macOS emulation layer for Linux (6 days ago)
 
 #### 📫 How to reach me
 
