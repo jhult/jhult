@@ -20,34 +20,34 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
+- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (1 day ago)
 - [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) - Machine learning based email classification system using IMAP, XGBoost and Random Forest (1 month ago)
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (1 month ago)
 - [jhult/ladybird-builds](https://github.com/jhult/ladybird-builds) - Unofficial automated macOS arm64 builds of the Ladybird browser (AppKit GUI), packaged as DMG releases (1 month ago)
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (1 month ago)
 - [tontinton/makiconf](https://github.com/tontinton/makiconf) - My maki conf (1 month ago)
-- [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim-like Lua plugins (1 month ago)
+- [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim-like Lua plugins (2 months ago)
 - [neocanable/garlic](https://github.com/neocanable/garlic) - The world&#39;s fastest apk (android)/java open source decompiler (2 months ago)
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that&#39;s 10-100x for most operations. (3 months ago)
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js (3 months ago)
-- [piyushsingariya/split-pr](https://github.com/piyushsingariya/split-pr) - AI skill to split PRs (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.7](https://github.com/jdx/mise/releases/tag/v2026.11.7), today) - dev tools, env vars, task runner
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2.6](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2.6), 1 day ago) - Modern Android client for Hacker News
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.584.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.584.0), 1 day ago) - aqua&#39;s Standard Registry
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.58.1](https://github.com/aaif-goose/goose/releases/tag/v1.58.1), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.6](https://github.com/atuinsh/atuin/releases/tag/v18.24.6), 2 days ago) - ✨ Making your shell magical
-- [jdx/hk](https://github.com/jdx/hk) ([v2.12.0](https://github.com/jdx/hk/releases/tag/v2.12.0), 3 days ago) - git hooks and project lints
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.1](https://github.com/tontinton/maki/releases/tag/v0.7.1), 6 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.8](https://github.com/atuinsh/atuin/releases/tag/v18.24.8), today) - ✨ Making your shell magical
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.585.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.585.0), today) - aqua&#39;s Standard Registry
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.4.0-rc.1](https://github.com/gastownhall/beads/releases/tag/v1.4.0-rc.1), 1 day ago) - Beads - A memory upgrade for your coding agent
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2.7](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2.7), 1 day ago) - Modern Android client for Hacker News
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.7](https://github.com/jdx/mise/releases/tag/v2026.11.7), 1 day ago) - dev tools, env vars, task runner
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.58.1](https://github.com/aaif-goose/goose/releases/tag/v1.58.1), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/hk](https://github.com/jdx/hk) ([v2.12.0](https://github.com/jdx/hk/releases/tag/v2.12.0), 4 days ago) - git hooks and project lints
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.1](https://github.com/tontinton/maki/releases/tag/v0.7.1), 1 week ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v31.0.0](https://github.com/jsdom/jsdom/releases/tag/v31.0.0), 1 week ago) - A JavaScript implementation of various web standards, for use with Node.js
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.3.4](https://github.com/gastownhall/beads/releases/tag/v1.3.4), 1 week ago) - Beads - A memory upgrade for your coding agent
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.7](https://github.com/objective-see/LuLu/releases/tag/v4.5.7), 1 week ago) - LuLu is the free open-source macOS firewall
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/zipadoodlez/a_swaybar/pull/1) on [zipadoodlez/a_swaybar](https://github.com/zipadoodlez/a_swaybar) (6 days ago)
-- [Add MIT license](https://github.com/zipadoodlez/maki-session-status/pull/1) on [zipadoodlez/maki-session-status](https://github.com/zipadoodlez/maki-session-status) (6 days ago)
+- [Add MIT license](https://github.com/zipadoodlez/a_swaybar/pull/1) on [zipadoodlez/a_swaybar](https://github.com/zipadoodlez/a_swaybar) (1 week ago)
+- [Add MIT license](https://github.com/zipadoodlez/maki-session-status/pull/1) on [zipadoodlez/maki-session-status](https://github.com/zipadoodlez/maki-session-status) (1 week ago)
 - [Add MIT license](https://github.com/Srinivasa000/Smart-Email-Classifier-System/pull/1) on [Srinivasa000/Smart-Email-Classifier-System](https://github.com/Srinivasa000/Smart-Email-Classifier-System) (1 month ago)
 - [Add MIT license](https://github.com/akash-k-yadav/email-intelligence-system/pull/1) on [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) (1 month ago)
 - [Add MIT license](https://github.com/jjcm/makefaster/pull/17) on [jjcm/makefaster](https://github.com/jjcm/makefaster) (1 month ago)
@@ -55,20 +55,20 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [Add MIT license](https://github.com/Asaf51/maki-review/pull/2) on [Asaf51/maki-review](https://github.com/Asaf51/maki-review) (1 month ago)
 - [Add MIT license](https://github.com/g4bwy/maki-plugins/pull/1) on [g4bwy/maki-plugins](https://github.com/g4bwy/maki-plugins) (1 month ago)
 - [feat: add --worktree flag to run maki in an isolated git worktree](https://github.com/tontinton/maki/pull/1018) on [tontinton/maki](https://github.com/tontinton/maki) (1 month ago)
-- [Fix flaky tests and a macOS APFS test fallout](https://github.com/tontinton/maki/pull/1015) on [tontinton/maki](https://github.com/tontinton/maki) (1 month ago)
+- [Fix flaky tests and a macOS APFS test fallout](https://github.com/tontinton/maki/pull/1015) on [tontinton/maki](https://github.com/tontinton/maki) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [itskhalil/talky](https://github.com/itskhalil/talky) - A free, open source meeting notes app with live transcription and AI-powered note enhancement. (1 day ago)
-- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes. Free and open source. (1 day ago)
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (3 days ago)
-- [SysAdminDoc/HushGram](https://github.com/SysAdminDoc/HushGram) - HushGram v0.0.19: Morphe patches for Instagram that hide ads, suggested posts and much more. 154 patches for Instagram 454.0.0.54.77. (4 days ago)
-- [pederbe/udpstp](https://github.com/pederbe/udpstp) - udpstp measures network-path capacity, loss and delay with authenticated tests and text or JSON results. A Rust implementation of RFC 9946. (5 days ago)
-- [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) - A macOS menu-bar app that dresses your windows in knitted borders. (6 days ago)
+- [bkerler/edl](https://github.com/bkerler/edl) - Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :) (1 day ago)
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A feature flag daemon with a Unix philosophy (1 day ago)
+- [itskhalil/talky](https://github.com/itskhalil/talky) - A free, open source meeting notes app with live transcription and AI-powered note enhancement. (2 days ago)
+- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes. Free and open source. (2 days ago)
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (4 days ago)
+- [SysAdminDoc/HushGram](https://github.com/SysAdminDoc/HushGram) - HushGram v0.0.19: Morphe patches for Instagram that hide ads, suggested posts and much more. 154 patches for Instagram 454.0.0.54.77. (5 days ago)
+- [pederbe/udpstp](https://github.com/pederbe/udpstp) - udpstp measures network-path capacity, loss and delay with authenticated tests and text or JSON results. A Rust implementation of RFC 9946. (6 days ago)
+- [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) - A macOS menu-bar app that dresses your windows in knitted borders. (1 week ago)
 - [y4my4my4m/harmony](https://github.com/y4my4my4m/harmony) - Federated social app: Discord-style servers and chat with ActivityPub. Vue 3 &#43; Supabase &#43; Tauri. (1 week ago)
 - [svenuks/ImsForPixel](https://github.com/svenuks/ImsForPixel) - Rootless VoLTE/VoNR/VoWiFi enabler for Google Pixel — no root, no Shizuku required. Tested on Android 10-17. (1 week ago)
-- [fzakaria/rewindvm](https://github.com/fzakaria/rewindvm) - Deterministic Linux VMs you can scrub, rewind and fork. Find and replay flaky builds and tests. (1 week ago)
-- [flyfishxu/Kadb](https://github.com/flyfishxu/Kadb) - A Kotlin Multiplatform library to connect Android devices directly without ADB binary file. (1 week ago)
 
 #### 📫 How to reach me
 
