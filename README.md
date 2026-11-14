@@ -33,15 +33,15 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.8](https://github.com/atuinsh/atuin/releases/tag/v18.24.8), today) - ✨ Making your shell magical
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.585.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.585.0), today) - aqua&#39;s Standard Registry
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.4.0-rc.1](https://github.com/gastownhall/beads/releases/tag/v1.4.0-rc.1), 1 day ago) - Beads - A memory upgrade for your coding agent
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2.7](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2.7), 1 day ago) - Modern Android client for Hacker News
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.7](https://github.com/jdx/mise/releases/tag/v2026.11.7), 1 day ago) - dev tools, env vars, task runner
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.58.1](https://github.com/aaif-goose/goose/releases/tag/v1.58.1), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [jdx/hk](https://github.com/jdx/hk) ([v2.12.0](https://github.com/jdx/hk/releases/tag/v2.12.0), 4 days ago) - git hooks and project lints
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.8](https://github.com/jdx/mise/releases/tag/v2026.11.8), 1 day ago) - dev tools, env vars, task runner
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.4.0-rc.2](https://github.com/gastownhall/beads/releases/tag/v1.4.0-rc.2), 1 day ago) - Beads - A memory upgrade for your coding agent
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v31.0.1](https://github.com/jsdom/jsdom/releases/tag/v31.0.1), 1 day ago) - A JavaScript implementation of various web standards, for use with Node.js
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.8](https://github.com/atuinsh/atuin/releases/tag/v18.24.8), 1 day ago) - ✨ Making your shell magical
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.585.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.585.0), 1 day ago) - aqua&#39;s Standard Registry
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2.7](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2.7), 2 days ago) - Modern Android client for Hacker News
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.58.1](https://github.com/aaif-goose/goose/releases/tag/v1.58.1), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/hk](https://github.com/jdx/hk) ([v2.12.0](https://github.com/jdx/hk/releases/tag/v2.12.0), 5 days ago) - git hooks and project lints
 - [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.1](https://github.com/tontinton/maki/releases/tag/v0.7.1), 1 week ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v31.0.0](https://github.com/jsdom/jsdom/releases/tag/v31.0.0), 1 week ago) - A JavaScript implementation of various web standards, for use with Node.js
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.7](https://github.com/objective-see/LuLu/releases/tag/v4.5.7), 1 week ago) - LuLu is the free open-source macOS firewall
 
 #### 🔨 My recent Pull Requests
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [bkerler/edl](https://github.com/bkerler/edl) - Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :) (1 day ago)
-- [open-feature/flagd](https://github.com/open-feature/flagd) - A feature flag daemon with a Unix philosophy (1 day ago)
-- [itskhalil/talky](https://github.com/itskhalil/talky) - A free, open source meeting notes app with live transcription and AI-powered note enhancement. (2 days ago)
-- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes. Free and open source. (2 days ago)
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (4 days ago)
-- [SysAdminDoc/HushGram](https://github.com/SysAdminDoc/HushGram) - HushGram v0.0.19: Morphe patches for Instagram that hide ads, suggested posts and much more. 154 patches for Instagram 454.0.0.54.77. (5 days ago)
-- [pederbe/udpstp](https://github.com/pederbe/udpstp) - udpstp measures network-path capacity, loss and delay with authenticated tests and text or JSON results. A Rust implementation of RFC 9946. (6 days ago)
-- [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) - A macOS menu-bar app that dresses your windows in knitted borders. (1 week ago)
-- [y4my4my4m/harmony](https://github.com/y4my4my4m/harmony) - Federated social app: Discord-style servers and chat with ActivityPub. Vue 3 &#43; Supabase &#43; Tauri. (1 week ago)
-- [svenuks/ImsForPixel](https://github.com/svenuks/ImsForPixel) - Rootless VoLTE/VoNR/VoWiFi enabler for Google Pixel — no root, no Shizuku required. Tested on Android 10-17. (1 week ago)
+- [leshchenko1979/html-render](https://github.com/leshchenko1979/html-render) - Convert HTML/CSS to PNG and screenshots in Rust, with no headless browser: 2.49x faster and 9.19x lighter than Chromium. (1 day ago)
+- [LaurenzV/krilla](https://github.com/LaurenzV/krilla) - A high-level, ergonomic Rust library for creating PDF documents. (1 day ago)
+- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust (1 day ago)
+- [litehtml/litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine (1 day ago)
+- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages. (1 day ago)
+- [oll3/bita](https://github.com/oll3/bita) - Differential file synchronization over http (1 day ago)
+- [folbricht/desync](https://github.com/folbricht/desync) - Alternative casync implementation (1 day ago)
+- [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool (1 day ago)
+- [bkerler/edl](https://github.com/bkerler/edl) - Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :) (2 days ago)
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A feature flag daemon with a Unix philosophy (2 days ago)
 
 #### 📫 How to reach me
 
