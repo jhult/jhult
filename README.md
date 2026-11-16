@@ -20,8 +20,8 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (1 day ago)
-- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (2 days ago)
+- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (2 days ago)
+- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (3 days ago)
 - [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) - Machine learning based email classification system using IMAP, XGBoost and Random Forest (1 month ago)
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (1 month ago)
 - [jhult/ladybird-builds](https://github.com/jhult/ladybird-builds) - Unofficial automated macOS arm64 builds of the Ladybird browser (AppKit GUI), packaged as DMG releases (1 month ago)
@@ -33,16 +33,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.586.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.586.0), 1 day ago) - aqua&#39;s Standard Registry
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.2](https://github.com/tontinton/maki/releases/tag/v0.7.2), 1 day ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.59.1](https://github.com/aaif-goose/goose/releases/tag/v1.59.1), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.8](https://github.com/jdx/mise/releases/tag/v2026.11.8), 2 days ago) - dev tools, env vars, task runner
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.4.0-rc.2](https://github.com/gastownhall/beads/releases/tag/v1.4.0-rc.2), 2 days ago) - Beads - A memory upgrade for your coding agent
-- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v31.0.1](https://github.com/jsdom/jsdom/releases/tag/v31.0.1), 2 days ago) - A JavaScript implementation of various web standards, for use with Node.js
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.8](https://github.com/atuinsh/atuin/releases/tag/v18.24.8), 2 days ago) - ✨ Making your shell magical
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2.7](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2.7), 3 days ago) - Modern Android client for Hacker News
-- [jdx/hk](https://github.com/jdx/hk) ([v2.12.0](https://github.com/jdx/hk/releases/tag/v2.12.0), 6 days ago) - git hooks and project lints
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.7](https://github.com/objective-see/LuLu/releases/tag/v4.5.7), 1 week ago) - LuLu is the free open-source macOS firewall
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.587.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.587.0), 1 day ago) - aqua&#39;s Standard Registry
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.2](https://github.com/tontinton/maki/releases/tag/v0.7.2), 2 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.59.1](https://github.com/aaif-goose/goose/releases/tag/v1.59.1), 2 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.8](https://github.com/jdx/mise/releases/tag/v2026.11.8), 3 days ago) - dev tools, env vars, task runner
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.4.0-rc.2](https://github.com/gastownhall/beads/releases/tag/v1.4.0-rc.2), 3 days ago) - Beads - A memory upgrade for your coding agent
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v31.0.1](https://github.com/jsdom/jsdom/releases/tag/v31.0.1), 3 days ago) - A JavaScript implementation of various web standards, for use with Node.js
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.8](https://github.com/atuinsh/atuin/releases/tag/v18.24.8), 3 days ago) - ✨ Making your shell magical
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2.7](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2.7), 4 days ago) - Modern Android client for Hacker News
+- [jdx/hk](https://github.com/jdx/hk) ([v2.12.0](https://github.com/jdx/hk/releases/tag/v2.12.0), 1 week ago) - git hooks and project lints
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.5.7](https://github.com/objective-see/LuLu/releases/tag/v4.5.7), 2 weeks ago) - LuLu is the free open-source macOS firewall
 
 #### 🔨 My recent Pull Requests
 
@@ -51,24 +51,24 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 - [Add MIT license](https://github.com/Srinivasa000/Smart-Email-Classifier-System/pull/1) on [Srinivasa000/Smart-Email-Classifier-System](https://github.com/Srinivasa000/Smart-Email-Classifier-System) (1 month ago)
 - [Add MIT license](https://github.com/akash-k-yadav/email-intelligence-system/pull/1) on [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) (1 month ago)
 - [Add MIT license](https://github.com/jjcm/makefaster/pull/17) on [jjcm/makefaster](https://github.com/jjcm/makefaster) (1 month ago)
-- [Add MIT license](https://github.com/tontinton/makiconf/pull/1) on [tontinton/makiconf](https://github.com/tontinton/makiconf) (1 month ago)
-- [Add MIT license](https://github.com/Asaf51/maki-review/pull/2) on [Asaf51/maki-review](https://github.com/Asaf51/maki-review) (1 month ago)
-- [Add MIT license](https://github.com/g4bwy/maki-plugins/pull/1) on [g4bwy/maki-plugins](https://github.com/g4bwy/maki-plugins) (1 month ago)
+- [Add MIT license](https://github.com/tontinton/makiconf/pull/1) on [tontinton/makiconf](https://github.com/tontinton/makiconf) (2 months ago)
+- [Add MIT license](https://github.com/Asaf51/maki-review/pull/2) on [Asaf51/maki-review](https://github.com/Asaf51/maki-review) (2 months ago)
+- [Add MIT license](https://github.com/g4bwy/maki-plugins/pull/1) on [g4bwy/maki-plugins](https://github.com/g4bwy/maki-plugins) (2 months ago)
 - [feat: add --worktree flag to run maki in an isolated git worktree](https://github.com/tontinton/maki/pull/1018) on [tontinton/maki](https://github.com/tontinton/maki) (2 months ago)
 - [Fix flaky tests and a macOS APFS test fallout](https://github.com/tontinton/maki/pull/1015) on [tontinton/maki](https://github.com/tontinton/maki) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [leshchenko1979/html-render](https://github.com/leshchenko1979/html-render) - Convert HTML/CSS to PNG and screenshots in Rust, no headless browser: 2.34x faster and 3.12x lighter than Chromium on the plain --clip recipe. (2 days ago)
-- [LaurenzV/krilla](https://github.com/LaurenzV/krilla) - A high-level, ergonomic Rust library for creating PDF documents. (2 days ago)
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust (2 days ago)
-- [litehtml/litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine (2 days ago)
-- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages. (2 days ago)
-- [oll3/bita](https://github.com/oll3/bita) - Differential file synchronization over http (2 days ago)
-- [folbricht/desync](https://github.com/folbricht/desync) - Alternative casync implementation (2 days ago)
-- [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool (2 days ago)
-- [bkerler/edl](https://github.com/bkerler/edl) - Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :) (3 days ago)
-- [open-feature/flagd](https://github.com/open-feature/flagd) - A feature flag daemon with a Unix philosophy (3 days ago)
+- [clice-io/clice](https://github.com/clice-io/clice) - A next-generation C&#43;&#43; language server for modern C&#43;&#43;, focused on high performance and deep code intelligence (today)
+- [leshchenko1979/html-render](https://github.com/leshchenko1979/html-render) - HTML/CSS to PNG in a single Rust process, with no browser in the loop: at least 31x less memory than headless Chromium on the repo&#39;s own 8-slide deck. Linux x86_64. (3 days ago)
+- [LaurenzV/krilla](https://github.com/LaurenzV/krilla) - A high-level, ergonomic Rust library for creating PDF documents. (3 days ago)
+- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust (3 days ago)
+- [litehtml/litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine (3 days ago)
+- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages. (3 days ago)
+- [oll3/bita](https://github.com/oll3/bita) - Differential file synchronization over http (3 days ago)
+- [folbricht/desync](https://github.com/folbricht/desync) - Alternative casync implementation (3 days ago)
+- [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool (3 days ago)
+- [bkerler/edl](https://github.com/bkerler/edl) - Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :) (4 days ago)
 
 #### 📫 How to reach me
 
