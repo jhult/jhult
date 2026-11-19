@@ -20,9 +20,9 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (2 days ago)
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (4 days ago)
-- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (5 days ago)
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (3 days ago)
+- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (5 days ago)
+- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (6 days ago)
 - [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) - Machine learning based email classification system using IMAP, XGBoost and Random Forest (1 month ago)
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (1 month ago)
 - [jhult/ladybird-builds](https://github.com/jhult/ladybird-builds) - Unofficial automated macOS arm64 builds of the Ladybird browser (AppKit GUI), packaged as DMG releases (1 month ago)
@@ -33,16 +33,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.589.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.589.0), today) - aqua&#39;s Standard Registry
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.60.1](https://github.com/aaif-goose/goose/releases/tag/v1.60.1), today) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.4.0-rc.3](https://github.com/gastownhall/beads/releases/tag/v1.4.0-rc.3), today) - Beads - A memory upgrade for your coding agent
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.3](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.3), 1 day ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
-- [jdx/hk](https://github.com/jdx/hk) ([v2.13.0](https://github.com/jdx/hk/releases/tag/v2.13.0), 2 days ago) - git hooks and project lints
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.9](https://github.com/jdx/mise/releases/tag/v2026.11.9), 2 days ago) - dev tools, env vars, task runner
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.2](https://github.com/tontinton/maki/releases/tag/v0.7.2), 4 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v31.0.1](https://github.com/jsdom/jsdom/releases/tag/v31.0.1), 5 days ago) - A JavaScript implementation of various web standards, for use with Node.js
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.8](https://github.com/atuinsh/atuin/releases/tag/v18.24.8), 5 days ago) - ✨ Making your shell magical
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2.7](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2.7), 6 days ago) - Modern Android client for Hacker News
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.10](https://github.com/jdx/mise/releases/tag/v2026.11.10), 1 day ago) - dev tools, env vars, task runner
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.589.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.589.0), 1 day ago) - aqua&#39;s Standard Registry
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.60.1](https://github.com/aaif-goose/goose/releases/tag/v1.60.1), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.4.0-rc.3](https://github.com/gastownhall/beads/releases/tag/v1.4.0-rc.3), 1 day ago) - Beads - A memory upgrade for your coding agent
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.3](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.3), 2 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
+- [jdx/hk](https://github.com/jdx/hk) ([v2.13.0](https://github.com/jdx/hk/releases/tag/v2.13.0), 3 days ago) - git hooks and project lints
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.2](https://github.com/tontinton/maki/releases/tag/v0.7.2), 5 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v31.0.1](https://github.com/jsdom/jsdom/releases/tag/v31.0.1), 6 days ago) - A JavaScript implementation of various web standards, for use with Node.js
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.24.8](https://github.com/atuinsh/atuin/releases/tag/v18.24.8), 6 days ago) - ✨ Making your shell magical
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2.7](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2.7), 1 week ago) - Modern Android client for Hacker News
 
 #### 🔨 My recent Pull Requests
 
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [agentpatterns-ai/website](https://github.com/agentpatterns-ai/website) - Website content for agentpatterns.ai (1 day ago)
-- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (1 day ago)
-- [clice-io/clice](https://github.com/clice-io/clice) - A C/C&#43;&#43;, Objective-C and CUDA language server built on Clang: crash-isolated worker processes, C&#43;&#43;20 modules and compilation contexts out of the box, plus a CLI to index, query and refactor whole projects. (2 days ago)
-- [leshchenko1979/pageplate](https://github.com/leshchenko1979/pageplate) - HTML/CSS to PNG. A lightweight CLI tool with no browser in the loop. At least 31x less memory than headless Chromium. (5 days ago)
-- [LaurenzV/krilla](https://github.com/LaurenzV/krilla) - A high-level, ergonomic Rust library for creating PDF documents. (5 days ago)
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust (5 days ago)
-- [litehtml/litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine (5 days ago)
-- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages. (5 days ago)
-- [oll3/bita](https://github.com/oll3/bita) - Differential file synchronization over http (5 days ago)
-- [folbricht/desync](https://github.com/folbricht/desync) - Alternative casync implementation (5 days ago)
+- [cyrusimap/cyrus-imapd](https://github.com/cyrusimap/cyrus-imapd) - Cyrus IMAP is an email, contacts and calendar server (1 day ago)
+- [cuza/Parley](https://github.com/cuza/Parley) - A native macOS client for Google Chat, built with SwiftUI and AppKit. Unofficial. (1 day ago)
+- [agentpatterns-ai/website](https://github.com/agentpatterns-ai/website) - Website content for agentpatterns.ai (2 days ago)
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (2 days ago)
+- [clice-io/clice](https://github.com/clice-io/clice) - A C/C&#43;&#43;, Objective-C and CUDA language server built on Clang: crash-isolated worker processes, C&#43;&#43;20 modules and compilation contexts out of the box, plus a CLI to index, query and refactor whole projects. (3 days ago)
+- [leshchenko1979/pageplate](https://github.com/leshchenko1979/pageplate) - HTML/CSS to PNG. A lightweight CLI tool with no browser in the loop. At least 31x less memory than headless Chromium. (6 days ago)
+- [LaurenzV/krilla](https://github.com/LaurenzV/krilla) - A high-level, ergonomic Rust library for creating PDF documents. (6 days ago)
+- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust (6 days ago)
+- [litehtml/litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine (6 days ago)
+- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages. (6 days ago)
 
 #### 📫 How to reach me
 
