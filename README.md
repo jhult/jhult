@@ -20,7 +20,7 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (3 days ago)
+- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (4 days ago)
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (1 week ago)
 - [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (1 week ago)
 - [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) - Machine learning based email classification system using IMAP, XGBoost and Random Forest (1 month ago)
@@ -33,15 +33,15 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.591.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.591.0), 1 day ago) - aqua&#39;s Standard Registry
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.12](https://github.com/jdx/mise/releases/tag/v2026.11.12), 2 days ago) - dev tools, env vars, task runner
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.4.0-rc.4](https://github.com/gastownhall/beads/releases/tag/v1.4.0-rc.4), 3 days ago) - Beads - A memory upgrade for your coding agent
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.25.1](https://github.com/atuinsh/atuin/releases/tag/v18.25.1), 3 days ago) - ✨ Making your shell magical
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2.9](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2.9), 3 days ago) - Modern Android client for Hacker News
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.60.2](https://github.com/aaif-goose/goose/releases/tag/v1.60.2), 3 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.3](https://github.com/tontinton/maki/releases/tag/v0.7.3), 4 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.3](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.3), 6 days ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
-- [jdx/hk](https://github.com/jdx/hk) ([v2.13.0](https://github.com/jdx/hk/releases/tag/v2.13.0), 1 week ago) - git hooks and project lints
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.592.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.592.0), today) - aqua&#39;s Standard Registry
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.13](https://github.com/jdx/mise/releases/tag/v2026.11.13), 1 day ago) - dev tools, env vars, task runner
+- [jdx/hk](https://github.com/jdx/hk) ([v2.14.0](https://github.com/jdx/hk/releases/tag/v2.14.0), 1 day ago) - git hooks and project lints
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.4.0-rc.4](https://github.com/gastownhall/beads/releases/tag/v1.4.0-rc.4), 4 days ago) - Beads - A memory upgrade for your coding agent
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.25.1](https://github.com/atuinsh/atuin/releases/tag/v18.25.1), 4 days ago) - ✨ Making your shell magical
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2.9](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2.9), 4 days ago) - Modern Android client for Hacker News
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.60.2](https://github.com/aaif-goose/goose/releases/tag/v1.60.2), 4 days ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.3](https://github.com/tontinton/maki/releases/tag/v0.7.3), 5 days ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
+- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.3](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.3), 1 week ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) ([v31.0.1](https://github.com/jsdom/jsdom/releases/tag/v31.0.1), 1 week ago) - A JavaScript implementation of various web standards, for use with Node.js
 
 #### 🔨 My recent Pull Requests
@@ -59,16 +59,16 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [jdx/jouet](https://github.com/jdx/jouet) - [experimental] A toolkit CLI for coding agents. (3 days ago)
-- [jdx/mr-boxington](https://github.com/jdx/mr-boxington) -  (3 days ago)
-- [jdx/mr-boxington-action](https://github.com/jdx/mr-boxington-action) - Set up mr boxington with GitHub Actions cache or an mbx cache server (3 days ago)
-- [jdx/tak](https://github.com/jdx/tak) - Experimental: benchmark CLIs and track performance over time. Do not use. (3 days ago)
-- [jdx/jactionlint](https://github.com/jdx/jactionlint) - :octocat: Static checker for GitHub Actions workflow files (3 days ago)
-- [jdx/demand](https://github.com/jdx/demand) - prompt library for rust (3 days ago)
-- [cyrusimap/cyrus-imapd](https://github.com/cyrusimap/cyrus-imapd) - Cyrus IMAP is an email, contacts and calendar server (5 days ago)
-- [cuza/Parley](https://github.com/cuza/Parley) - A native macOS client for Google Chat, built with SwiftUI and AppKit. Unofficial. (5 days ago)
-- [agentpatterns-ai/website](https://github.com/agentpatterns-ai/website) - Website content for agentpatterns.ai (6 days ago)
-- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (6 days ago)
+- [jdx/jouet](https://github.com/jdx/jouet) - [experimental] A toolkit CLI for coding agents. (4 days ago)
+- [jdx/mr-boxington](https://github.com/jdx/mr-boxington) -  (4 days ago)
+- [jdx/mr-boxington-action](https://github.com/jdx/mr-boxington-action) - Set up mr boxington with GitHub Actions cache or an mbx cache server (4 days ago)
+- [jdx/tak](https://github.com/jdx/tak) - Experimental: benchmark CLIs and track performance over time. Do not use. (4 days ago)
+- [jdx/jactionlint](https://github.com/jdx/jactionlint) - :octocat: Static checker for GitHub Actions workflow files (4 days ago)
+- [jdx/demand](https://github.com/jdx/demand) - prompt library for rust (4 days ago)
+- [cyrusimap/cyrus-imapd](https://github.com/cyrusimap/cyrus-imapd) - Cyrus IMAP is an email, contacts and calendar server (6 days ago)
+- [cuza/Parley](https://github.com/cuza/Parley) - A native macOS client for Google Chat, built with SwiftUI and AppKit. Unofficial. (6 days ago)
+- [agentpatterns-ai/website](https://github.com/agentpatterns-ai/website) - Website content for agentpatterns.ai (1 week ago)
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (1 week ago)
 
 #### 📫 How to reach me
 
