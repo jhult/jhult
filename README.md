@@ -20,10 +20,10 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 👷 Check out what I'm currently working on
 
-- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (1 day ago)
-- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (6 days ago)
+- [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - Tantivy FFI bindings for full-text search in Inko. (2 days ago)
+- [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - A comprehensive email parsing library for Inko, implementing RFC 5322 (Internet Message Format) and RFC 2045 (MIME). (1 week ago)
 - [jhult/cap-releases](https://github.com/jhult/cap-releases) - Unofficial daily source builds of Capable Cap desktop &#43; CLI (1 week ago)
-- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (1 week ago)
+- [jhult/inko-syntax-guide](https://github.com/jhult/inko-syntax-guide) - A comprehensive guide to Inko 0.19.1 syntax and patterns, learned from building Inko projects. This guide focuses on commonly used patterns, gotchas, and best practices. (2 weeks ago)
 - [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) - Machine learning based email classification system using IMAP, XGBoost and Random Forest (1 month ago)
 - [jhult/recalldory](https://github.com/jhult/recalldory) - A learning memory system for AI coding assistants, written in Inko. (1 month ago)
 - [jhult/ladybird-builds](https://github.com/jhult/ladybird-builds) - Unofficial automated macOS arm64 builds of the Ladybird browser (AppKit GUI), packaged as DMG releases (2 months ago)
@@ -33,21 +33,21 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.594.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.594.0), today) - aqua&#39;s Standard Registry
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.61.1](https://github.com/aaif-goose/goose/releases/tag/v1.61.1), today) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) ([v0.14.5](https://github.com/gyscos/zstd-rs/releases/tag/v0.14.5), 2 days ago) - A rust binding for the zstd compression library.
-- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.14](https://github.com/jdx/mise/releases/tag/v2026.11.14), 2 days ago) - dev tools, env vars, task runner
-- [jdx/hk](https://github.com/jdx/hk) ([v2.14.0](https://github.com/jdx/hk/releases/tag/v2.14.0), 3 days ago) - git hooks and project lints
-- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.4.0-rc.4](https://github.com/gastownhall/beads/releases/tag/v1.4.0-rc.4), 6 days ago) - Beads - A memory upgrade for your coding agent
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.25.1](https://github.com/atuinsh/atuin/releases/tag/v18.25.1), 6 days ago) - ✨ Making your shell magical
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2.9](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2.9), 6 days ago) - Modern Android client for Hacker News
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) ([v4.6.0](https://github.com/objective-see/LuLu/releases/tag/v4.6.0), today) - LuLu is the free open-source macOS firewall
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) ([v4.594.0](https://github.com/aquaproj/aqua-registry/releases/tag/v4.594.0), 1 day ago) - aqua&#39;s Standard Registry
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) ([v1.61.1](https://github.com/aaif-goose/goose/releases/tag/v1.61.1), 1 day ago) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) ([v0.14.5](https://github.com/gyscos/zstd-rs/releases/tag/v0.14.5), 3 days ago) - A rust binding for the zstd compression library.
+- [jdx/mise](https://github.com/jdx/mise) ([v2026.11.14](https://github.com/jdx/mise/releases/tag/v2026.11.14), 3 days ago) - dev tools, env vars, task runner
+- [jdx/hk](https://github.com/jdx/hk) ([v2.14.0](https://github.com/jdx/hk/releases/tag/v2.14.0), 4 days ago) - git hooks and project lints
+- [gastownhall/beads](https://github.com/gastownhall/beads) ([v1.4.0-rc.4](https://github.com/gastownhall/beads/releases/tag/v1.4.0-rc.4), 1 week ago) - Beads - A memory upgrade for your coding agent
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) ([v18.25.1](https://github.com/atuinsh/atuin/releases/tag/v18.25.1), 1 week ago) - ✨ Making your shell magical
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) ([v3.2.9](https://github.com/SimonHalvdansson/Harmonic-HN/releases/tag/v3.2.9), 1 week ago) - Modern Android client for Hacker News
 - [tontinton/maki](https://github.com/tontinton/maki) ([v0.7.3](https://github.com/tontinton/maki/releases/tag/v0.7.3), 1 week ago) - An efficient AI coding agent extendable by neovim-like Lua plugins
-- [jhult/cap-releases](https://github.com/jhult/cap-releases) ([cap-v0.6.3](https://github.com/jhult/cap-releases/releases/tag/cap-v0.6.3), 1 week ago) - Unofficial daily source builds of Capable Cap desktop &#43; CLI
 
 #### 🔨 My recent Pull Requests
 
-- [Add MIT license](https://github.com/zipadoodlez/a_swaybar/pull/1) on [zipadoodlez/a_swaybar](https://github.com/zipadoodlez/a_swaybar) (2 weeks ago)
-- [Add MIT license](https://github.com/zipadoodlez/maki-session-status/pull/1) on [zipadoodlez/maki-session-status](https://github.com/zipadoodlez/maki-session-status) (2 weeks ago)
+- [Add MIT license](https://github.com/zipadoodlez/a_swaybar/pull/1) on [zipadoodlez/a_swaybar](https://github.com/zipadoodlez/a_swaybar) (3 weeks ago)
+- [Add MIT license](https://github.com/zipadoodlez/maki-session-status/pull/1) on [zipadoodlez/maki-session-status](https://github.com/zipadoodlez/maki-session-status) (3 weeks ago)
 - [Add MIT license](https://github.com/Srinivasa000/Smart-Email-Classifier-System/pull/1) on [Srinivasa000/Smart-Email-Classifier-System](https://github.com/Srinivasa000/Smart-Email-Classifier-System) (1 month ago)
 - [Add MIT license](https://github.com/akash-k-yadav/email-intelligence-system/pull/1) on [akash-k-yadav/email-intelligence-system](https://github.com/akash-k-yadav/email-intelligence-system) (1 month ago)
 - [Add MIT license](https://github.com/jjcm/makefaster/pull/17) on [jjcm/makefaster](https://github.com/jjcm/makefaster) (1 month ago)
@@ -59,13 +59,13 @@ Outside of work: disc golf, bowling, snow skiing, games, movies, rock concerts.
 
 #### ⭐ Recent Stars
 
-- [cuzzo/clear](https://github.com/cuzzo/clear) - A Memory Safe Language with a Declarative Concurrency Model (1 day ago)
-- [jdx/jouet](https://github.com/jdx/jouet) - [experimental] A toolkit CLI for coding agents. (6 days ago)
-- [jdx/mr-boxington](https://github.com/jdx/mr-boxington) -  (6 days ago)
-- [jdx/mr-boxington-action](https://github.com/jdx/mr-boxington-action) - Set up mr boxington with GitHub Actions cache or an mbx cache server (6 days ago)
-- [jdx/tak](https://github.com/jdx/tak) - Experimental: benchmark CLIs and track performance over time. Do not use. (6 days ago)
-- [jdx/jactionlint](https://github.com/jdx/jactionlint) - :octocat: Static checker for GitHub Actions workflow files (6 days ago)
-- [jdx/demand](https://github.com/jdx/demand) - prompt library for rust (6 days ago)
+- [cuzzo/clear](https://github.com/cuzzo/clear) - A Memory Safe Language with a Declarative Concurrency Model (2 days ago)
+- [jdx/jouet](https://github.com/jdx/jouet) - [experimental] A toolkit CLI for coding agents. (1 week ago)
+- [jdx/mr-boxington](https://github.com/jdx/mr-boxington) -  (1 week ago)
+- [jdx/mr-boxington-action](https://github.com/jdx/mr-boxington-action) - Set up mr boxington with GitHub Actions cache or an mbx cache server (1 week ago)
+- [jdx/tak](https://github.com/jdx/tak) - Experimental: benchmark CLIs and track performance over time. Do not use. (1 week ago)
+- [jdx/jactionlint](https://github.com/jdx/jactionlint) - :octocat: Static checker for GitHub Actions workflow files (1 week ago)
+- [jdx/demand](https://github.com/jdx/demand) - prompt library for rust (1 week ago)
 - [cyrusimap/cyrus-imapd](https://github.com/cyrusimap/cyrus-imapd) - Cyrus IMAP is an email, contacts and calendar server (1 week ago)
 - [cuza/Parley](https://github.com/cuza/Parley) - A native macOS client for Google Chat, built with SwiftUI and AppKit. Unofficial. (1 week ago)
 - [agentpatterns-ai/website](https://github.com/agentpatterns-ai/website) - Website content for agentpatterns.ai (1 week ago)
